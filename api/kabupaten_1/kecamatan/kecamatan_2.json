@@ -1,0 +1,49 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Aceh Barat Daya",
+	"scraped_at": "2023-01-20T04:18:40.705Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Aceh Barat Daya",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Lambang_Kabupaten_Aceh_Barat_Daya.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Babah Rot"
+			},
+			{
+				"id": 2,
+				"name": "Blangpidie"
+			},
+			{
+				"id": 3,
+				"name": "Jeumpa"
+			},
+			{
+				"id": 4,
+				"name": "Kuala Batee"
+			},
+			{
+				"id": 5,
+				"name": "Lembah Sabil"
+			},
+			{
+				"id": 6,
+				"name": "Manggeng"
+			},
+			{
+				"id": 7,
+				"name": "Setia"
+			},
+			{
+				"id": 8,
+				"name": "Susoh"
+			},
+			{
+				"id": 9,
+				"name": "Tangan-Tangan"
+			}
+		]
+	}
+}

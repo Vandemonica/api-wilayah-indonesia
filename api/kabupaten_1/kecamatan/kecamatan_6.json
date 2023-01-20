@@ -1,0 +1,57 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Aceh Singkil",
+	"scraped_at": "2023-01-20T04:18:50.056Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Aceh Singkil",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lambang_Kabupaten_Aceh_Singkil.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Danau Paris"
+			},
+			{
+				"id": 2,
+				"name": "Gunung Meriah"
+			},
+			{
+				"id": 3,
+				"name": "Kota Baharu"
+			},
+			{
+				"id": 4,
+				"name": "Kuala Baru"
+			},
+			{
+				"id": 5,
+				"name": "Pulau Banyak"
+			},
+			{
+				"id": 6,
+				"name": "Pulau Banyak Barat"
+			},
+			{
+				"id": 7,
+				"name": "Simpang Kanan"
+			},
+			{
+				"id": 8,
+				"name": "Singkil"
+			},
+			{
+				"id": 9,
+				"name": "Singkil Utara"
+			},
+			{
+				"id": 10,
+				"name": "Singkohor"
+			},
+			{
+				"id": 11,
+				"name": "Suro Makmur"
+			}
+		]
+	}
+}

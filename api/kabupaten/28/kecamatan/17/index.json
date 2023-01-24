@@ -1,53 +1,51 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Kendari",
-	"scraped_at": "2023-01-24T06:16:22.565Z",
+	"scraped_at": "2023-01-24T07:39:53.178Z",
 	"kabupaten": {
 		"id": 17,
 		"name": "Kota Kendari",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Lambang_Kota_Kendari.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Abeli"
-			},
-			{
-				"id": 2,
-				"name": "Baruga"
-			},
-			{
-				"id": 3,
-				"name": "Kadia"
-			},
-			{
-				"id": 4,
-				"name": "Kambu"
-			},
-			{
-				"id": 5,
-				"name": "Kendari Barat, Kendari‎ (11 H"
-			},
-			{
-				"id": 6,
-				"name": "Kendari"
-			},
-			{
-				"id": 7,
-				"name": "Mandonga"
-			},
-			{
-				"id": 8,
-				"name": "Poasia"
-			},
-			{
-				"id": 9,
-				"name": "Puuwatu"
-			},
-			{
-				"id": 10,
-				"name": "Wua-Wua"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Abeli"
+		},
+		{
+			"id": 2,
+			"name": "Baruga"
+		},
+		{
+			"id": 3,
+			"name": "Kadia"
+		},
+		{
+			"id": 4,
+			"name": "Kambu"
+		},
+		{
+			"id": 5,
+			"name": "Kendari Barat, Kendari‎ (11 H"
+		},
+		{
+			"id": 6,
+			"name": "Kendari"
+		},
+		{
+			"id": 7,
+			"name": "Mandonga"
+		},
+		{
+			"id": 8,
+			"name": "Poasia"
+		},
+		{
+			"id": 9,
+			"name": "Puuwatu"
+		},
+		{
+			"id": 10,
+			"name": "Wua-Wua"
+		}
+	]
 }

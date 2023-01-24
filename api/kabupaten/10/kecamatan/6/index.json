@@ -1,61 +1,59 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Batam",
-	"scraped_at": "2023-01-24T06:12:13.007Z",
+	"scraped_at": "2023-01-24T07:30:48.120Z",
 	"kabupaten": {
 		"id": 6,
 		"name": "Kota Batam",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lambang_Kota_Batam.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Batam Kota"
-			},
-			{
-				"id": 2,
-				"name": "Batu Aji"
-			},
-			{
-				"id": 3,
-				"name": "Batu Ampar"
-			},
-			{
-				"id": 4,
-				"name": "Belakang Padang"
-			},
-			{
-				"id": 5,
-				"name": "Bengkong"
-			},
-			{
-				"id": 6,
-				"name": "Bulang"
-			},
-			{
-				"id": 7,
-				"name": "Galang"
-			},
-			{
-				"id": 8,
-				"name": "Lubuk Baja"
-			},
-			{
-				"id": 9,
-				"name": "Nongsa, Batam‎ (8 H"
-			},
-			{
-				"id": 10,
-				"name": "Sagulung"
-			},
-			{
-				"id": 11,
-				"name": "Sei Beduk"
-			},
-			{
-				"id": 12,
-				"name": "Sekupang"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Batam Kota"
+		},
+		{
+			"id": 2,
+			"name": "Batu Aji"
+		},
+		{
+			"id": 3,
+			"name": "Batu Ampar"
+		},
+		{
+			"id": 4,
+			"name": "Belakang Padang"
+		},
+		{
+			"id": 5,
+			"name": "Bengkong"
+		},
+		{
+			"id": 6,
+			"name": "Bulang"
+		},
+		{
+			"id": 7,
+			"name": "Galang"
+		},
+		{
+			"id": 8,
+			"name": "Lubuk Baja"
+		},
+		{
+			"id": 9,
+			"name": "Nongsa, Batam‎ (8 H"
+		},
+		{
+			"id": 10,
+			"name": "Sagulung"
+		},
+		{
+			"id": 11,
+			"name": "Sei Beduk"
+		},
+		{
+			"id": 12,
+			"name": "Sekupang"
+		}
+	]
 }

@@ -1,73 +1,71 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sigi",
-	"scraped_at": "2023-01-24T06:15:45.576Z",
+	"scraped_at": "2023-01-24T07:38:52.155Z",
 	"kabupaten": {
 		"id": 10,
 		"name": "Kabupaten Sigi",
 		"emblem": "https://upload.wikimedia.org/wikipedia/id/5/58/Lambang_Kabupaten_Sigi.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Dolo Barat"
-			},
-			{
-				"id": 2,
-				"name": "Dolo Selatan"
-			},
-			{
-				"id": 3,
-				"name": "Dolo"
-			},
-			{
-				"id": 4,
-				"name": "Gumbasa"
-			},
-			{
-				"id": 5,
-				"name": "Kinovaro"
-			},
-			{
-				"id": 6,
-				"name": "Kulawi Selatan"
-			},
-			{
-				"id": 7,
-				"name": "Kulawi"
-			},
-			{
-				"id": 8,
-				"name": "Lindu"
-			},
-			{
-				"id": 9,
-				"name": "Marawola Barat"
-			},
-			{
-				"id": 10,
-				"name": "Marawola"
-			},
-			{
-				"id": 11,
-				"name": "Nokilalaki"
-			},
-			{
-				"id": 12,
-				"name": "Palolo"
-			},
-			{
-				"id": 13,
-				"name": "Pipikoro"
-			},
-			{
-				"id": 14,
-				"name": "Sigi Biromaru"
-			},
-			{
-				"id": 15,
-				"name": "Tanambulava"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Dolo Barat"
+		},
+		{
+			"id": 2,
+			"name": "Dolo Selatan"
+		},
+		{
+			"id": 3,
+			"name": "Dolo"
+		},
+		{
+			"id": 4,
+			"name": "Gumbasa"
+		},
+		{
+			"id": 5,
+			"name": "Kinovaro"
+		},
+		{
+			"id": 6,
+			"name": "Kulawi Selatan"
+		},
+		{
+			"id": 7,
+			"name": "Kulawi"
+		},
+		{
+			"id": 8,
+			"name": "Lindu"
+		},
+		{
+			"id": 9,
+			"name": "Marawola Barat"
+		},
+		{
+			"id": 10,
+			"name": "Marawola"
+		},
+		{
+			"id": 11,
+			"name": "Nokilalaki"
+		},
+		{
+			"id": 12,
+			"name": "Palolo"
+		},
+		{
+			"id": 13,
+			"name": "Pipikoro"
+		},
+		{
+			"id": 14,
+			"name": "Sigi Biromaru"
+		},
+		{
+			"id": 15,
+			"name": "Tanambulava"
+		}
+	]
 }

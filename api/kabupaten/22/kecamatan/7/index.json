@@ -1,101 +1,99 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kotabaru",
-	"scraped_at": "2023-01-24T06:15:02.961Z",
+	"scraped_at": "2023-01-24T07:37:10.622Z",
 	"kabupaten": {
 		"id": 7,
 		"name": "Kabupaten Kotabaru",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lambang_Kabupaten_Kotabaru.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Hampang"
-			},
-			{
-				"id": 2,
-				"name": "Kelumpang Barat"
-			},
-			{
-				"id": 3,
-				"name": "Kelumpang Hilir"
-			},
-			{
-				"id": 4,
-				"name": "Kelumpang Hulu"
-			},
-			{
-				"id": 5,
-				"name": "Kelumpang Selatan"
-			},
-			{
-				"id": 6,
-				"name": "Kelumpang Tengah"
-			},
-			{
-				"id": 7,
-				"name": "Kelumpang Utara"
-			},
-			{
-				"id": 8,
-				"name": "Pamukan Barat"
-			},
-			{
-				"id": 9,
-				"name": "Pamukan Selatan"
-			},
-			{
-				"id": 10,
-				"name": "Pamukan Utara"
-			},
-			{
-				"id": 11,
-				"name": "Pulau Laut Barat"
-			},
-			{
-				"id": 12,
-				"name": "Pulau Laut Kepulauan"
-			},
-			{
-				"id": 13,
-				"name": "Pulau Laut Selatan"
-			},
-			{
-				"id": 14,
-				"name": "Pulau Laut Sigam"
-			},
-			{
-				"id": 15,
-				"name": "Pulau Laut Tanjung Selayar"
-			},
-			{
-				"id": 16,
-				"name": "Pulau Laut Tengah"
-			},
-			{
-				"id": 17,
-				"name": "Pulau Laut Timur"
-			},
-			{
-				"id": 18,
-				"name": "Pulau Laut Utara"
-			},
-			{
-				"id": 19,
-				"name": "Pulau Sebuku"
-			},
-			{
-				"id": 20,
-				"name": "Pulau Sembilan"
-			},
-			{
-				"id": 21,
-				"name": "Sampanahan"
-			},
-			{
-				"id": 22,
-				"name": "Sungai Durian"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Hampang"
+		},
+		{
+			"id": 2,
+			"name": "Kelumpang Barat"
+		},
+		{
+			"id": 3,
+			"name": "Kelumpang Hilir"
+		},
+		{
+			"id": 4,
+			"name": "Kelumpang Hulu"
+		},
+		{
+			"id": 5,
+			"name": "Kelumpang Selatan"
+		},
+		{
+			"id": 6,
+			"name": "Kelumpang Tengah"
+		},
+		{
+			"id": 7,
+			"name": "Kelumpang Utara"
+		},
+		{
+			"id": 8,
+			"name": "Pamukan Barat"
+		},
+		{
+			"id": 9,
+			"name": "Pamukan Selatan"
+		},
+		{
+			"id": 10,
+			"name": "Pamukan Utara"
+		},
+		{
+			"id": 11,
+			"name": "Pulau Laut Barat"
+		},
+		{
+			"id": 12,
+			"name": "Pulau Laut Kepulauan"
+		},
+		{
+			"id": 13,
+			"name": "Pulau Laut Selatan"
+		},
+		{
+			"id": 14,
+			"name": "Pulau Laut Sigam"
+		},
+		{
+			"id": 15,
+			"name": "Pulau Laut Tanjung Selayar"
+		},
+		{
+			"id": 16,
+			"name": "Pulau Laut Tengah"
+		},
+		{
+			"id": 17,
+			"name": "Pulau Laut Timur"
+		},
+		{
+			"id": 18,
+			"name": "Pulau Laut Utara"
+		},
+		{
+			"id": 19,
+			"name": "Pulau Sebuku"
+		},
+		{
+			"id": 20,
+			"name": "Pulau Sembilan"
+		},
+		{
+			"id": 21,
+			"name": "Sampanahan"
+		},
+		{
+			"id": 22,
+			"name": "Sungai Durian"
+		}
+	]
 }

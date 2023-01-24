@@ -1,45 +1,43 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Soppeng",
-	"scraped_at": "2023-01-24T06:16:01.317Z",
+	"scraped_at": "2023-01-24T07:39:22.401Z",
 	"kabupaten": {
 		"id": 17,
 		"name": "Kabupaten Soppeng",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Official_Logo_of_Soppeng_Regency.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Citta"
-			},
-			{
-				"id": 2,
-				"name": "Donri Donri"
-			},
-			{
-				"id": 3,
-				"name": "Ganra"
-			},
-			{
-				"id": 4,
-				"name": "Lalabata"
-			},
-			{
-				"id": 5,
-				"name": "Liliriaja"
-			},
-			{
-				"id": 6,
-				"name": "Lilirilau, Soppeng‎ (14 H"
-			},
-			{
-				"id": 7,
-				"name": "Marioriawa"
-			},
-			{
-				"id": 8,
-				"name": "Marioriwawo"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Citta"
+		},
+		{
+			"id": 2,
+			"name": "Donri Donri"
+		},
+		{
+			"id": 3,
+			"name": "Ganra"
+		},
+		{
+			"id": 4,
+			"name": "Lalabata"
+		},
+		{
+			"id": 5,
+			"name": "Liliriaja"
+		},
+		{
+			"id": 6,
+			"name": "Lilirilau, Soppeng‎ (14 H"
+		},
+		{
+			"id": 7,
+			"name": "Marioriawa"
+		},
+		{
+			"id": 8,
+			"name": "Marioriwawo"
+		}
+	]
 }

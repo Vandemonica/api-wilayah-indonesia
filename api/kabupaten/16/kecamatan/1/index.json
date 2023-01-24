@@ -1,125 +1,123 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lebak",
-	"scraped_at": "2023-01-24T06:13:42.416Z",
+	"scraped_at": "2023-01-24T07:33:15.388Z",
 	"kabupaten": {
 		"id": 1,
 		"name": "Kabupaten Lebak",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Coat_of_arms_of_Lebak.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Banjarsari"
-			},
-			{
-				"id": 2,
-				"name": "Bayah"
-			},
-			{
-				"id": 3,
-				"name": "Bojongmanik"
-			},
-			{
-				"id": 4,
-				"name": "Cibadak"
-			},
-			{
-				"id": 5,
-				"name": "Cibeber"
-			},
-			{
-				"id": 6,
-				"name": "Cigemblong"
-			},
-			{
-				"id": 7,
-				"name": "Cihara"
-			},
-			{
-				"id": 8,
-				"name": "Cijaku"
-			},
-			{
-				"id": 9,
-				"name": "Cikulur"
-			},
-			{
-				"id": 10,
-				"name": "Cileles"
-			},
-			{
-				"id": 11,
-				"name": "Cilograng"
-			},
-			{
-				"id": 12,
-				"name": "Cimarga"
-			},
-			{
-				"id": 13,
-				"name": "Cipanas"
-			},
-			{
-				"id": 14,
-				"name": "Cirinten"
-			},
-			{
-				"id": 15,
-				"name": "Curugbitung"
-			},
-			{
-				"id": 16,
-				"name": "Gunungkencana"
-			},
-			{
-				"id": 17,
-				"name": "Kalanganyar"
-			},
-			{
-				"id": 18,
-				"name": "Lebak Gedong"
-			},
-			{
-				"id": 19,
-				"name": "Leuwidamar"
-			},
-			{
-				"id": 20,
-				"name": "Maja"
-			},
-			{
-				"id": 21,
-				"name": "Malingping"
-			},
-			{
-				"id": 22,
-				"name": "Muncang"
-			},
-			{
-				"id": 23,
-				"name": "Panggarangan"
-			},
-			{
-				"id": 24,
-				"name": "Rangkasbitung"
-			},
-			{
-				"id": 25,
-				"name": "Sajira"
-			},
-			{
-				"id": 26,
-				"name": "Sobang"
-			},
-			{
-				"id": 27,
-				"name": "Wanasalam"
-			},
-			{
-				"id": 28,
-				"name": "Warunggunung"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Banjarsari"
+		},
+		{
+			"id": 2,
+			"name": "Bayah"
+		},
+		{
+			"id": 3,
+			"name": "Bojongmanik"
+		},
+		{
+			"id": 4,
+			"name": "Cibadak"
+		},
+		{
+			"id": 5,
+			"name": "Cibeber"
+		},
+		{
+			"id": 6,
+			"name": "Cigemblong"
+		},
+		{
+			"id": 7,
+			"name": "Cihara"
+		},
+		{
+			"id": 8,
+			"name": "Cijaku"
+		},
+		{
+			"id": 9,
+			"name": "Cikulur"
+		},
+		{
+			"id": 10,
+			"name": "Cileles"
+		},
+		{
+			"id": 11,
+			"name": "Cilograng"
+		},
+		{
+			"id": 12,
+			"name": "Cimarga"
+		},
+		{
+			"id": 13,
+			"name": "Cipanas"
+		},
+		{
+			"id": 14,
+			"name": "Cirinten"
+		},
+		{
+			"id": 15,
+			"name": "Curugbitung"
+		},
+		{
+			"id": 16,
+			"name": "Gunungkencana"
+		},
+		{
+			"id": 17,
+			"name": "Kalanganyar"
+		},
+		{
+			"id": 18,
+			"name": "Lebak Gedong"
+		},
+		{
+			"id": 19,
+			"name": "Leuwidamar"
+		},
+		{
+			"id": 20,
+			"name": "Maja"
+		},
+		{
+			"id": 21,
+			"name": "Malingping"
+		},
+		{
+			"id": 22,
+			"name": "Muncang"
+		},
+		{
+			"id": 23,
+			"name": "Panggarangan"
+		},
+		{
+			"id": 24,
+			"name": "Rangkasbitung"
+		},
+		{
+			"id": 25,
+			"name": "Sajira"
+		},
+		{
+			"id": 26,
+			"name": "Sobang"
+		},
+		{
+			"id": 27,
+			"name": "Wanasalam"
+		},
+		{
+			"id": 28,
+			"name": "Warunggunung"
+		}
+	]
 }

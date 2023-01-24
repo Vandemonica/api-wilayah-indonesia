@@ -1,73 +1,71 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Malinau",
-	"scraped_at": "2023-01-24T06:15:18.862Z",
+	"scraped_at": "2023-01-24T07:37:51.357Z",
 	"kabupaten": {
 		"id": 2,
 		"name": "Kabupaten Malinau",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lambang_Kabupaten_Malinau.jpeg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bahau Hulu"
-			},
-			{
-				"id": 2,
-				"name": "Kayan Hilir"
-			},
-			{
-				"id": 3,
-				"name": "Kayan Hulu"
-			},
-			{
-				"id": 4,
-				"name": "Kayan Selatan"
-			},
-			{
-				"id": 5,
-				"name": "Malinau Barat"
-			},
-			{
-				"id": 6,
-				"name": "Malinau Kota"
-			},
-			{
-				"id": 7,
-				"name": "Malinau Selatan Hilir"
-			},
-			{
-				"id": 8,
-				"name": "Malinau Selatan Hulu"
-			},
-			{
-				"id": 9,
-				"name": "Malinau Selatan"
-			},
-			{
-				"id": 10,
-				"name": "Malinau Utara"
-			},
-			{
-				"id": 11,
-				"name": "Mentarang Hulu"
-			},
-			{
-				"id": 12,
-				"name": "Mentarang"
-			},
-			{
-				"id": 13,
-				"name": "Pujungan"
-			},
-			{
-				"id": 14,
-				"name": "Sungai Boh"
-			},
-			{
-				"id": 15,
-				"name": "Sungai Tubu"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bahau Hulu"
+		},
+		{
+			"id": 2,
+			"name": "Kayan Hilir"
+		},
+		{
+			"id": 3,
+			"name": "Kayan Hulu"
+		},
+		{
+			"id": 4,
+			"name": "Kayan Selatan"
+		},
+		{
+			"id": 5,
+			"name": "Malinau Barat"
+		},
+		{
+			"id": 6,
+			"name": "Malinau Kota"
+		},
+		{
+			"id": 7,
+			"name": "Malinau Selatan Hilir"
+		},
+		{
+			"id": 8,
+			"name": "Malinau Selatan Hulu"
+		},
+		{
+			"id": 9,
+			"name": "Malinau Selatan"
+		},
+		{
+			"id": 10,
+			"name": "Malinau Utara"
+		},
+		{
+			"id": 11,
+			"name": "Mentarang Hulu"
+		},
+		{
+			"id": 12,
+			"name": "Mentarang"
+		},
+		{
+			"id": 13,
+			"name": "Pujungan"
+		},
+		{
+			"id": 14,
+			"name": "Sungai Boh"
+		},
+		{
+			"id": 15,
+			"name": "Sungai Tubu"
+		}
+	]
 }

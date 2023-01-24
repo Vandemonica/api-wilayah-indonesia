@@ -1,61 +1,59 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Batu Bara",
-	"scraped_at": "2023-01-24T06:09:39.587Z",
+	"scraped_at": "2023-01-24T07:27:52.428Z",
 	"kabupaten": {
 		"id": 2,
 		"name": "Kabupaten Batu Bara",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lambang_Kabupaten_Batubara.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Air Putih"
-			},
-			{
-				"id": 2,
-				"name": "Datuk Lima Puluh"
-			},
-			{
-				"id": 3,
-				"name": "Datuk Tanah Datar"
-			},
-			{
-				"id": 4,
-				"name": "Laut Tador"
-			},
-			{
-				"id": 5,
-				"name": "Lima Puluh Pesisir"
-			},
-			{
-				"id": 6,
-				"name": "Lima Puluh"
-			},
-			{
-				"id": 7,
-				"name": "Medang Deras"
-			},
-			{
-				"id": 8,
-				"name": "Nibung Hangus"
-			},
-			{
-				"id": 9,
-				"name": "Sei Balai"
-			},
-			{
-				"id": 10,
-				"name": "Sei Suka"
-			},
-			{
-				"id": 11,
-				"name": "Talawi"
-			},
-			{
-				"id": 12,
-				"name": "Tanjung Tiram"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Air Putih"
+		},
+		{
+			"id": 2,
+			"name": "Datuk Lima Puluh"
+		},
+		{
+			"id": 3,
+			"name": "Datuk Tanah Datar"
+		},
+		{
+			"id": 4,
+			"name": "Laut Tador"
+		},
+		{
+			"id": 5,
+			"name": "Lima Puluh Pesisir"
+		},
+		{
+			"id": 6,
+			"name": "Lima Puluh"
+		},
+		{
+			"id": 7,
+			"name": "Medang Deras"
+		},
+		{
+			"id": 8,
+			"name": "Nibung Hangus"
+		},
+		{
+			"id": 9,
+			"name": "Sei Balai"
+		},
+		{
+			"id": 10,
+			"name": "Sei Suka"
+		},
+		{
+			"id": 11,
+			"name": "Talawi"
+		},
+		{
+			"id": 12,
+			"name": "Tanjung Tiram"
+		}
+	]
 }

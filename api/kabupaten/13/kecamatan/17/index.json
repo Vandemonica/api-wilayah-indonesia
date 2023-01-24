@@ -1,97 +1,95 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pati",
-	"scraped_at": "2023-01-24T06:12:59.890Z",
+	"scraped_at": "2023-01-24T07:32:03.294Z",
 	"kabupaten": {
 		"id": 17,
 		"name": "Kabupaten Pati",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Seal_of_Pati_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Batangan"
-			},
-			{
-				"id": 2,
-				"name": "Cluwak"
-			},
-			{
-				"id": 3,
-				"name": "Dukuhseti"
-			},
-			{
-				"id": 4,
-				"name": "Gabus"
-			},
-			{
-				"id": 5,
-				"name": "Gembong"
-			},
-			{
-				"id": 6,
-				"name": "Gunungwungkal"
-			},
-			{
-				"id": 7,
-				"name": "Jaken"
-			},
-			{
-				"id": 8,
-				"name": "Jakenan"
-			},
-			{
-				"id": 9,
-				"name": "Juwana"
-			},
-			{
-				"id": 10,
-				"name": "Kayen"
-			},
-			{
-				"id": 11,
-				"name": "Margorejo"
-			},
-			{
-				"id": 12,
-				"name": "Margoyoso"
-			},
-			{
-				"id": 13,
-				"name": "Pati"
-			},
-			{
-				"id": 14,
-				"name": "Pucakwangi"
-			},
-			{
-				"id": 15,
-				"name": "Sukolilo"
-			},
-			{
-				"id": 16,
-				"name": "Tambakromo"
-			},
-			{
-				"id": 17,
-				"name": "Tayu"
-			},
-			{
-				"id": 18,
-				"name": "Tlogowungu"
-			},
-			{
-				"id": 19,
-				"name": "Trangkil"
-			},
-			{
-				"id": 20,
-				"name": "Wedarijaksa"
-			},
-			{
-				"id": 21,
-				"name": "Winong"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Batangan"
+		},
+		{
+			"id": 2,
+			"name": "Cluwak"
+		},
+		{
+			"id": 3,
+			"name": "Dukuhseti"
+		},
+		{
+			"id": 4,
+			"name": "Gabus"
+		},
+		{
+			"id": 5,
+			"name": "Gembong"
+		},
+		{
+			"id": 6,
+			"name": "Gunungwungkal"
+		},
+		{
+			"id": 7,
+			"name": "Jaken"
+		},
+		{
+			"id": 8,
+			"name": "Jakenan"
+		},
+		{
+			"id": 9,
+			"name": "Juwana"
+		},
+		{
+			"id": 10,
+			"name": "Kayen"
+		},
+		{
+			"id": 11,
+			"name": "Margorejo"
+		},
+		{
+			"id": 12,
+			"name": "Margoyoso"
+		},
+		{
+			"id": 13,
+			"name": "Pati"
+		},
+		{
+			"id": 14,
+			"name": "Pucakwangi"
+		},
+		{
+			"id": 15,
+			"name": "Sukolilo"
+		},
+		{
+			"id": 16,
+			"name": "Tambakromo"
+		},
+		{
+			"id": 17,
+			"name": "Tayu"
+		},
+		{
+			"id": 18,
+			"name": "Tlogowungu"
+		},
+		{
+			"id": 19,
+			"name": "Trangkil"
+		},
+		{
+			"id": 20,
+			"name": "Wedarijaksa"
+		},
+		{
+			"id": 21,
+			"name": "Winong"
+		}
+	]
 }

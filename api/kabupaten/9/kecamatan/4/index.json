@@ -1,37 +1,35 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bangka Tengah",
-	"scraped_at": "2023-01-24T06:12:05.108Z",
+	"scraped_at": "2023-01-24T07:30:31.527Z",
 	"kabupaten": {
 		"id": 4,
 		"name": "Kabupaten Bangka Tengah",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Lambang_Kabupaten_Bangka_Tengah.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Koba"
-			},
-			{
-				"id": 2,
-				"name": "Lubuk Besar"
-			},
-			{
-				"id": 3,
-				"name": "Namang"
-			},
-			{
-				"id": 4,
-				"name": "Pangkalan Baru"
-			},
-			{
-				"id": 5,
-				"name": "Simpang Katis"
-			},
-			{
-				"id": 6,
-				"name": "Sungai Selan"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Koba"
+		},
+		{
+			"id": 2,
+			"name": "Lubuk Besar"
+		},
+		{
+			"id": 3,
+			"name": "Namang"
+		},
+		{
+			"id": 4,
+			"name": "Pangkalan Baru"
+		},
+		{
+			"id": 5,
+			"name": "Simpang Katis"
+		},
+		{
+			"id": 6,
+			"name": "Sungai Selan"
+		}
+	]
 }

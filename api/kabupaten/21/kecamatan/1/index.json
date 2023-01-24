@@ -1,37 +1,35 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Barito Selatan",
-	"scraped_at": "2023-01-24T06:14:42.069Z",
+	"scraped_at": "2023-01-24T07:36:32.917Z",
 	"kabupaten": {
 		"id": 1,
 		"name": "Kabupaten Barito Selatan",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Lambang_Kabupaten_Barito_Selatan.webp"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Dusun Hilir"
-			},
-			{
-				"id": 2,
-				"name": "Dusun Selatan"
-			},
-			{
-				"id": 3,
-				"name": "Dusun Utara"
-			},
-			{
-				"id": 4,
-				"name": "Gunung Bintang Awai"
-			},
-			{
-				"id": 5,
-				"name": "Jenamas"
-			},
-			{
-				"id": 6,
-				"name": "Karau Kuala"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Dusun Hilir"
+		},
+		{
+			"id": 2,
+			"name": "Dusun Selatan"
+		},
+		{
+			"id": 3,
+			"name": "Dusun Utara"
+		},
+		{
+			"id": 4,
+			"name": "Gunung Bintang Awai"
+		},
+		{
+			"id": 5,
+			"name": "Jenamas"
+		},
+		{
+			"id": 6,
+			"name": "Karau Kuala"
+		}
+	]
 }

@@ -1,97 +1,95 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Ende",
-	"scraped_at": "2023-01-24T06:14:10.416Z",
+	"scraped_at": "2023-01-24T07:34:24.768Z",
 	"kabupaten": {
 		"id": 3,
 		"name": "Kabupaten Ende",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Lambang_Kabupaten_Ende.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Detukeli"
-			},
-			{
-				"id": 2,
-				"name": "Detusoko"
-			},
-			{
-				"id": 3,
-				"name": "Ende Selatan"
-			},
-			{
-				"id": 4,
-				"name": "Ende Tengah"
-			},
-			{
-				"id": 5,
-				"name": "Ende Timur"
-			},
-			{
-				"id": 6,
-				"name": "Ende Utara"
-			},
-			{
-				"id": 7,
-				"name": "Ende"
-			},
-			{
-				"id": 8,
-				"name": "Kelimutu"
-			},
-			{
-				"id": 9,
-				"name": "Kota Baru"
-			},
-			{
-				"id": 10,
-				"name": "Lepembusu Kelisoke"
-			},
-			{
-				"id": 11,
-				"name": "Lio Timur"
-			},
-			{
-				"id": 12,
-				"name": "Maukaro"
-			},
-			{
-				"id": 13,
-				"name": "Maurole"
-			},
-			{
-				"id": 14,
-				"name": "Nangapanda"
-			},
-			{
-				"id": 15,
-				"name": "Ndona Timur"
-			},
-			{
-				"id": 16,
-				"name": "Ndona"
-			},
-			{
-				"id": 17,
-				"name": "Ndori"
-			},
-			{
-				"id": 18,
-				"name": "Pulau Ende"
-			},
-			{
-				"id": 19,
-				"name": "Wewaria"
-			},
-			{
-				"id": 20,
-				"name": "Wolojita"
-			},
-			{
-				"id": 21,
-				"name": "Wolowaru"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Detukeli"
+		},
+		{
+			"id": 2,
+			"name": "Detusoko"
+		},
+		{
+			"id": 3,
+			"name": "Ende Selatan"
+		},
+		{
+			"id": 4,
+			"name": "Ende Tengah"
+		},
+		{
+			"id": 5,
+			"name": "Ende Timur"
+		},
+		{
+			"id": 6,
+			"name": "Ende Utara"
+		},
+		{
+			"id": 7,
+			"name": "Ende"
+		},
+		{
+			"id": 8,
+			"name": "Kelimutu"
+		},
+		{
+			"id": 9,
+			"name": "Kota Baru"
+		},
+		{
+			"id": 10,
+			"name": "Lepembusu Kelisoke"
+		},
+		{
+			"id": 11,
+			"name": "Lio Timur"
+		},
+		{
+			"id": 12,
+			"name": "Maukaro"
+		},
+		{
+			"id": 13,
+			"name": "Maurole"
+		},
+		{
+			"id": 14,
+			"name": "Nangapanda"
+		},
+		{
+			"id": 15,
+			"name": "Ndona Timur"
+		},
+		{
+			"id": 16,
+			"name": "Ndona"
+		},
+		{
+			"id": 17,
+			"name": "Ndori"
+		},
+		{
+			"id": 18,
+			"name": "Pulau Ende"
+		},
+		{
+			"id": 19,
+			"name": "Wewaria"
+		},
+		{
+			"id": 20,
+			"name": "Wolojita"
+		},
+		{
+			"id": 21,
+			"name": "Wolowaru"
+		}
+	]
 }

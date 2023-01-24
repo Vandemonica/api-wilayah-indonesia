@@ -1,50 +1,48 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Gorontalo",
-	"scraped_at": "2023-01-24T06:16:23.502Z",
+	"scraped_at": "2023-01-24T07:39:54.103Z",
 	"provinsi": {
 		"id": 29,
 		"code": "75",
 		"name": "Gorontalo",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Coat_of_arms_of_Gorontalo.svg"
 	},
-	"data": {
-		"kabupaten": [
-			{
-				"id": 1,
-				"name": "Kabupaten Boalemo",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lambang_Kabupaten_Boalemo.jpg",
-				"capital": "Tilamuta"
-			},
-			{
-				"id": 2,
-				"name": "Kabupaten Bone Bolango",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lambang_Kabupaten_Bone_Bolango.gif",
-				"capital": "Suwawa"
-			},
-			{
-				"id": 3,
-				"name": "Kabupaten Gorontalo",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/LogoKabupatenGorontalo.jpg",
-				"capital": "Limboto"
-			},
-			{
-				"id": 4,
-				"name": "Kabupaten Gorontalo Utara",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kabupaten_Gorontalo_Utara.jpg",
-				"capital": "Kwandang"
-			},
-			{
-				"id": 5,
-				"name": "Kabupaten Pohuwato",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Pohuwato.gif",
-				"capital": "Marisa"
-			},
-			{
-				"id": 6,
-				"name": "Kota Gorontalo",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/LOGO_KOTA_GORONTALO.png",
-				"capital": "-"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Kabupaten Boalemo",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lambang_Kabupaten_Boalemo.jpg",
+			"capital": "Tilamuta"
+		},
+		{
+			"id": 2,
+			"name": "Kabupaten Bone Bolango",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lambang_Kabupaten_Bone_Bolango.gif",
+			"capital": "Suwawa"
+		},
+		{
+			"id": 3,
+			"name": "Kabupaten Gorontalo",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/LogoKabupatenGorontalo.jpg",
+			"capital": "Limboto"
+		},
+		{
+			"id": 4,
+			"name": "Kabupaten Gorontalo Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kabupaten_Gorontalo_Utara.jpg",
+			"capital": "Kwandang"
+		},
+		{
+			"id": 5,
+			"name": "Kabupaten Pohuwato",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Pohuwato.gif",
+			"capital": "Marisa"
+		},
+		{
+			"id": 6,
+			"name": "Kota Gorontalo",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/LOGO_KOTA_GORONTALO.png",
+			"capital": "-"
+		}
+	]
 }

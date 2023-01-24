@@ -1,77 +1,75 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Semarang",
-	"scraped_at": "2023-01-24T06:13:10.254Z",
+	"scraped_at": "2023-01-24T07:32:18.465Z",
 	"kabupaten": {
 		"id": 33,
 		"name": "Kota Semarang",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Seal_of_the_City_of_Semarang.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Banyumanik"
-			},
-			{
-				"id": 2,
-				"name": "Candisari"
-			},
-			{
-				"id": 3,
-				"name": "Gajahmungkur"
-			},
-			{
-				"id": 4,
-				"name": "Gayamsari"
-			},
-			{
-				"id": 5,
-				"name": "Genuk"
-			},
-			{
-				"id": 6,
-				"name": "Gunungpati"
-			},
-			{
-				"id": 7,
-				"name": "Mijen"
-			},
-			{
-				"id": 8,
-				"name": "Ngaliyan"
-			},
-			{
-				"id": 9,
-				"name": "Pedurungan"
-			},
-			{
-				"id": 10,
-				"name": "Semarang Barat"
-			},
-			{
-				"id": 11,
-				"name": "Semarang Selatan"
-			},
-			{
-				"id": 12,
-				"name": "Semarang Tengah"
-			},
-			{
-				"id": 13,
-				"name": "Semarang Timur"
-			},
-			{
-				"id": 14,
-				"name": "Semarang Utara"
-			},
-			{
-				"id": 15,
-				"name": "Tembalang"
-			},
-			{
-				"id": 16,
-				"name": "Tugu, Semarang‎ (11 H"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Banyumanik"
+		},
+		{
+			"id": 2,
+			"name": "Candisari"
+		},
+		{
+			"id": 3,
+			"name": "Gajahmungkur"
+		},
+		{
+			"id": 4,
+			"name": "Gayamsari"
+		},
+		{
+			"id": 5,
+			"name": "Genuk"
+		},
+		{
+			"id": 6,
+			"name": "Gunungpati"
+		},
+		{
+			"id": 7,
+			"name": "Mijen"
+		},
+		{
+			"id": 8,
+			"name": "Ngaliyan"
+		},
+		{
+			"id": 9,
+			"name": "Pedurungan"
+		},
+		{
+			"id": 10,
+			"name": "Semarang Barat"
+		},
+		{
+			"id": 11,
+			"name": "Semarang Selatan"
+		},
+		{
+			"id": 12,
+			"name": "Semarang Tengah"
+		},
+		{
+			"id": 13,
+			"name": "Semarang Timur"
+		},
+		{
+			"id": 14,
+			"name": "Semarang Utara"
+		},
+		{
+			"id": 15,
+			"name": "Tembalang"
+		},
+		{
+			"id": 16,
+			"name": "Tugu, Semarang‎ (11 H"
+		}
+	]
 }

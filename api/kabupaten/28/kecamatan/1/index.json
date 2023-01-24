@@ -1,101 +1,99 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bombana",
-	"scraped_at": "2023-01-24T06:16:08.720Z",
+	"scraped_at": "2023-01-24T07:39:31.047Z",
 	"kabupaten": {
 		"id": 1,
 		"name": "Kabupaten Bombana",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lambang_Kabupaten_Bombana.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Kabaena"
-			},
-			{
-				"id": 2,
-				"name": "Kabaena Barat"
-			},
-			{
-				"id": 3,
-				"name": "Kabaena Selatan"
-			},
-			{
-				"id": 4,
-				"name": "Kabaena Tengah"
-			},
-			{
-				"id": 5,
-				"name": "Kabaena Timur"
-			},
-			{
-				"id": 6,
-				"name": "Kabaena Utara"
-			},
-			{
-				"id": 7,
-				"name": "Kepulauan Masaloka Raya"
-			},
-			{
-				"id": 8,
-				"name": "Lantari Jaya"
-			},
-			{
-				"id": 9,
-				"name": "Mata Oleo"
-			},
-			{
-				"id": 10,
-				"name": "Mata Usu"
-			},
-			{
-				"id": 11,
-				"name": "Poleang Barat"
-			},
-			{
-				"id": 12,
-				"name": "Poleang Selatan"
-			},
-			{
-				"id": 13,
-				"name": "Poleang Tengah"
-			},
-			{
-				"id": 14,
-				"name": "Poleang Tenggara"
-			},
-			{
-				"id": 15,
-				"name": "Poleang Timur"
-			},
-			{
-				"id": 16,
-				"name": "Poleang Utara"
-			},
-			{
-				"id": 17,
-				"name": "Poleang"
-			},
-			{
-				"id": 18,
-				"name": "Rarowatu Utara"
-			},
-			{
-				"id": 19,
-				"name": "Rarowatu"
-			},
-			{
-				"id": 20,
-				"name": "Rumbia Tengah"
-			},
-			{
-				"id": 21,
-				"name": "Rumbia"
-			},
-			{
-				"id": 22,
-				"name": "Tontonunu"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Kabaena"
+		},
+		{
+			"id": 2,
+			"name": "Kabaena Barat"
+		},
+		{
+			"id": 3,
+			"name": "Kabaena Selatan"
+		},
+		{
+			"id": 4,
+			"name": "Kabaena Tengah"
+		},
+		{
+			"id": 5,
+			"name": "Kabaena Timur"
+		},
+		{
+			"id": 6,
+			"name": "Kabaena Utara"
+		},
+		{
+			"id": 7,
+			"name": "Kepulauan Masaloka Raya"
+		},
+		{
+			"id": 8,
+			"name": "Lantari Jaya"
+		},
+		{
+			"id": 9,
+			"name": "Mata Oleo"
+		},
+		{
+			"id": 10,
+			"name": "Mata Usu"
+		},
+		{
+			"id": 11,
+			"name": "Poleang Barat"
+		},
+		{
+			"id": 12,
+			"name": "Poleang Selatan"
+		},
+		{
+			"id": 13,
+			"name": "Poleang Tengah"
+		},
+		{
+			"id": 14,
+			"name": "Poleang Tenggara"
+		},
+		{
+			"id": 15,
+			"name": "Poleang Timur"
+		},
+		{
+			"id": 16,
+			"name": "Poleang Utara"
+		},
+		{
+			"id": 17,
+			"name": "Poleang"
+		},
+		{
+			"id": 18,
+			"name": "Rarowatu Utara"
+		},
+		{
+			"id": 19,
+			"name": "Rarowatu"
+		},
+		{
+			"id": 20,
+			"name": "Rumbia Tengah"
+		},
+		{
+			"id": 21,
+			"name": "Rumbia"
+		},
+		{
+			"id": 22,
+			"name": "Tontonunu"
+		}
+	]
 }

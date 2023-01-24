@@ -1,81 +1,79 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Karo",
-	"scraped_at": "2023-01-24T06:09:44.006Z",
+	"scraped_at": "2023-01-24T07:27:57.549Z",
 	"kabupaten": {
 		"id": 6,
 		"name": "Kabupaten Karo",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lambang_Kabupaten_Karo.gif"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Barusjahe"
-			},
-			{
-				"id": 2,
-				"name": "Berastagi"
-			},
-			{
-				"id": 3,
-				"name": "Dolat Rayat"
-			},
-			{
-				"id": 4,
-				"name": "Juhar"
-			},
-			{
-				"id": 5,
-				"name": "Kabanjahe"
-			},
-			{
-				"id": 6,
-				"name": "Kutabuluh"
-			},
-			{
-				"id": 7,
-				"name": "Laubaleng"
-			},
-			{
-				"id": 8,
-				"name": "Mardingding"
-			},
-			{
-				"id": 9,
-				"name": "Merdeka"
-			},
-			{
-				"id": 10,
-				"name": "Merek"
-			},
-			{
-				"id": 11,
-				"name": "Munte"
-			},
-			{
-				"id": 12,
-				"name": "Naman Teran"
-			},
-			{
-				"id": 13,
-				"name": "Payung"
-			},
-			{
-				"id": 14,
-				"name": "Simpang Empat"
-			},
-			{
-				"id": 15,
-				"name": "Tigabinanga"
-			},
-			{
-				"id": 16,
-				"name": "Tiganderket"
-			},
-			{
-				"id": 17,
-				"name": "Tigapanah"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Barusjahe"
+		},
+		{
+			"id": 2,
+			"name": "Berastagi"
+		},
+		{
+			"id": 3,
+			"name": "Dolat Rayat"
+		},
+		{
+			"id": 4,
+			"name": "Juhar"
+		},
+		{
+			"id": 5,
+			"name": "Kabanjahe"
+		},
+		{
+			"id": 6,
+			"name": "Kutabuluh"
+		},
+		{
+			"id": 7,
+			"name": "Laubaleng"
+		},
+		{
+			"id": 8,
+			"name": "Mardingding"
+		},
+		{
+			"id": 9,
+			"name": "Merdeka"
+		},
+		{
+			"id": 10,
+			"name": "Merek"
+		},
+		{
+			"id": 11,
+			"name": "Munte"
+		},
+		{
+			"id": 12,
+			"name": "Naman Teran"
+		},
+		{
+			"id": 13,
+			"name": "Payung"
+		},
+		{
+			"id": 14,
+			"name": "Simpang Empat"
+		},
+		{
+			"id": 15,
+			"name": "Tigabinanga"
+		},
+		{
+			"id": 16,
+			"name": "Tiganderket"
+		},
+		{
+			"id": 17,
+			"name": "Tigapanah"
+		}
+	]
 }

@@ -1,81 +1,79 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Padang Pariaman",
-	"scraped_at": "2023-01-24T06:10:17.989Z",
+	"scraped_at": "2023-01-24T07:28:32.617Z",
 	"kabupaten": {
 		"id": 5,
 		"name": "Kabupaten Padang Pariaman",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lambang_Kabupaten_Padang_Pariaman.gif"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "2x11 Enam Lingkung"
-			},
-			{
-				"id": 2,
-				"name": "2x11 Kayu Tanam"
-			},
-			{
-				"id": 3,
-				"name": "Batang Anai"
-			},
-			{
-				"id": 4,
-				"name": "Batang Gasan"
-			},
-			{
-				"id": 5,
-				"name": "Enam Lingkung"
-			},
-			{
-				"id": 6,
-				"name": "IV Koto Aur Malintang"
-			},
-			{
-				"id": 7,
-				"name": "Lubuk Alung"
-			},
-			{
-				"id": 8,
-				"name": "Nan Sabaris"
-			},
-			{
-				"id": 9,
-				"name": "Padang Sago"
-			},
-			{
-				"id": 10,
-				"name": "Patamuan"
-			},
-			{
-				"id": 11,
-				"name": "Sintuk Toboh Gadang"
-			},
-			{
-				"id": 12,
-				"name": "Sungai Geringging"
-			},
-			{
-				"id": 13,
-				"name": "Sungai Limau"
-			},
-			{
-				"id": 14,
-				"name": "Ulakan Tapakis"
-			},
-			{
-				"id": 15,
-				"name": "V Koto Kampung Dalam"
-			},
-			{
-				"id": 16,
-				"name": "V Koto Timur"
-			},
-			{
-				"id": 17,
-				"name": "VII Koto Sungai Sarik"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "2x11 Enam Lingkung"
+		},
+		{
+			"id": 2,
+			"name": "2x11 Kayu Tanam"
+		},
+		{
+			"id": 3,
+			"name": "Batang Anai"
+		},
+		{
+			"id": 4,
+			"name": "Batang Gasan"
+		},
+		{
+			"id": 5,
+			"name": "Enam Lingkung"
+		},
+		{
+			"id": 6,
+			"name": "IV Koto Aur Malintang"
+		},
+		{
+			"id": 7,
+			"name": "Lubuk Alung"
+		},
+		{
+			"id": 8,
+			"name": "Nan Sabaris"
+		},
+		{
+			"id": 9,
+			"name": "Padang Sago"
+		},
+		{
+			"id": 10,
+			"name": "Patamuan"
+		},
+		{
+			"id": 11,
+			"name": "Sintuk Toboh Gadang"
+		},
+		{
+			"id": 12,
+			"name": "Sungai Geringging"
+		},
+		{
+			"id": 13,
+			"name": "Sungai Limau"
+		},
+		{
+			"id": 14,
+			"name": "Ulakan Tapakis"
+		},
+		{
+			"id": 15,
+			"name": "V Koto Kampung Dalam"
+		},
+		{
+			"id": 16,
+			"name": "V Koto Timur"
+		},
+		{
+			"id": 17,
+			"name": "VII Koto Sungai Sarik"
+		}
+	]
 }

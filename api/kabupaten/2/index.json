@@ -1,212 +1,210 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sumatra_Utara",
-	"scraped_at": "2023-01-24T06:09:37.393Z",
+	"scraped_at": "2023-01-24T07:27:50.624Z",
 	"provinsi": {
 		"id": 2,
 		"code": "12",
 		"name": "Sumatra Utara",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Coat_of_arms_of_North_Sumatra.svg"
 	},
-	"data": {
-		"kabupaten": [
-			{
-				"id": 1,
-				"name": "Kabupaten Asahan",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Logo_kabupaten_asahan.gif",
-				"capital": "Kisaran"
-			},
-			{
-				"id": 2,
-				"name": "Kabupaten Batu Bara",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lambang_Kabupaten_Batubara.png",
-				"capital": "Limapuluh"
-			},
-			{
-				"id": 3,
-				"name": "Kabupaten Dairi",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Dairi_Regency_Emblem.png",
-				"capital": "Sidikalang"
-			},
-			{
-				"id": 4,
-				"name": "Kabupaten Deli Serdang",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lambang_Kabupaten_Deli_Serdang.jpg",
-				"capital": "Lubuk Pakam"
-			},
-			{
-				"id": 5,
-				"name": "Kabupaten Humbang Hasundutan",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lambang_Humbang_Hasundutan.png",
-				"capital": "Dolok Sanggul"
-			},
-			{
-				"id": 6,
-				"name": "Kabupaten Karo",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lambang_Kabupaten_Karo.gif",
-				"capital": "Kabanjahe"
-			},
-			{
-				"id": 7,
-				"name": "Kabupaten Labuhanbatu",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lambang_Kabupaten_Labuhanbatu.png",
-				"capital": "Rantau Prapat"
-			},
-			{
-				"id": 8,
-				"name": "Kabupaten Labuhanbatu Selatan",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lambang_Kabupaten_Labuhanbatu_Selatan.jpg",
-				"capital": "Kota Pinang"
-			},
-			{
-				"id": 9,
-				"name": "Kabupaten Labuhanbatu Utara",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Lambang_Labuhanbatu_Utara.jpg",
-				"capital": "Aek Kanopan"
-			},
-			{
-				"id": 10,
-				"name": "Kabupaten Langkat",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lambang_Kabupaten_Langkat.gif",
-				"capital": "Stabat"
-			},
-			{
-				"id": 11,
-				"name": "Kabupaten Mandailing Natal",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Mandailing-natal.jpg",
-				"capital": "Panyabungan"
-			},
-			{
-				"id": 12,
-				"name": "Kabupaten Nias",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_kabupaten_nias.png",
-				"capital": "Gido"
-			},
-			{
-				"id": 13,
-				"name": "Kabupaten Nias Barat",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Lambang_kabupaten_nias_barat.jpg",
-				"capital": "Lahomi"
-			},
-			{
-				"id": 14,
-				"name": "Kabupaten Nias Selatan",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Logo_Nias_Selatan.JPG",
-				"capital": "Teluk Dalam"
-			},
-			{
-				"id": 15,
-				"name": "Kabupaten Nias Utara",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Lambang_kabupaten_nias_utara.jpg",
-				"capital": "Lotu"
-			},
-			{
-				"id": 16,
-				"name": "Kabupaten Padang Lawas",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Padang-Lawas-logo.jpg",
-				"capital": "Sibuhuan"
-			},
-			{
-				"id": 17,
-				"name": "Kabupaten Padang Lawas Utara",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lambang_padang_lawas_utara.jpg",
-				"capital": "Gunung Tua"
-			},
-			{
-				"id": 18,
-				"name": "Kabupaten Pakpak Bharat",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lambang_Kabupaten_Pakpak_Bharat.jpg",
-				"capital": "Salak"
-			},
-			{
-				"id": 19,
-				"name": "Kabupaten Samosir",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lambang_Kabupaten_Samosir.jpg",
-				"capital": "Pangururan"
-			},
-			{
-				"id": 20,
-				"name": "Kabupaten Serdang Bedagai",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lambang_Kabupaten_Serdang_Bedagai.png",
-				"capital": "Sei Rampah"
-			},
-			{
-				"id": 21,
-				"name": "Kabupaten Simalungun",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lambang_Kabupaten_Simalungun.jpeg",
-				"capital": "Raya"
-			},
-			{
-				"id": 22,
-				"name": "Kabupaten Tapanuli Selatan",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lambang_Kabupaten_Tapanuli_Selatan.png",
-				"capital": "Sipirok"
-			},
-			{
-				"id": 23,
-				"name": "Kabupaten Tapanuli Tengah",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Lambang_Kabupaten_Tapanuli_Tengah.gif",
-				"capital": "Pandan"
-			},
-			{
-				"id": 24,
-				"name": "Kabupaten Tapanuli Utara",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_Pemkab_Tapanuli_Utara.png",
-				"capital": "Tarutung"
-			},
-			{
-				"id": 25,
-				"name": "Kabupaten Toba",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Seal_of_Toba_Regency_%282020%29.svg",
-				"capital": "Balige"
-			},
-			{
-				"id": 26,
-				"name": "Kota Binjai",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Logobinjai.jpg",
-				"capital": "-"
-			},
-			{
-				"id": 27,
-				"name": "Kota Gunungsitoli",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Gunungsitoli_Logo_Official.png",
-				"capital": "-"
-			},
-			{
-				"id": 28,
-				"name": "Kota Medan",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Logo_Kota_Medan_%28Seal_of_Medan%29.svg",
-				"capital": "-"
-			},
-			{
-				"id": 29,
-				"name": "Kota Padang Sidempuan",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lambang_Kota_Padang_Sidempuan.jpg",
-				"capital": "-"
-			},
-			{
-				"id": 30,
-				"name": "Kota Pematangsiantar",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_kota_pematangsiantar.png",
-				"capital": "-"
-			},
-			{
-				"id": 31,
-				"name": "Kota Sibolga",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Lambang_Kota_Sibolga.png",
-				"capital": "-"
-			},
-			{
-				"id": 32,
-				"name": "Kota Tanjungbalai",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Kota_Tanjungbalai.jpg",
-				"capital": "-"
-			},
-			{
-				"id": 33,
-				"name": "Kota Tebing Tinggi",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Tebing_Tinggi_armcoats.png",
-				"capital": "-"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Kabupaten Asahan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Logo_kabupaten_asahan.gif",
+			"capital": "Kisaran"
+		},
+		{
+			"id": 2,
+			"name": "Kabupaten Batu Bara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lambang_Kabupaten_Batubara.png",
+			"capital": "Limapuluh"
+		},
+		{
+			"id": 3,
+			"name": "Kabupaten Dairi",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Dairi_Regency_Emblem.png",
+			"capital": "Sidikalang"
+		},
+		{
+			"id": 4,
+			"name": "Kabupaten Deli Serdang",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lambang_Kabupaten_Deli_Serdang.jpg",
+			"capital": "Lubuk Pakam"
+		},
+		{
+			"id": 5,
+			"name": "Kabupaten Humbang Hasundutan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lambang_Humbang_Hasundutan.png",
+			"capital": "Dolok Sanggul"
+		},
+		{
+			"id": 6,
+			"name": "Kabupaten Karo",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lambang_Kabupaten_Karo.gif",
+			"capital": "Kabanjahe"
+		},
+		{
+			"id": 7,
+			"name": "Kabupaten Labuhanbatu",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lambang_Kabupaten_Labuhanbatu.png",
+			"capital": "Rantau Prapat"
+		},
+		{
+			"id": 8,
+			"name": "Kabupaten Labuhanbatu Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lambang_Kabupaten_Labuhanbatu_Selatan.jpg",
+			"capital": "Kota Pinang"
+		},
+		{
+			"id": 9,
+			"name": "Kabupaten Labuhanbatu Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Lambang_Labuhanbatu_Utara.jpg",
+			"capital": "Aek Kanopan"
+		},
+		{
+			"id": 10,
+			"name": "Kabupaten Langkat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lambang_Kabupaten_Langkat.gif",
+			"capital": "Stabat"
+		},
+		{
+			"id": 11,
+			"name": "Kabupaten Mandailing Natal",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Mandailing-natal.jpg",
+			"capital": "Panyabungan"
+		},
+		{
+			"id": 12,
+			"name": "Kabupaten Nias",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_kabupaten_nias.png",
+			"capital": "Gido"
+		},
+		{
+			"id": 13,
+			"name": "Kabupaten Nias Barat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Lambang_kabupaten_nias_barat.jpg",
+			"capital": "Lahomi"
+		},
+		{
+			"id": 14,
+			"name": "Kabupaten Nias Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Logo_Nias_Selatan.JPG",
+			"capital": "Teluk Dalam"
+		},
+		{
+			"id": 15,
+			"name": "Kabupaten Nias Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Lambang_kabupaten_nias_utara.jpg",
+			"capital": "Lotu"
+		},
+		{
+			"id": 16,
+			"name": "Kabupaten Padang Lawas",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Padang-Lawas-logo.jpg",
+			"capital": "Sibuhuan"
+		},
+		{
+			"id": 17,
+			"name": "Kabupaten Padang Lawas Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lambang_padang_lawas_utara.jpg",
+			"capital": "Gunung Tua"
+		},
+		{
+			"id": 18,
+			"name": "Kabupaten Pakpak Bharat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lambang_Kabupaten_Pakpak_Bharat.jpg",
+			"capital": "Salak"
+		},
+		{
+			"id": 19,
+			"name": "Kabupaten Samosir",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lambang_Kabupaten_Samosir.jpg",
+			"capital": "Pangururan"
+		},
+		{
+			"id": 20,
+			"name": "Kabupaten Serdang Bedagai",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lambang_Kabupaten_Serdang_Bedagai.png",
+			"capital": "Sei Rampah"
+		},
+		{
+			"id": 21,
+			"name": "Kabupaten Simalungun",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lambang_Kabupaten_Simalungun.jpeg",
+			"capital": "Raya"
+		},
+		{
+			"id": 22,
+			"name": "Kabupaten Tapanuli Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lambang_Kabupaten_Tapanuli_Selatan.png",
+			"capital": "Sipirok"
+		},
+		{
+			"id": 23,
+			"name": "Kabupaten Tapanuli Tengah",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Lambang_Kabupaten_Tapanuli_Tengah.gif",
+			"capital": "Pandan"
+		},
+		{
+			"id": 24,
+			"name": "Kabupaten Tapanuli Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_Pemkab_Tapanuli_Utara.png",
+			"capital": "Tarutung"
+		},
+		{
+			"id": 25,
+			"name": "Kabupaten Toba",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Seal_of_Toba_Regency_%282020%29.svg",
+			"capital": "Balige"
+		},
+		{
+			"id": 26,
+			"name": "Kota Binjai",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Logobinjai.jpg",
+			"capital": "-"
+		},
+		{
+			"id": 27,
+			"name": "Kota Gunungsitoli",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Gunungsitoli_Logo_Official.png",
+			"capital": "-"
+		},
+		{
+			"id": 28,
+			"name": "Kota Medan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Logo_Kota_Medan_%28Seal_of_Medan%29.svg",
+			"capital": "-"
+		},
+		{
+			"id": 29,
+			"name": "Kota Padang Sidempuan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lambang_Kota_Padang_Sidempuan.jpg",
+			"capital": "-"
+		},
+		{
+			"id": 30,
+			"name": "Kota Pematangsiantar",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_kota_pematangsiantar.png",
+			"capital": "-"
+		},
+		{
+			"id": 31,
+			"name": "Kota Sibolga",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Lambang_Kota_Sibolga.png",
+			"capital": "-"
+		},
+		{
+			"id": 32,
+			"name": "Kota Tanjungbalai",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Kota_Tanjungbalai.jpg",
+			"capital": "-"
+		},
+		{
+			"id": 33,
+			"name": "Kota Tebing Tinggi",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Tebing_Tinggi_armcoats.png",
+			"capital": "-"
+		}
+	]
 }

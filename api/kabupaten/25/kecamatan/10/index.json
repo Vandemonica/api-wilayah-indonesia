@@ -1,61 +1,59 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Minahasa Tenggara",
-	"scraped_at": "2023-01-24T06:15:33.685Z",
+	"scraped_at": "2023-01-24T07:38:12.040Z",
 	"kabupaten": {
 		"id": 10,
 		"name": "Kabupaten Minahasa Tenggara",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lambang_Kabupaten_Minahasa_Tenggara.jpg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Belang"
-			},
-			{
-				"id": 2,
-				"name": "Pasan"
-			},
-			{
-				"id": 3,
-				"name": "Pusomaen"
-			},
-			{
-				"id": 4,
-				"name": "Ratahan Timur"
-			},
-			{
-				"id": 5,
-				"name": "Ratahan"
-			},
-			{
-				"id": 6,
-				"name": "Ratatotok"
-			},
-			{
-				"id": 7,
-				"name": "Silian Raya"
-			},
-			{
-				"id": 8,
-				"name": "Tombatu"
-			},
-			{
-				"id": 9,
-				"name": "Tombatu Timur"
-			},
-			{
-				"id": 10,
-				"name": "Tombatu Utara"
-			},
-			{
-				"id": 11,
-				"name": "Touluaan Selatan"
-			},
-			{
-				"id": 12,
-				"name": "Touluaan"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Belang"
+		},
+		{
+			"id": 2,
+			"name": "Pasan"
+		},
+		{
+			"id": 3,
+			"name": "Pusomaen"
+		},
+		{
+			"id": 4,
+			"name": "Ratahan Timur"
+		},
+		{
+			"id": 5,
+			"name": "Ratahan"
+		},
+		{
+			"id": 6,
+			"name": "Ratatotok"
+		},
+		{
+			"id": 7,
+			"name": "Silian Raya"
+		},
+		{
+			"id": 8,
+			"name": "Tombatu"
+		},
+		{
+			"id": 9,
+			"name": "Tombatu Timur"
+		},
+		{
+			"id": 10,
+			"name": "Tombatu Utara"
+		},
+		{
+			"id": 11,
+			"name": "Touluaan Selatan"
+		},
+		{
+			"id": 12,
+			"name": "Touluaan"
+		}
+	]
 }

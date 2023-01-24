@@ -1,81 +1,79 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Brebes",
-	"scraped_at": "2023-01-24T06:12:51.541Z",
+	"scraped_at": "2023-01-24T07:31:55.036Z",
 	"kabupaten": {
 		"id": 6,
 		"name": "Kabupaten Brebes",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Seal_of_Brebes_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Banjarharjo"
-			},
-			{
-				"id": 2,
-				"name": "Bantarkawung"
-			},
-			{
-				"id": 3,
-				"name": "Brebes"
-			},
-			{
-				"id": 4,
-				"name": "Bulakamba"
-			},
-			{
-				"id": 5,
-				"name": "Bumiayu"
-			},
-			{
-				"id": 6,
-				"name": "Jatibarang"
-			},
-			{
-				"id": 7,
-				"name": "Kersana"
-			},
-			{
-				"id": 8,
-				"name": "Ketanggungan"
-			},
-			{
-				"id": 9,
-				"name": "Larangan"
-			},
-			{
-				"id": 10,
-				"name": "Losari"
-			},
-			{
-				"id": 11,
-				"name": "Paguyangan"
-			},
-			{
-				"id": 12,
-				"name": "Salem"
-			},
-			{
-				"id": 13,
-				"name": "Sirampog"
-			},
-			{
-				"id": 14,
-				"name": "Songgom"
-			},
-			{
-				"id": 15,
-				"name": "Tanjung"
-			},
-			{
-				"id": 16,
-				"name": "Tonjong"
-			},
-			{
-				"id": 17,
-				"name": "Wanasari"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Banjarharjo"
+		},
+		{
+			"id": 2,
+			"name": "Bantarkawung"
+		},
+		{
+			"id": 3,
+			"name": "Brebes"
+		},
+		{
+			"id": 4,
+			"name": "Bulakamba"
+		},
+		{
+			"id": 5,
+			"name": "Bumiayu"
+		},
+		{
+			"id": 6,
+			"name": "Jatibarang"
+		},
+		{
+			"id": 7,
+			"name": "Kersana"
+		},
+		{
+			"id": 8,
+			"name": "Ketanggungan"
+		},
+		{
+			"id": 9,
+			"name": "Larangan"
+		},
+		{
+			"id": 10,
+			"name": "Losari"
+		},
+		{
+			"id": 11,
+			"name": "Paguyangan"
+		},
+		{
+			"id": 12,
+			"name": "Salem"
+		},
+		{
+			"id": 13,
+			"name": "Sirampog"
+		},
+		{
+			"id": 14,
+			"name": "Songgom"
+		},
+		{
+			"id": 15,
+			"name": "Tanjung"
+		},
+		{
+			"id": 16,
+			"name": "Tonjong"
+		},
+		{
+			"id": 17,
+			"name": "Wanasari"
+		}
+	]
 }

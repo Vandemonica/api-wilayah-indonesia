@@ -1,81 +1,79 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bengkayang",
-	"scraped_at": "2023-01-24T06:14:29.912Z",
+	"scraped_at": "2023-01-24T07:35:52.721Z",
 	"kabupaten": {
 		"id": 1,
 		"name": "Kabupaten Bengkayang",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lambang_Kabupaten_Bengkayang.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bengkayang"
-			},
-			{
-				"id": 2,
-				"name": "Capkala"
-			},
-			{
-				"id": 3,
-				"name": "Jagoi Babang"
-			},
-			{
-				"id": 4,
-				"name": "Ledo"
-			},
-			{
-				"id": 5,
-				"name": "Lembah Bawang"
-			},
-			{
-				"id": 6,
-				"name": "Lumar"
-			},
-			{
-				"id": 7,
-				"name": "Monterado"
-			},
-			{
-				"id": 8,
-				"name": "Samalantan"
-			},
-			{
-				"id": 9,
-				"name": "Sanggau Ledo"
-			},
-			{
-				"id": 10,
-				"name": "Seluas"
-			},
-			{
-				"id": 11,
-				"name": "Siding"
-			},
-			{
-				"id": 12,
-				"name": "Sungai Betung"
-			},
-			{
-				"id": 13,
-				"name": "Sungai Raya Kepulauan"
-			},
-			{
-				"id": 14,
-				"name": "Sungai Raya"
-			},
-			{
-				"id": 15,
-				"name": "Suti Semarang"
-			},
-			{
-				"id": 16,
-				"name": "Teriak"
-			},
-			{
-				"id": 17,
-				"name": "Tujuh Belas"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bengkayang"
+		},
+		{
+			"id": 2,
+			"name": "Capkala"
+		},
+		{
+			"id": 3,
+			"name": "Jagoi Babang"
+		},
+		{
+			"id": 4,
+			"name": "Ledo"
+		},
+		{
+			"id": 5,
+			"name": "Lembah Bawang"
+		},
+		{
+			"id": 6,
+			"name": "Lumar"
+		},
+		{
+			"id": 7,
+			"name": "Monterado"
+		},
+		{
+			"id": 8,
+			"name": "Samalantan"
+		},
+		{
+			"id": 9,
+			"name": "Sanggau Ledo"
+		},
+		{
+			"id": 10,
+			"name": "Seluas"
+		},
+		{
+			"id": 11,
+			"name": "Siding"
+		},
+		{
+			"id": 12,
+			"name": "Sungai Betung"
+		},
+		{
+			"id": 13,
+			"name": "Sungai Raya Kepulauan"
+		},
+		{
+			"id": 14,
+			"name": "Sungai Raya"
+		},
+		{
+			"id": 15,
+			"name": "Suti Semarang"
+		},
+		{
+			"id": 16,
+			"name": "Teriak"
+		},
+		{
+			"id": 17,
+			"name": "Tujuh Belas"
+		}
+	]
 }

@@ -1,50 +1,48 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Daerah_Khusus Ibukota Jakarta",
-	"scraped_at": "2023-01-24T06:12:16.341Z",
+	"scraped_at": "2023-01-24T07:30:50.250Z",
 	"provinsi": {
 		"id": 11,
 		"code": "31",
 		"name": "Daerah Khusus Ibukota Jakarta",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Coat_of_arms_of_Jakarta.svg"
 	},
-	"data": {
-		"kabupaten": [
-			{
-				"id": 1,
-				"name": "Kabupaten Administrasi Kepulauan Seribu",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Lambang_Kabupaten_Administrasi_Kepulauan_Seribu.png",
-				"capital": "Pulau Pramuka"
-			},
-			{
-				"id": 2,
-				"name": "Kota Administrasi Jakarta Barat",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Seal_of_West_Jakarta.jpg",
-				"capital": "Kembangan"
-			},
-			{
-				"id": 3,
-				"name": "Kota Administrasi Jakarta Pusat",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lambang_Daerah_Jakarta_Pusat.png",
-				"capital": "Menteng"
-			},
-			{
-				"id": 4,
-				"name": "Kota Administrasi Jakarta Selatan",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Seal_of_South_Jakarta.png",
-				"capital": "Kebayoran Baru"
-			},
-			{
-				"id": 5,
-				"name": "Kota Administrasi Jakarta Timur",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lambang_Kota_Jakarta_Timur.png",
-				"capital": "Cakung"
-			},
-			{
-				"id": 6,
-				"name": "Kota Administrasi Jakarta Utara",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lambang_Kota_Administrasi_Jakarta_Utara.png",
-				"capital": "Koja"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Kabupaten Administrasi Kepulauan Seribu",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Lambang_Kabupaten_Administrasi_Kepulauan_Seribu.png",
+			"capital": "Pulau Pramuka"
+		},
+		{
+			"id": 2,
+			"name": "Kota Administrasi Jakarta Barat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Seal_of_West_Jakarta.jpg",
+			"capital": "Kembangan"
+		},
+		{
+			"id": 3,
+			"name": "Kota Administrasi Jakarta Pusat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lambang_Daerah_Jakarta_Pusat.png",
+			"capital": "Menteng"
+		},
+		{
+			"id": 4,
+			"name": "Kota Administrasi Jakarta Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Seal_of_South_Jakarta.png",
+			"capital": "Kebayoran Baru"
+		},
+		{
+			"id": 5,
+			"name": "Kota Administrasi Jakarta Timur",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lambang_Kota_Jakarta_Timur.png",
+			"capital": "Cakung"
+		},
+		{
+			"id": 6,
+			"name": "Kota Administrasi Jakarta Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lambang_Kota_Administrasi_Jakarta_Utara.png",
+			"capital": "Koja"
+		}
+	]
 }

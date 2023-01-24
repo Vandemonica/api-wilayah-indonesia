@@ -1,21 +1,19 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Solok",
-	"scraped_at": "2023-01-24T06:10:31.121Z",
+	"scraped_at": "2023-01-24T07:28:46.162Z",
 	"kabupaten": {
 		"id": 19,
 		"name": "Kota Solok",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Kotasolok.gif"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Lubuk Sikarah"
-			},
-			{
-				"id": 2,
-				"name": "Tanjung Harapan"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Lubuk Sikarah"
+		},
+		{
+			"id": 2,
+			"name": "Tanjung Harapan"
+		}
+	]
 }

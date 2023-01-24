@@ -1,89 +1,87 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tulungagung",
-	"scraped_at": "2023-01-24T06:13:34.501Z",
+	"scraped_at": "2023-01-24T07:33:00.887Z",
 	"kabupaten": {
 		"id": 29,
 		"name": "Kabupaten Tulungagung",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Seal_of_Tulungagung_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bandung"
-			},
-			{
-				"id": 2,
-				"name": "Besuki"
-			},
-			{
-				"id": 3,
-				"name": "Boyolangu"
-			},
-			{
-				"id": 4,
-				"name": "Campurdarat"
-			},
-			{
-				"id": 5,
-				"name": "Gondang"
-			},
-			{
-				"id": 6,
-				"name": "Kalidawir"
-			},
-			{
-				"id": 7,
-				"name": "Karangrejo"
-			},
-			{
-				"id": 8,
-				"name": "Kauman"
-			},
-			{
-				"id": 9,
-				"name": "Kedungwaru"
-			},
-			{
-				"id": 10,
-				"name": "Ngantru"
-			},
-			{
-				"id": 11,
-				"name": "Ngunut"
-			},
-			{
-				"id": 12,
-				"name": "Pagerwojo"
-			},
-			{
-				"id": 13,
-				"name": "Pakel"
-			},
-			{
-				"id": 14,
-				"name": "Pucanglaban"
-			},
-			{
-				"id": 15,
-				"name": "Rejotangan"
-			},
-			{
-				"id": 16,
-				"name": "Sendang"
-			},
-			{
-				"id": 17,
-				"name": "Sumbergempol"
-			},
-			{
-				"id": 18,
-				"name": "Tanggunggunung"
-			},
-			{
-				"id": 19,
-				"name": "Tulungagung"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bandung"
+		},
+		{
+			"id": 2,
+			"name": "Besuki"
+		},
+		{
+			"id": 3,
+			"name": "Boyolangu"
+		},
+		{
+			"id": 4,
+			"name": "Campurdarat"
+		},
+		{
+			"id": 5,
+			"name": "Gondang"
+		},
+		{
+			"id": 6,
+			"name": "Kalidawir"
+		},
+		{
+			"id": 7,
+			"name": "Karangrejo"
+		},
+		{
+			"id": 8,
+			"name": "Kauman"
+		},
+		{
+			"id": 9,
+			"name": "Kedungwaru"
+		},
+		{
+			"id": 10,
+			"name": "Ngantru"
+		},
+		{
+			"id": 11,
+			"name": "Ngunut"
+		},
+		{
+			"id": 12,
+			"name": "Pagerwojo"
+		},
+		{
+			"id": 13,
+			"name": "Pakel"
+		},
+		{
+			"id": 14,
+			"name": "Pucanglaban"
+		},
+		{
+			"id": 15,
+			"name": "Rejotangan"
+		},
+		{
+			"id": 16,
+			"name": "Sendang"
+		},
+		{
+			"id": 17,
+			"name": "Sumbergempol"
+		},
+		{
+			"id": 18,
+			"name": "Tanggunggunung"
+		},
+		{
+			"id": 19,
+			"name": "Tulungagung"
+		}
+	]
 }

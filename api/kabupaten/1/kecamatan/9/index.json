@@ -1,77 +1,75 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Aceh Tenggara",
-	"scraped_at": "2023-01-24T06:09:21.417Z",
+	"scraped_at": "2023-01-24T07:27:33.871Z",
 	"kabupaten": {
 		"id": 9,
 		"name": "Kabupaten Aceh Tenggara",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lambang_Kabupaten_Aceh_Tenggara.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Babul Makmur"
-			},
-			{
-				"id": 2,
-				"name": "Babul Rahmah"
-			},
-			{
-				"id": 3,
-				"name": "Babussalam"
-			},
-			{
-				"id": 4,
-				"name": "Badar"
-			},
-			{
-				"id": 5,
-				"name": "Bambel"
-			},
-			{
-				"id": 6,
-				"name": "Bukit Tusam"
-			},
-			{
-				"id": 7,
-				"name": "Darul Hasanah"
-			},
-			{
-				"id": 8,
-				"name": "Deleng Pokhkisen"
-			},
-			{
-				"id": 9,
-				"name": "Ketambe"
-			},
-			{
-				"id": 10,
-				"name": "Lawe Alas"
-			},
-			{
-				"id": 11,
-				"name": "Lawe Bulan"
-			},
-			{
-				"id": 12,
-				"name": "Lawe Sigala-Gala"
-			},
-			{
-				"id": 13,
-				"name": "Lawe Sumur"
-			},
-			{
-				"id": 14,
-				"name": "Leuser"
-			},
-			{
-				"id": 15,
-				"name": "Semadam"
-			},
-			{
-				"id": 16,
-				"name": "Tanoh Alas"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Babul Makmur"
+		},
+		{
+			"id": 2,
+			"name": "Babul Rahmah"
+		},
+		{
+			"id": 3,
+			"name": "Babussalam"
+		},
+		{
+			"id": 4,
+			"name": "Badar"
+		},
+		{
+			"id": 5,
+			"name": "Bambel"
+		},
+		{
+			"id": 6,
+			"name": "Bukit Tusam"
+		},
+		{
+			"id": 7,
+			"name": "Darul Hasanah"
+		},
+		{
+			"id": 8,
+			"name": "Deleng Pokhkisen"
+		},
+		{
+			"id": 9,
+			"name": "Ketambe"
+		},
+		{
+			"id": 10,
+			"name": "Lawe Alas"
+		},
+		{
+			"id": 11,
+			"name": "Lawe Bulan"
+		},
+		{
+			"id": 12,
+			"name": "Lawe Sigala-Gala"
+		},
+		{
+			"id": 13,
+			"name": "Lawe Sumur"
+		},
+		{
+			"id": 14,
+			"name": "Leuser"
+		},
+		{
+			"id": 15,
+			"name": "Semadam"
+		},
+		{
+			"id": 16,
+			"name": "Tanoh Alas"
+		}
+	]
 }

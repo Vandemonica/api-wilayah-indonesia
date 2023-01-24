@@ -1,45 +1,43 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pulau Taliabu",
-	"scraped_at": "2023-01-24T06:16:56.647Z",
+	"scraped_at": "2023-01-24T07:40:54.538Z",
 	"kabupaten": {
 		"id": 8,
 		"name": "Kabupaten Pulau Taliabu",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/69/LOGO_KABUPATEN_PULAU_TALIABU.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Lede"
-			},
-			{
-				"id": 2,
-				"name": "Tabona"
-			},
-			{
-				"id": 3,
-				"name": "Taliabu Barat Laut"
-			},
-			{
-				"id": 4,
-				"name": "Taliabu Barat"
-			},
-			{
-				"id": 5,
-				"name": "Taliabu Selatan"
-			},
-			{
-				"id": 6,
-				"name": "Taliabu Timur Selatan"
-			},
-			{
-				"id": 7,
-				"name": "Taliabu Timur"
-			},
-			{
-				"id": 8,
-				"name": "Taliabu Utara"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Lede"
+		},
+		{
+			"id": 2,
+			"name": "Tabona"
+		},
+		{
+			"id": 3,
+			"name": "Taliabu Barat Laut"
+		},
+		{
+			"id": 4,
+			"name": "Taliabu Barat"
+		},
+		{
+			"id": 5,
+			"name": "Taliabu Selatan"
+		},
+		{
+			"id": 6,
+			"name": "Taliabu Timur Selatan"
+		},
+		{
+			"id": 7,
+			"name": "Taliabu Timur"
+		},
+		{
+			"id": 8,
+			"name": "Taliabu Utara"
+		}
+	]
 }

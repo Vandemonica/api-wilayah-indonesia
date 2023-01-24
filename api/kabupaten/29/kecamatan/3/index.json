@@ -1,89 +1,87 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Gorontalo",
-	"scraped_at": "2023-01-24T06:16:26.236Z",
+	"scraped_at": "2023-01-24T07:39:56.977Z",
 	"kabupaten": {
 		"id": 3,
 		"name": "Kabupaten Gorontalo",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/LogoKabupatenGorontalo.jpg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Asparaga"
-			},
-			{
-				"id": 2,
-				"name": "Batudaa Pantai"
-			},
-			{
-				"id": 3,
-				"name": "Batudaa"
-			},
-			{
-				"id": 4,
-				"name": "Bilato"
-			},
-			{
-				"id": 5,
-				"name": "Biluhu"
-			},
-			{
-				"id": 6,
-				"name": "Boliyohuto"
-			},
-			{
-				"id": 7,
-				"name": "Bongomeme"
-			},
-			{
-				"id": 8,
-				"name": "Dungaliyo"
-			},
-			{
-				"id": 9,
-				"name": "Limboto Barat"
-			},
-			{
-				"id": 10,
-				"name": "Limboto"
-			},
-			{
-				"id": 11,
-				"name": "Mootilango"
-			},
-			{
-				"id": 12,
-				"name": "Pulubala"
-			},
-			{
-				"id": 13,
-				"name": "Tabongo"
-			},
-			{
-				"id": 14,
-				"name": "Talaga Jaya"
-			},
-			{
-				"id": 15,
-				"name": "Telaga Biru"
-			},
-			{
-				"id": 16,
-				"name": "Telaga"
-			},
-			{
-				"id": 17,
-				"name": "Tibawa"
-			},
-			{
-				"id": 18,
-				"name": "Tilango"
-			},
-			{
-				"id": 19,
-				"name": "Tolangohula"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Asparaga"
+		},
+		{
+			"id": 2,
+			"name": "Batudaa Pantai"
+		},
+		{
+			"id": 3,
+			"name": "Batudaa"
+		},
+		{
+			"id": 4,
+			"name": "Bilato"
+		},
+		{
+			"id": 5,
+			"name": "Biluhu"
+		},
+		{
+			"id": 6,
+			"name": "Boliyohuto"
+		},
+		{
+			"id": 7,
+			"name": "Bongomeme"
+		},
+		{
+			"id": 8,
+			"name": "Dungaliyo"
+		},
+		{
+			"id": 9,
+			"name": "Limboto Barat"
+		},
+		{
+			"id": 10,
+			"name": "Limboto"
+		},
+		{
+			"id": 11,
+			"name": "Mootilango"
+		},
+		{
+			"id": 12,
+			"name": "Pulubala"
+		},
+		{
+			"id": 13,
+			"name": "Tabongo"
+		},
+		{
+			"id": 14,
+			"name": "Talaga Jaya"
+		},
+		{
+			"id": 15,
+			"name": "Telaga Biru"
+		},
+		{
+			"id": 16,
+			"name": "Telaga"
+		},
+		{
+			"id": 17,
+			"name": "Tibawa"
+		},
+		{
+			"id": 18,
+			"name": "Tilango"
+		},
+		{
+			"id": 19,
+			"name": "Tolangohula"
+		}
+	]
 }

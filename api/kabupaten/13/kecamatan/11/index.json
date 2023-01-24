@@ -1,81 +1,79 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Karanganyar",
-	"scraped_at": "2023-01-24T06:12:55.330Z",
+	"scraped_at": "2023-01-24T07:31:58.640Z",
 	"kabupaten": {
 		"id": 11,
 		"name": "Kabupaten Karanganyar",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Seal_of_Karanganyar_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Colomadu"
-			},
-			{
-				"id": 2,
-				"name": "Gondangrejo"
-			},
-			{
-				"id": 3,
-				"name": "Jaten"
-			},
-			{
-				"id": 4,
-				"name": "Jatipuro"
-			},
-			{
-				"id": 5,
-				"name": "Jatiyoso"
-			},
-			{
-				"id": 6,
-				"name": "Jenawi"
-			},
-			{
-				"id": 7,
-				"name": "Jumantono"
-			},
-			{
-				"id": 8,
-				"name": "Jumapolo"
-			},
-			{
-				"id": 9,
-				"name": "Karanganyar"
-			},
-			{
-				"id": 10,
-				"name": "Karangpandan"
-			},
-			{
-				"id": 11,
-				"name": "Kebakkramat"
-			},
-			{
-				"id": 12,
-				"name": "Kerjo"
-			},
-			{
-				"id": 13,
-				"name": "Matesih"
-			},
-			{
-				"id": 14,
-				"name": "Mojogedang"
-			},
-			{
-				"id": 15,
-				"name": "Ngargoyoso"
-			},
-			{
-				"id": 16,
-				"name": "Tasikmadu"
-			},
-			{
-				"id": 17,
-				"name": "Tawangmangu"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Colomadu"
+		},
+		{
+			"id": 2,
+			"name": "Gondangrejo"
+		},
+		{
+			"id": 3,
+			"name": "Jaten"
+		},
+		{
+			"id": 4,
+			"name": "Jatipuro"
+		},
+		{
+			"id": 5,
+			"name": "Jatiyoso"
+		},
+		{
+			"id": 6,
+			"name": "Jenawi"
+		},
+		{
+			"id": 7,
+			"name": "Jumantono"
+		},
+		{
+			"id": 8,
+			"name": "Jumapolo"
+		},
+		{
+			"id": 9,
+			"name": "Karanganyar"
+		},
+		{
+			"id": 10,
+			"name": "Karangpandan"
+		},
+		{
+			"id": 11,
+			"name": "Kebakkramat"
+		},
+		{
+			"id": 12,
+			"name": "Kerjo"
+		},
+		{
+			"id": 13,
+			"name": "Matesih"
+		},
+		{
+			"id": 14,
+			"name": "Mojogedang"
+		},
+		{
+			"id": 15,
+			"name": "Ngargoyoso"
+		},
+		{
+			"id": 16,
+			"name": "Tasikmadu"
+		},
+		{
+			"id": 17,
+			"name": "Tawangmangu"
+		}
+	]
 }

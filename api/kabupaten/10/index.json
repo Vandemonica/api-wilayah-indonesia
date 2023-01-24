@@ -1,56 +1,54 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kepulauan_Riau",
-	"scraped_at": "2023-01-24T06:12:08.117Z",
+	"scraped_at": "2023-01-24T07:30:41.754Z",
 	"provinsi": {
 		"id": 10,
 		"code": "21",
 		"name": "Kepulauan Riau",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Coat_of_arms_of_Riau_Islands.svg"
 	},
-	"data": {
-		"kabupaten": [
-			{
-				"id": 1,
-				"name": "Kabupaten Bintan",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Lambang_Kabupaten_Bintan.png",
-				"capital": "Bandar Seri Bentan"
-			},
-			{
-				"id": 2,
-				"name": "Kabupaten Karimun",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lambang_Kabupaten_Karimun.gif",
-				"capital": "Tanjung Balai Karimun"
-			},
-			{
-				"id": 3,
-				"name": "Kabupaten Kepulauan Anambas",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lambang_Kabupaten_Kepulauan_Anambas.jpg",
-				"capital": "Tarempa"
-			},
-			{
-				"id": 4,
-				"name": "Kabupaten Lingga",
-				"emblem": "https://upload.wikimedia.org/wikipedia/id/d/d9/Logo-lingga-new.png",
-				"capital": "Daik"
-			},
-			{
-				"id": 5,
-				"name": "Kabupaten Natuna",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lambang_Kabupaten_Natuna.png",
-				"capital": "Ranai"
-			},
-			{
-				"id": 6,
-				"name": "Kota Batam",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lambang_Kota_Batam.png",
-				"capital": "-"
-			},
-			{
-				"id": 7,
-				"name": "Kota Tanjungpinang",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Lambang_Kota_Tanjungpinang.png",
-				"capital": "-"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Kabupaten Bintan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Lambang_Kabupaten_Bintan.png",
+			"capital": "Bandar Seri Bentan"
+		},
+		{
+			"id": 2,
+			"name": "Kabupaten Karimun",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lambang_Kabupaten_Karimun.gif",
+			"capital": "Tanjung Balai Karimun"
+		},
+		{
+			"id": 3,
+			"name": "Kabupaten Kepulauan Anambas",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lambang_Kabupaten_Kepulauan_Anambas.jpg",
+			"capital": "Tarempa"
+		},
+		{
+			"id": 4,
+			"name": "Kabupaten Lingga",
+			"emblem": "https://upload.wikimedia.org/wikipedia/id/d/d9/Logo-lingga-new.png",
+			"capital": "Daik"
+		},
+		{
+			"id": 5,
+			"name": "Kabupaten Natuna",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lambang_Kabupaten_Natuna.png",
+			"capital": "Ranai"
+		},
+		{
+			"id": 6,
+			"name": "Kota Batam",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lambang_Kota_Batam.png",
+			"capital": "-"
+		},
+		{
+			"id": 7,
+			"name": "Kota Tanjungpinang",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Lambang_Kota_Tanjungpinang.png",
+			"capital": "-"
+		}
+	]
 }

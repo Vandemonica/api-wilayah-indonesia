@@ -1,65 +1,63 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Katingan",
-	"scraped_at": "2023-01-24T06:14:46.270Z",
+	"scraped_at": "2023-01-24T07:36:41.549Z",
 	"kabupaten": {
 		"id": 6,
 		"name": "Kabupaten Katingan",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lambang_Kabupaten_Katingan.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bukit Raya"
-			},
-			{
-				"id": 2,
-				"name": "Kamipang"
-			},
-			{
-				"id": 3,
-				"name": "Katingan Hilir"
-			},
-			{
-				"id": 4,
-				"name": "Katingan Hulu"
-			},
-			{
-				"id": 5,
-				"name": "Katingan Kuala"
-			},
-			{
-				"id": 6,
-				"name": "Katingan Tengah"
-			},
-			{
-				"id": 7,
-				"name": "Marikit"
-			},
-			{
-				"id": 8,
-				"name": "Mendawai"
-			},
-			{
-				"id": 9,
-				"name": "Petak Malai"
-			},
-			{
-				"id": 10,
-				"name": "Pulau Malan"
-			},
-			{
-				"id": 11,
-				"name": "Sanaman Mantikei"
-			},
-			{
-				"id": 12,
-				"name": "Tasik Payawan"
-			},
-			{
-				"id": 13,
-				"name": "Tewang Sangalang Garing"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bukit Raya"
+		},
+		{
+			"id": 2,
+			"name": "Kamipang"
+		},
+		{
+			"id": 3,
+			"name": "Katingan Hilir"
+		},
+		{
+			"id": 4,
+			"name": "Katingan Hulu"
+		},
+		{
+			"id": 5,
+			"name": "Katingan Kuala"
+		},
+		{
+			"id": 6,
+			"name": "Katingan Tengah"
+		},
+		{
+			"id": 7,
+			"name": "Marikit"
+		},
+		{
+			"id": 8,
+			"name": "Mendawai"
+		},
+		{
+			"id": 9,
+			"name": "Petak Malai"
+		},
+		{
+			"id": 10,
+			"name": "Pulau Malan"
+		},
+		{
+			"id": 11,
+			"name": "Sanaman Mantikei"
+		},
+		{
+			"id": 12,
+			"name": "Tasik Payawan"
+		},
+		{
+			"id": 13,
+			"name": "Tewang Sangalang Garing"
+		}
+	]
 }

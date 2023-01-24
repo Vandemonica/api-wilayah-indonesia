@@ -1,105 +1,103 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Banggai",
-	"scraped_at": "2023-01-24T06:15:39.119Z",
+	"scraped_at": "2023-01-24T07:38:19.103Z",
 	"kabupaten": {
 		"id": 1,
 		"name": "Kabupaten Banggai",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lambang_Kabupaten_Banggai.tif"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Balantak Selatan"
-			},
-			{
-				"id": 2,
-				"name": "Balantak Utara"
-			},
-			{
-				"id": 3,
-				"name": "Balantak"
-			},
-			{
-				"id": 4,
-				"name": "Batui Selatan"
-			},
-			{
-				"id": 5,
-				"name": "Batui"
-			},
-			{
-				"id": 6,
-				"name": "Bualemo"
-			},
-			{
-				"id": 7,
-				"name": "Bunta"
-			},
-			{
-				"id": 8,
-				"name": "Kintom"
-			},
-			{
-				"id": 9,
-				"name": "Lamala"
-			},
-			{
-				"id": 10,
-				"name": "Lobu"
-			},
-			{
-				"id": 11,
-				"name": "Luwuk"
-			},
-			{
-				"id": 12,
-				"name": "Luwuk Selatan"
-			},
-			{
-				"id": 13,
-				"name": "Luwuk Timur"
-			},
-			{
-				"id": 14,
-				"name": "Luwuk Utara"
-			},
-			{
-				"id": 15,
-				"name": "Mantoh"
-			},
-			{
-				"id": 16,
-				"name": "Masama"
-			},
-			{
-				"id": 17,
-				"name": "Moilong"
-			},
-			{
-				"id": 18,
-				"name": "Nambo"
-			},
-			{
-				"id": 19,
-				"name": "Nuhon"
-			},
-			{
-				"id": 20,
-				"name": "Pagimana"
-			},
-			{
-				"id": 21,
-				"name": "Simpang Raya"
-			},
-			{
-				"id": 22,
-				"name": "Toili Barat"
-			},
-			{
-				"id": 23,
-				"name": "Toili"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Balantak Selatan"
+		},
+		{
+			"id": 2,
+			"name": "Balantak Utara"
+		},
+		{
+			"id": 3,
+			"name": "Balantak"
+		},
+		{
+			"id": 4,
+			"name": "Batui Selatan"
+		},
+		{
+			"id": 5,
+			"name": "Batui"
+		},
+		{
+			"id": 6,
+			"name": "Bualemo"
+		},
+		{
+			"id": 7,
+			"name": "Bunta"
+		},
+		{
+			"id": 8,
+			"name": "Kintom"
+		},
+		{
+			"id": 9,
+			"name": "Lamala"
+		},
+		{
+			"id": 10,
+			"name": "Lobu"
+		},
+		{
+			"id": 11,
+			"name": "Luwuk"
+		},
+		{
+			"id": 12,
+			"name": "Luwuk Selatan"
+		},
+		{
+			"id": 13,
+			"name": "Luwuk Timur"
+		},
+		{
+			"id": 14,
+			"name": "Luwuk Utara"
+		},
+		{
+			"id": 15,
+			"name": "Mantoh"
+		},
+		{
+			"id": 16,
+			"name": "Masama"
+		},
+		{
+			"id": 17,
+			"name": "Moilong"
+		},
+		{
+			"id": 18,
+			"name": "Nambo"
+		},
+		{
+			"id": 19,
+			"name": "Nuhon"
+		},
+		{
+			"id": 20,
+			"name": "Pagimana"
+		},
+		{
+			"id": 21,
+			"name": "Simpang Raya"
+		},
+		{
+			"id": 22,
+			"name": "Toili Barat"
+		},
+		{
+			"id": 23,
+			"name": "Toili"
+		}
+	]
 }

@@ -1,109 +1,107 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kupang",
-	"scraped_at": "2023-01-24T06:14:12.653Z",
+	"scraped_at": "2023-01-24T07:34:28.673Z",
 	"kabupaten": {
 		"id": 5,
 		"name": "Kabupaten Kupang",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lambang_Kabupaten_Kupang.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Amabi Oefeto Timur"
-			},
-			{
-				"id": 2,
-				"name": "Amabi Oefeto"
-			},
-			{
-				"id": 3,
-				"name": "Amarasi Barat"
-			},
-			{
-				"id": 4,
-				"name": "Amarasi Selatan"
-			},
-			{
-				"id": 5,
-				"name": "Amarasi Timur"
-			},
-			{
-				"id": 6,
-				"name": "Amarasi"
-			},
-			{
-				"id": 7,
-				"name": "Amfoang Barat Daya"
-			},
-			{
-				"id": 8,
-				"name": "Amfoang Barat Laut"
-			},
-			{
-				"id": 9,
-				"name": "Amfoang Selatan"
-			},
-			{
-				"id": 10,
-				"name": "Amfoang Tengah"
-			},
-			{
-				"id": 11,
-				"name": "Amfoang Timur"
-			},
-			{
-				"id": 12,
-				"name": "Amfoang Utara"
-			},
-			{
-				"id": 13,
-				"name": "Fatuleu Barat"
-			},
-			{
-				"id": 14,
-				"name": "Fatuleu Tengah"
-			},
-			{
-				"id": 15,
-				"name": "Fatuleu"
-			},
-			{
-				"id": 16,
-				"name": "Kupang Barat"
-			},
-			{
-				"id": 17,
-				"name": "Kupang Tengah"
-			},
-			{
-				"id": 18,
-				"name": "Kupang Timur"
-			},
-			{
-				"id": 19,
-				"name": "Nekamese"
-			},
-			{
-				"id": 20,
-				"name": "Semau Selatan"
-			},
-			{
-				"id": 21,
-				"name": "Semau"
-			},
-			{
-				"id": 22,
-				"name": "Sulamu"
-			},
-			{
-				"id": 23,
-				"name": "Taebenu"
-			},
-			{
-				"id": 24,
-				"name": "Takari"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Amabi Oefeto Timur"
+		},
+		{
+			"id": 2,
+			"name": "Amabi Oefeto"
+		},
+		{
+			"id": 3,
+			"name": "Amarasi Barat"
+		},
+		{
+			"id": 4,
+			"name": "Amarasi Selatan"
+		},
+		{
+			"id": 5,
+			"name": "Amarasi Timur"
+		},
+		{
+			"id": 6,
+			"name": "Amarasi"
+		},
+		{
+			"id": 7,
+			"name": "Amfoang Barat Daya"
+		},
+		{
+			"id": 8,
+			"name": "Amfoang Barat Laut"
+		},
+		{
+			"id": 9,
+			"name": "Amfoang Selatan"
+		},
+		{
+			"id": 10,
+			"name": "Amfoang Tengah"
+		},
+		{
+			"id": 11,
+			"name": "Amfoang Timur"
+		},
+		{
+			"id": 12,
+			"name": "Amfoang Utara"
+		},
+		{
+			"id": 13,
+			"name": "Fatuleu Barat"
+		},
+		{
+			"id": 14,
+			"name": "Fatuleu Tengah"
+		},
+		{
+			"id": 15,
+			"name": "Fatuleu"
+		},
+		{
+			"id": 16,
+			"name": "Kupang Barat"
+		},
+		{
+			"id": 17,
+			"name": "Kupang Tengah"
+		},
+		{
+			"id": 18,
+			"name": "Kupang Timur"
+		},
+		{
+			"id": 19,
+			"name": "Nekamese"
+		},
+		{
+			"id": 20,
+			"name": "Semau Selatan"
+		},
+		{
+			"id": 21,
+			"name": "Semau"
+		},
+		{
+			"id": 22,
+			"name": "Sulamu"
+		},
+		{
+			"id": 23,
+			"name": "Taebenu"
+		},
+		{
+			"id": 24,
+			"name": "Takari"
+		}
+	]
 }

@@ -1,109 +1,107 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lahat",
-	"scraped_at": "2023-01-24T06:11:12.824Z",
+	"scraped_at": "2023-01-24T07:29:15.773Z",
 	"kabupaten": {
 		"id": 3,
 		"name": "Kabupaten Lahat",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Lambang_Kabupaten_Lahat.jpg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Gumay Talang"
-			},
-			{
-				"id": 2,
-				"name": "Gumay Ulu"
-			},
-			{
-				"id": 3,
-				"name": "Jarai"
-			},
-			{
-				"id": 4,
-				"name": "Kikim Barat"
-			},
-			{
-				"id": 5,
-				"name": "Kikim Selatan"
-			},
-			{
-				"id": 6,
-				"name": "Kikim Tengah"
-			},
-			{
-				"id": 7,
-				"name": "Kikim Timur"
-			},
-			{
-				"id": 8,
-				"name": "Kota Agung"
-			},
-			{
-				"id": 9,
-				"name": "Lahat Selatan"
-			},
-			{
-				"id": 10,
-				"name": "Lahat"
-			},
-			{
-				"id": 11,
-				"name": "Merapi Barat"
-			},
-			{
-				"id": 12,
-				"name": "Merapi Selatan"
-			},
-			{
-				"id": 13,
-				"name": "Merapi Timur"
-			},
-			{
-				"id": 14,
-				"name": "Muara Payang"
-			},
-			{
-				"id": 15,
-				"name": "Mulak Sebingkai"
-			},
-			{
-				"id": 16,
-				"name": "Mulak Ulu"
-			},
-			{
-				"id": 17,
-				"name": "Pagar Gunung"
-			},
-			{
-				"id": 18,
-				"name": "Pajar Bulan"
-			},
-			{
-				"id": 19,
-				"name": "Pseksu"
-			},
-			{
-				"id": 20,
-				"name": "Pulau Pinang"
-			},
-			{
-				"id": 21,
-				"name": "Sukamerindu"
-			},
-			{
-				"id": 22,
-				"name": "Tanjung Sakti Pumi"
-			},
-			{
-				"id": 23,
-				"name": "Tanjung Sakti Pumu"
-			},
-			{
-				"id": 24,
-				"name": "Tanjung Tebat"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Gumay Talang"
+		},
+		{
+			"id": 2,
+			"name": "Gumay Ulu"
+		},
+		{
+			"id": 3,
+			"name": "Jarai"
+		},
+		{
+			"id": 4,
+			"name": "Kikim Barat"
+		},
+		{
+			"id": 5,
+			"name": "Kikim Selatan"
+		},
+		{
+			"id": 6,
+			"name": "Kikim Tengah"
+		},
+		{
+			"id": 7,
+			"name": "Kikim Timur"
+		},
+		{
+			"id": 8,
+			"name": "Kota Agung"
+		},
+		{
+			"id": 9,
+			"name": "Lahat Selatan"
+		},
+		{
+			"id": 10,
+			"name": "Lahat"
+		},
+		{
+			"id": 11,
+			"name": "Merapi Barat"
+		},
+		{
+			"id": 12,
+			"name": "Merapi Selatan"
+		},
+		{
+			"id": 13,
+			"name": "Merapi Timur"
+		},
+		{
+			"id": 14,
+			"name": "Muara Payang"
+		},
+		{
+			"id": 15,
+			"name": "Mulak Sebingkai"
+		},
+		{
+			"id": 16,
+			"name": "Mulak Ulu"
+		},
+		{
+			"id": 17,
+			"name": "Pagar Gunung"
+		},
+		{
+			"id": 18,
+			"name": "Pajar Bulan"
+		},
+		{
+			"id": 19,
+			"name": "Pseksu"
+		},
+		{
+			"id": 20,
+			"name": "Pulau Pinang"
+		},
+		{
+			"id": 21,
+			"name": "Sukamerindu"
+		},
+		{
+			"id": 22,
+			"name": "Tanjung Sakti Pumi"
+		},
+		{
+			"id": 23,
+			"name": "Tanjung Sakti Pumu"
+		},
+		{
+			"id": 24,
+			"name": "Tanjung Tebat"
+		}
+	]
 }

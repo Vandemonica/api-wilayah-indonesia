@@ -1,57 +1,55 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tanah Laut",
-	"scraped_at": "2023-01-24T06:15:05.337Z",
+	"scraped_at": "2023-01-24T07:37:13.739Z",
 	"kabupaten": {
 		"id": 10,
 		"name": "Kabupaten Tanah Laut",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lambang_Kabupaten_Tanah_Laut.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bajuin"
-			},
-			{
-				"id": 2,
-				"name": "Bati-Bati"
-			},
-			{
-				"id": 3,
-				"name": "Batu Ampar"
-			},
-			{
-				"id": 4,
-				"name": "Bumi Makmur"
-			},
-			{
-				"id": 5,
-				"name": "Jorong"
-			},
-			{
-				"id": 6,
-				"name": "Kintap"
-			},
-			{
-				"id": 7,
-				"name": "Kurau"
-			},
-			{
-				"id": 8,
-				"name": "Panyipatan"
-			},
-			{
-				"id": 9,
-				"name": "Pelaihari"
-			},
-			{
-				"id": 10,
-				"name": "Takisung"
-			},
-			{
-				"id": 11,
-				"name": "Tambang Ulang"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bajuin"
+		},
+		{
+			"id": 2,
+			"name": "Bati-Bati"
+		},
+		{
+			"id": 3,
+			"name": "Batu Ampar"
+		},
+		{
+			"id": 4,
+			"name": "Bumi Makmur"
+		},
+		{
+			"id": 5,
+			"name": "Jorong"
+		},
+		{
+			"id": 6,
+			"name": "Kintap"
+		},
+		{
+			"id": 7,
+			"name": "Kurau"
+		},
+		{
+			"id": 8,
+			"name": "Panyipatan"
+		},
+		{
+			"id": 9,
+			"name": "Pelaihari"
+		},
+		{
+			"id": 10,
+			"name": "Takisung"
+		},
+		{
+			"id": 11,
+			"name": "Tambang Ulang"
+		}
+	]
 }

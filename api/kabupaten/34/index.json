@@ -1,56 +1,54 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Papua_Barat",
-	"scraped_at": "2023-01-24T06:17:00.344Z",
+	"scraped_at": "2023-01-24T07:41:01.604Z",
 	"provinsi": {
 		"id": 34,
 		"code": "92",
 		"name": "Papua Barat",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Coat_of_arms_of_West_Papua.svg"
 	},
-	"data": {
-		"kabupaten": [
-			{
-				"id": 1,
-				"name": "Kabupaten Fakfak",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lambang_Kabupaten_Fak-fak.gif",
-				"capital": "Fakfak"
-			},
-			{
-				"id": 2,
-				"name": "Kabupaten Kaimana",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Lambang_Kabupaten_Kaimana.jpg",
-				"capital": "Kaimana"
-			},
-			{
-				"id": 3,
-				"name": "Kabupaten Manokwari",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lambang_Kabupaten_Manokwari.png",
-				"capital": "Manokwari"
-			},
-			{
-				"id": 4,
-				"name": "Kabupaten Manokwari Selatan",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Logo_Kabupaten_Manokwari_Selatan.jpg",
-				"capital": "Ransiki"
-			},
-			{
-				"id": 5,
-				"name": "Kabupaten Pegunungan Arfak",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Lambang_Kabupaten_Pegunungan_Arfak.webp",
-				"capital": "Anggi"
-			},
-			{
-				"id": 6,
-				"name": "Kabupaten Teluk Bintuni",
-				"emblem": "https://upload.wikimedia.org/wikipedia/id/0/08/Teluk_Bintuni.jpg",
-				"capital": "Bintuni"
-			},
-			{
-				"id": 7,
-				"name": "Kabupaten Teluk Wondama",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lambang_Kabupaten_Teluk_Wondama.png",
-				"capital": "Rasiei"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Kabupaten Fakfak",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lambang_Kabupaten_Fak-fak.gif",
+			"capital": "Fakfak"
+		},
+		{
+			"id": 2,
+			"name": "Kabupaten Kaimana",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Lambang_Kabupaten_Kaimana.jpg",
+			"capital": "Kaimana"
+		},
+		{
+			"id": 3,
+			"name": "Kabupaten Manokwari",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lambang_Kabupaten_Manokwari.png",
+			"capital": "Manokwari"
+		},
+		{
+			"id": 4,
+			"name": "Kabupaten Manokwari Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Logo_Kabupaten_Manokwari_Selatan.jpg",
+			"capital": "Ransiki"
+		},
+		{
+			"id": 5,
+			"name": "Kabupaten Pegunungan Arfak",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Lambang_Kabupaten_Pegunungan_Arfak.webp",
+			"capital": "Anggi"
+		},
+		{
+			"id": 6,
+			"name": "Kabupaten Teluk Bintuni",
+			"emblem": "https://upload.wikimedia.org/wikipedia/id/0/08/Teluk_Bintuni.jpg",
+			"capital": "Bintuni"
+		},
+		{
+			"id": 7,
+			"name": "Kabupaten Teluk Wondama",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lambang_Kabupaten_Teluk_Wondama.png",
+			"capital": "Rasiei"
+		}
+	]
 }

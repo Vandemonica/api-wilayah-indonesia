@@ -1,69 +1,67 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Maros",
-	"scraped_at": "2023-01-24T06:15:57.582Z",
+	"scraped_at": "2023-01-24T07:39:14.338Z",
 	"kabupaten": {
 		"id": 12,
 		"name": "Kabupaten Maros",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Maros_Regency_Official_Logo.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bantimurung, Maros‎ (63 H"
-			},
-			{
-				"id": 2,
-				"name": "Bontoa, Maros‎ (19 H"
-			},
-			{
-				"id": 3,
-				"name": "Camba, Maros‎ (11 H"
-			},
-			{
-				"id": 4,
-				"name": "Cenrana, Maros‎ (1 K, 22 H"
-			},
-			{
-				"id": 5,
-				"name": "Lau, Maros‎ (8 H"
-			},
-			{
-				"id": 6,
-				"name": "Mallawa, Maros‎ (16 H"
-			},
-			{
-				"id": 7,
-				"name": "Mandai, Maros‎ (8 H"
-			},
-			{
-				"id": 8,
-				"name": "Maros Baru, Maros‎ (13 H"
-			},
-			{
-				"id": 9,
-				"name": "Marusu, Maros‎ (10 H"
-			},
-			{
-				"id": 10,
-				"name": "Moncongloe, Maros‎ (8 H"
-			},
-			{
-				"id": 11,
-				"name": "Simbang, Maros‎ (42 H"
-			},
-			{
-				"id": 12,
-				"name": "Tanralili, Maros‎ (10 H"
-			},
-			{
-				"id": 13,
-				"name": "Tompobulu, Maros‎ (16 H"
-			},
-			{
-				"id": 14,
-				"name": "Turikale, Maros‎ (13 H"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bantimurung, Maros‎ (63 H"
+		},
+		{
+			"id": 2,
+			"name": "Bontoa, Maros‎ (19 H"
+		},
+		{
+			"id": 3,
+			"name": "Camba, Maros‎ (11 H"
+		},
+		{
+			"id": 4,
+			"name": "Cenrana, Maros‎ (1 K, 22 H"
+		},
+		{
+			"id": 5,
+			"name": "Lau, Maros‎ (8 H"
+		},
+		{
+			"id": 6,
+			"name": "Mallawa, Maros‎ (16 H"
+		},
+		{
+			"id": 7,
+			"name": "Mandai, Maros‎ (8 H"
+		},
+		{
+			"id": 8,
+			"name": "Maros Baru, Maros‎ (13 H"
+		},
+		{
+			"id": 9,
+			"name": "Marusu, Maros‎ (10 H"
+		},
+		{
+			"id": 10,
+			"name": "Moncongloe, Maros‎ (8 H"
+		},
+		{
+			"id": 11,
+			"name": "Simbang, Maros‎ (42 H"
+		},
+		{
+			"id": 12,
+			"name": "Tanralili, Maros‎ (10 H"
+		},
+		{
+			"id": 13,
+			"name": "Tompobulu, Maros‎ (16 H"
+		},
+		{
+			"id": 14,
+			"name": "Turikale, Maros‎ (13 H"
+		}
+	]
 }

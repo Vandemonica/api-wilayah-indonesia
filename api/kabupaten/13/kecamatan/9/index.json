@@ -1,89 +1,87 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Grobogan",
-	"scraped_at": "2023-01-24T06:12:53.994Z",
+	"scraped_at": "2023-01-24T07:31:57.056Z",
 	"kabupaten": {
 		"id": 9,
 		"name": "Kabupaten Grobogan",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Coat_of_arms_of_Grobogan_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Brati"
-			},
-			{
-				"id": 2,
-				"name": "Gabus"
-			},
-			{
-				"id": 3,
-				"name": "Geyer"
-			},
-			{
-				"id": 4,
-				"name": "Godong"
-			},
-			{
-				"id": 5,
-				"name": "Grobogan"
-			},
-			{
-				"id": 6,
-				"name": "Gubug"
-			},
-			{
-				"id": 7,
-				"name": "Karangrayung"
-			},
-			{
-				"id": 8,
-				"name": "Kedungjati"
-			},
-			{
-				"id": 9,
-				"name": "Klambu"
-			},
-			{
-				"id": 10,
-				"name": "Kradenan, Grobogan‎ (1 K"
-			},
-			{
-				"id": 11,
-				"name": "Ngaringan"
-			},
-			{
-				"id": 12,
-				"name": "Penawangan"
-			},
-			{
-				"id": 13,
-				"name": "Pulokulon"
-			},
-			{
-				"id": 14,
-				"name": "Purwodadi"
-			},
-			{
-				"id": 15,
-				"name": "Tanggungharjo"
-			},
-			{
-				"id": 16,
-				"name": "Tawangharjo"
-			},
-			{
-				"id": 17,
-				"name": "Tegowanu"
-			},
-			{
-				"id": 18,
-				"name": "Toroh"
-			},
-			{
-				"id": 19,
-				"name": "Wirosari"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Brati"
+		},
+		{
+			"id": 2,
+			"name": "Gabus"
+		},
+		{
+			"id": 3,
+			"name": "Geyer"
+		},
+		{
+			"id": 4,
+			"name": "Godong"
+		},
+		{
+			"id": 5,
+			"name": "Grobogan"
+		},
+		{
+			"id": 6,
+			"name": "Gubug"
+		},
+		{
+			"id": 7,
+			"name": "Karangrayung"
+		},
+		{
+			"id": 8,
+			"name": "Kedungjati"
+		},
+		{
+			"id": 9,
+			"name": "Klambu"
+		},
+		{
+			"id": 10,
+			"name": "Kradenan, Grobogan‎ (1 K"
+		},
+		{
+			"id": 11,
+			"name": "Ngaringan"
+		},
+		{
+			"id": 12,
+			"name": "Penawangan"
+		},
+		{
+			"id": 13,
+			"name": "Pulokulon"
+		},
+		{
+			"id": 14,
+			"name": "Purwodadi"
+		},
+		{
+			"id": 15,
+			"name": "Tanggungharjo"
+		},
+		{
+			"id": 16,
+			"name": "Tawangharjo"
+		},
+		{
+			"id": 17,
+			"name": "Tegowanu"
+		},
+		{
+			"id": 18,
+			"name": "Toroh"
+		},
+		{
+			"id": 19,
+			"name": "Wirosari"
+		}
+	]
 }

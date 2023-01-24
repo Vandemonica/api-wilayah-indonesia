@@ -1,33 +1,31 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Surakarta",
-	"scraped_at": "2023-01-24T06:13:10.760Z",
+	"scraped_at": "2023-01-24T07:32:23.846Z",
 	"kabupaten": {
 		"id": 34,
 		"name": "Kota Surakarta",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Seal_of_the_City_of_Surakarta.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Banjarsari, Surakarta‎ (20 H"
-			},
-			{
-				"id": 2,
-				"name": "Jebres, Surakarta‎ (13 H"
-			},
-			{
-				"id": 3,
-				"name": "Laweyan, Surakarta‎ (17 H"
-			},
-			{
-				"id": 4,
-				"name": "Pasar Kliwon, Surakarta‎ (14 H"
-			},
-			{
-				"id": 5,
-				"name": "Serengan"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Banjarsari, Surakarta‎ (20 H"
+		},
+		{
+			"id": 2,
+			"name": "Jebres, Surakarta‎ (13 H"
+		},
+		{
+			"id": 3,
+			"name": "Laweyan, Surakarta‎ (17 H"
+		},
+		{
+			"id": 4,
+			"name": "Pasar Kliwon, Surakarta‎ (14 H"
+		},
+		{
+			"id": 5,
+			"name": "Serengan"
+		}
+	]
 }

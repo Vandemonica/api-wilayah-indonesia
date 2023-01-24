@@ -1,45 +1,43 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepahiang",
-	"scraped_at": "2023-01-24T06:11:37.286Z",
+	"scraped_at": "2023-01-24T07:29:45.883Z",
 	"kabupaten": {
 		"id": 5,
 		"name": "Kabupaten Kepahiang",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_Kepahiang.jpg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bermani Ilir"
-			},
-			{
-				"id": 2,
-				"name": "Kabawetan"
-			},
-			{
-				"id": 3,
-				"name": "Kepahiang"
-			},
-			{
-				"id": 4,
-				"name": "Merigi"
-			},
-			{
-				"id": 5,
-				"name": "Muara Kemumu"
-			},
-			{
-				"id": 6,
-				"name": "Seberang Musi"
-			},
-			{
-				"id": 7,
-				"name": "Tebat Karai"
-			},
-			{
-				"id": 8,
-				"name": "Ujan Mas"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bermani Ilir"
+		},
+		{
+			"id": 2,
+			"name": "Kabawetan"
+		},
+		{
+			"id": 3,
+			"name": "Kepahiang"
+		},
+		{
+			"id": 4,
+			"name": "Merigi"
+		},
+		{
+			"id": 5,
+			"name": "Muara Kemumu"
+		},
+		{
+			"id": 6,
+			"name": "Seberang Musi"
+		},
+		{
+			"id": 7,
+			"name": "Tebat Karai"
+		},
+		{
+			"id": 8,
+			"name": "Ujan Mas"
+		}
+	]
 }

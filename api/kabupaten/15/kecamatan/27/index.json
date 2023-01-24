@@ -1,69 +1,67 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Trenggalek",
-	"scraped_at": "2023-01-24T06:13:33.143Z",
+	"scraped_at": "2023-01-24T07:32:58.948Z",
 	"kabupaten": {
 		"id": 27,
 		"name": "Kabupaten Trenggalek",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Seal_of_Trenggalek_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bendungan"
-			},
-			{
-				"id": 2,
-				"name": "Dongko"
-			},
-			{
-				"id": 3,
-				"name": "Durenan"
-			},
-			{
-				"id": 4,
-				"name": "Gandusari"
-			},
-			{
-				"id": 5,
-				"name": "Kampak"
-			},
-			{
-				"id": 6,
-				"name": "Karangan"
-			},
-			{
-				"id": 7,
-				"name": "Munjungan"
-			},
-			{
-				"id": 8,
-				"name": "Panggul"
-			},
-			{
-				"id": 9,
-				"name": "Pogalan"
-			},
-			{
-				"id": 10,
-				"name": "Pule"
-			},
-			{
-				"id": 11,
-				"name": "Suruh"
-			},
-			{
-				"id": 12,
-				"name": "Trenggalek"
-			},
-			{
-				"id": 13,
-				"name": "Tugu"
-			},
-			{
-				"id": 14,
-				"name": "Watulimo"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bendungan"
+		},
+		{
+			"id": 2,
+			"name": "Dongko"
+		},
+		{
+			"id": 3,
+			"name": "Durenan"
+		},
+		{
+			"id": 4,
+			"name": "Gandusari"
+		},
+		{
+			"id": 5,
+			"name": "Kampak"
+		},
+		{
+			"id": 6,
+			"name": "Karangan"
+		},
+		{
+			"id": 7,
+			"name": "Munjungan"
+		},
+		{
+			"id": 8,
+			"name": "Panggul"
+		},
+		{
+			"id": 9,
+			"name": "Pogalan"
+		},
+		{
+			"id": 10,
+			"name": "Pule"
+		},
+		{
+			"id": 11,
+			"name": "Suruh"
+		},
+		{
+			"id": 12,
+			"name": "Trenggalek"
+		},
+		{
+			"id": 13,
+			"name": "Tugu"
+		},
+		{
+			"id": 14,
+			"name": "Watulimo"
+		}
+	]
 }

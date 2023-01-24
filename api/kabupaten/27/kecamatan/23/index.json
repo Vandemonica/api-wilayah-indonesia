@@ -1,49 +1,47 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Palopo",
-	"scraped_at": "2023-01-24T06:16:06.324Z",
+	"scraped_at": "2023-01-24T07:39:28.049Z",
 	"kabupaten": {
 		"id": 23,
 		"name": "Kota Palopo",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Lambang_Kota_Palopo_COA.jpg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bara"
-			},
-			{
-				"id": 2,
-				"name": "Mungkajang"
-			},
-			{
-				"id": 3,
-				"name": "Sendana"
-			},
-			{
-				"id": 4,
-				"name": "Tellu Wanua"
-			},
-			{
-				"id": 5,
-				"name": "Wara Barat"
-			},
-			{
-				"id": 6,
-				"name": "Wara Selatan"
-			},
-			{
-				"id": 7,
-				"name": "Wara Timur"
-			},
-			{
-				"id": 8,
-				"name": "Wara Utara"
-			},
-			{
-				"id": 9,
-				"name": "Wara"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bara"
+		},
+		{
+			"id": 2,
+			"name": "Mungkajang"
+		},
+		{
+			"id": 3,
+			"name": "Sendana"
+		},
+		{
+			"id": 4,
+			"name": "Tellu Wanua"
+		},
+		{
+			"id": 5,
+			"name": "Wara Barat"
+		},
+		{
+			"id": 6,
+			"name": "Wara Selatan"
+		},
+		{
+			"id": 7,
+			"name": "Wara Timur"
+		},
+		{
+			"id": 8,
+			"name": "Wara Utara"
+		},
+		{
+			"id": 9,
+			"name": "Wara"
+		}
+	]
 }

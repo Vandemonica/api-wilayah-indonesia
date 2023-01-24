@@ -1,53 +1,51 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pangandaran",
-	"scraped_at": "2023-01-24T06:12:35.086Z",
+	"scraped_at": "2023-01-24T07:31:33.529Z",
 	"kabupaten": {
 		"id": 13,
 		"name": "Kabupaten Pangandaran",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-pangandaran-perbup.no.4.thn.2013.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Cigugur"
-			},
-			{
-				"id": 2,
-				"name": "Cijulang"
-			},
-			{
-				"id": 3,
-				"name": "Cimerak"
-			},
-			{
-				"id": 4,
-				"name": "Kalipucang"
-			},
-			{
-				"id": 5,
-				"name": "Langkaplancar"
-			},
-			{
-				"id": 6,
-				"name": "Mangunjaya"
-			},
-			{
-				"id": 7,
-				"name": "Padaherang"
-			},
-			{
-				"id": 8,
-				"name": "Pangandaran, Pangandaran‎ (1 K"
-			},
-			{
-				"id": 9,
-				"name": "Parigi"
-			},
-			{
-				"id": 10,
-				"name": "Sidamulih"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Cigugur"
+		},
+		{
+			"id": 2,
+			"name": "Cijulang"
+		},
+		{
+			"id": 3,
+			"name": "Cimerak"
+		},
+		{
+			"id": 4,
+			"name": "Kalipucang"
+		},
+		{
+			"id": 5,
+			"name": "Langkaplancar"
+		},
+		{
+			"id": 6,
+			"name": "Mangunjaya"
+		},
+		{
+			"id": 7,
+			"name": "Padaherang"
+		},
+		{
+			"id": 8,
+			"name": "Pangandaran, Pangandaran‎ (1 K"
+		},
+		{
+			"id": 9,
+			"name": "Parigi"
+		},
+		{
+			"id": 10,
+			"name": "Sidamulih"
+		}
+	]
 }

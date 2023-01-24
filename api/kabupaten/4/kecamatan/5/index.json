@@ -1,49 +1,47 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Meranti",
-	"scraped_at": "2023-01-24T06:10:38.974Z",
+	"scraped_at": "2023-01-24T07:28:54.041Z",
 	"kabupaten": {
 		"id": 5,
 		"name": "Kabupaten Kepulauan Meranti",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Lambang_kab_Kepulauan_Meranti.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Merbau, Kepulauan Meranti‎ (10 H"
-			},
-			{
-				"id": 2,
-				"name": "Pulau Merbau"
-			},
-			{
-				"id": 3,
-				"name": "Rangsang Barat"
-			},
-			{
-				"id": 4,
-				"name": "Rangsang Pesisir"
-			},
-			{
-				"id": 5,
-				"name": "Rangsang, Kepulauan Meranti‎ (15 H"
-			},
-			{
-				"id": 6,
-				"name": "Tasik Putri Puyu"
-			},
-			{
-				"id": 7,
-				"name": "Tebing Tinggi Barat"
-			},
-			{
-				"id": 8,
-				"name": "Tebing Tinggi Timur"
-			},
-			{
-				"id": 9,
-				"name": "Tebing Tinggi"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Merbau, Kepulauan Meranti‎ (10 H"
+		},
+		{
+			"id": 2,
+			"name": "Pulau Merbau"
+		},
+		{
+			"id": 3,
+			"name": "Rangsang Barat"
+		},
+		{
+			"id": 4,
+			"name": "Rangsang Pesisir"
+		},
+		{
+			"id": 5,
+			"name": "Rangsang, Kepulauan Meranti‎ (15 H"
+		},
+		{
+			"id": 6,
+			"name": "Tasik Putri Puyu"
+		},
+		{
+			"id": 7,
+			"name": "Tebing Tinggi Barat"
+		},
+		{
+			"id": 8,
+			"name": "Tebing Tinggi Timur"
+		},
+		{
+			"id": 9,
+			"name": "Tebing Tinggi"
+		}
+	]
 }

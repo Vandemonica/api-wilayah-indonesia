@@ -1,73 +1,71 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kuantan Singingi",
-	"scraped_at": "2023-01-24T06:10:40.795Z",
+	"scraped_at": "2023-01-24T07:28:54.805Z",
 	"kabupaten": {
 		"id": 6,
 		"name": "Kabupaten Kuantan Singingi",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Lambang_Kabupaten_Kuantan_Singingi.PNG"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Benai"
-			},
-			{
-				"id": 2,
-				"name": "Cerenti"
-			},
-			{
-				"id": 3,
-				"name": "Gunung Toar"
-			},
-			{
-				"id": 4,
-				"name": "Hulu Kuantan"
-			},
-			{
-				"id": 5,
-				"name": "Inuman"
-			},
-			{
-				"id": 6,
-				"name": "Kuantan Hilir Seberang"
-			},
-			{
-				"id": 7,
-				"name": "Kuantan Hilir"
-			},
-			{
-				"id": 8,
-				"name": "Kuantan Mudik"
-			},
-			{
-				"id": 9,
-				"name": "Kuantan Tengah"
-			},
-			{
-				"id": 10,
-				"name": "Logas Tanah Darat"
-			},
-			{
-				"id": 11,
-				"name": "Pangean"
-			},
-			{
-				"id": 12,
-				"name": "Pucuk Rantau"
-			},
-			{
-				"id": 13,
-				"name": "Sentajo Raya"
-			},
-			{
-				"id": 14,
-				"name": "Singingi Hilir"
-			},
-			{
-				"id": 15,
-				"name": "Singingi"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Benai"
+		},
+		{
+			"id": 2,
+			"name": "Cerenti"
+		},
+		{
+			"id": 3,
+			"name": "Gunung Toar"
+		},
+		{
+			"id": 4,
+			"name": "Hulu Kuantan"
+		},
+		{
+			"id": 5,
+			"name": "Inuman"
+		},
+		{
+			"id": 6,
+			"name": "Kuantan Hilir Seberang"
+		},
+		{
+			"id": 7,
+			"name": "Kuantan Hilir"
+		},
+		{
+			"id": 8,
+			"name": "Kuantan Mudik"
+		},
+		{
+			"id": 9,
+			"name": "Kuantan Tengah"
+		},
+		{
+			"id": 10,
+			"name": "Logas Tanah Darat"
+		},
+		{
+			"id": 11,
+			"name": "Pangean"
+		},
+		{
+			"id": 12,
+			"name": "Pucuk Rantau"
+		},
+		{
+			"id": 13,
+			"name": "Sentajo Raya"
+		},
+		{
+			"id": 14,
+			"name": "Singingi Hilir"
+		},
+		{
+			"id": 15,
+			"name": "Singingi"
+		}
+	]
 }

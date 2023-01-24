@@ -1,37 +1,35 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Badung",
-	"scraped_at": "2023-01-24T06:13:50.664Z",
+	"scraped_at": "2023-01-24T07:33:30.222Z",
 	"kabupaten": {
 		"id": 1,
 		"name": "Kabupaten Badung",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lambang_Kabupaten_Badung.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Abiansemal"
-			},
-			{
-				"id": 2,
-				"name": "Kuta Selatan"
-			},
-			{
-				"id": 3,
-				"name": "Kuta Utara"
-			},
-			{
-				"id": 4,
-				"name": "Kuta"
-			},
-			{
-				"id": 5,
-				"name": "Mengwi"
-			},
-			{
-				"id": 6,
-				"name": "Petang"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Abiansemal"
+		},
+		{
+			"id": 2,
+			"name": "Kuta Selatan"
+		},
+		{
+			"id": 3,
+			"name": "Kuta Utara"
+		},
+		{
+			"id": 4,
+			"name": "Kuta"
+		},
+		{
+			"id": 5,
+			"name": "Mengwi"
+		},
+		{
+			"id": 6,
+			"name": "Petang"
+		}
+	]
 }

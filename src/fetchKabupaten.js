@@ -37,9 +37,7 @@ async function fetchKabupaten(page, province) {
       name: province.name,
       emblem: province.emblem
     },
-    data: {
-      kabupaten: regions
-    }
+    data: regions
   };
 
   if (!fs.existsSync(dir)) {

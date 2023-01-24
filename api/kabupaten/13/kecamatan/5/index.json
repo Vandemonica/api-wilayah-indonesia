@@ -1,101 +1,99 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Boyolali",
-	"scraped_at": "2023-01-24T06:12:50.873Z",
+	"scraped_at": "2023-01-24T07:31:54.055Z",
 	"kabupaten": {
 		"id": 5,
 		"name": "Kabupaten Boyolali",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Seal_of_Boyolali_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Ampel"
-			},
-			{
-				"id": 2,
-				"name": "Andong"
-			},
-			{
-				"id": 3,
-				"name": "Banyudono"
-			},
-			{
-				"id": 4,
-				"name": "Boyolali"
-			},
-			{
-				"id": 5,
-				"name": "Cepogo"
-			},
-			{
-				"id": 6,
-				"name": "Gladagsari"
-			},
-			{
-				"id": 7,
-				"name": "Juwangi"
-			},
-			{
-				"id": 8,
-				"name": "Karanggede"
-			},
-			{
-				"id": 9,
-				"name": "Kemusu"
-			},
-			{
-				"id": 10,
-				"name": "Klego, Boyolali‎ (14 H"
-			},
-			{
-				"id": 11,
-				"name": "Mojosongo"
-			},
-			{
-				"id": 12,
-				"name": "Musuk"
-			},
-			{
-				"id": 13,
-				"name": "Ngemplak"
-			},
-			{
-				"id": 14,
-				"name": "Nogosari"
-			},
-			{
-				"id": 15,
-				"name": "Sambi"
-			},
-			{
-				"id": 16,
-				"name": "Sawit"
-			},
-			{
-				"id": 17,
-				"name": "Selo"
-			},
-			{
-				"id": 18,
-				"name": "Simo, Boyolali‎ (16 H"
-			},
-			{
-				"id": 19,
-				"name": "Tamansari"
-			},
-			{
-				"id": 20,
-				"name": "Teras"
-			},
-			{
-				"id": 21,
-				"name": "Wonosamodro"
-			},
-			{
-				"id": 22,
-				"name": "Wonosegoro"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Ampel"
+		},
+		{
+			"id": 2,
+			"name": "Andong"
+		},
+		{
+			"id": 3,
+			"name": "Banyudono"
+		},
+		{
+			"id": 4,
+			"name": "Boyolali"
+		},
+		{
+			"id": 5,
+			"name": "Cepogo"
+		},
+		{
+			"id": 6,
+			"name": "Gladagsari"
+		},
+		{
+			"id": 7,
+			"name": "Juwangi"
+		},
+		{
+			"id": 8,
+			"name": "Karanggede"
+		},
+		{
+			"id": 9,
+			"name": "Kemusu"
+		},
+		{
+			"id": 10,
+			"name": "Klego, Boyolali‎ (14 H"
+		},
+		{
+			"id": 11,
+			"name": "Mojosongo"
+		},
+		{
+			"id": 12,
+			"name": "Musuk"
+		},
+		{
+			"id": 13,
+			"name": "Ngemplak"
+		},
+		{
+			"id": 14,
+			"name": "Nogosari"
+		},
+		{
+			"id": 15,
+			"name": "Sambi"
+		},
+		{
+			"id": 16,
+			"name": "Sawit"
+		},
+		{
+			"id": 17,
+			"name": "Selo"
+		},
+		{
+			"id": 18,
+			"name": "Simo, Boyolali‎ (16 H"
+		},
+		{
+			"id": 19,
+			"name": "Tamansari"
+		},
+		{
+			"id": 20,
+			"name": "Teras"
+		},
+		{
+			"id": 21,
+			"name": "Wonosamodro"
+		},
+		{
+			"id": 22,
+			"name": "Wonosegoro"
+		}
+	]
 }

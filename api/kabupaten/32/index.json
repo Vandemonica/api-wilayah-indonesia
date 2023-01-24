@@ -1,74 +1,72 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Maluku_Utara",
-	"scraped_at": "2023-01-24T06:16:48.118Z",
+	"scraped_at": "2023-01-24T07:40:30.149Z",
 	"provinsi": {
 		"id": 32,
 		"code": "82",
 		"name": "Maluku Utara",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Coat_of_arms_of_North_Maluku.svg"
 	},
-	"data": {
-		"kabupaten": [
-			{
-				"id": 1,
-				"name": "Kabupaten Halmahera Barat",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lambang_Kabupaten_Halmahera_Barat.png",
-				"capital": "Jailolo"
-			},
-			{
-				"id": 2,
-				"name": "Kabupaten Halmahera Tengah",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lambang_Kabupaten_Halmahera_Tengah.png",
-				"capital": "Weda"
-			},
-			{
-				"id": 3,
-				"name": "Kabupaten Halmahera Timur",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Lambang_Kabupaten_Halmahera_Timur.png",
-				"capital": "Kota Maba"
-			},
-			{
-				"id": 4,
-				"name": "Kabupaten Halmahera Selatan",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lambang_Kabupaten_Halmahera_Selatan.jpeg",
-				"capital": "Labuha"
-			},
-			{
-				"id": 5,
-				"name": "Kabupaten Halmahera Utara",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lambang_Kabupaten_Halmahera_Utara.png",
-				"capital": "Tobelo"
-			},
-			{
-				"id": 6,
-				"name": "Kabupaten Kepulauan Sula",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lambang_Kabupaten_Kepulauan_Sula.jpg",
-				"capital": "Sanana"
-			},
-			{
-				"id": 7,
-				"name": "Kabupaten Pulau Morotai",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lambang_Kabupaten_Pulau_Morotai.png",
-				"capital": "Daruba"
-			},
-			{
-				"id": 8,
-				"name": "Kabupaten Pulau Taliabu",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/69/LOGO_KABUPATEN_PULAU_TALIABU.png",
-				"capital": "Bobong"
-			},
-			{
-				"id": 9,
-				"name": "Kota Ternate",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lambang_Kota_Ternate.png",
-				"capital": "-"
-			},
-			{
-				"id": 10,
-				"name": "Kota Tidore Kepulauan",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lambang_Kota_Tidore_Kepulauan.png",
-				"capital": "-"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Kabupaten Halmahera Barat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lambang_Kabupaten_Halmahera_Barat.png",
+			"capital": "Jailolo"
+		},
+		{
+			"id": 2,
+			"name": "Kabupaten Halmahera Tengah",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lambang_Kabupaten_Halmahera_Tengah.png",
+			"capital": "Weda"
+		},
+		{
+			"id": 3,
+			"name": "Kabupaten Halmahera Timur",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Lambang_Kabupaten_Halmahera_Timur.png",
+			"capital": "Kota Maba"
+		},
+		{
+			"id": 4,
+			"name": "Kabupaten Halmahera Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lambang_Kabupaten_Halmahera_Selatan.jpeg",
+			"capital": "Labuha"
+		},
+		{
+			"id": 5,
+			"name": "Kabupaten Halmahera Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lambang_Kabupaten_Halmahera_Utara.png",
+			"capital": "Tobelo"
+		},
+		{
+			"id": 6,
+			"name": "Kabupaten Kepulauan Sula",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lambang_Kabupaten_Kepulauan_Sula.jpg",
+			"capital": "Sanana"
+		},
+		{
+			"id": 7,
+			"name": "Kabupaten Pulau Morotai",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lambang_Kabupaten_Pulau_Morotai.png",
+			"capital": "Daruba"
+		},
+		{
+			"id": 8,
+			"name": "Kabupaten Pulau Taliabu",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/69/LOGO_KABUPATEN_PULAU_TALIABU.png",
+			"capital": "Bobong"
+		},
+		{
+			"id": 9,
+			"name": "Kota Ternate",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lambang_Kota_Ternate.png",
+			"capital": "-"
+		},
+		{
+			"id": 10,
+			"name": "Kota Tidore Kepulauan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lambang_Kota_Tidore_Kepulauan.png",
+			"capital": "-"
+		}
+	]
 }

@@ -1,85 +1,83 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Magetan",
-	"scraped_at": "2023-01-24T06:13:23.771Z",
+	"scraped_at": "2023-01-24T07:32:44.781Z",
 	"kabupaten": {
 		"id": 13,
 		"name": "Kabupaten Magetan",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Seal_of_Magetan_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Barat"
-			},
-			{
-				"id": 2,
-				"name": "Bendo"
-			},
-			{
-				"id": 3,
-				"name": "Karangrejo"
-			},
-			{
-				"id": 4,
-				"name": "Karas"
-			},
-			{
-				"id": 5,
-				"name": "Kartoharjo"
-			},
-			{
-				"id": 6,
-				"name": "Kawedanan"
-			},
-			{
-				"id": 7,
-				"name": "Lembeyan"
-			},
-			{
-				"id": 8,
-				"name": "Magetan"
-			},
-			{
-				"id": 9,
-				"name": "Maospati"
-			},
-			{
-				"id": 10,
-				"name": "Ngariboyo"
-			},
-			{
-				"id": 11,
-				"name": "Nguntoronadi"
-			},
-			{
-				"id": 12,
-				"name": "Panekan"
-			},
-			{
-				"id": 13,
-				"name": "Parang"
-			},
-			{
-				"id": 14,
-				"name": "Plaosan"
-			},
-			{
-				"id": 15,
-				"name": "Poncol"
-			},
-			{
-				"id": 16,
-				"name": "Sidorejo"
-			},
-			{
-				"id": 17,
-				"name": "Sukomoro"
-			},
-			{
-				"id": 18,
-				"name": "Takeran"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Barat"
+		},
+		{
+			"id": 2,
+			"name": "Bendo"
+		},
+		{
+			"id": 3,
+			"name": "Karangrejo"
+		},
+		{
+			"id": 4,
+			"name": "Karas"
+		},
+		{
+			"id": 5,
+			"name": "Kartoharjo"
+		},
+		{
+			"id": 6,
+			"name": "Kawedanan"
+		},
+		{
+			"id": 7,
+			"name": "Lembeyan"
+		},
+		{
+			"id": 8,
+			"name": "Magetan"
+		},
+		{
+			"id": 9,
+			"name": "Maospati"
+		},
+		{
+			"id": 10,
+			"name": "Ngariboyo"
+		},
+		{
+			"id": 11,
+			"name": "Nguntoronadi"
+		},
+		{
+			"id": 12,
+			"name": "Panekan"
+		},
+		{
+			"id": 13,
+			"name": "Parang"
+		},
+		{
+			"id": 14,
+			"name": "Plaosan"
+		},
+		{
+			"id": 15,
+			"name": "Poncol"
+		},
+		{
+			"id": 16,
+			"name": "Sidorejo"
+		},
+		{
+			"id": 17,
+			"name": "Sukomoro"
+		},
+		{
+			"id": 18,
+			"name": "Takeran"
+		}
+	]
 }

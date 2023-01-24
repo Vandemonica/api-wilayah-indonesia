@@ -1,93 +1,91 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Banjarnegara",
-	"scraped_at": "2023-01-24T06:12:47.936Z",
+	"scraped_at": "2023-01-24T07:31:50.816Z",
 	"kabupaten": {
 		"id": 1,
 		"name": "Kabupaten Banjarnegara",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Seal_of_Banjarnegara_Regency_%282022%29.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Banjarmangu"
-			},
-			{
-				"id": 2,
-				"name": "Banjarnegara"
-			},
-			{
-				"id": 3,
-				"name": "Batur"
-			},
-			{
-				"id": 4,
-				"name": "Bawang"
-			},
-			{
-				"id": 5,
-				"name": "Kalibening"
-			},
-			{
-				"id": 6,
-				"name": "Karangkobar"
-			},
-			{
-				"id": 7,
-				"name": "Madukara"
-			},
-			{
-				"id": 8,
-				"name": "Mandiraja"
-			},
-			{
-				"id": 9,
-				"name": "Pagedongan"
-			},
-			{
-				"id": 10,
-				"name": "Pagentan"
-			},
-			{
-				"id": 11,
-				"name": "Pandanarum"
-			},
-			{
-				"id": 12,
-				"name": "Pejawaran"
-			},
-			{
-				"id": 13,
-				"name": "Punggelan"
-			},
-			{
-				"id": 14,
-				"name": "Purwanegara"
-			},
-			{
-				"id": 15,
-				"name": "Purwareja Klampok"
-			},
-			{
-				"id": 16,
-				"name": "Rakit"
-			},
-			{
-				"id": 17,
-				"name": "Sigaluh"
-			},
-			{
-				"id": 18,
-				"name": "Susukan"
-			},
-			{
-				"id": 19,
-				"name": "Wanadadi"
-			},
-			{
-				"id": 20,
-				"name": "Wanayasa"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Banjarmangu"
+		},
+		{
+			"id": 2,
+			"name": "Banjarnegara"
+		},
+		{
+			"id": 3,
+			"name": "Batur"
+		},
+		{
+			"id": 4,
+			"name": "Bawang"
+		},
+		{
+			"id": 5,
+			"name": "Kalibening"
+		},
+		{
+			"id": 6,
+			"name": "Karangkobar"
+		},
+		{
+			"id": 7,
+			"name": "Madukara"
+		},
+		{
+			"id": 8,
+			"name": "Mandiraja"
+		},
+		{
+			"id": 9,
+			"name": "Pagedongan"
+		},
+		{
+			"id": 10,
+			"name": "Pagentan"
+		},
+		{
+			"id": 11,
+			"name": "Pandanarum"
+		},
+		{
+			"id": 12,
+			"name": "Pejawaran"
+		},
+		{
+			"id": 13,
+			"name": "Punggelan"
+		},
+		{
+			"id": 14,
+			"name": "Purwanegara"
+		},
+		{
+			"id": 15,
+			"name": "Purwareja Klampok"
+		},
+		{
+			"id": 16,
+			"name": "Rakit"
+		},
+		{
+			"id": 17,
+			"name": "Sigaluh"
+		},
+		{
+			"id": 18,
+			"name": "Susukan"
+		},
+		{
+			"id": 19,
+			"name": "Wanadadi"
+		},
+		{
+			"id": 20,
+			"name": "Wanayasa"
+		}
+	]
 }

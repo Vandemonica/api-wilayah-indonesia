@@ -1,73 +1,71 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Madiun",
-	"scraped_at": "2023-01-24T06:13:23.200Z",
+	"scraped_at": "2023-01-24T07:32:43.767Z",
 	"kabupaten": {
 		"id": 12,
 		"name": "Kabupaten Madiun",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Seal_of_Madiun_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Balerejo"
-			},
-			{
-				"id": 2,
-				"name": "Dagangan"
-			},
-			{
-				"id": 3,
-				"name": "Dolopo"
-			},
-			{
-				"id": 4,
-				"name": "Geger"
-			},
-			{
-				"id": 5,
-				"name": "Gemarang"
-			},
-			{
-				"id": 6,
-				"name": "Jiwan, Madiun‎ (15 H"
-			},
-			{
-				"id": 7,
-				"name": "Kare"
-			},
-			{
-				"id": 8,
-				"name": "Kebon Sari"
-			},
-			{
-				"id": 9,
-				"name": "Madiun"
-			},
-			{
-				"id": 10,
-				"name": "Mejayan, Madiun‎ (1 K"
-			},
-			{
-				"id": 11,
-				"name": "Pilangkenceng"
-			},
-			{
-				"id": 12,
-				"name": "Saradan"
-			},
-			{
-				"id": 13,
-				"name": "Sawahan"
-			},
-			{
-				"id": 14,
-				"name": "Wonoasri"
-			},
-			{
-				"id": 15,
-				"name": "Wungu"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Balerejo"
+		},
+		{
+			"id": 2,
+			"name": "Dagangan"
+		},
+		{
+			"id": 3,
+			"name": "Dolopo"
+		},
+		{
+			"id": 4,
+			"name": "Geger"
+		},
+		{
+			"id": 5,
+			"name": "Gemarang"
+		},
+		{
+			"id": 6,
+			"name": "Jiwan, Madiun‎ (15 H"
+		},
+		{
+			"id": 7,
+			"name": "Kare"
+		},
+		{
+			"id": 8,
+			"name": "Kebon Sari"
+		},
+		{
+			"id": 9,
+			"name": "Madiun"
+		},
+		{
+			"id": 10,
+			"name": "Mejayan, Madiun‎ (1 K"
+		},
+		{
+			"id": 11,
+			"name": "Pilangkenceng"
+		},
+		{
+			"id": 12,
+			"name": "Saradan"
+		},
+		{
+			"id": 13,
+			"name": "Sawahan"
+		},
+		{
+			"id": 14,
+			"name": "Wonoasri"
+		},
+		{
+			"id": 15,
+			"name": "Wungu"
+		}
+	]
 }

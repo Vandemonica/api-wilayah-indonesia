@@ -1,29 +1,27 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Sawahlunto",
-	"scraped_at": "2023-01-24T06:10:30.170Z",
+	"scraped_at": "2023-01-24T07:28:45.279Z",
 	"kabupaten": {
 		"id": 18,
 		"name": "Kota Sawahlunto",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lambang_Kota_Sawahlunto.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Barangin"
-			},
-			{
-				"id": 2,
-				"name": "Lembah Segar"
-			},
-			{
-				"id": 3,
-				"name": "Silungkang"
-			},
-			{
-				"id": 4,
-				"name": "Talawi"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Barangin"
+		},
+		{
+			"id": 2,
+			"name": "Lembah Segar"
+		},
+		{
+			"id": 3,
+			"name": "Silungkang"
+		},
+		{
+			"id": 4,
+			"name": "Talawi"
+		}
+	]
 }

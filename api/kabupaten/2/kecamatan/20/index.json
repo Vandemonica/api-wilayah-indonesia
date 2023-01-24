@@ -1,81 +1,79 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Serdang Bedagai",
-	"scraped_at": "2023-01-24T06:09:58.523Z",
+	"scraped_at": "2023-01-24T07:28:12.238Z",
 	"kabupaten": {
 		"id": 20,
 		"name": "Kabupaten Serdang Bedagai",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lambang_Kabupaten_Serdang_Bedagai.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bandar Khalipah"
-			},
-			{
-				"id": 2,
-				"name": "Bintang Bayu"
-			},
-			{
-				"id": 3,
-				"name": "Dolok Masihul"
-			},
-			{
-				"id": 4,
-				"name": "Dolok Merawan"
-			},
-			{
-				"id": 5,
-				"name": "Kotarih"
-			},
-			{
-				"id": 6,
-				"name": "Pantai Cermin"
-			},
-			{
-				"id": 7,
-				"name": "Pegajahan"
-			},
-			{
-				"id": 8,
-				"name": "Perbaungan, Serdang Bedagai‎ (1 K"
-			},
-			{
-				"id": 9,
-				"name": "Sei Bamban"
-			},
-			{
-				"id": 10,
-				"name": "Sei Rampah"
-			},
-			{
-				"id": 11,
-				"name": "Serba Jadi"
-			},
-			{
-				"id": 12,
-				"name": "Silinda"
-			},
-			{
-				"id": 13,
-				"name": "Sipispis"
-			},
-			{
-				"id": 14,
-				"name": "Tanjung Beringin"
-			},
-			{
-				"id": 15,
-				"name": "Tebing Syahbandar"
-			},
-			{
-				"id": 16,
-				"name": "Tebing Tinggi"
-			},
-			{
-				"id": 17,
-				"name": "Teluk Mengkudu"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bandar Khalipah"
+		},
+		{
+			"id": 2,
+			"name": "Bintang Bayu"
+		},
+		{
+			"id": 3,
+			"name": "Dolok Masihul"
+		},
+		{
+			"id": 4,
+			"name": "Dolok Merawan"
+		},
+		{
+			"id": 5,
+			"name": "Kotarih"
+		},
+		{
+			"id": 6,
+			"name": "Pantai Cermin"
+		},
+		{
+			"id": 7,
+			"name": "Pegajahan"
+		},
+		{
+			"id": 8,
+			"name": "Perbaungan, Serdang Bedagai‎ (1 K"
+		},
+		{
+			"id": 9,
+			"name": "Sei Bamban"
+		},
+		{
+			"id": 10,
+			"name": "Sei Rampah"
+		},
+		{
+			"id": 11,
+			"name": "Serba Jadi"
+		},
+		{
+			"id": 12,
+			"name": "Silinda"
+		},
+		{
+			"id": 13,
+			"name": "Sipispis"
+		},
+		{
+			"id": 14,
+			"name": "Tanjung Beringin"
+		},
+		{
+			"id": 15,
+			"name": "Tebing Syahbandar"
+		},
+		{
+			"id": 16,
+			"name": "Tebing Tinggi"
+		},
+		{
+			"id": 17,
+			"name": "Teluk Mengkudu"
+		}
+	]
 }

@@ -1,25 +1,23 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Cimahi",
-	"scraped_at": "2023-01-24T06:12:42.851Z",
+	"scraped_at": "2023-01-24T07:31:43.777Z",
 	"kabupaten": {
 		"id": 23,
 		"name": "Kota Cimahi",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kota_Cimahi.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Cimahi Selatan"
-			},
-			{
-				"id": 2,
-				"name": "Cimahi Tengah"
-			},
-			{
-				"id": 3,
-				"name": "Cimahi Utara"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Cimahi Selatan"
+		},
+		{
+			"id": 2,
+			"name": "Cimahi Tengah"
+		},
+		{
+			"id": 3,
+			"name": "Cimahi Utara"
+		}
+	]
 }

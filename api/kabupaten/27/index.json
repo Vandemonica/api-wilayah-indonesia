@@ -1,158 +1,156 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sulawesi_Selatan",
-	"scraped_at": "2023-01-24T06:15:48.758Z",
+	"scraped_at": "2023-01-24T07:38:58.101Z",
 	"provinsi": {
 		"id": 27,
 		"code": "73",
 		"name": "Sulawesi Selatan",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Coat_of_arms_of_South_Sulawesi.svg"
 	},
-	"data": {
-		"kabupaten": [
-			{
-				"id": 1,
-				"name": "Kabupaten Bantaeng",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bantaeng_Regency_Logo.png",
-				"capital": "Bantaeng"
-			},
-			{
-				"id": 2,
-				"name": "Kabupaten Barru",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Barru_Regency_Logo.png",
-				"capital": "Barru"
-			},
-			{
-				"id": 3,
-				"name": "Kabupaten Bone",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bone_Regency_Logo.png",
-				"capital": "Watampone"
-			},
-			{
-				"id": 4,
-				"name": "Kabupaten Bulukumba",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Lambang_Kabupaten_Bulukumba.svg",
-				"capital": "Ujung Bulu"
-			},
-			{
-				"id": 5,
-				"name": "Kabupaten Enrekang",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lambang_Kabupaten_Enrekang.png",
-				"capital": "Enrekang"
-			},
-			{
-				"id": 6,
-				"name": "Kabupaten Gowa",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/New_Coat_of_Arms_of_Gowa.png",
-				"capital": "Sungguminasa"
-			},
-			{
-				"id": 7,
-				"name": "Kabupaten Jeneponto",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Logo-kabupaten-jeneponto.jpeg",
-				"capital": "Bontosunggu"
-			},
-			{
-				"id": 8,
-				"name": "Kabupaten Kepulauan Selayar",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_Kabupaten_Kepulauan_Selayar.png",
-				"capital": "Benteng"
-			},
-			{
-				"id": 9,
-				"name": "Kabupaten Luwu",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Luwu_Regency_Logo.png",
-				"capital": "Belopa"
-			},
-			{
-				"id": 10,
-				"name": "Kabupaten Luwu Timur",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Lambang_Kabupaten_Luwu_Timur.png",
-				"capital": "Malili"
-			},
-			{
-				"id": 11,
-				"name": "Kabupaten Luwu Utara",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Luwu_Utara_Logo_%28North_Luwu%29.png",
-				"capital": "Masamba"
-			},
-			{
-				"id": 12,
-				"name": "Kabupaten Maros",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Maros_Regency_Official_Logo.png",
-				"capital": "Turikale"
-			},
-			{
-				"id": 13,
-				"name": "Kabupaten Pangkajene dan Kepulauan",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Official_Regency_Logo_of_Pangkajene_dan_Kepulauan.png",
-				"capital": "Pangkajene"
-			},
-			{
-				"id": 14,
-				"name": "Kabupaten Pinrang",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/86/Official_Logo_of_Pinrang_Regency.png",
-				"capital": "Watang Sawitto"
-			},
-			{
-				"id": 15,
-				"name": "Kabupaten Sidenreng Rappang",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Official_Logo_of_Sidenreng_Rappang_Regency.png",
-				"capital": "Pangkajene Sidenreng"
-			},
-			{
-				"id": 16,
-				"name": "Kabupaten Sinjai",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lambang_Kabupaten_Sinjai.png",
-				"capital": "Balangnipa"
-			},
-			{
-				"id": 17,
-				"name": "Kabupaten Soppeng",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Official_Logo_of_Soppeng_Regency.png",
-				"capital": "Watansoppeng"
-			},
-			{
-				"id": 18,
-				"name": "Kabupaten Takalar",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lambang_Kabupaten_Takalar.png",
-				"capital": "Pattallassang"
-			},
-			{
-				"id": 19,
-				"name": "Kabupaten Tana Toraja",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Coat_of_Arms%2C_Tana_Toraja_Regency.png",
-				"capital": "Makale"
-			},
-			{
-				"id": 20,
-				"name": "Kabupaten Toraja Utara",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Coat_of_Arms_of_Toraja_Utara_Regency.png",
-				"capital": "Rantepao"
-			},
-			{
-				"id": 21,
-				"name": "Kabupaten Wajo",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lambang_Kabupaten_Wajo.png",
-				"capital": "Sengkang"
-			},
-			{
-				"id": 22,
-				"name": "Kota Makassar",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Coat_of_Arms_of_City_Makassar.png",
-				"capital": "-"
-			},
-			{
-				"id": 23,
-				"name": "Kota Palopo",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Lambang_Kota_Palopo_COA.jpg",
-				"capital": "-"
-			},
-			{
-				"id": 24,
-				"name": "Kota Parepare",
-				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lambang_Kota_Parepare.png",
-				"capital": "-"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Kabupaten Bantaeng",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bantaeng_Regency_Logo.png",
+			"capital": "Bantaeng"
+		},
+		{
+			"id": 2,
+			"name": "Kabupaten Barru",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Barru_Regency_Logo.png",
+			"capital": "Barru"
+		},
+		{
+			"id": 3,
+			"name": "Kabupaten Bone",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bone_Regency_Logo.png",
+			"capital": "Watampone"
+		},
+		{
+			"id": 4,
+			"name": "Kabupaten Bulukumba",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Lambang_Kabupaten_Bulukumba.svg",
+			"capital": "Ujung Bulu"
+		},
+		{
+			"id": 5,
+			"name": "Kabupaten Enrekang",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lambang_Kabupaten_Enrekang.png",
+			"capital": "Enrekang"
+		},
+		{
+			"id": 6,
+			"name": "Kabupaten Gowa",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/New_Coat_of_Arms_of_Gowa.png",
+			"capital": "Sungguminasa"
+		},
+		{
+			"id": 7,
+			"name": "Kabupaten Jeneponto",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Logo-kabupaten-jeneponto.jpeg",
+			"capital": "Bontosunggu"
+		},
+		{
+			"id": 8,
+			"name": "Kabupaten Kepulauan Selayar",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_Kabupaten_Kepulauan_Selayar.png",
+			"capital": "Benteng"
+		},
+		{
+			"id": 9,
+			"name": "Kabupaten Luwu",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Luwu_Regency_Logo.png",
+			"capital": "Belopa"
+		},
+		{
+			"id": 10,
+			"name": "Kabupaten Luwu Timur",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Lambang_Kabupaten_Luwu_Timur.png",
+			"capital": "Malili"
+		},
+		{
+			"id": 11,
+			"name": "Kabupaten Luwu Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Luwu_Utara_Logo_%28North_Luwu%29.png",
+			"capital": "Masamba"
+		},
+		{
+			"id": 12,
+			"name": "Kabupaten Maros",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Maros_Regency_Official_Logo.png",
+			"capital": "Turikale"
+		},
+		{
+			"id": 13,
+			"name": "Kabupaten Pangkajene dan Kepulauan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Official_Regency_Logo_of_Pangkajene_dan_Kepulauan.png",
+			"capital": "Pangkajene"
+		},
+		{
+			"id": 14,
+			"name": "Kabupaten Pinrang",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/86/Official_Logo_of_Pinrang_Regency.png",
+			"capital": "Watang Sawitto"
+		},
+		{
+			"id": 15,
+			"name": "Kabupaten Sidenreng Rappang",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Official_Logo_of_Sidenreng_Rappang_Regency.png",
+			"capital": "Pangkajene Sidenreng"
+		},
+		{
+			"id": 16,
+			"name": "Kabupaten Sinjai",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lambang_Kabupaten_Sinjai.png",
+			"capital": "Balangnipa"
+		},
+		{
+			"id": 17,
+			"name": "Kabupaten Soppeng",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Official_Logo_of_Soppeng_Regency.png",
+			"capital": "Watansoppeng"
+		},
+		{
+			"id": 18,
+			"name": "Kabupaten Takalar",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lambang_Kabupaten_Takalar.png",
+			"capital": "Pattallassang"
+		},
+		{
+			"id": 19,
+			"name": "Kabupaten Tana Toraja",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Coat_of_Arms%2C_Tana_Toraja_Regency.png",
+			"capital": "Makale"
+		},
+		{
+			"id": 20,
+			"name": "Kabupaten Toraja Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Coat_of_Arms_of_Toraja_Utara_Regency.png",
+			"capital": "Rantepao"
+		},
+		{
+			"id": 21,
+			"name": "Kabupaten Wajo",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lambang_Kabupaten_Wajo.png",
+			"capital": "Sengkang"
+		},
+		{
+			"id": 22,
+			"name": "Kota Makassar",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Coat_of_Arms_of_City_Makassar.png",
+			"capital": "-"
+		},
+		{
+			"id": 23,
+			"name": "Kota Palopo",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Lambang_Kota_Palopo_COA.jpg",
+			"capital": "-"
+		},
+		{
+			"id": 24,
+			"name": "Kota Parepare",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lambang_Kota_Parepare.png",
+			"capital": "-"
+		}
+	]
 }

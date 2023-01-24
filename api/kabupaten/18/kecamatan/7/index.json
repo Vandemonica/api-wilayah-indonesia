@@ -1,109 +1,107 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sumbawa",
-	"scraped_at": "2023-01-24T06:14:03.950Z",
+	"scraped_at": "2023-01-24T07:34:03.360Z",
 	"kabupaten": {
 		"id": 7,
 		"name": "Kabupaten Sumbawa",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lambang_Kabupaten_Sumbawa.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Alas Barat"
-			},
-			{
-				"id": 2,
-				"name": "Alas"
-			},
-			{
-				"id": 3,
-				"name": "Batu Lanteh"
-			},
-			{
-				"id": 4,
-				"name": "Buer"
-			},
-			{
-				"id": 5,
-				"name": "Empang"
-			},
-			{
-				"id": 6,
-				"name": "Labangka"
-			},
-			{
-				"id": 7,
-				"name": "Labuhan Badas"
-			},
-			{
-				"id": 8,
-				"name": "Lantung"
-			},
-			{
-				"id": 9,
-				"name": "Lape"
-			},
-			{
-				"id": 10,
-				"name": "Lenangguar"
-			},
-			{
-				"id": 11,
-				"name": "Lopok"
-			},
-			{
-				"id": 12,
-				"name": "Lunyuk"
-			},
-			{
-				"id": 13,
-				"name": "Maronge"
-			},
-			{
-				"id": 14,
-				"name": "Moyo Hilir"
-			},
-			{
-				"id": 15,
-				"name": "Moyo Hulu"
-			},
-			{
-				"id": 16,
-				"name": "Moyo Utara"
-			},
-			{
-				"id": 17,
-				"name": "Orong Telu"
-			},
-			{
-				"id": 18,
-				"name": "Plampang"
-			},
-			{
-				"id": 19,
-				"name": "Rhee"
-			},
-			{
-				"id": 20,
-				"name": "Ropang"
-			},
-			{
-				"id": 21,
-				"name": "Sumbawa"
-			},
-			{
-				"id": 22,
-				"name": "Tarano"
-			},
-			{
-				"id": 23,
-				"name": "Unter Iwes"
-			},
-			{
-				"id": 24,
-				"name": "Utan"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Alas Barat"
+		},
+		{
+			"id": 2,
+			"name": "Alas"
+		},
+		{
+			"id": 3,
+			"name": "Batu Lanteh"
+		},
+		{
+			"id": 4,
+			"name": "Buer"
+		},
+		{
+			"id": 5,
+			"name": "Empang"
+		},
+		{
+			"id": 6,
+			"name": "Labangka"
+		},
+		{
+			"id": 7,
+			"name": "Labuhan Badas"
+		},
+		{
+			"id": 8,
+			"name": "Lantung"
+		},
+		{
+			"id": 9,
+			"name": "Lape"
+		},
+		{
+			"id": 10,
+			"name": "Lenangguar"
+		},
+		{
+			"id": 11,
+			"name": "Lopok"
+		},
+		{
+			"id": 12,
+			"name": "Lunyuk"
+		},
+		{
+			"id": 13,
+			"name": "Maronge"
+		},
+		{
+			"id": 14,
+			"name": "Moyo Hilir"
+		},
+		{
+			"id": 15,
+			"name": "Moyo Hulu"
+		},
+		{
+			"id": 16,
+			"name": "Moyo Utara"
+		},
+		{
+			"id": 17,
+			"name": "Orong Telu"
+		},
+		{
+			"id": 18,
+			"name": "Plampang"
+		},
+		{
+			"id": 19,
+			"name": "Rhee"
+		},
+		{
+			"id": 20,
+			"name": "Ropang"
+		},
+		{
+			"id": 21,
+			"name": "Sumbawa"
+		},
+		{
+			"id": 22,
+			"name": "Tarano"
+		},
+		{
+			"id": 23,
+			"name": "Unter Iwes"
+		},
+		{
+			"id": 24,
+			"name": "Utan"
+		}
+	]
 }

@@ -1,117 +1,115 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kebumen",
-	"scraped_at": "2023-01-24T06:12:55.931Z",
+	"scraped_at": "2023-01-24T07:31:59.122Z",
 	"kabupaten": {
 		"id": 12,
 		"name": "Kabupaten Kebumen",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Seal_of_Kebumen_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Adimulyo, Kebumen‎ (1 K"
-			},
-			{
-				"id": 2,
-				"name": "Alian"
-			},
-			{
-				"id": 3,
-				"name": "Ambal"
-			},
-			{
-				"id": 4,
-				"name": "Ayah, Kebumen‎ (22 H"
-			},
-			{
-				"id": 5,
-				"name": "Bonorowo"
-			},
-			{
-				"id": 6,
-				"name": "Buayan"
-			},
-			{
-				"id": 7,
-				"name": "Buluspesantren"
-			},
-			{
-				"id": 8,
-				"name": "Gombong"
-			},
-			{
-				"id": 9,
-				"name": "Karanganyar"
-			},
-			{
-				"id": 10,
-				"name": "Karanggayam"
-			},
-			{
-				"id": 11,
-				"name": "Karangsambung"
-			},
-			{
-				"id": 12,
-				"name": "Kebumen, Kebumen‎ (1 K, 38 H"
-			},
-			{
-				"id": 13,
-				"name": "Klirong"
-			},
-			{
-				"id": 14,
-				"name": "Kutowinangun"
-			},
-			{
-				"id": 15,
-				"name": "Kuwarasan"
-			},
-			{
-				"id": 16,
-				"name": "Mirit"
-			},
-			{
-				"id": 17,
-				"name": "Padureso"
-			},
-			{
-				"id": 18,
-				"name": "Pejagoan"
-			},
-			{
-				"id": 19,
-				"name": "Petanahan"
-			},
-			{
-				"id": 20,
-				"name": "Poncowarno"
-			},
-			{
-				"id": 21,
-				"name": "Prembun"
-			},
-			{
-				"id": 22,
-				"name": "Puring"
-			},
-			{
-				"id": 23,
-				"name": "Rowokele"
-			},
-			{
-				"id": 24,
-				"name": "Sadang"
-			},
-			{
-				"id": 25,
-				"name": "Sempor"
-			},
-			{
-				"id": 26,
-				"name": "Sruweng, Kebumen‎ (26 H"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Adimulyo, Kebumen‎ (1 K"
+		},
+		{
+			"id": 2,
+			"name": "Alian"
+		},
+		{
+			"id": 3,
+			"name": "Ambal"
+		},
+		{
+			"id": 4,
+			"name": "Ayah, Kebumen‎ (22 H"
+		},
+		{
+			"id": 5,
+			"name": "Bonorowo"
+		},
+		{
+			"id": 6,
+			"name": "Buayan"
+		},
+		{
+			"id": 7,
+			"name": "Buluspesantren"
+		},
+		{
+			"id": 8,
+			"name": "Gombong"
+		},
+		{
+			"id": 9,
+			"name": "Karanganyar"
+		},
+		{
+			"id": 10,
+			"name": "Karanggayam"
+		},
+		{
+			"id": 11,
+			"name": "Karangsambung"
+		},
+		{
+			"id": 12,
+			"name": "Kebumen, Kebumen‎ (1 K, 38 H"
+		},
+		{
+			"id": 13,
+			"name": "Klirong"
+		},
+		{
+			"id": 14,
+			"name": "Kutowinangun"
+		},
+		{
+			"id": 15,
+			"name": "Kuwarasan"
+		},
+		{
+			"id": 16,
+			"name": "Mirit"
+		},
+		{
+			"id": 17,
+			"name": "Padureso"
+		},
+		{
+			"id": 18,
+			"name": "Pejagoan"
+		},
+		{
+			"id": 19,
+			"name": "Petanahan"
+		},
+		{
+			"id": 20,
+			"name": "Poncowarno"
+		},
+		{
+			"id": 21,
+			"name": "Prembun"
+		},
+		{
+			"id": 22,
+			"name": "Puring"
+		},
+		{
+			"id": 23,
+			"name": "Rowokele"
+		},
+		{
+			"id": 24,
+			"name": "Sadang"
+		},
+		{
+			"id": 25,
+			"name": "Sempor"
+		},
+		{
+			"id": 26,
+			"name": "Sruweng, Kebumen‎ (26 H"
+		}
+	]
 }

@@ -1,45 +1,43 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tidore Kepulauan",
-	"scraped_at": "2023-01-24T06:16:58.222Z",
+	"scraped_at": "2023-01-24T07:40:58.801Z",
 	"kabupaten": {
 		"id": 10,
 		"name": "Kota Tidore Kepulauan",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lambang_Kota_Tidore_Kepulauan.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Oba"
-			},
-			{
-				"id": 2,
-				"name": "Oba Selatan"
-			},
-			{
-				"id": 3,
-				"name": "Oba Tengah"
-			},
-			{
-				"id": 4,
-				"name": "Oba Utara"
-			},
-			{
-				"id": 5,
-				"name": "Tidore"
-			},
-			{
-				"id": 6,
-				"name": "Tidore Selatan"
-			},
-			{
-				"id": 7,
-				"name": "Tidore Timur"
-			},
-			{
-				"id": 8,
-				"name": "Tidore Utara"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Oba"
+		},
+		{
+			"id": 2,
+			"name": "Oba Selatan"
+		},
+		{
+			"id": 3,
+			"name": "Oba Tengah"
+		},
+		{
+			"id": 4,
+			"name": "Oba Utara"
+		},
+		{
+			"id": 5,
+			"name": "Tidore"
+		},
+		{
+			"id": 6,
+			"name": "Tidore Selatan"
+		},
+		{
+			"id": 7,
+			"name": "Tidore Timur"
+		},
+		{
+			"id": 8,
+			"name": "Tidore Utara"
+		}
+	]
 }

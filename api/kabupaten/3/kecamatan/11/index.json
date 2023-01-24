@@ -1,41 +1,39 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Solok Selatan",
-	"scraped_at": "2023-01-24T06:10:23.668Z",
+	"scraped_at": "2023-01-24T07:28:39.325Z",
 	"kabupaten": {
 		"id": 11,
 		"name": "Kabupaten Solok Selatan",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Lambang_Kabupaten_Solok_Selatan.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Koto Parik Gadang Diateh"
-			},
-			{
-				"id": 2,
-				"name": "Pauh Duo"
-			},
-			{
-				"id": 3,
-				"name": "Sangir Balai Janggo"
-			},
-			{
-				"id": 4,
-				"name": "Sangir Batang Hari"
-			},
-			{
-				"id": 5,
-				"name": "Sangir Jujuan"
-			},
-			{
-				"id": 6,
-				"name": "Sangir"
-			},
-			{
-				"id": 7,
-				"name": "Sungai Pagu"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Koto Parik Gadang Diateh"
+		},
+		{
+			"id": 2,
+			"name": "Pauh Duo"
+		},
+		{
+			"id": 3,
+			"name": "Sangir Balai Janggo"
+		},
+		{
+			"id": 4,
+			"name": "Sangir Batang Hari"
+		},
+		{
+			"id": 5,
+			"name": "Sangir Jujuan"
+		},
+		{
+			"id": 6,
+			"name": "Sangir"
+		},
+		{
+			"id": 7,
+			"name": "Sungai Pagu"
+		}
+	]
 }

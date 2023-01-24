@@ -1,57 +1,55 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Hulu Sungai Tengah",
-	"scraped_at": "2023-01-24T06:14:59.818Z",
+	"scraped_at": "2023-01-24T07:37:07.403Z",
 	"kabupaten": {
 		"id": 5,
 		"name": "Kabupaten Hulu Sungai Tengah",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lambang_Kabupaten_Hulu_Sungai_Tengah.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Barabai"
-			},
-			{
-				"id": 2,
-				"name": "Batang Alai Selatan"
-			},
-			{
-				"id": 3,
-				"name": "Batang Alai Timur"
-			},
-			{
-				"id": 4,
-				"name": "Batang Alai Utara"
-			},
-			{
-				"id": 5,
-				"name": "Batu Benawa"
-			},
-			{
-				"id": 6,
-				"name": "Hantakan"
-			},
-			{
-				"id": 7,
-				"name": "Haruyan"
-			},
-			{
-				"id": 8,
-				"name": "Labuan Amas Selatan"
-			},
-			{
-				"id": 9,
-				"name": "Labuan Amas Utara"
-			},
-			{
-				"id": 10,
-				"name": "Limpasu"
-			},
-			{
-				"id": 11,
-				"name": "Pandawan"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Barabai"
+		},
+		{
+			"id": 2,
+			"name": "Batang Alai Selatan"
+		},
+		{
+			"id": 3,
+			"name": "Batang Alai Timur"
+		},
+		{
+			"id": 4,
+			"name": "Batang Alai Utara"
+		},
+		{
+			"id": 5,
+			"name": "Batu Benawa"
+		},
+		{
+			"id": 6,
+			"name": "Hantakan"
+		},
+		{
+			"id": 7,
+			"name": "Haruyan"
+		},
+		{
+			"id": 8,
+			"name": "Labuan Amas Selatan"
+		},
+		{
+			"id": 9,
+			"name": "Labuan Amas Utara"
+		},
+		{
+			"id": 10,
+			"name": "Limpasu"
+		},
+		{
+			"id": 11,
+			"name": "Pandawan"
+		}
+	]
 }

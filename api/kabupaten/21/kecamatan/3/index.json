@@ -1,49 +1,47 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Barito Utara",
-	"scraped_at": "2023-01-24T06:14:43.936Z",
+	"scraped_at": "2023-01-24T07:36:37.523Z",
 	"kabupaten": {
 		"id": 3,
 		"name": "Kabupaten Barito Utara",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Lambang_Kabupaten_Barito_Utara.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Gunung Purei"
-			},
-			{
-				"id": 2,
-				"name": "Gunung Timang"
-			},
-			{
-				"id": 3,
-				"name": "Lahei Barat"
-			},
-			{
-				"id": 4,
-				"name": "Lahei"
-			},
-			{
-				"id": 5,
-				"name": "Montallat"
-			},
-			{
-				"id": 6,
-				"name": "Teweh Baru"
-			},
-			{
-				"id": 7,
-				"name": "Teweh Selatan"
-			},
-			{
-				"id": 8,
-				"name": "Teweh Tengah"
-			},
-			{
-				"id": 9,
-				"name": "Teweh Timur"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Gunung Purei"
+		},
+		{
+			"id": 2,
+			"name": "Gunung Timang"
+		},
+		{
+			"id": 3,
+			"name": "Lahei Barat"
+		},
+		{
+			"id": 4,
+			"name": "Lahei"
+		},
+		{
+			"id": 5,
+			"name": "Montallat"
+		},
+		{
+			"id": 6,
+			"name": "Teweh Baru"
+		},
+		{
+			"id": 7,
+			"name": "Teweh Selatan"
+		},
+		{
+			"id": 8,
+			"name": "Teweh Tengah"
+		},
+		{
+			"id": 9,
+			"name": "Teweh Timur"
+		}
+	]
 }

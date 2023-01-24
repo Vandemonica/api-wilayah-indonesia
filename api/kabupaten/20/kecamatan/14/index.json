@@ -1,33 +1,31 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Singkawang",
-	"scraped_at": "2023-01-24T06:14:39.875Z",
+	"scraped_at": "2023-01-24T07:36:17.572Z",
 	"kabupaten": {
 		"id": 14,
 		"name": "Kota Singkawang",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lambang_KotaSingkawang.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Singkawang Barat"
-			},
-			{
-				"id": 2,
-				"name": "Singkawang Selatan"
-			},
-			{
-				"id": 3,
-				"name": "Singkawang Tengah"
-			},
-			{
-				"id": 4,
-				"name": "Singkawang Timur"
-			},
-			{
-				"id": 5,
-				"name": "Singkawang Utara"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Singkawang Barat"
+		},
+		{
+			"id": 2,
+			"name": "Singkawang Selatan"
+		},
+		{
+			"id": 3,
+			"name": "Singkawang Tengah"
+		},
+		{
+			"id": 4,
+			"name": "Singkawang Timur"
+		},
+		{
+			"id": 5,
+			"name": "Singkawang Utara"
+		}
+	]
 }

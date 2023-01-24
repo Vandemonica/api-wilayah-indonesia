@@ -1,73 +1,71 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Pekanbaru",
-	"scraped_at": "2023-01-24T06:10:47.322Z",
+	"scraped_at": "2023-01-24T07:29:00.811Z",
 	"kabupaten": {
 		"id": 12,
 		"name": "Kota Pekanbaru",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Pekanbaru_coa.GIF"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Binawidya"
-			},
-			{
-				"id": 2,
-				"name": "Bukit Raya"
-			},
-			{
-				"id": 3,
-				"name": "Kulim"
-			},
-			{
-				"id": 4,
-				"name": "Lima Puluh"
-			},
-			{
-				"id": 5,
-				"name": "Marpoyan Damai"
-			},
-			{
-				"id": 6,
-				"name": "Payung Sekaki"
-			},
-			{
-				"id": 7,
-				"name": "Pekanbaru Kota, Pekanbaru‎ (7 H"
-			},
-			{
-				"id": 8,
-				"name": "Rumbai Barat"
-			},
-			{
-				"id": 9,
-				"name": "Rumbai Timur"
-			},
-			{
-				"id": 10,
-				"name": "Rumbai"
-			},
-			{
-				"id": 11,
-				"name": "Sail"
-			},
-			{
-				"id": 12,
-				"name": "Senapelan"
-			},
-			{
-				"id": 13,
-				"name": "Sukajadi"
-			},
-			{
-				"id": 14,
-				"name": "Tenayan Raya"
-			},
-			{
-				"id": 15,
-				"name": "Tuah Madani"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Binawidya"
+		},
+		{
+			"id": 2,
+			"name": "Bukit Raya"
+		},
+		{
+			"id": 3,
+			"name": "Kulim"
+		},
+		{
+			"id": 4,
+			"name": "Lima Puluh"
+		},
+		{
+			"id": 5,
+			"name": "Marpoyan Damai"
+		},
+		{
+			"id": 6,
+			"name": "Payung Sekaki"
+		},
+		{
+			"id": 7,
+			"name": "Pekanbaru Kota, Pekanbaru‎ (7 H"
+		},
+		{
+			"id": 8,
+			"name": "Rumbai Barat"
+		},
+		{
+			"id": 9,
+			"name": "Rumbai Timur"
+		},
+		{
+			"id": 10,
+			"name": "Rumbai"
+		},
+		{
+			"id": 11,
+			"name": "Sail"
+		},
+		{
+			"id": 12,
+			"name": "Senapelan"
+		},
+		{
+			"id": 13,
+			"name": "Sukajadi"
+		},
+		{
+			"id": 14,
+			"name": "Tenayan Raya"
+		},
+		{
+			"id": 15,
+			"name": "Tuah Madani"
+		}
+	]
 }

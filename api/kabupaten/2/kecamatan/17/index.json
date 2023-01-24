@@ -1,61 +1,59 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Padang Lawas Utara",
-	"scraped_at": "2023-01-24T06:09:55.425Z",
+	"scraped_at": "2023-01-24T07:28:09.108Z",
 	"kabupaten": {
 		"id": 17,
 		"name": "Kabupaten Padang Lawas Utara",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lambang_padang_lawas_utara.jpg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Batang Onang"
-			},
-			{
-				"id": 2,
-				"name": "Dolok Sigompulon"
-			},
-			{
-				"id": 3,
-				"name": "Dolok"
-			},
-			{
-				"id": 4,
-				"name": "Halongonan Timur"
-			},
-			{
-				"id": 5,
-				"name": "Halongonan"
-			},
-			{
-				"id": 6,
-				"name": "Hulu Sihapas"
-			},
-			{
-				"id": 7,
-				"name": "Padang Bolak Julu"
-			},
-			{
-				"id": 8,
-				"name": "Padang Bolak Tenggara"
-			},
-			{
-				"id": 9,
-				"name": "Padang Bolak"
-			},
-			{
-				"id": 10,
-				"name": "Portibi"
-			},
-			{
-				"id": 11,
-				"name": "Simangambat"
-			},
-			{
-				"id": 12,
-				"name": "Ujung Batu"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Batang Onang"
+		},
+		{
+			"id": 2,
+			"name": "Dolok Sigompulon"
+		},
+		{
+			"id": 3,
+			"name": "Dolok"
+		},
+		{
+			"id": 4,
+			"name": "Halongonan Timur"
+		},
+		{
+			"id": 5,
+			"name": "Halongonan"
+		},
+		{
+			"id": 6,
+			"name": "Hulu Sihapas"
+		},
+		{
+			"id": 7,
+			"name": "Padang Bolak Julu"
+		},
+		{
+			"id": 8,
+			"name": "Padang Bolak Tenggara"
+		},
+		{
+			"id": 9,
+			"name": "Padang Bolak"
+		},
+		{
+			"id": 10,
+			"name": "Portibi"
+		},
+		{
+			"id": 11,
+			"name": "Simangambat"
+		},
+		{
+			"id": 12,
+			"name": "Ujung Batu"
+		}
+	]
 }

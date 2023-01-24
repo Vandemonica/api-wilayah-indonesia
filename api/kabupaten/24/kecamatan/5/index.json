@@ -1,29 +1,27 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tarakan",
-	"scraped_at": "2023-01-24T06:15:21.111Z",
+	"scraped_at": "2023-01-24T07:37:57.234Z",
 	"kabupaten": {
 		"id": 5,
 		"name": "Kota Tarakan",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lambang_Kota_Tarakan.gif"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Tarakan Barat"
-			},
-			{
-				"id": 2,
-				"name": "Tarakan Tengah"
-			},
-			{
-				"id": 3,
-				"name": "Tarakan Timur"
-			},
-			{
-				"id": 4,
-				"name": "Tarakan Utara"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Tarakan Barat"
+		},
+		{
+			"id": 2,
+			"name": "Tarakan Tengah"
+		},
+		{
+			"id": 3,
+			"name": "Tarakan Timur"
+		},
+		{
+			"id": 4,
+			"name": "Tarakan Utara"
+		}
+	]
 }

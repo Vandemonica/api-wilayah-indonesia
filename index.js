@@ -43,12 +43,12 @@ const uniqueRegion = {
 
   const provinces = await fetchProvinsi(page);
 
-  for (let i = 0; i < provinces.data.provinsi.length; i++) {
-    const province = provinces.data.provinsi[i];
+  for (let i = 0; i < provinces.data.length; i++) {
+    const province = provinces.data[i];
     const regions = await fetchKabupaten(page, province);
 
-    for (let i = 0; i < regions.data.kabupaten.length; i++) {
-      const region = regions.data.kabupaten[i];
+    for (let i = 0; i < regions.data.length; i++) {
+      const region = regions.data[i];
 
       if (uniqueRegion.kapanewon.includes(province.name)) {
         // await fetchKapanewon(page, region, regions.provinsi.id, (i + 1));

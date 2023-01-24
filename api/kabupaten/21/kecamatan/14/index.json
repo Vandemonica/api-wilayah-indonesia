@@ -1,33 +1,31 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Palangka Raya",
-	"scraped_at": "2023-01-24T06:14:54.192Z",
+	"scraped_at": "2023-01-24T07:36:54.653Z",
 	"kabupaten": {
 		"id": 14,
 		"name": "Kota Palangka Raya",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lambang_Kota_Palangka_Raya.gif"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bukit Batu"
-			},
-			{
-				"id": 2,
-				"name": "Jekan Raya"
-			},
-			{
-				"id": 3,
-				"name": "Pahandut"
-			},
-			{
-				"id": 4,
-				"name": "Rakumpit"
-			},
-			{
-				"id": 5,
-				"name": "Sabangau"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bukit Batu"
+		},
+		{
+			"id": 2,
+			"name": "Jekan Raya"
+		},
+		{
+			"id": 3,
+			"name": "Pahandut"
+		},
+		{
+			"id": 4,
+			"name": "Rakumpit"
+		},
+		{
+			"id": 5,
+			"name": "Sabangau"
+		}
+	]
 }

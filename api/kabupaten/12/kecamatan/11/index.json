@@ -1,141 +1,139 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kuningan",
-	"scraped_at": "2023-01-24T06:12:32.991Z",
+	"scraped_at": "2023-01-24T07:31:31.951Z",
 	"kabupaten": {
 		"id": 11,
 		"name": "Kabupaten Kuningan",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Seal_of_Kuningan_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Ciawigebang"
-			},
-			{
-				"id": 2,
-				"name": "Cibeureum"
-			},
-			{
-				"id": 3,
-				"name": "Cibingbin"
-			},
-			{
-				"id": 4,
-				"name": "Cidahu"
-			},
-			{
-				"id": 5,
-				"name": "Cigandamekar"
-			},
-			{
-				"id": 6,
-				"name": "Cigugur"
-			},
-			{
-				"id": 7,
-				"name": "Cilebak"
-			},
-			{
-				"id": 8,
-				"name": "Cilimus"
-			},
-			{
-				"id": 9,
-				"name": "Cimahi"
-			},
-			{
-				"id": 10,
-				"name": "Ciniru"
-			},
-			{
-				"id": 11,
-				"name": "Cipicung"
-			},
-			{
-				"id": 12,
-				"name": "Ciwaru"
-			},
-			{
-				"id": 13,
-				"name": "Darma"
-			},
-			{
-				"id": 14,
-				"name": "Garawangi"
-			},
-			{
-				"id": 15,
-				"name": "Hantara"
-			},
-			{
-				"id": 16,
-				"name": "Jalaksana"
-			},
-			{
-				"id": 17,
-				"name": "Japara"
-			},
-			{
-				"id": 18,
-				"name": "Kadugede"
-			},
-			{
-				"id": 19,
-				"name": "Kalimanggis"
-			},
-			{
-				"id": 20,
-				"name": "Karangkancana"
-			},
-			{
-				"id": 21,
-				"name": "Kramatmulya, Kuningan‎ (2 K"
-			},
-			{
-				"id": 22,
-				"name": "Kuningan"
-			},
-			{
-				"id": 23,
-				"name": "Lebakwangi"
-			},
-			{
-				"id": 24,
-				"name": "Luragung"
-			},
-			{
-				"id": 25,
-				"name": "Maleber"
-			},
-			{
-				"id": 26,
-				"name": "Mandirancan"
-			},
-			{
-				"id": 27,
-				"name": "Nusaherang"
-			},
-			{
-				"id": 28,
-				"name": "Pancalang"
-			},
-			{
-				"id": 29,
-				"name": "Pasawahan"
-			},
-			{
-				"id": 30,
-				"name": "Selajambe"
-			},
-			{
-				"id": 31,
-				"name": "Sindangagung"
-			},
-			{
-				"id": 32,
-				"name": "Subang"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Ciawigebang"
+		},
+		{
+			"id": 2,
+			"name": "Cibeureum"
+		},
+		{
+			"id": 3,
+			"name": "Cibingbin"
+		},
+		{
+			"id": 4,
+			"name": "Cidahu"
+		},
+		{
+			"id": 5,
+			"name": "Cigandamekar"
+		},
+		{
+			"id": 6,
+			"name": "Cigugur"
+		},
+		{
+			"id": 7,
+			"name": "Cilebak"
+		},
+		{
+			"id": 8,
+			"name": "Cilimus"
+		},
+		{
+			"id": 9,
+			"name": "Cimahi"
+		},
+		{
+			"id": 10,
+			"name": "Ciniru"
+		},
+		{
+			"id": 11,
+			"name": "Cipicung"
+		},
+		{
+			"id": 12,
+			"name": "Ciwaru"
+		},
+		{
+			"id": 13,
+			"name": "Darma"
+		},
+		{
+			"id": 14,
+			"name": "Garawangi"
+		},
+		{
+			"id": 15,
+			"name": "Hantara"
+		},
+		{
+			"id": 16,
+			"name": "Jalaksana"
+		},
+		{
+			"id": 17,
+			"name": "Japara"
+		},
+		{
+			"id": 18,
+			"name": "Kadugede"
+		},
+		{
+			"id": 19,
+			"name": "Kalimanggis"
+		},
+		{
+			"id": 20,
+			"name": "Karangkancana"
+		},
+		{
+			"id": 21,
+			"name": "Kramatmulya, Kuningan‎ (2 K"
+		},
+		{
+			"id": 22,
+			"name": "Kuningan"
+		},
+		{
+			"id": 23,
+			"name": "Lebakwangi"
+		},
+		{
+			"id": 24,
+			"name": "Luragung"
+		},
+		{
+			"id": 25,
+			"name": "Maleber"
+		},
+		{
+			"id": 26,
+			"name": "Mandirancan"
+		},
+		{
+			"id": 27,
+			"name": "Nusaherang"
+		},
+		{
+			"id": 28,
+			"name": "Pancalang"
+		},
+		{
+			"id": 29,
+			"name": "Pasawahan"
+		},
+		{
+			"id": 30,
+			"name": "Selajambe"
+		},
+		{
+			"id": 31,
+			"name": "Sindangagung"
+		},
+		{
+			"id": 32,
+			"name": "Subang"
+		}
+	]
 }

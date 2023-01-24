@@ -1,73 +1,71 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tulang Bawang",
-	"scraped_at": "2023-01-24T06:11:53.870Z",
+	"scraped_at": "2023-01-24T07:30:20.204Z",
 	"kabupaten": {
 		"id": 11,
 		"name": "Kabupaten Tulang Bawang",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/LOGO_KABUPATEN_TULANG_BAWANG.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Banjar Agung"
-			},
-			{
-				"id": 2,
-				"name": "Banjar Baru"
-			},
-			{
-				"id": 3,
-				"name": "Banjar Margo"
-			},
-			{
-				"id": 4,
-				"name": "Dente Teladas"
-			},
-			{
-				"id": 5,
-				"name": "Gedung Aji Baru"
-			},
-			{
-				"id": 6,
-				"name": "Gedung Aji"
-			},
-			{
-				"id": 7,
-				"name": "Gedung Meneng"
-			},
-			{
-				"id": 8,
-				"name": "Menggala Timur"
-			},
-			{
-				"id": 9,
-				"name": "Menggala"
-			},
-			{
-				"id": 10,
-				"name": "Meraksa Aji"
-			},
-			{
-				"id": 11,
-				"name": "Penawar Aji"
-			},
-			{
-				"id": 12,
-				"name": "Penawar Tama"
-			},
-			{
-				"id": 13,
-				"name": "Rawa Pitu"
-			},
-			{
-				"id": 14,
-				"name": "Rawajitu Selatan"
-			},
-			{
-				"id": 15,
-				"name": "Rawajitu Timur"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Banjar Agung"
+		},
+		{
+			"id": 2,
+			"name": "Banjar Baru"
+		},
+		{
+			"id": 3,
+			"name": "Banjar Margo"
+		},
+		{
+			"id": 4,
+			"name": "Dente Teladas"
+		},
+		{
+			"id": 5,
+			"name": "Gedung Aji Baru"
+		},
+		{
+			"id": 6,
+			"name": "Gedung Aji"
+		},
+		{
+			"id": 7,
+			"name": "Gedung Meneng"
+		},
+		{
+			"id": 8,
+			"name": "Menggala Timur"
+		},
+		{
+			"id": 9,
+			"name": "Menggala"
+		},
+		{
+			"id": 10,
+			"name": "Meraksa Aji"
+		},
+		{
+			"id": 11,
+			"name": "Penawar Aji"
+		},
+		{
+			"id": 12,
+			"name": "Penawar Tama"
+		},
+		{
+			"id": 13,
+			"name": "Rawa Pitu"
+		},
+		{
+			"id": 14,
+			"name": "Rawajitu Selatan"
+		},
+		{
+			"id": 15,
+			"name": "Rawajitu Timur"
+		}
+	]
 }

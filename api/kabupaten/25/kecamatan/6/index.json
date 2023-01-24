@@ -1,53 +1,51 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Siau Tagulandang Biaro",
-	"scraped_at": "2023-01-24T06:15:29.389Z",
+	"scraped_at": "2023-01-24T07:38:07.480Z",
 	"kabupaten": {
 		"id": 6,
 		"name": "Kabupaten Kepulauan Siau Tagulandang Biaro",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Kab._Sitaro.jpg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Biaro"
-			},
-			{
-				"id": 2,
-				"name": "Siau Barat Selatan"
-			},
-			{
-				"id": 3,
-				"name": "Siau Barat Utara"
-			},
-			{
-				"id": 4,
-				"name": "Siau Barat"
-			},
-			{
-				"id": 5,
-				"name": "Siau Tengah"
-			},
-			{
-				"id": 6,
-				"name": "Siau Timur Selatan"
-			},
-			{
-				"id": 7,
-				"name": "Siau Timur"
-			},
-			{
-				"id": 8,
-				"name": "Tagulandang Selatan"
-			},
-			{
-				"id": 9,
-				"name": "Tagulandang Utara"
-			},
-			{
-				"id": 10,
-				"name": "Tagulandang"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Biaro"
+		},
+		{
+			"id": 2,
+			"name": "Siau Barat Selatan"
+		},
+		{
+			"id": 3,
+			"name": "Siau Barat Utara"
+		},
+		{
+			"id": 4,
+			"name": "Siau Barat"
+		},
+		{
+			"id": 5,
+			"name": "Siau Tengah"
+		},
+		{
+			"id": 6,
+			"name": "Siau Timur Selatan"
+		},
+		{
+			"id": 7,
+			"name": "Siau Timur"
+		},
+		{
+			"id": 8,
+			"name": "Tagulandang Selatan"
+		},
+		{
+			"id": 9,
+			"name": "Tagulandang Utara"
+		},
+		{
+			"id": 10,
+			"name": "Tagulandang"
+		}
+	]
 }

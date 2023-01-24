@@ -1,33 +1,31 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lombok Utara",
-	"scraped_at": "2023-01-24T06:14:02.577Z",
+	"scraped_at": "2023-01-24T07:33:59.503Z",
 	"kabupaten": {
 		"id": 6,
 		"name": "Kabupaten Lombok Utara",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Seal_of_Lombok_Utara_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bayan"
-			},
-			{
-				"id": 2,
-				"name": "Gangga"
-			},
-			{
-				"id": 3,
-				"name": "Kayangan"
-			},
-			{
-				"id": 4,
-				"name": "Pemenang"
-			},
-			{
-				"id": 5,
-				"name": "Tanjung"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bayan"
+		},
+		{
+			"id": 2,
+			"name": "Gangga"
+		},
+		{
+			"id": 3,
+			"name": "Kayangan"
+		},
+		{
+			"id": 4,
+			"name": "Pemenang"
+		},
+		{
+			"id": 5,
+			"name": "Tanjung"
+		}
+	]
 }

@@ -1,45 +1,43 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bantaeng",
-	"scraped_at": "2023-01-24T06:15:49.692Z",
+	"scraped_at": "2023-01-24T07:38:59.117Z",
 	"kabupaten": {
 		"id": 1,
 		"name": "Kabupaten Bantaeng",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bantaeng_Regency_Logo.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bantaeng"
-			},
-			{
-				"id": 2,
-				"name": "Bissappu"
-			},
-			{
-				"id": 3,
-				"name": "Eremerasa"
-			},
-			{
-				"id": 4,
-				"name": "Gantarangkeke"
-			},
-			{
-				"id": 5,
-				"name": "Pa'jukukang"
-			},
-			{
-				"id": 6,
-				"name": "Sinoa"
-			},
-			{
-				"id": 7,
-				"name": "Tompobulu"
-			},
-			{
-				"id": 8,
-				"name": "Uluere"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bantaeng"
+		},
+		{
+			"id": 2,
+			"name": "Bissappu"
+		},
+		{
+			"id": 3,
+			"name": "Eremerasa"
+		},
+		{
+			"id": 4,
+			"name": "Gantarangkeke"
+		},
+		{
+			"id": 5,
+			"name": "Pa'jukukang"
+		},
+		{
+			"id": 6,
+			"name": "Sinoa"
+		},
+		{
+			"id": 7,
+			"name": "Tompobulu"
+		},
+		{
+			"id": 8,
+			"name": "Uluere"
+		}
+	]
 }

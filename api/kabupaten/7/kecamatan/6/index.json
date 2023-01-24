@@ -1,61 +1,59 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lebong",
-	"scraped_at": "2023-01-24T06:11:37.928Z",
+	"scraped_at": "2023-01-24T07:29:50.283Z",
 	"kabupaten": {
 		"id": 6,
 		"name": "Kabupaten Lebong",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Lebong.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Amen"
-			},
-			{
-				"id": 2,
-				"name": "Bingin Kuning"
-			},
-			{
-				"id": 3,
-				"name": "Lebong Atas"
-			},
-			{
-				"id": 4,
-				"name": "Lebong Sakti"
-			},
-			{
-				"id": 5,
-				"name": "Lebong Selatan"
-			},
-			{
-				"id": 6,
-				"name": "Lebong Tengah"
-			},
-			{
-				"id": 7,
-				"name": "Lebong Utara"
-			},
-			{
-				"id": 8,
-				"name": "Pinang Belapis"
-			},
-			{
-				"id": 9,
-				"name": "Rimbo Pengadang"
-			},
-			{
-				"id": 10,
-				"name": "Topos"
-			},
-			{
-				"id": 11,
-				"name": "Tubei"
-			},
-			{
-				"id": 12,
-				"name": "Uram Jaya"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Amen"
+		},
+		{
+			"id": 2,
+			"name": "Bingin Kuning"
+		},
+		{
+			"id": 3,
+			"name": "Lebong Atas"
+		},
+		{
+			"id": 4,
+			"name": "Lebong Sakti"
+		},
+		{
+			"id": 5,
+			"name": "Lebong Selatan"
+		},
+		{
+			"id": 6,
+			"name": "Lebong Tengah"
+		},
+		{
+			"id": 7,
+			"name": "Lebong Utara"
+		},
+		{
+			"id": 8,
+			"name": "Pinang Belapis"
+		},
+		{
+			"id": 9,
+			"name": "Rimbo Pengadang"
+		},
+		{
+			"id": 10,
+			"name": "Topos"
+		},
+		{
+			"id": 11,
+			"name": "Tubei"
+		},
+		{
+			"id": 12,
+			"name": "Uram Jaya"
+		}
+	]
 }

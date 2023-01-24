@@ -1,33 +1,31 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sumba Tengah",
-	"scraped_at": "2023-01-24T06:14:23.527Z",
+	"scraped_at": "2023-01-24T07:35:42.737Z",
 	"kabupaten": {
 		"id": 18,
 		"name": "Kabupaten Sumba Tengah",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Lambang_Kabupaten_Sumba_Tengah.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Katikutana Selatan"
-			},
-			{
-				"id": 2,
-				"name": "Katikutana"
-			},
-			{
-				"id": 3,
-				"name": "Mamboro"
-			},
-			{
-				"id": 4,
-				"name": "Umbu Ratu Nggay Barat"
-			},
-			{
-				"id": 5,
-				"name": "Umbu Ratu Nggay"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Katikutana Selatan"
+		},
+		{
+			"id": 2,
+			"name": "Katikutana"
+		},
+		{
+			"id": 3,
+			"name": "Mamboro"
+		},
+		{
+			"id": 4,
+			"name": "Umbu Ratu Nggay Barat"
+		},
+		{
+			"id": 5,
+			"name": "Umbu Ratu Nggay"
+		}
+	]
 }

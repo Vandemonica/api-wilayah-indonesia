@@ -1,93 +1,91 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Nganjuk",
-	"scraped_at": "2023-01-24T06:13:25.514Z",
+	"scraped_at": "2023-01-24T07:32:47.450Z",
 	"kabupaten": {
 		"id": 16,
 		"name": "Kabupaten Nganjuk",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Seal_of_Nganjuk_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bagor"
-			},
-			{
-				"id": 2,
-				"name": "Baron"
-			},
-			{
-				"id": 3,
-				"name": "Berbek"
-			},
-			{
-				"id": 4,
-				"name": "Gondang"
-			},
-			{
-				"id": 5,
-				"name": "Jatikalen"
-			},
-			{
-				"id": 6,
-				"name": "Kertosono"
-			},
-			{
-				"id": 7,
-				"name": "Lengkong"
-			},
-			{
-				"id": 8,
-				"name": "Loceret, Nganjuk‎ (1 K"
-			},
-			{
-				"id": 9,
-				"name": "Nganjuk"
-			},
-			{
-				"id": 10,
-				"name": "Ngetos"
-			},
-			{
-				"id": 11,
-				"name": "Ngluyu"
-			},
-			{
-				"id": 12,
-				"name": "Ngronggot"
-			},
-			{
-				"id": 13,
-				"name": "Pace"
-			},
-			{
-				"id": 14,
-				"name": "Patianrowo"
-			},
-			{
-				"id": 15,
-				"name": "Prambon"
-			},
-			{
-				"id": 16,
-				"name": "Rejoso"
-			},
-			{
-				"id": 17,
-				"name": "Sawahan"
-			},
-			{
-				"id": 18,
-				"name": "Sukomoro"
-			},
-			{
-				"id": 19,
-				"name": "Tanjunganom"
-			},
-			{
-				"id": 20,
-				"name": "Wilangan"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bagor"
+		},
+		{
+			"id": 2,
+			"name": "Baron"
+		},
+		{
+			"id": 3,
+			"name": "Berbek"
+		},
+		{
+			"id": 4,
+			"name": "Gondang"
+		},
+		{
+			"id": 5,
+			"name": "Jatikalen"
+		},
+		{
+			"id": 6,
+			"name": "Kertosono"
+		},
+		{
+			"id": 7,
+			"name": "Lengkong"
+		},
+		{
+			"id": 8,
+			"name": "Loceret, Nganjuk‎ (1 K"
+		},
+		{
+			"id": 9,
+			"name": "Nganjuk"
+		},
+		{
+			"id": 10,
+			"name": "Ngetos"
+		},
+		{
+			"id": 11,
+			"name": "Ngluyu"
+		},
+		{
+			"id": 12,
+			"name": "Ngronggot"
+		},
+		{
+			"id": 13,
+			"name": "Pace"
+		},
+		{
+			"id": 14,
+			"name": "Patianrowo"
+		},
+		{
+			"id": 15,
+			"name": "Prambon"
+		},
+		{
+			"id": 16,
+			"name": "Rejoso"
+		},
+		{
+			"id": 17,
+			"name": "Sawahan"
+		},
+		{
+			"id": 18,
+			"name": "Sukomoro"
+		},
+		{
+			"id": 19,
+			"name": "Tanjunganom"
+		},
+		{
+			"id": 20,
+			"name": "Wilangan"
+		}
+	]
 }

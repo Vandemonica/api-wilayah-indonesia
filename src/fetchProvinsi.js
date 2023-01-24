@@ -29,9 +29,7 @@ async function fetchProvinsi(page) {
   const result = {
     source: url,
     scraped_at: new Date(),
-    data: {
-      provinsi: provinces
-    }
+    data: provinces
   };
 
   fs.writeFile('./api/index.json', JSON.stringify(result, null, "\t"), function() {

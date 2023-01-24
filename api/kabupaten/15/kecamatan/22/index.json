@@ -1,109 +1,107 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Probolinggo",
-	"scraped_at": "2023-01-24T06:13:29.796Z",
+	"scraped_at": "2023-01-24T07:32:53.320Z",
 	"kabupaten": {
 		"id": 22,
 		"name": "Kabupaten Probolinggo",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_Kabupaten_Probolinggo_-_Seal_of_Probolinggo_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bantaran"
-			},
-			{
-				"id": 2,
-				"name": "Banyuanyar"
-			},
-			{
-				"id": 3,
-				"name": "Besuk"
-			},
-			{
-				"id": 4,
-				"name": "Dringu"
-			},
-			{
-				"id": 5,
-				"name": "Gading"
-			},
-			{
-				"id": 6,
-				"name": "Gending"
-			},
-			{
-				"id": 7,
-				"name": "Kotaanyar"
-			},
-			{
-				"id": 8,
-				"name": "Kraksaan"
-			},
-			{
-				"id": 9,
-				"name": "Krejengan"
-			},
-			{
-				"id": 10,
-				"name": "Krucil"
-			},
-			{
-				"id": 11,
-				"name": "Kuripan"
-			},
-			{
-				"id": 12,
-				"name": "Leces"
-			},
-			{
-				"id": 13,
-				"name": "Lumbang"
-			},
-			{
-				"id": 14,
-				"name": "Maron"
-			},
-			{
-				"id": 15,
-				"name": "Paiton"
-			},
-			{
-				"id": 16,
-				"name": "Pajarakan"
-			},
-			{
-				"id": 17,
-				"name": "Pakuniran"
-			},
-			{
-				"id": 18,
-				"name": "Sukapura"
-			},
-			{
-				"id": 19,
-				"name": "Sumber"
-			},
-			{
-				"id": 20,
-				"name": "Sumberasih"
-			},
-			{
-				"id": 21,
-				"name": "Tegalsiwalan"
-			},
-			{
-				"id": 22,
-				"name": "Tiris"
-			},
-			{
-				"id": 23,
-				"name": "Tongas"
-			},
-			{
-				"id": 24,
-				"name": "Wonomerto"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bantaran"
+		},
+		{
+			"id": 2,
+			"name": "Banyuanyar"
+		},
+		{
+			"id": 3,
+			"name": "Besuk"
+		},
+		{
+			"id": 4,
+			"name": "Dringu"
+		},
+		{
+			"id": 5,
+			"name": "Gading"
+		},
+		{
+			"id": 6,
+			"name": "Gending"
+		},
+		{
+			"id": 7,
+			"name": "Kotaanyar"
+		},
+		{
+			"id": 8,
+			"name": "Kraksaan"
+		},
+		{
+			"id": 9,
+			"name": "Krejengan"
+		},
+		{
+			"id": 10,
+			"name": "Krucil"
+		},
+		{
+			"id": 11,
+			"name": "Kuripan"
+		},
+		{
+			"id": 12,
+			"name": "Leces"
+		},
+		{
+			"id": 13,
+			"name": "Lumbang"
+		},
+		{
+			"id": 14,
+			"name": "Maron"
+		},
+		{
+			"id": 15,
+			"name": "Paiton"
+		},
+		{
+			"id": 16,
+			"name": "Pajarakan"
+		},
+		{
+			"id": 17,
+			"name": "Pakuniran"
+		},
+		{
+			"id": 18,
+			"name": "Sukapura"
+		},
+		{
+			"id": 19,
+			"name": "Sumber"
+		},
+		{
+			"id": 20,
+			"name": "Sumberasih"
+		},
+		{
+			"id": 21,
+			"name": "Tegalsiwalan"
+		},
+		{
+			"id": 22,
+			"name": "Tiris"
+		},
+		{
+			"id": 23,
+			"name": "Tongas"
+		},
+		{
+			"id": 24,
+			"name": "Wonomerto"
+		}
+	]
 }

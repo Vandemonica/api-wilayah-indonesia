@@ -1,81 +1,79 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Barito Kuala",
-	"scraped_at": "2023-01-24T06:14:57.634Z",
+	"scraped_at": "2023-01-24T07:37:04.402Z",
 	"kabupaten": {
 		"id": 3,
 		"name": "Kabupaten Barito Kuala",
 		"emblem": "https://upload.wikimedia.org/wikipedia/id/b/bc/Lambang_Kabupaten_Barito_Kuala.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Alalak"
-			},
-			{
-				"id": 2,
-				"name": "Anjir Muara"
-			},
-			{
-				"id": 3,
-				"name": "Anjir Pasar"
-			},
-			{
-				"id": 4,
-				"name": "Bakumpai"
-			},
-			{
-				"id": 5,
-				"name": "Barambai"
-			},
-			{
-				"id": 6,
-				"name": "Belawang"
-			},
-			{
-				"id": 7,
-				"name": "Cerbon"
-			},
-			{
-				"id": 8,
-				"name": "Jejangkit"
-			},
-			{
-				"id": 9,
-				"name": "Kuripan"
-			},
-			{
-				"id": 10,
-				"name": "Mandastana"
-			},
-			{
-				"id": 11,
-				"name": "Marabahan"
-			},
-			{
-				"id": 12,
-				"name": "Mekarsari"
-			},
-			{
-				"id": 13,
-				"name": "Rantau Badauh"
-			},
-			{
-				"id": 14,
-				"name": "Tabukan"
-			},
-			{
-				"id": 15,
-				"name": "Tabunganen"
-			},
-			{
-				"id": 16,
-				"name": "Tamban"
-			},
-			{
-				"id": 17,
-				"name": "Wanaraya"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Alalak"
+		},
+		{
+			"id": 2,
+			"name": "Anjir Muara"
+		},
+		{
+			"id": 3,
+			"name": "Anjir Pasar"
+		},
+		{
+			"id": 4,
+			"name": "Bakumpai"
+		},
+		{
+			"id": 5,
+			"name": "Barambai"
+		},
+		{
+			"id": 6,
+			"name": "Belawang"
+		},
+		{
+			"id": 7,
+			"name": "Cerbon"
+		},
+		{
+			"id": 8,
+			"name": "Jejangkit"
+		},
+		{
+			"id": 9,
+			"name": "Kuripan"
+		},
+		{
+			"id": 10,
+			"name": "Mandastana"
+		},
+		{
+			"id": 11,
+			"name": "Marabahan"
+		},
+		{
+			"id": 12,
+			"name": "Mekarsari"
+		},
+		{
+			"id": 13,
+			"name": "Rantau Badauh"
+		},
+		{
+			"id": 14,
+			"name": "Tabukan"
+		},
+		{
+			"id": 15,
+			"name": "Tabunganen"
+		},
+		{
+			"id": 16,
+			"name": "Tamban"
+		},
+		{
+			"id": 17,
+			"name": "Wanaraya"
+		}
+	]
 }

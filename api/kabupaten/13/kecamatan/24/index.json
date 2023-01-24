@@ -1,93 +1,91 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sragen",
-	"scraped_at": "2023-01-24T06:13:04.879Z",
+	"scraped_at": "2023-01-24T07:32:09.663Z",
 	"kabupaten": {
 		"id": 24,
 		"name": "Kabupaten Sragen",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Seal_of_Sragen_Regency.svg"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Gemolong"
-			},
-			{
-				"id": 2,
-				"name": "Gesi"
-			},
-			{
-				"id": 3,
-				"name": "Gondang"
-			},
-			{
-				"id": 4,
-				"name": "Jenar"
-			},
-			{
-				"id": 5,
-				"name": "Kalijambe"
-			},
-			{
-				"id": 6,
-				"name": "Karangmalang"
-			},
-			{
-				"id": 7,
-				"name": "Kedawung"
-			},
-			{
-				"id": 8,
-				"name": "Masaran"
-			},
-			{
-				"id": 9,
-				"name": "Miri"
-			},
-			{
-				"id": 10,
-				"name": "Mondokan"
-			},
-			{
-				"id": 11,
-				"name": "Ngrampal"
-			},
-			{
-				"id": 12,
-				"name": "Plupuh"
-			},
-			{
-				"id": 13,
-				"name": "Sambirejo"
-			},
-			{
-				"id": 14,
-				"name": "Sambungmacan"
-			},
-			{
-				"id": 15,
-				"name": "Sidoharjo"
-			},
-			{
-				"id": 16,
-				"name": "Sragen"
-			},
-			{
-				"id": 17,
-				"name": "Sukodono"
-			},
-			{
-				"id": 18,
-				"name": "Sumberlawang"
-			},
-			{
-				"id": 19,
-				"name": "Tangen"
-			},
-			{
-				"id": 20,
-				"name": "Tanon"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Gemolong"
+		},
+		{
+			"id": 2,
+			"name": "Gesi"
+		},
+		{
+			"id": 3,
+			"name": "Gondang"
+		},
+		{
+			"id": 4,
+			"name": "Jenar"
+		},
+		{
+			"id": 5,
+			"name": "Kalijambe"
+		},
+		{
+			"id": 6,
+			"name": "Karangmalang"
+		},
+		{
+			"id": 7,
+			"name": "Kedawung"
+		},
+		{
+			"id": 8,
+			"name": "Masaran"
+		},
+		{
+			"id": 9,
+			"name": "Miri"
+		},
+		{
+			"id": 10,
+			"name": "Mondokan"
+		},
+		{
+			"id": 11,
+			"name": "Ngrampal"
+		},
+		{
+			"id": 12,
+			"name": "Plupuh"
+		},
+		{
+			"id": 13,
+			"name": "Sambirejo"
+		},
+		{
+			"id": 14,
+			"name": "Sambungmacan"
+		},
+		{
+			"id": 15,
+			"name": "Sidoharjo"
+		},
+		{
+			"id": 16,
+			"name": "Sragen"
+		},
+		{
+			"id": 17,
+			"name": "Sukodono"
+		},
+		{
+			"id": 18,
+			"name": "Sumberlawang"
+		},
+		{
+			"id": 19,
+			"name": "Tangen"
+		},
+		{
+			"id": 20,
+			"name": "Tanon"
+		}
+	]
 }

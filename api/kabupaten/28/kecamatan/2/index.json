@@ -1,41 +1,39 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Buton",
-	"scraped_at": "2023-01-24T06:16:09.242Z",
+	"scraped_at": "2023-01-24T07:39:31.936Z",
 	"kabupaten": {
 		"id": 2,
 		"name": "Kabupaten Buton",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kabupaten_Buton.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Kapontori"
-			},
-			{
-				"id": 2,
-				"name": "Lasalimu"
-			},
-			{
-				"id": 3,
-				"name": "Lasalimu Selatan"
-			},
-			{
-				"id": 4,
-				"name": "Pasarwajo"
-			},
-			{
-				"id": 5,
-				"name": "Siotapina"
-			},
-			{
-				"id": 6,
-				"name": "Wabula"
-			},
-			{
-				"id": 7,
-				"name": "Wolowa"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Kapontori"
+		},
+		{
+			"id": 2,
+			"name": "Lasalimu"
+		},
+		{
+			"id": 3,
+			"name": "Lasalimu Selatan"
+		},
+		{
+			"id": 4,
+			"name": "Pasarwajo"
+		},
+		{
+			"id": 5,
+			"name": "Siotapina"
+		},
+		{
+			"id": 6,
+			"name": "Wabula"
+		},
+		{
+			"id": 7,
+			"name": "Wolowa"
+		}
+	]
 }

@@ -36,9 +36,7 @@ async function fetchDistrik(page, region, provinceId, index) {
       name: region.name,
       emblem: region.emblem
     },
-    data: {
-      kecamatan: district
-    }
+    data: district
   };
 
   if (!fs.existsSync(dir)) {

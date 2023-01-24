@@ -1,73 +1,71 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kaur",
-	"scraped_at": "2023-01-24T06:11:36.451Z",
+	"scraped_at": "2023-01-24T07:29:42.840Z",
 	"kabupaten": {
 		"id": 4,
 		"name": "Kabupaten Kaur",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kabupaten_Kaur.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Kaur Selatan"
-			},
-			{
-				"id": 2,
-				"name": "Kaur Tengah"
-			},
-			{
-				"id": 3,
-				"name": "Kaur Utara"
-			},
-			{
-				"id": 4,
-				"name": "Kelam Tengah"
-			},
-			{
-				"id": 5,
-				"name": "Kinal"
-			},
-			{
-				"id": 6,
-				"name": "Luas"
-			},
-			{
-				"id": 7,
-				"name": "Lungkang Kule"
-			},
-			{
-				"id": 8,
-				"name": "Maje"
-			},
-			{
-				"id": 9,
-				"name": "Muara Sahung"
-			},
-			{
-				"id": 10,
-				"name": "Nasal"
-			},
-			{
-				"id": 11,
-				"name": "Padang Guci Hilir"
-			},
-			{
-				"id": 12,
-				"name": "Padang Guci Hulu"
-			},
-			{
-				"id": 13,
-				"name": "Semidang Gumay"
-			},
-			{
-				"id": 14,
-				"name": "Tanjung Kemuning"
-			},
-			{
-				"id": 15,
-				"name": "Tetap"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Kaur Selatan"
+		},
+		{
+			"id": 2,
+			"name": "Kaur Tengah"
+		},
+		{
+			"id": 3,
+			"name": "Kaur Utara"
+		},
+		{
+			"id": 4,
+			"name": "Kelam Tengah"
+		},
+		{
+			"id": 5,
+			"name": "Kinal"
+		},
+		{
+			"id": 6,
+			"name": "Luas"
+		},
+		{
+			"id": 7,
+			"name": "Lungkang Kule"
+		},
+		{
+			"id": 8,
+			"name": "Maje"
+		},
+		{
+			"id": 9,
+			"name": "Muara Sahung"
+		},
+		{
+			"id": 10,
+			"name": "Nasal"
+		},
+		{
+			"id": 11,
+			"name": "Padang Guci Hilir"
+		},
+		{
+			"id": 12,
+			"name": "Padang Guci Hulu"
+		},
+		{
+			"id": 13,
+			"name": "Semidang Gumay"
+		},
+		{
+			"id": 14,
+			"name": "Tanjung Kemuning"
+		},
+		{
+			"id": 15,
+			"name": "Tetap"
+		}
+	]
 }

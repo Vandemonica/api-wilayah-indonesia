@@ -1,105 +1,103 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lampung Utara",
-	"scraped_at": "2023-01-24T06:11:48.295Z",
+	"scraped_at": "2023-01-24T07:30:13.823Z",
 	"kabupaten": {
 		"id": 5,
 		"name": "Kabupaten Lampung Utara",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lambang_Kabupaten_Lampung_Utara.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Abung Barat"
-			},
-			{
-				"id": 2,
-				"name": "Abung Kunang"
-			},
-			{
-				"id": 3,
-				"name": "Abung Pekurun"
-			},
-			{
-				"id": 4,
-				"name": "Abung Selatan"
-			},
-			{
-				"id": 5,
-				"name": "Abung Semuli"
-			},
-			{
-				"id": 6,
-				"name": "Abung Surakarta"
-			},
-			{
-				"id": 7,
-				"name": "Abung Tengah"
-			},
-			{
-				"id": 8,
-				"name": "Abung Timur"
-			},
-			{
-				"id": 9,
-				"name": "Abung Tinggi"
-			},
-			{
-				"id": 10,
-				"name": "Blambangan Pagar"
-			},
-			{
-				"id": 11,
-				"name": "Bukit Kemuning"
-			},
-			{
-				"id": 12,
-				"name": "Bunga Mayang"
-			},
-			{
-				"id": 13,
-				"name": "Hulu Sungkai"
-			},
-			{
-				"id": 14,
-				"name": "Kotabumi Selatan"
-			},
-			{
-				"id": 15,
-				"name": "Kotabumi Utara"
-			},
-			{
-				"id": 16,
-				"name": "Kotabumi"
-			},
-			{
-				"id": 17,
-				"name": "Muara Sungkai"
-			},
-			{
-				"id": 18,
-				"name": "Sungkai Barat"
-			},
-			{
-				"id": 19,
-				"name": "Sungkai Jaya"
-			},
-			{
-				"id": 20,
-				"name": "Sungkai Selatan"
-			},
-			{
-				"id": 21,
-				"name": "Sungkai Tengah"
-			},
-			{
-				"id": 22,
-				"name": "Sungkai Utara"
-			},
-			{
-				"id": 23,
-				"name": "Tanjung Raja"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Abung Barat"
+		},
+		{
+			"id": 2,
+			"name": "Abung Kunang"
+		},
+		{
+			"id": 3,
+			"name": "Abung Pekurun"
+		},
+		{
+			"id": 4,
+			"name": "Abung Selatan"
+		},
+		{
+			"id": 5,
+			"name": "Abung Semuli"
+		},
+		{
+			"id": 6,
+			"name": "Abung Surakarta"
+		},
+		{
+			"id": 7,
+			"name": "Abung Tengah"
+		},
+		{
+			"id": 8,
+			"name": "Abung Timur"
+		},
+		{
+			"id": 9,
+			"name": "Abung Tinggi"
+		},
+		{
+			"id": 10,
+			"name": "Blambangan Pagar"
+		},
+		{
+			"id": 11,
+			"name": "Bukit Kemuning"
+		},
+		{
+			"id": 12,
+			"name": "Bunga Mayang"
+		},
+		{
+			"id": 13,
+			"name": "Hulu Sungkai"
+		},
+		{
+			"id": 14,
+			"name": "Kotabumi Selatan"
+		},
+		{
+			"id": 15,
+			"name": "Kotabumi Utara"
+		},
+		{
+			"id": 16,
+			"name": "Kotabumi"
+		},
+		{
+			"id": 17,
+			"name": "Muara Sungkai"
+		},
+		{
+			"id": 18,
+			"name": "Sungkai Barat"
+		},
+		{
+			"id": 19,
+			"name": "Sungkai Jaya"
+		},
+		{
+			"id": 20,
+			"name": "Sungkai Selatan"
+		},
+		{
+			"id": 21,
+			"name": "Sungkai Tengah"
+		},
+		{
+			"id": 22,
+			"name": "Sungkai Utara"
+		},
+		{
+			"id": 23,
+			"name": "Tanjung Raja"
+		}
+	]
 }

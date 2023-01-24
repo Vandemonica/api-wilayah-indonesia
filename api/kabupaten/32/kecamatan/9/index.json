@@ -1,45 +1,43 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Ternate",
-	"scraped_at": "2023-01-24T06:16:57.477Z",
+	"scraped_at": "2023-01-24T07:40:57.215Z",
 	"kabupaten": {
 		"id": 9,
 		"name": "Kota Ternate",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lambang_Kota_Ternate.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Moti"
-			},
-			{
-				"id": 2,
-				"name": "Pulau Batang Dua"
-			},
-			{
-				"id": 3,
-				"name": "Pulau Hiri"
-			},
-			{
-				"id": 4,
-				"name": "Pulau Ternate"
-			},
-			{
-				"id": 5,
-				"name": "Ternate Barat"
-			},
-			{
-				"id": 6,
-				"name": "Ternate Selatan"
-			},
-			{
-				"id": 7,
-				"name": "Ternate Tengah"
-			},
-			{
-				"id": 8,
-				"name": "Ternate Utara"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Moti"
+		},
+		{
+			"id": 2,
+			"name": "Pulau Batang Dua"
+		},
+		{
+			"id": 3,
+			"name": "Pulau Hiri"
+		},
+		{
+			"id": 4,
+			"name": "Pulau Ternate"
+		},
+		{
+			"id": 5,
+			"name": "Ternate Barat"
+		},
+		{
+			"id": 6,
+			"name": "Ternate Selatan"
+		},
+		{
+			"id": 7,
+			"name": "Ternate Tengah"
+		},
+		{
+			"id": 8,
+			"name": "Ternate Utara"
+		}
+	]
 }

@@ -1,53 +1,51 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bener Meriah",
-	"scraped_at": "2023-01-24T06:09:25.441Z",
+	"scraped_at": "2023-01-24T07:27:38.215Z",
 	"kabupaten": {
 		"id": 12,
 		"name": "Kabupaten Bener Meriah",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lambang_Kabupaten_Bener_Meriah.png"
 	},
-	"data": {
-		"kecamatan": [
-			{
-				"id": 1,
-				"name": "Bandar"
-			},
-			{
-				"id": 2,
-				"name": "Bener Kelipah"
-			},
-			{
-				"id": 3,
-				"name": "Bukit"
-			},
-			{
-				"id": 4,
-				"name": "Gajah Putih"
-			},
-			{
-				"id": 5,
-				"name": "Mesidah"
-			},
-			{
-				"id": 6,
-				"name": "Permata"
-			},
-			{
-				"id": 7,
-				"name": "Pintu Rime Gayo"
-			},
-			{
-				"id": 8,
-				"name": "Syiah Utama"
-			},
-			{
-				"id": 9,
-				"name": "Timang Gajah"
-			},
-			{
-				"id": 10,
-				"name": "Wih Pesam"
-			}
-		]
-	}
+	"data": [
+		{
+			"id": 1,
+			"name": "Bandar"
+		},
+		{
+			"id": 2,
+			"name": "Bener Kelipah"
+		},
+		{
+			"id": 3,
+			"name": "Bukit"
+		},
+		{
+			"id": 4,
+			"name": "Gajah Putih"
+		},
+		{
+			"id": 5,
+			"name": "Mesidah"
+		},
+		{
+			"id": 6,
+			"name": "Permata"
+		},
+		{
+			"id": 7,
+			"name": "Pintu Rime Gayo"
+		},
+		{
+			"id": 8,
+			"name": "Syiah Utama"
+		},
+		{
+			"id": 9,
+			"name": "Timang Gajah"
+		},
+		{
+			"id": 10,
+			"name": "Wih Pesam"
+		}
+	]
 }

@@ -10,7 +10,7 @@ const fs = require('fs');
 async function fetchKabupaten(page, province) {
   const selector = 'table.wikitable:nth-of-type(1) tbody tr';
   const url = 'https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_' +  province.name.replace(' ', '_');
-  const dir = `./api/provinsi_${province.id}`;
+  const dir = `./api/provinsi/${province.id}`;
 
   await page.goto(url);
   await page.waitForSelector(selector);
@@ -22,7 +22,7 @@ async function fetchKabupaten(page, province) {
       return {
         id: (index + 1),
         name: rows.querySelector('td:nth-of-type(2)')?.innerText || '',
-        image_url: rows.querySelector('td a > img')?.src.replace('thumb/', '').split('/').slice(0, -1).join('/') || '',
+        emblem: rows.querySelector('td a > img')?.src.replace('thumb/', '').split('/').slice(0, -1).join('/') || '',
         capital: rows.querySelector('td:nth-of-type(3):not([data-sort-value="-"])')?.innerText || ''
       };
     }).filter(i => i.name);
@@ -35,7 +35,7 @@ async function fetchKabupaten(page, province) {
       id: province.id,
       code: province.code,
       name: province.name,
-      image_url: province.image_url
+      emblem: province.emblem
     },
     data: {
       kabupaten: regions
@@ -43,7 +43,7 @@ async function fetchKabupaten(page, province) {
   };
 
   if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir);
+    fs.mkdirSync(dir, {recursive: true});
   }
 
   fs.writeFile(dir + '/kabupaten.json', JSON.stringify(result, null, "\t"), function() {

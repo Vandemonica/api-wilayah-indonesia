@@ -20,7 +20,7 @@ async function fetchProvinsi(page) {
         id: (index + 1),
         code: rows.querySelector('td:nth-of-type(1)')?.innerText || '',
         name: rows.querySelector('th:nth-of-type(2)')?.innerText || '',
-        image_url: rows.querySelector('th > a > img')?.src.replace('thumb/', '').split('/').slice(0, -1).join('/') || '',
+        emblem: rows.querySelector('th > a > img')?.src.replace('thumb/', '').split('/').slice(0, -1).join('/') || '',
         capital: rows.querySelector('td:nth-of-type(5):not([data-sort-value="-"])')?.innerText || ''
       };
     });
@@ -34,7 +34,7 @@ async function fetchProvinsi(page) {
     }
   };
 
-  fs.writeFile('./api/all_provinsi.json', JSON.stringify(result, null, "\t"), function() {
+  fs.writeFile('./api/provinsi.json', JSON.stringify(result, null, "\t"), function() {
     console.log('Saved Provinces');
   });
 

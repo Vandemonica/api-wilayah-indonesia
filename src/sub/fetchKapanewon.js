@@ -11,8 +11,8 @@ async function fetchKapanewon(page, region, provinceId, index) {
   const url = 'https://id.wikipedia.org/wiki/Daftar_kapanewon,_kemantren,_kalurahan,_dan_kelurahan_di_Daerah_Istimewa_Yogyakarta';
   const selector = `table.wikitable:nth-of-type(${index + 1}) tbody tr`;
 
-  const dir = `./api/provinsi_${provinceId}/kecamatan`;
-  const filename = dir + `/kecamatan_${index}.json`;
+  const dir = `./api/provinsi/${provinceId}/${index}`;
+  const filename = dir + `/kecamatan.json`;
 
   await page.goto(url);
   await page.waitForSelector(selector);
@@ -36,7 +36,7 @@ async function fetchKapanewon(page, region, provinceId, index) {
     kabupaten: {
       id: region.id,
       name: region.name,
-      image_url: region.image_url
+      emblem: region.emblem
     },
     data: {
       kecamatan: district
@@ -44,7 +44,7 @@ async function fetchKapanewon(page, region, provinceId, index) {
   };
 
   if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir);
+    fs.mkdirSync(dir, {recursive: true});
   }
 
   fs.writeFile(filename, JSON.stringify(result, null, "\t"), function() {

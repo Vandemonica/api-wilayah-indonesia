@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Bima",
+	"scraped_at": "2023-01-23T04:26:06.279Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kota Bima",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/COA_Bima.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Asakota"
+			},
+			{
+				"id": 2,
+				"name": "Mpunda"
+			},
+			{
+				"id": 3,
+				"name": "Raba"
+			},
+			{
+				"id": 4,
+				"name": "Rasanae Barat"
+			},
+			{
+				"id": 5,
+				"name": "Rasanae Timur"
+			}
+		]
+	}
+}

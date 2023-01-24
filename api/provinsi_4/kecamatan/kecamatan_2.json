@@ -1,0 +1,93 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Indragiri Hilir",
+	"scraped_at": "2023-01-23T04:20:49.982Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Indragiri Hilir",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_kabupaten_indragiri_hilir.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Batang Tuaka"
+			},
+			{
+				"id": 2,
+				"name": "Concong"
+			},
+			{
+				"id": 3,
+				"name": "Enok"
+			},
+			{
+				"id": 4,
+				"name": "Gaung Anak Serka"
+			},
+			{
+				"id": 5,
+				"name": "Gaung"
+			},
+			{
+				"id": 6,
+				"name": "Kateman"
+			},
+			{
+				"id": 7,
+				"name": "Kempas"
+			},
+			{
+				"id": 8,
+				"name": "Kemuning"
+			},
+			{
+				"id": 9,
+				"name": "Keritang"
+			},
+			{
+				"id": 10,
+				"name": "Kuala Indragiri"
+			},
+			{
+				"id": 11,
+				"name": "Mandah"
+			},
+			{
+				"id": 12,
+				"name": "Pelangiran"
+			},
+			{
+				"id": 13,
+				"name": "Pulau Burung"
+			},
+			{
+				"id": 14,
+				"name": "Reteh"
+			},
+			{
+				"id": 15,
+				"name": "Sungai Batang"
+			},
+			{
+				"id": 16,
+				"name": "Tanah Merah"
+			},
+			{
+				"id": 17,
+				"name": "Teluk Belengkong"
+			},
+			{
+				"id": 18,
+				"name": "Tembilahan Hulu"
+			},
+			{
+				"id": 19,
+				"name": "Tembilahan"
+			},
+			{
+				"id": 20,
+				"name": "Tempuling"
+			}
+		]
+	}
+}

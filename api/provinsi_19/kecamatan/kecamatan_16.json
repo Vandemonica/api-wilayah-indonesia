@@ -1,0 +1,37 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sumba Barat",
+	"scraped_at": "2023-01-23T04:26:30.233Z",
+	"kabupaten": {
+		"id": 16,
+		"name": "Kabupaten Sumba Barat",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lambang_Kabupaten_Sumba_Barat.gif"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Kota Waikabubak"
+			},
+			{
+				"id": 2,
+				"name": "Laboya Barat"
+			},
+			{
+				"id": 3,
+				"name": "Lamboya"
+			},
+			{
+				"id": 4,
+				"name": "Loli"
+			},
+			{
+				"id": 5,
+				"name": "Tana Righu"
+			},
+			{
+				"id": 6,
+				"name": "Wanokaka"
+			}
+		]
+	}
+}

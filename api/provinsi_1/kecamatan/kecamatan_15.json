@@ -1,0 +1,53 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Nagan Raya",
+	"scraped_at": "2023-01-23T04:19:14.576Z",
+	"kabupaten": {
+		"id": 15,
+		"name": "Kabupaten Nagan Raya",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lambang_Kabupaten_Nagan_Raya.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Beutong Ateuh Banggalang"
+			},
+			{
+				"id": 2,
+				"name": "Beutong"
+			},
+			{
+				"id": 3,
+				"name": "Darul Makmur"
+			},
+			{
+				"id": 4,
+				"name": "Kuala Pesisir"
+			},
+			{
+				"id": 5,
+				"name": "Kuala"
+			},
+			{
+				"id": 6,
+				"name": "Seunagan Timur"
+			},
+			{
+				"id": 7,
+				"name": "Seunagan"
+			},
+			{
+				"id": 8,
+				"name": "Suka Makmue"
+			},
+			{
+				"id": 9,
+				"name": "Tadu Raya"
+			},
+			{
+				"id": 10,
+				"name": "Tripa Makmur"
+			}
+		]
+	}
+}

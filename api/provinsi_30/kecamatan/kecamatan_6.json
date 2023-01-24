@@ -1,0 +1,77 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Polewali Mandar",
+	"scraped_at": "2023-01-23T04:30:20.769Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Polewali Mandar",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lambang_Kabupaten_Polewali_Mandar.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Allu"
+			},
+			{
+				"id": 2,
+				"name": "Anreapi"
+			},
+			{
+				"id": 3,
+				"name": "Balanipa"
+			},
+			{
+				"id": 4,
+				"name": "Binuang"
+			},
+			{
+				"id": 5,
+				"name": "Bulo"
+			},
+			{
+				"id": 6,
+				"name": "Campalagian"
+			},
+			{
+				"id": 7,
+				"name": "Limboro"
+			},
+			{
+				"id": 8,
+				"name": "Luyo"
+			},
+			{
+				"id": 9,
+				"name": "Mapilli"
+			},
+			{
+				"id": 10,
+				"name": "Matakali, Polewali Mandar‎ (2 K"
+			},
+			{
+				"id": 11,
+				"name": "Matangnga"
+			},
+			{
+				"id": 12,
+				"name": "Polewali"
+			},
+			{
+				"id": 13,
+				"name": "Tapango"
+			},
+			{
+				"id": 14,
+				"name": "Tinambung"
+			},
+			{
+				"id": 15,
+				"name": "Tutar"
+			},
+			{
+				"id": 16,
+				"name": "Wonomulyo"
+			}
+		]
+	}
+}

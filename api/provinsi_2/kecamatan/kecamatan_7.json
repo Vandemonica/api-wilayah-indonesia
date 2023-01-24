@@ -1,0 +1,49 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Labuhanbatu",
+	"scraped_at": "2023-01-23T04:19:36.445Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Labuhanbatu",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lambang_Kabupaten_Labuhanbatu.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bilah Barat"
+			},
+			{
+				"id": 2,
+				"name": "Bilah Hilir"
+			},
+			{
+				"id": 3,
+				"name": "Bilah Hulu"
+			},
+			{
+				"id": 4,
+				"name": "Panai Hilir"
+			},
+			{
+				"id": 5,
+				"name": "Panai Hulu"
+			},
+			{
+				"id": 6,
+				"name": "Panai Tengah"
+			},
+			{
+				"id": 7,
+				"name": "Pangkatan"
+			},
+			{
+				"id": 8,
+				"name": "Rantau Selatan"
+			},
+			{
+				"id": 9,
+				"name": "Rantau Utara"
+			}
+		]
+	}
+}

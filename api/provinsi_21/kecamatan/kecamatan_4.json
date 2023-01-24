@@ -1,0 +1,61 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Gunung Mas",
+	"scraped_at": "2023-01-23T04:27:12.072Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Gunung Mas",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lambang_Kabupaten_Gunung_Mas.tif"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Damang Batu"
+			},
+			{
+				"id": 2,
+				"name": "Kahayan Hulu Utara"
+			},
+			{
+				"id": 3,
+				"name": "Kurun"
+			},
+			{
+				"id": 4,
+				"name": "Manuhing Raya"
+			},
+			{
+				"id": 5,
+				"name": "Manuhing"
+			},
+			{
+				"id": 6,
+				"name": "Mihing Raya"
+			},
+			{
+				"id": 7,
+				"name": "Miri Manasa"
+			},
+			{
+				"id": 8,
+				"name": "Rungan Barat"
+			},
+			{
+				"id": 9,
+				"name": "Rungan Hulu"
+			},
+			{
+				"id": 10,
+				"name": "Rungan"
+			},
+			{
+				"id": 11,
+				"name": "Sepang"
+			},
+			{
+				"id": 12,
+				"name": "Tewah"
+			}
+		]
+	}
+}

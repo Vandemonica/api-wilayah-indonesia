@@ -1,0 +1,97 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Nunukan",
+	"scraped_at": "2023-01-23T04:28:09.890Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Nunukan",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lambang_Kabupaten_Nunukan.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Krayan Barat"
+			},
+			{
+				"id": 2,
+				"name": "Krayan Selatan"
+			},
+			{
+				"id": 3,
+				"name": "Krayan Tengah"
+			},
+			{
+				"id": 4,
+				"name": "Krayan Timur"
+			},
+			{
+				"id": 5,
+				"name": "Krayan"
+			},
+			{
+				"id": 6,
+				"name": "Lumbis Hulu"
+			},
+			{
+				"id": 7,
+				"name": "Lumbis Ogong"
+			},
+			{
+				"id": 8,
+				"name": "Lumbis Pansiangan"
+			},
+			{
+				"id": 9,
+				"name": "Lumbis"
+			},
+			{
+				"id": 10,
+				"name": "Nunukan Selatan"
+			},
+			{
+				"id": 11,
+				"name": "Nunukan"
+			},
+			{
+				"id": 12,
+				"name": "Sebatik Barat"
+			},
+			{
+				"id": 13,
+				"name": "Sebatik Tengah"
+			},
+			{
+				"id": 14,
+				"name": "Sebatik Timur"
+			},
+			{
+				"id": 15,
+				"name": "Sebatik Utara"
+			},
+			{
+				"id": 16,
+				"name": "Sebatik"
+			},
+			{
+				"id": 17,
+				"name": "Sebuku"
+			},
+			{
+				"id": 18,
+				"name": "Sei Menggaris"
+			},
+			{
+				"id": 19,
+				"name": "Sembakung Atulai"
+			},
+			{
+				"id": 20,
+				"name": "Sembakung"
+			},
+			{
+				"id": 21,
+				"name": "Tulin Onsoi"
+			}
+		]
+	}
+}

@@ -1,0 +1,137 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Jember",
+	"scraped_at": "2023-01-23T04:24:48.165Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Jember",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Seal_of_Jember_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Ajung"
+			},
+			{
+				"id": 2,
+				"name": "Ambulu"
+			},
+			{
+				"id": 3,
+				"name": "Arjasa"
+			},
+			{
+				"id": 4,
+				"name": "Balung"
+			},
+			{
+				"id": 5,
+				"name": "Bangsalsari"
+			},
+			{
+				"id": 6,
+				"name": "Gumukmas"
+			},
+			{
+				"id": 7,
+				"name": "Jelbuk"
+			},
+			{
+				"id": 8,
+				"name": "Jenggawah"
+			},
+			{
+				"id": 9,
+				"name": "Jombang"
+			},
+			{
+				"id": 10,
+				"name": "Kalisat"
+			},
+			{
+				"id": 11,
+				"name": "Kaliwates"
+			},
+			{
+				"id": 12,
+				"name": "Kencong"
+			},
+			{
+				"id": 13,
+				"name": "Ledokombo"
+			},
+			{
+				"id": 14,
+				"name": "Mayang"
+			},
+			{
+				"id": 15,
+				"name": "Mumbulsari"
+			},
+			{
+				"id": 16,
+				"name": "Pakusari"
+			},
+			{
+				"id": 17,
+				"name": "Panti"
+			},
+			{
+				"id": 18,
+				"name": "Patrang"
+			},
+			{
+				"id": 19,
+				"name": "Puger"
+			},
+			{
+				"id": 20,
+				"name": "Rambipuji"
+			},
+			{
+				"id": 21,
+				"name": "Semboro"
+			},
+			{
+				"id": 22,
+				"name": "Silo"
+			},
+			{
+				"id": 23,
+				"name": "Sukorambi"
+			},
+			{
+				"id": 24,
+				"name": "Sukowono"
+			},
+			{
+				"id": 25,
+				"name": "Sumberbaru"
+			},
+			{
+				"id": 26,
+				"name": "Sumberjambe"
+			},
+			{
+				"id": 27,
+				"name": "Sumbersari"
+			},
+			{
+				"id": 28,
+				"name": "Tanggul"
+			},
+			{
+				"id": 29,
+				"name": "Tempurejo"
+			},
+			{
+				"id": 30,
+				"name": "Umbulsari"
+			},
+			{
+				"id": 31,
+				"name": "Wuluhan"
+			}
+		]
+	}
+}

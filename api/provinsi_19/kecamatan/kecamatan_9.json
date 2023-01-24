@@ -1,0 +1,61 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Manggarai Barat",
+	"scraped_at": "2023-01-23T04:26:20.921Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kabupaten Manggarai Barat",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lambang_Kabupaten_Manggarai_Barat.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Boleng"
+			},
+			{
+				"id": 2,
+				"name": "Komodo"
+			},
+			{
+				"id": 3,
+				"name": "Kuwus Barat"
+			},
+			{
+				"id": 4,
+				"name": "Kuwus"
+			},
+			{
+				"id": 5,
+				"name": "Lembor Selatan"
+			},
+			{
+				"id": 6,
+				"name": "Lembor"
+			},
+			{
+				"id": 7,
+				"name": "Macang Pacar"
+			},
+			{
+				"id": 8,
+				"name": "Mbeliling"
+			},
+			{
+				"id": 9,
+				"name": "Ndoso"
+			},
+			{
+				"id": 10,
+				"name": "Pacar"
+			},
+			{
+				"id": 11,
+				"name": "Sano Nggoang"
+			},
+			{
+				"id": 12,
+				"name": "Welak"
+			}
+		]
+	}
+}

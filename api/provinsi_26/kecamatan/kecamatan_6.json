@@ -1,0 +1,49 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Morowali",
+	"scraped_at": "2023-01-23T04:28:49.075Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Morowali",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lambang_Kabupaten_Morowali_%282015-sekarang%29.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bahodopi"
+			},
+			{
+				"id": 2,
+				"name": "Bumi Raya"
+			},
+			{
+				"id": 3,
+				"name": "Bungku Barat"
+			},
+			{
+				"id": 4,
+				"name": "Bungku Pesisir"
+			},
+			{
+				"id": 5,
+				"name": "Bungku Selatan"
+			},
+			{
+				"id": 6,
+				"name": "Bungku Tengah"
+			},
+			{
+				"id": 7,
+				"name": "Bungku Timur"
+			},
+			{
+				"id": 8,
+				"name": "Menui Kepulauan"
+			},
+			{
+				"id": 9,
+				"name": "Wita Ponda"
+			}
+		]
+	}
+}

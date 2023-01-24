@@ -1,0 +1,45 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Balangan",
+	"scraped_at": "2023-01-23T04:27:29.829Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Balangan",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lambang_Kabupaten_Balangan.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Awayan"
+			},
+			{
+				"id": 2,
+				"name": "Batu Mandi"
+			},
+			{
+				"id": 3,
+				"name": "Halong"
+			},
+			{
+				"id": 4,
+				"name": "Juai"
+			},
+			{
+				"id": 5,
+				"name": "Lampihong"
+			},
+			{
+				"id": 6,
+				"name": "Paringin Selatan"
+			},
+			{
+				"id": 7,
+				"name": "Paringin"
+			},
+			{
+				"id": 8,
+				"name": "Tebing Tinggi"
+			}
+		]
+	}
+}

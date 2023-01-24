@@ -1,0 +1,61 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kolaka Timur",
+	"scraped_at": "2023-01-23T04:29:43.128Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Kolaka Timur",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lambang_Kabupaten_Kolaka_Timur.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Aere"
+			},
+			{
+				"id": 2,
+				"name": "Dangia"
+			},
+			{
+				"id": 3,
+				"name": "Ladongi"
+			},
+			{
+				"id": 4,
+				"name": "Lalolae"
+			},
+			{
+				"id": 5,
+				"name": "Lambandia"
+			},
+			{
+				"id": 6,
+				"name": "Loea"
+			},
+			{
+				"id": 7,
+				"name": "Mowewe"
+			},
+			{
+				"id": 8,
+				"name": "Poli Polia"
+			},
+			{
+				"id": 9,
+				"name": "Tinondo"
+			},
+			{
+				"id": 10,
+				"name": "Tirawuta"
+			},
+			{
+				"id": 11,
+				"name": "Ueesi"
+			},
+			{
+				"id": 12,
+				"name": "Uluiwoi"
+			}
+		]
+	}
+}

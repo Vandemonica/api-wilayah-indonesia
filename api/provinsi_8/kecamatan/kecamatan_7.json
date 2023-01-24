@@ -1,0 +1,57 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pesawaran",
+	"scraped_at": "2023-01-23T04:22:20.276Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Pesawaran",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lambang_Kabupaten_Pesawaran.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Gedong Tataan"
+			},
+			{
+				"id": 2,
+				"name": "Kedondong"
+			},
+			{
+				"id": 3,
+				"name": "Marga Punduh"
+			},
+			{
+				"id": 4,
+				"name": "Negeri Katon"
+			},
+			{
+				"id": 5,
+				"name": "Padang Cermin"
+			},
+			{
+				"id": 6,
+				"name": "Punduh Pidada"
+			},
+			{
+				"id": 7,
+				"name": "Tegineneng"
+			},
+			{
+				"id": 8,
+				"name": "Teluk Pandan"
+			},
+			{
+				"id": 9,
+				"name": "Way Khilau"
+			},
+			{
+				"id": 10,
+				"name": "Way Lima"
+			},
+			{
+				"id": 11,
+				"name": "Way Ratai, Pesawaran‎ (1 K"
+			}
+		]
+	}
+}

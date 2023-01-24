@@ -1,0 +1,73 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bolaang Mongondow",
+	"scraped_at": "2023-01-23T04:28:16.570Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Bolaang Mongondow",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lambang_Kabupaten_Bolaang_Mongondow.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bilalang"
+			},
+			{
+				"id": 2,
+				"name": "Bolaang Timur"
+			},
+			{
+				"id": 3,
+				"name": "Bolaang"
+			},
+			{
+				"id": 4,
+				"name": "Dumoga Barat"
+			},
+			{
+				"id": 5,
+				"name": "Dumoga Tengah"
+			},
+			{
+				"id": 6,
+				"name": "Dumoga Tenggara"
+			},
+			{
+				"id": 7,
+				"name": "Dumoga Timur"
+			},
+			{
+				"id": 8,
+				"name": "Dumoga Utara"
+			},
+			{
+				"id": 9,
+				"name": "Dumoga"
+			},
+			{
+				"id": 10,
+				"name": "Lolak"
+			},
+			{
+				"id": 11,
+				"name": "Lolayan"
+			},
+			{
+				"id": 12,
+				"name": "Passi Barat"
+			},
+			{
+				"id": 13,
+				"name": "Passi Timur"
+			},
+			{
+				"id": 14,
+				"name": "Poigar"
+			},
+			{
+				"id": 15,
+				"name": "Sangtombolang"
+			}
+		]
+	}
+}

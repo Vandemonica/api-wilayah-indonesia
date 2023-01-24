@@ -1,0 +1,113 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Konawe Selatan",
+	"scraped_at": "2023-01-23T04:29:51.009Z",
+	"kabupaten": {
+		"id": 11,
+		"name": "Kabupaten Konawe Selatan",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Lambang_Kabupaten_Konawe_Selatan.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Andoolo Barat"
+			},
+			{
+				"id": 2,
+				"name": "Andoolo"
+			},
+			{
+				"id": 3,
+				"name": "Angata"
+			},
+			{
+				"id": 4,
+				"name": "Baito"
+			},
+			{
+				"id": 5,
+				"name": "Basala"
+			},
+			{
+				"id": 6,
+				"name": "Benua"
+			},
+			{
+				"id": 7,
+				"name": "Buke"
+			},
+			{
+				"id": 8,
+				"name": "Kolono Timur"
+			},
+			{
+				"id": 9,
+				"name": "Kolono"
+			},
+			{
+				"id": 10,
+				"name": "Konda"
+			},
+			{
+				"id": 11,
+				"name": "Laeya"
+			},
+			{
+				"id": 12,
+				"name": "Lainea"
+			},
+			{
+				"id": 13,
+				"name": "Lalembuu"
+			},
+			{
+				"id": 14,
+				"name": "Landono"
+			},
+			{
+				"id": 15,
+				"name": "Laonti"
+			},
+			{
+				"id": 16,
+				"name": "Moramo Utara"
+			},
+			{
+				"id": 17,
+				"name": "Moramo"
+			},
+			{
+				"id": 18,
+				"name": "Mowila"
+			},
+			{
+				"id": 19,
+				"name": "Palangga Selatan"
+			},
+			{
+				"id": 20,
+				"name": "Palangga"
+			},
+			{
+				"id": 21,
+				"name": "Ranomeeto Barat"
+			},
+			{
+				"id": 22,
+				"name": "Ranomeeto"
+			},
+			{
+				"id": 23,
+				"name": "Sabulakoa"
+			},
+			{
+				"id": 24,
+				"name": "Tinanggea"
+			},
+			{
+				"id": 25,
+				"name": "Wolasi"
+			}
+		]
+	}
+}

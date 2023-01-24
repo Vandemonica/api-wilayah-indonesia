@@ -1,0 +1,57 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Depok",
+	"scraped_at": "2023-01-23T04:23:43.352Z",
+	"kabupaten": {
+		"id": 25,
+		"name": "Kota Depok",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Coat_of_arms_of_Depok_City.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Beji"
+			},
+			{
+				"id": 2,
+				"name": "Bojongsari"
+			},
+			{
+				"id": 3,
+				"name": "Cilodong"
+			},
+			{
+				"id": 4,
+				"name": "Cimanggis"
+			},
+			{
+				"id": 5,
+				"name": "Cinere"
+			},
+			{
+				"id": 6,
+				"name": "Cipayung"
+			},
+			{
+				"id": 7,
+				"name": "Limo"
+			},
+			{
+				"id": 8,
+				"name": "Pancoran Mas"
+			},
+			{
+				"id": 9,
+				"name": "Sawangan"
+			},
+			{
+				"id": 10,
+				"name": "Sukmajaya"
+			},
+			{
+				"id": 11,
+				"name": "Tapos"
+			}
+		]
+	}
+}

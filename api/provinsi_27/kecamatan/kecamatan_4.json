@@ -1,0 +1,53 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bulukumba",
+	"scraped_at": "2023-01-23T04:29:04.179Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Bulukumba",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Lambang_Kabupaten_Bulukumba.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bonto Bahari"
+			},
+			{
+				"id": 2,
+				"name": "Bontotiro"
+			},
+			{
+				"id": 3,
+				"name": "Bulukumpa"
+			},
+			{
+				"id": 4,
+				"name": "Gantarang"
+			},
+			{
+				"id": 5,
+				"name": "Hero Lange-Lange"
+			},
+			{
+				"id": 6,
+				"name": "Kajang"
+			},
+			{
+				"id": 7,
+				"name": "Kindang"
+			},
+			{
+				"id": 8,
+				"name": "Rilau Ale"
+			},
+			{
+				"id": 9,
+				"name": "Ujung Bulu"
+			},
+			{
+				"id": 10,
+				"name": "Ujung Loe"
+			}
+		]
+	}
+}

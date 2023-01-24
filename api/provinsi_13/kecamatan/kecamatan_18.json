@@ -1,0 +1,89 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pekalongan",
+	"scraped_at": "2023-01-23T04:24:11.420Z",
+	"kabupaten": {
+		"id": 18,
+		"name": "Kabupaten Pekalongan",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Coat_of_arms_of_Pekalongan_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bojong"
+			},
+			{
+				"id": 2,
+				"name": "Buaran"
+			},
+			{
+				"id": 3,
+				"name": "Doro"
+			},
+			{
+				"id": 4,
+				"name": "Kajen"
+			},
+			{
+				"id": 5,
+				"name": "Kandangserang"
+			},
+			{
+				"id": 6,
+				"name": "Karanganyar"
+			},
+			{
+				"id": 7,
+				"name": "Karangdadap"
+			},
+			{
+				"id": 8,
+				"name": "Kedungwuni"
+			},
+			{
+				"id": 9,
+				"name": "Kesesi"
+			},
+			{
+				"id": 10,
+				"name": "Lebakbarang"
+			},
+			{
+				"id": 11,
+				"name": "Paninggaran"
+			},
+			{
+				"id": 12,
+				"name": "Petungkriyana"
+			},
+			{
+				"id": 13,
+				"name": "Siwalan"
+			},
+			{
+				"id": 14,
+				"name": "Sragi"
+			},
+			{
+				"id": 15,
+				"name": "Talun"
+			},
+			{
+				"id": 16,
+				"name": "Tirto"
+			},
+			{
+				"id": 17,
+				"name": "Wiradesa"
+			},
+			{
+				"id": 18,
+				"name": "Wonokerto"
+			},
+			{
+				"id": 19,
+				"name": "Wonopringgo"
+			}
+		]
+	}
+}

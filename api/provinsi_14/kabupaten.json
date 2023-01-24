@@ -1,0 +1,44 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Daerah_Istimewa Yogyakarta",
+	"scraped_at": "2023-01-23T04:24:37.223Z",
+	"provinsi": {
+		"id": 14,
+		"code": "34",
+		"name": "Daerah Istimewa Yogyakarta",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Coat_of_arms_of_Yogyakarta.svg"
+	},
+	"data": {
+		"kabupaten": [
+			{
+				"id": 1,
+				"name": "Kabupaten Bantul",
+				"image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Seal_of_Bantul_Regency.svg",
+				"capital": "ꦏꦧꦸꦥꦠꦺꦤ꧀ꦧꦤ꧀ꦠꦸꦭ꧀"
+			},
+			{
+				"id": 2,
+				"name": "Kabupaten Gunungkidul",
+				"image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Seal_of_Gunungkidul_Regency.svg",
+				"capital": "ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀"
+			},
+			{
+				"id": 3,
+				"name": "Kabupaten Kulon Progo",
+				"image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kulonprogo_Seal.svg",
+				"capital": "ꦏꦧꦸꦥꦠꦺꦤ꧀ꦏꦸꦭꦺꦴꦤ꧀ꦥꦿꦒ"
+			},
+			{
+				"id": 4,
+				"name": "Kabupaten Sleman",
+				"image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Seal_of_Sleman_Regency.svg",
+				"capital": "ꦏꦧꦸꦥꦠꦺꦤ꧀​ꦱ꧀ꦭꦺꦩꦤ꧀"
+			},
+			{
+				"id": 5,
+				"name": "Kota Yogyakarta",
+				"image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Seal_of_the_City_of_Yogyakarta.svg",
+				"capital": "ꦏꦸꦛꦔꦪꦺꦴꦒꦾꦏꦂꦠ"
+			}
+		]
+	}
+}

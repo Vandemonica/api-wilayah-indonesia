@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Binjai",
+	"scraped_at": "2023-01-23T04:20:06.915Z",
+	"kabupaten": {
+		"id": 26,
+		"name": "Kota Binjai",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Logobinjai.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Binjai Barat"
+			},
+			{
+				"id": 2,
+				"name": "Binjai Kota"
+			},
+			{
+				"id": 3,
+				"name": "Binjai Selatan"
+			},
+			{
+				"id": 4,
+				"name": "Binjai Timur"
+			},
+			{
+				"id": 5,
+				"name": "Binjai Utara"
+			}
+		]
+	}
+}

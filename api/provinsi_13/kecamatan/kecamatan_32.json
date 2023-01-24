@@ -1,0 +1,29 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Salatiga",
+	"scraped_at": "2023-01-23T04:24:31.711Z",
+	"kabupaten": {
+		"id": 32,
+		"name": "Kota Salatiga",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Seal_of_the_City_of_Salatiga.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Argomulyo"
+			},
+			{
+				"id": 2,
+				"name": "Sidomukti"
+			},
+			{
+				"id": 3,
+				"name": "Sidorejo"
+			},
+			{
+				"id": 4,
+				"name": "Tingkir"
+			}
+		]
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Langsa",
+	"scraped_at": "2023-01-23T04:19:21.445Z",
+	"kabupaten": {
+		"id": 20,
+		"name": "Kota Langsa",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pemko_langsa.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Langsa Barat"
+			},
+			{
+				"id": 2,
+				"name": "Langsa Baro"
+			},
+			{
+				"id": 3,
+				"name": "Langsa Kota"
+			},
+			{
+				"id": 4,
+				"name": "Langsa Lama"
+			},
+			{
+				"id": 5,
+				"name": "Langsa Timur"
+			}
+		]
+	}
+}

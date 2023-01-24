@@ -1,0 +1,97 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Banyuasin",
+	"scraped_at": "2023-01-23T04:21:26.075Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Banyuasin",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Lambang_Kabupaten_Banyuasin.gif"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Air Kumbang"
+			},
+			{
+				"id": 2,
+				"name": "Air Salek"
+			},
+			{
+				"id": 3,
+				"name": "Banyuasin I"
+			},
+			{
+				"id": 4,
+				"name": "Banyuasin II"
+			},
+			{
+				"id": 5,
+				"name": "Banyuasin III"
+			},
+			{
+				"id": 6,
+				"name": "Betung"
+			},
+			{
+				"id": 7,
+				"name": "Karang Agung Ilir"
+			},
+			{
+				"id": 8,
+				"name": "Makarti Jaya"
+			},
+			{
+				"id": 9,
+				"name": "Muara Padang"
+			},
+			{
+				"id": 10,
+				"name": "Muara Sugihan"
+			},
+			{
+				"id": 11,
+				"name": "Muara Telang"
+			},
+			{
+				"id": 12,
+				"name": "Pulau Rimau"
+			},
+			{
+				"id": 13,
+				"name": "Rambutan"
+			},
+			{
+				"id": 14,
+				"name": "Rantau Bayur"
+			},
+			{
+				"id": 15,
+				"name": "Selat Penuguan"
+			},
+			{
+				"id": 16,
+				"name": "Sembawa"
+			},
+			{
+				"id": 17,
+				"name": "Suak Tapeh"
+			},
+			{
+				"id": 18,
+				"name": "Sumber Marga Telang"
+			},
+			{
+				"id": 19,
+				"name": "Talang Kelapa"
+			},
+			{
+				"id": 20,
+				"name": "Tanjung Lago"
+			},
+			{
+				"id": 21,
+				"name": "Tungkal Ilir"
+			}
+		]
+	}
+}

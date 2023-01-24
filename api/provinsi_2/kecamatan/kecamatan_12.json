@@ -1,0 +1,53 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Nias",
+	"scraped_at": "2023-01-23T04:19:43.511Z",
+	"kabupaten": {
+		"id": 12,
+		"name": "Kabupaten Nias",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_kabupaten_nias.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bawolato"
+			},
+			{
+				"id": 2,
+				"name": "Botomuzoi"
+			},
+			{
+				"id": 3,
+				"name": "Gido"
+			},
+			{
+				"id": 4,
+				"name": "Hiliduho"
+			},
+			{
+				"id": 5,
+				"name": "Hiliserangkai"
+			},
+			{
+				"id": 6,
+				"name": "Idanogawo"
+			},
+			{
+				"id": 7,
+				"name": "Ma'u"
+			},
+			{
+				"id": 8,
+				"name": "Sogae'adu"
+			},
+			{
+				"id": 9,
+				"name": "Somolo-molo"
+			},
+			{
+				"id": 10,
+				"name": "Ulugawo"
+			}
+		]
+	}
+}

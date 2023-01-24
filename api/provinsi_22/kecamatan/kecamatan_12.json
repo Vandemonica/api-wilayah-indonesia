@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Banjarbaru",
+	"scraped_at": "2023-01-23T04:27:46.876Z",
+	"kabupaten": {
+		"id": 12,
+		"name": "Kota Banjarbaru",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Banjarbaru Selatan"
+			},
+			{
+				"id": 2,
+				"name": "Banjarbaru Utara"
+			},
+			{
+				"id": 3,
+				"name": "Cempaka"
+			},
+			{
+				"id": 4,
+				"name": "Landasan Ulin"
+			},
+			{
+				"id": 5,
+				"name": "Liang Anggang"
+			}
+		]
+	}
+}

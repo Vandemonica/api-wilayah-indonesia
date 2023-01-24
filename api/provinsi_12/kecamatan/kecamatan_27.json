@@ -1,0 +1,53 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tasikmalaya",
+	"scraped_at": "2023-01-23T04:23:45.952Z",
+	"kabupaten": {
+		"id": 27,
+		"name": "Kota Tasikmalaya",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Seal_of_the_City_of_Tasikmalaya.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bungursari"
+			},
+			{
+				"id": 2,
+				"name": "Cibeureum"
+			},
+			{
+				"id": 3,
+				"name": "Cihideung"
+			},
+			{
+				"id": 4,
+				"name": "Cipedes"
+			},
+			{
+				"id": 5,
+				"name": "Indihiang"
+			},
+			{
+				"id": 6,
+				"name": "Kawalu"
+			},
+			{
+				"id": 7,
+				"name": "Mangkubumi"
+			},
+			{
+				"id": 8,
+				"name": "Purbaratu"
+			},
+			{
+				"id": 9,
+				"name": "Tamansari"
+			},
+			{
+				"id": 10,
+				"name": "Tawang"
+			}
+		]
+	}
+}

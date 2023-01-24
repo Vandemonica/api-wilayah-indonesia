@@ -1,0 +1,37 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Pontianak",
+	"scraped_at": "2023-01-23T04:27:02.799Z",
+	"kabupaten": {
+		"id": 13,
+		"name": "Kota Pontianak",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Seal_of_Pontianak.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Pontianak Barat"
+			},
+			{
+				"id": 2,
+				"name": "Pontianak Kota"
+			},
+			{
+				"id": 3,
+				"name": "Pontianak Selatan"
+			},
+			{
+				"id": 4,
+				"name": "Pontianak Tenggara"
+			},
+			{
+				"id": 5,
+				"name": "Pontianak Timur"
+			},
+			{
+				"id": 6,
+				"name": "Pontianak Utara"
+			}
+		]
+	}
+}

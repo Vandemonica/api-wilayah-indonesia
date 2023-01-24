@@ -1,0 +1,25 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Mojokerto",
+	"scraped_at": "2023-01-23T04:25:24.858Z",
+	"kabupaten": {
+		"id": 35,
+		"name": "Kota Mojokerto",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Coat_of_arms_of_the_City_of_Mojokerto.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Kranggan"
+			},
+			{
+				"id": 2,
+				"name": "Magersari, Mojokerto‎ (7 H"
+			},
+			{
+				"id": 3,
+				"name": "Prajuritkulon"
+			}
+		]
+	}
+}

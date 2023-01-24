@@ -1,0 +1,117 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Majalengka",
+	"scraped_at": "2023-01-23T04:23:26.872Z",
+	"kabupaten": {
+		"id": 12,
+		"name": "Kabupaten Majalengka",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Lambang_Kabupaten_Majalengka.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Argapura"
+			},
+			{
+				"id": 2,
+				"name": "Banjaran"
+			},
+			{
+				"id": 3,
+				"name": "Bantarujeg"
+			},
+			{
+				"id": 4,
+				"name": "Cigasong"
+			},
+			{
+				"id": 5,
+				"name": "Cikijing"
+			},
+			{
+				"id": 6,
+				"name": "Cingambul"
+			},
+			{
+				"id": 7,
+				"name": "Dawuan"
+			},
+			{
+				"id": 8,
+				"name": "Jatitujuh"
+			},
+			{
+				"id": 9,
+				"name": "Jatiwangi"
+			},
+			{
+				"id": 10,
+				"name": "Kadipaten"
+			},
+			{
+				"id": 11,
+				"name": "Kasokandel"
+			},
+			{
+				"id": 12,
+				"name": "Kertajati"
+			},
+			{
+				"id": 13,
+				"name": "Lemahsugih"
+			},
+			{
+				"id": 14,
+				"name": "Leuwimunding"
+			},
+			{
+				"id": 15,
+				"name": "Ligung"
+			},
+			{
+				"id": 16,
+				"name": "Maja"
+			},
+			{
+				"id": 17,
+				"name": "Majalengka"
+			},
+			{
+				"id": 18,
+				"name": "Malausma"
+			},
+			{
+				"id": 19,
+				"name": "Palasah"
+			},
+			{
+				"id": 20,
+				"name": "Panyingkiran"
+			},
+			{
+				"id": 21,
+				"name": "Rajagaluh"
+			},
+			{
+				"id": 22,
+				"name": "Sindang"
+			},
+			{
+				"id": 23,
+				"name": "Sindangwangi"
+			},
+			{
+				"id": 24,
+				"name": "Sukahaji"
+			},
+			{
+				"id": 25,
+				"name": "Sumberjaya"
+			},
+			{
+				"id": 26,
+				"name": "Talaga"
+			}
+		]
+	}
+}

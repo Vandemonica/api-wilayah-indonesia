@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tomohon",
+	"scraped_at": "2023-01-23T04:28:38.599Z",
+	"kabupaten": {
+		"id": 15,
+		"name": "Kota Tomohon",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Lambang_Kota_Tomohon.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Tomohon Barat"
+			},
+			{
+				"id": 2,
+				"name": "Tomohon Selatan"
+			},
+			{
+				"id": 3,
+				"name": "Tomohon Tengah"
+			},
+			{
+				"id": 4,
+				"name": "Tomohon Timur"
+			},
+			{
+				"id": 5,
+				"name": "Tomohon Utara"
+			}
+		]
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Metro",
+	"scraped_at": "2023-01-23T04:22:32.137Z",
+	"kabupaten": {
+		"id": 15,
+		"name": "Kota Metro",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/LOGO_KOTA_METRO.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Metro Barat"
+			},
+			{
+				"id": 2,
+				"name": "Metro Pusat"
+			},
+			{
+				"id": 3,
+				"name": "Metro Selatan"
+			},
+			{
+				"id": 4,
+				"name": "Metro Timur"
+			},
+			{
+				"id": 5,
+				"name": "Metro Utara"
+			}
+		]
+	}
+}

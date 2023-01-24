@@ -1,0 +1,53 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Halmahera Timur",
+	"scraped_at": "2023-01-23T04:30:47.492Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Halmahera Timur",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Lambang_Kabupaten_Halmahera_Timur.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Kota Maba"
+			},
+			{
+				"id": 2,
+				"name": "Maba Selatan"
+			},
+			{
+				"id": 3,
+				"name": "Maba Tengah"
+			},
+			{
+				"id": 4,
+				"name": "Maba Utara"
+			},
+			{
+				"id": 5,
+				"name": "Maba"
+			},
+			{
+				"id": 6,
+				"name": "Wasile Selatan"
+			},
+			{
+				"id": 7,
+				"name": "Wasile Tengah"
+			},
+			{
+				"id": 8,
+				"name": "Wasile Timur"
+			},
+			{
+				"id": 9,
+				"name": "Wasile Utara"
+			},
+			{
+				"id": 10,
+				"name": "Wasile"
+			}
+		]
+	}
+}

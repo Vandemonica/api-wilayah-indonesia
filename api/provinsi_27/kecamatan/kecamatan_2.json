@@ -1,0 +1,41 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Barru",
+	"scraped_at": "2023-01-23T04:29:01.344Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Barru",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Barru_Regency_Logo.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Balusu"
+			},
+			{
+				"id": 2,
+				"name": "Barru"
+			},
+			{
+				"id": 3,
+				"name": "Mallusetasi"
+			},
+			{
+				"id": 4,
+				"name": "Pujananting"
+			},
+			{
+				"id": 5,
+				"name": "Soppeng Riaja"
+			},
+			{
+				"id": 6,
+				"name": "Tanete Riaja"
+			},
+			{
+				"id": 7,
+				"name": "Tanete Rilau"
+			}
+		]
+	}
+}

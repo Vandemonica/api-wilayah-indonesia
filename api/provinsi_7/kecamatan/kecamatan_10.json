@@ -1,0 +1,49 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Bengkulu",
+	"scraped_at": "2023-01-23T04:22:06.591Z",
+	"kabupaten": {
+		"id": 10,
+		"name": "Kota Bengkulu",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kota_Bengkulu.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Gading Cempaka"
+			},
+			{
+				"id": 2,
+				"name": "Kampung Melayu"
+			},
+			{
+				"id": 3,
+				"name": "Muara Bangkahulu"
+			},
+			{
+				"id": 4,
+				"name": "Ratu Agung"
+			},
+			{
+				"id": 5,
+				"name": "Ratu Samban"
+			},
+			{
+				"id": 6,
+				"name": "Selebar"
+			},
+			{
+				"id": 7,
+				"name": "Singaran Pati"
+			},
+			{
+				"id": 8,
+				"name": "Sungai Serut"
+			},
+			{
+				"id": 9,
+				"name": "Teluk Segara"
+			}
+		]
+	}
+}

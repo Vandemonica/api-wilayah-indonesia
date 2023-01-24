@@ -1,0 +1,57 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Luwu Timur",
+	"scraped_at": "2023-01-23T04:29:11.692Z",
+	"kabupaten": {
+		"id": 10,
+		"name": "Kabupaten Luwu Timur",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Lambang_Kabupaten_Luwu_Timur.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Angkona"
+			},
+			{
+				"id": 2,
+				"name": "Burau"
+			},
+			{
+				"id": 3,
+				"name": "Kalaena"
+			},
+			{
+				"id": 4,
+				"name": "Malili"
+			},
+			{
+				"id": 5,
+				"name": "Mangkutana"
+			},
+			{
+				"id": 6,
+				"name": "Nuha"
+			},
+			{
+				"id": 7,
+				"name": "Tomoni Timur"
+			},
+			{
+				"id": 8,
+				"name": "Tomoni"
+			},
+			{
+				"id": 9,
+				"name": "Towuti"
+			},
+			{
+				"id": 10,
+				"name": "Wasuponda"
+			},
+			{
+				"id": 11,
+				"name": "Wotu"
+			}
+		]
+	}
+}

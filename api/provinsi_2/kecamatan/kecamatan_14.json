@@ -1,0 +1,153 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Nias Selatan",
+	"scraped_at": "2023-01-23T04:19:47.415Z",
+	"kabupaten": {
+		"id": 14,
+		"name": "Kabupaten Nias Selatan",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Logo_Nias_Selatan.JPG"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Amandraya"
+			},
+			{
+				"id": 2,
+				"name": "Aramo"
+			},
+			{
+				"id": 3,
+				"name": "Boronadu"
+			},
+			{
+				"id": 4,
+				"name": "Fanayama"
+			},
+			{
+				"id": 5,
+				"name": "Gomo"
+			},
+			{
+				"id": 6,
+				"name": "Hibala"
+			},
+			{
+				"id": 7,
+				"name": "Hilimegai"
+			},
+			{
+				"id": 8,
+				"name": "Hilisalawa'ahe"
+			},
+			{
+				"id": 9,
+				"name": "Huruna"
+			},
+			{
+				"id": 10,
+				"name": "Idanotae"
+			},
+			{
+				"id": 11,
+				"name": "Lahusa"
+			},
+			{
+				"id": 12,
+				"name": "Lolomatua"
+			},
+			{
+				"id": 13,
+				"name": "Lolowau"
+			},
+			{
+				"id": 14,
+				"name": "Luahagundre Maniamolo"
+			},
+			{
+				"id": 15,
+				"name": "Maniamolo"
+			},
+			{
+				"id": 16,
+				"name": "Mazino"
+			},
+			{
+				"id": 17,
+				"name": "Mazo"
+			},
+			{
+				"id": 18,
+				"name": "O'o'u"
+			},
+			{
+				"id": 19,
+				"name": "Onohazumba"
+			},
+			{
+				"id": 20,
+				"name": "Onolalu"
+			},
+			{
+				"id": 21,
+				"name": "Pulau-Pulau Batu Barat"
+			},
+			{
+				"id": 22,
+				"name": "Pulau-Pulau Batu Timur"
+			},
+			{
+				"id": 23,
+				"name": "Pulau-Pulau Batu Utara"
+			},
+			{
+				"id": 24,
+				"name": "Pulau-Pulau Batu"
+			},
+			{
+				"id": 25,
+				"name": "Sidua'ori"
+			},
+			{
+				"id": 26,
+				"name": "Simuk"
+			},
+			{
+				"id": 27,
+				"name": "Somambawa"
+			},
+			{
+				"id": 28,
+				"name": "Susua"
+			},
+			{
+				"id": 29,
+				"name": "Tanah Masa"
+			},
+			{
+				"id": 30,
+				"name": "Teluk Dalam"
+			},
+			{
+				"id": 31,
+				"name": "Toma"
+			},
+			{
+				"id": 32,
+				"name": "Ulu Idanotae"
+			},
+			{
+				"id": 33,
+				"name": "Ulunoyo"
+			},
+			{
+				"id": 34,
+				"name": "Ulususua"
+			},
+			{
+				"id": 35,
+				"name": "Umbunasi"
+			}
+		]
+	}
+}

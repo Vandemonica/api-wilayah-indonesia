@@ -1,0 +1,57 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Rote Ndao",
+	"scraped_at": "2023-01-23T04:26:25.986Z",
+	"kabupaten": {
+		"id": 13,
+		"name": "Kabupaten Rote Ndao",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lambang_Kabupaten_Rote_Ndao.jpeg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Landu Leko"
+			},
+			{
+				"id": 2,
+				"name": "Loaholu"
+			},
+			{
+				"id": 3,
+				"name": "Lobalain"
+			},
+			{
+				"id": 4,
+				"name": "Ndao Nuse"
+			},
+			{
+				"id": 5,
+				"name": "Pantai Baru"
+			},
+			{
+				"id": 6,
+				"name": "Rote Barat Daya"
+			},
+			{
+				"id": 7,
+				"name": "Rote Barat Laut"
+			},
+			{
+				"id": 8,
+				"name": "Rote Barat"
+			},
+			{
+				"id": 9,
+				"name": "Rote Selatan"
+			},
+			{
+				"id": 10,
+				"name": "Rote Tengah"
+			},
+			{
+				"id": 11,
+				"name": "Rote Timur"
+			}
+		]
+	}
+}

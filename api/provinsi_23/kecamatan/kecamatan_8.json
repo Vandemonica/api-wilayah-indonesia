@@ -1,0 +1,37 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Balikpapan",
+	"scraped_at": "2023-01-23T04:28:01.702Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kota Balikpapan",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_arms_of_Balikpapan.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Balikpapan Barat"
+			},
+			{
+				"id": 2,
+				"name": "Balikpapan Kota"
+			},
+			{
+				"id": 3,
+				"name": "Balikpapan Selatan"
+			},
+			{
+				"id": 4,
+				"name": "Balikpapan Tengah"
+			},
+			{
+				"id": 5,
+				"name": "Balikpapan Timur"
+			},
+			{
+				"id": 6,
+				"name": "Balikpapan Utara"
+			}
+		]
+	}
+}

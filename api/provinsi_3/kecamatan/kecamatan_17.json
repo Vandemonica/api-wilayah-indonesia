@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Payakumbuh",
+	"scraped_at": "2023-01-23T04:20:42.909Z",
+	"kabupaten": {
+		"id": 17,
+		"name": "Kota Payakumbuh",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Lambang_Kota_Payakumbuh.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Lamposi Tigo Nagori"
+			},
+			{
+				"id": 2,
+				"name": "Payakumbuh Barat"
+			},
+			{
+				"id": 3,
+				"name": "Payakumbuh Selatan"
+			},
+			{
+				"id": 4,
+				"name": "Payakumbuh Timur"
+			},
+			{
+				"id": 5,
+				"name": "Payakumbuh Utara"
+			}
+		]
+	}
+}

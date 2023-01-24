@@ -1,0 +1,85 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bireuen",
+	"scraped_at": "2023-01-23T04:19:11.056Z",
+	"kabupaten": {
+		"id": 13,
+		"name": "Kabupaten Bireuen",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Bireuen.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Gandapura"
+			},
+			{
+				"id": 2,
+				"name": "Jangka"
+			},
+			{
+				"id": 3,
+				"name": "Jeumpa"
+			},
+			{
+				"id": 4,
+				"name": "Jeunieb"
+			},
+			{
+				"id": 5,
+				"name": "Juli"
+			},
+			{
+				"id": 6,
+				"name": "Kota Juang"
+			},
+			{
+				"id": 7,
+				"name": "Kuala"
+			},
+			{
+				"id": 8,
+				"name": "Kuta Blang"
+			},
+			{
+				"id": 9,
+				"name": "Makmur"
+			},
+			{
+				"id": 10,
+				"name": "Pandrah"
+			},
+			{
+				"id": 11,
+				"name": "Peudada"
+			},
+			{
+				"id": 12,
+				"name": "Peulimbang"
+			},
+			{
+				"id": 13,
+				"name": "Peusangan"
+			},
+			{
+				"id": 14,
+				"name": "Peusangan Selatan"
+			},
+			{
+				"id": 15,
+				"name": "Peusangan Siblah Krueng"
+			},
+			{
+				"id": 16,
+				"name": "Plimbang"
+			},
+			{
+				"id": 17,
+				"name": "Samalanga"
+			},
+			{
+				"id": 18,
+				"name": "Simpang Mamplam"
+			}
+		]
+	}
+}

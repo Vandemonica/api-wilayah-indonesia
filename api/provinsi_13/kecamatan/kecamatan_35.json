@@ -1,0 +1,29 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tegal",
+	"scraped_at": "2023-01-23T04:24:35.836Z",
+	"kabupaten": {
+		"id": 35,
+		"name": "Kota Tegal",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Shield_of_the_city_of_Tegal.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Margadana"
+			},
+			{
+				"id": 2,
+				"name": "Tegal Barat"
+			},
+			{
+				"id": 3,
+				"name": "Tegal Selatan"
+			},
+			{
+				"id": 4,
+				"name": "Tegal Timur"
+			}
+		]
+	}
+}

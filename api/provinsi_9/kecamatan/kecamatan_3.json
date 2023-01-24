@@ -1,0 +1,45 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bangka Selatan",
+	"scraped_at": "2023-01-23T04:22:38.640Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Bangka Selatan",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lambang_Kabupaten_Bangka_Selatan.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Air Gegas"
+			},
+			{
+				"id": 2,
+				"name": "Kepulauan Pongok"
+			},
+			{
+				"id": 3,
+				"name": "Lepar Pongok"
+			},
+			{
+				"id": 4,
+				"name": "Payung"
+			},
+			{
+				"id": 5,
+				"name": "Pulau Besar"
+			},
+			{
+				"id": 6,
+				"name": "Simpang Rimba"
+			},
+			{
+				"id": 7,
+				"name": "Toboali"
+			},
+			{
+				"id": 8,
+				"name": "Tukak Sadai"
+			}
+		]
+	}
+}

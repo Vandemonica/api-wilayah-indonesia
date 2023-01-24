@@ -1,0 +1,173 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bogor",
+	"scraped_at": "2023-01-23T04:23:16.139Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Bogor",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Lambang_Kabupaten_Bogor.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Babakan Madang"
+			},
+			{
+				"id": 2,
+				"name": "Bojonggede"
+			},
+			{
+				"id": 3,
+				"name": "Caringin"
+			},
+			{
+				"id": 4,
+				"name": "Cariu"
+			},
+			{
+				"id": 5,
+				"name": "Ciampea"
+			},
+			{
+				"id": 6,
+				"name": "Ciawi"
+			},
+			{
+				"id": 7,
+				"name": "Cibinong"
+			},
+			{
+				"id": 8,
+				"name": "Cibungbulang"
+			},
+			{
+				"id": 9,
+				"name": "Cigombong"
+			},
+			{
+				"id": 10,
+				"name": "Cigudeg"
+			},
+			{
+				"id": 11,
+				"name": "Cijeruk"
+			},
+			{
+				"id": 12,
+				"name": "Cileungsi"
+			},
+			{
+				"id": 13,
+				"name": "Ciomas"
+			},
+			{
+				"id": 14,
+				"name": "Cisarua"
+			},
+			{
+				"id": 15,
+				"name": "Ciseeng"
+			},
+			{
+				"id": 16,
+				"name": "Citeureup"
+			},
+			{
+				"id": 17,
+				"name": "Dramaga"
+			},
+			{
+				"id": 18,
+				"name": "Gunung Putri"
+			},
+			{
+				"id": 19,
+				"name": "Gunungsindur"
+			},
+			{
+				"id": 20,
+				"name": "Jasinga"
+			},
+			{
+				"id": 21,
+				"name": "Jonggol"
+			},
+			{
+				"id": 22,
+				"name": "Kemang"
+			},
+			{
+				"id": 23,
+				"name": "Klapanunggal"
+			},
+			{
+				"id": 24,
+				"name": "Leuwiliang"
+			},
+			{
+				"id": 25,
+				"name": "Leuwisadeng"
+			},
+			{
+				"id": 26,
+				"name": "Megamendung"
+			},
+			{
+				"id": 27,
+				"name": "Nanggung"
+			},
+			{
+				"id": 28,
+				"name": "Pamijahan"
+			},
+			{
+				"id": 29,
+				"name": "Parung Panjang"
+			},
+			{
+				"id": 30,
+				"name": "Parung"
+			},
+			{
+				"id": 31,
+				"name": "Ranca Bungur"
+			},
+			{
+				"id": 32,
+				"name": "Rumpin"
+			},
+			{
+				"id": 33,
+				"name": "Sukajaya"
+			},
+			{
+				"id": 34,
+				"name": "Sukamakmur"
+			},
+			{
+				"id": 35,
+				"name": "Sukaraja"
+			},
+			{
+				"id": 36,
+				"name": "Tajurhalang"
+			},
+			{
+				"id": 37,
+				"name": "Tamansari"
+			},
+			{
+				"id": 38,
+				"name": "Tanjungsari"
+			},
+			{
+				"id": 39,
+				"name": "Tenjo"
+			},
+			{
+				"id": 40,
+				"name": "Tenjolaya"
+			}
+		]
+	}
+}

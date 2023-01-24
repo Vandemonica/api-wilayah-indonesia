@@ -1,0 +1,53 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Empat Lawang",
+	"scraped_at": "2023-01-23T04:21:27.454Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Empat Lawang",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lambang_Empat_Lawang.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Lintang Kanan"
+			},
+			{
+				"id": 2,
+				"name": "Muara Pinang"
+			},
+			{
+				"id": 3,
+				"name": "Pasemah Air Keruh"
+			},
+			{
+				"id": 4,
+				"name": "Pendopo Barat"
+			},
+			{
+				"id": 5,
+				"name": "Pendopo"
+			},
+			{
+				"id": 6,
+				"name": "Saling"
+			},
+			{
+				"id": 7,
+				"name": "Sikap Dalam"
+			},
+			{
+				"id": 8,
+				"name": "Talang Padang"
+			},
+			{
+				"id": 9,
+				"name": "Tebing Tinggi"
+			},
+			{
+				"id": 10,
+				"name": "Ulu Musi"
+			}
+		]
+	}
+}

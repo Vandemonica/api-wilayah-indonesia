@@ -1,0 +1,73 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sanggau",
+	"scraped_at": "2023-01-23T04:26:58.120Z",
+	"kabupaten": {
+		"id": 10,
+		"name": "Kabupaten Sanggau",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Lambang_Kabupaten_Sanggau.tif"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Balai"
+			},
+			{
+				"id": 2,
+				"name": "Beduai"
+			},
+			{
+				"id": 3,
+				"name": "Bonti"
+			},
+			{
+				"id": 4,
+				"name": "Entikong"
+			},
+			{
+				"id": 5,
+				"name": "Jangkang"
+			},
+			{
+				"id": 6,
+				"name": "Kapuas"
+			},
+			{
+				"id": 7,
+				"name": "Kembayan"
+			},
+			{
+				"id": 8,
+				"name": "Meliau"
+			},
+			{
+				"id": 9,
+				"name": "Mukok"
+			},
+			{
+				"id": 10,
+				"name": "Noyan"
+			},
+			{
+				"id": 11,
+				"name": "Parindu"
+			},
+			{
+				"id": 12,
+				"name": "Sekayam"
+			},
+			{
+				"id": 13,
+				"name": "Tayan Hilir"
+			},
+			{
+				"id": 14,
+				"name": "Tayan Hulu"
+			},
+			{
+				"id": 15,
+				"name": "Toba"
+			}
+		]
+	}
+}

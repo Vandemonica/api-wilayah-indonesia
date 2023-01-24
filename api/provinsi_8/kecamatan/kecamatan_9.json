@@ -1,0 +1,49 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pringsewu",
+	"scraped_at": "2023-01-23T04:22:23.322Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kabupaten Pringsewu",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lambang_Kabupaten_Pringsewu.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Adiluwih"
+			},
+			{
+				"id": 2,
+				"name": "Ambarawa"
+			},
+			{
+				"id": 3,
+				"name": "Banyumas"
+			},
+			{
+				"id": 4,
+				"name": "Gading Rejo"
+			},
+			{
+				"id": 5,
+				"name": "Pagelaran Utara"
+			},
+			{
+				"id": 6,
+				"name": "Pagelaran, Pringsewu‎ (1 K, 25 H"
+			},
+			{
+				"id": 7,
+				"name": "Pardasuka"
+			},
+			{
+				"id": 8,
+				"name": "Pringsewu"
+			},
+			{
+				"id": 9,
+				"name": "Sukoharjo"
+			}
+		]
+	}
+}

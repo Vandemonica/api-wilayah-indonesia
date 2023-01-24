@@ -1,0 +1,65 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Ogan Komering Ulu",
+	"scraped_at": "2023-01-23T04:21:40.252Z",
+	"kabupaten": {
+		"id": 10,
+		"name": "Kabupaten Ogan Komering Ulu",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Lambang_Kabupaten_Ogan_Komering_Ulu.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Baturaja Barat"
+			},
+			{
+				"id": 2,
+				"name": "Baturaja Timur"
+			},
+			{
+				"id": 3,
+				"name": "Kedaton Peninjauan Raya"
+			},
+			{
+				"id": 4,
+				"name": "Lengkiti"
+			},
+			{
+				"id": 5,
+				"name": "Lubuk Batang"
+			},
+			{
+				"id": 6,
+				"name": "Lubuk Raja"
+			},
+			{
+				"id": 7,
+				"name": "Muara Jaya"
+			},
+			{
+				"id": 8,
+				"name": "Pengandonan"
+			},
+			{
+				"id": 9,
+				"name": "Peninjauan"
+			},
+			{
+				"id": 10,
+				"name": "Semidang Aji"
+			},
+			{
+				"id": 11,
+				"name": "Sinar Peninjauan"
+			},
+			{
+				"id": 12,
+				"name": "Sosoh Buay Rayap"
+			},
+			{
+				"id": 13,
+				"name": "Ulu Ogan"
+			}
+		]
+	}
+}

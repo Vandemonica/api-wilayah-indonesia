@@ -1,0 +1,53 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Buru",
+	"scraped_at": "2023-01-23T04:30:23.538Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Buru",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lambang_Kabupaten_Buru.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Air Buaya"
+			},
+			{
+				"id": 2,
+				"name": "Batabual"
+			},
+			{
+				"id": 3,
+				"name": "Fena Leisela"
+			},
+			{
+				"id": 4,
+				"name": "Lilialy"
+			},
+			{
+				"id": 5,
+				"name": "Lolong Guba"
+			},
+			{
+				"id": 6,
+				"name": "Namlea"
+			},
+			{
+				"id": 7,
+				"name": "Teluk Kaiely"
+			},
+			{
+				"id": 8,
+				"name": "Waeapo"
+			},
+			{
+				"id": 9,
+				"name": "Waelata"
+			},
+			{
+				"id": 10,
+				"name": "Waplau"
+			}
+		]
+	}
+}

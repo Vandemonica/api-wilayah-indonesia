@@ -1,0 +1,61 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pelalawan",
+	"scraped_at": "2023-01-23T04:20:57.945Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Pelalawan",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Pelalawan_logo.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bandar Petalangan"
+			},
+			{
+				"id": 2,
+				"name": "Bandar Sei Kijang"
+			},
+			{
+				"id": 3,
+				"name": "Bunut"
+			},
+			{
+				"id": 4,
+				"name": "Kerumutan"
+			},
+			{
+				"id": 5,
+				"name": "Kuala Kampar"
+			},
+			{
+				"id": 6,
+				"name": "Langgam"
+			},
+			{
+				"id": 7,
+				"name": "Pangkalan Kerinci"
+			},
+			{
+				"id": 8,
+				"name": "Pangkalan Kuras"
+			},
+			{
+				"id": 9,
+				"name": "Pangkalan Lesung"
+			},
+			{
+				"id": 10,
+				"name": "Pelalawan"
+			},
+			{
+				"id": 11,
+				"name": "Teluk Meranti"
+			},
+			{
+				"id": 12,
+				"name": "Ukui"
+			}
+		]
+	}
+}

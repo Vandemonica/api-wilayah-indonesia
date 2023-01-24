@@ -1,0 +1,93 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Temanggung",
+	"scraped_at": "2023-01-23T04:24:25.121Z",
+	"kabupaten": {
+		"id": 27,
+		"name": "Kabupaten Temanggung",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Seal_of_Temanggung_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bansari"
+			},
+			{
+				"id": 2,
+				"name": "Bejen"
+			},
+			{
+				"id": 3,
+				"name": "Bulu"
+			},
+			{
+				"id": 4,
+				"name": "Candiroto"
+			},
+			{
+				"id": 5,
+				"name": "Gemawang"
+			},
+			{
+				"id": 6,
+				"name": "Jumo"
+			},
+			{
+				"id": 7,
+				"name": "Kaloran"
+			},
+			{
+				"id": 8,
+				"name": "Kandangan"
+			},
+			{
+				"id": 9,
+				"name": "Kedu"
+			},
+			{
+				"id": 10,
+				"name": "Kledung"
+			},
+			{
+				"id": 11,
+				"name": "Kranggan"
+			},
+			{
+				"id": 12,
+				"name": "Ngadirejo"
+			},
+			{
+				"id": 13,
+				"name": "Parakan, Temanggung‎ (1 K"
+			},
+			{
+				"id": 14,
+				"name": "Pringsurat"
+			},
+			{
+				"id": 15,
+				"name": "Selopampang"
+			},
+			{
+				"id": 16,
+				"name": "Temanggung"
+			},
+			{
+				"id": 17,
+				"name": "Tembarak"
+			},
+			{
+				"id": 18,
+				"name": "Tlogomulyo"
+			},
+			{
+				"id": 19,
+				"name": "Tretep"
+			},
+			{
+				"id": 20,
+				"name": "Wonoboyo"
+			}
+		]
+	}
+}

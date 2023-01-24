@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Belitung",
+	"scraped_at": "2023-01-23T04:22:41.064Z",
+	"kabupaten": {
+		"id": 5,
+		"name": "Kabupaten Belitung",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Lambang_Kabupaten_Belitung.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Badau"
+			},
+			{
+				"id": 2,
+				"name": "Membalong"
+			},
+			{
+				"id": 3,
+				"name": "Selat Nasik"
+			},
+			{
+				"id": 4,
+				"name": "Sijuk"
+			},
+			{
+				"id": 5,
+				"name": "Tanjung Pandan"
+			}
+		]
+	}
+}

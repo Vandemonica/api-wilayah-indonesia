@@ -1,0 +1,45 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Mempawah",
+	"scraped_at": "2023-01-23T04:26:55.004Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kabupaten Mempawah",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kabupaten_mempawah.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Anjongan"
+			},
+			{
+				"id": 2,
+				"name": "Mempawah Hilir"
+			},
+			{
+				"id": 3,
+				"name": "Mempawah Timur"
+			},
+			{
+				"id": 4,
+				"name": "Sadaniang"
+			},
+			{
+				"id": 5,
+				"name": "Segedong"
+			},
+			{
+				"id": 6,
+				"name": "Sungai Kunyit"
+			},
+			{
+				"id": 7,
+				"name": "Sungai Pinyuh"
+			},
+			{
+				"id": 8,
+				"name": "Toho"
+			}
+		]
+	}
+}

@@ -1,0 +1,89 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Flores Timur",
+	"scraped_at": "2023-01-23T04:26:14.443Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Flores Timur",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lambang_Kabupaten_Flores_Timur.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Adonara Barat"
+			},
+			{
+				"id": 2,
+				"name": "Adonara Tengah"
+			},
+			{
+				"id": 3,
+				"name": "Adonara Timur"
+			},
+			{
+				"id": 4,
+				"name": "Adonara"
+			},
+			{
+				"id": 5,
+				"name": "Demon Pagong"
+			},
+			{
+				"id": 6,
+				"name": "Ile Boleng"
+			},
+			{
+				"id": 7,
+				"name": "Ile Bura"
+			},
+			{
+				"id": 8,
+				"name": "Ile Mandiri"
+			},
+			{
+				"id": 9,
+				"name": "Kelubagolit"
+			},
+			{
+				"id": 10,
+				"name": "Larantuka, Flores Timur‎ (1 K"
+			},
+			{
+				"id": 11,
+				"name": "Lewolema"
+			},
+			{
+				"id": 12,
+				"name": "Solor Barat"
+			},
+			{
+				"id": 13,
+				"name": "Solor Selatan"
+			},
+			{
+				"id": 14,
+				"name": "Solor Timur"
+			},
+			{
+				"id": 15,
+				"name": "Tanjung Bunga"
+			},
+			{
+				"id": 16,
+				"name": "Titehena"
+			},
+			{
+				"id": 17,
+				"name": "Witihama"
+			},
+			{
+				"id": 18,
+				"name": "Wotan Ulumado"
+			},
+			{
+				"id": 19,
+				"name": "Wulanggitang"
+			}
+		]
+	}
+}

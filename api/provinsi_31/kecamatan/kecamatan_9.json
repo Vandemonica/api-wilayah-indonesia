@@ -1,0 +1,73 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Seram Bagian Timur",
+	"scraped_at": "2023-01-23T04:30:37.791Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kabupaten Seram Bagian Timur",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Lambang_Kabupaten_Seram_Bagian_Timur.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bula Barat"
+			},
+			{
+				"id": 2,
+				"name": "Bula"
+			},
+			{
+				"id": 3,
+				"name": "Gorom Timur"
+			},
+			{
+				"id": 4,
+				"name": "Kian Darat"
+			},
+			{
+				"id": 5,
+				"name": "Kilmury"
+			},
+			{
+				"id": 6,
+				"name": "Pulau Gorom"
+			},
+			{
+				"id": 7,
+				"name": "Pulau Panjang"
+			},
+			{
+				"id": 8,
+				"name": "Seram Timur"
+			},
+			{
+				"id": 9,
+				"name": "Siritaun Wida Timur"
+			},
+			{
+				"id": 10,
+				"name": "Siwalalat"
+			},
+			{
+				"id": 11,
+				"name": "Teluk Waru"
+			},
+			{
+				"id": 12,
+				"name": "Teor"
+			},
+			{
+				"id": 13,
+				"name": "Tutuk Tolu"
+			},
+			{
+				"id": 14,
+				"name": "Wakate"
+			},
+			{
+				"id": 15,
+				"name": "Werinama"
+			}
+		]
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Pasuruan",
+	"scraped_at": "2023-01-23T04:25:25.709Z",
+	"kabupaten": {
+		"id": 36,
+		"name": "Kota Pasuruan",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_Kota_Pasuruan_-_Seal_of_Pasuruan_City.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bugul Kidul"
+			},
+			{
+				"id": 2,
+				"name": "Gadingrejo"
+			},
+			{
+				"id": 3,
+				"name": "Panggungrejo"
+			},
+			{
+				"id": 4,
+				"name": "Purworejo"
+			}
+		]
+	}
+}

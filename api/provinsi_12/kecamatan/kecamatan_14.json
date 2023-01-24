@@ -1,0 +1,81 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Purwakarta",
+	"scraped_at": "2023-01-23T04:23:29.511Z",
+	"kabupaten": {
+		"id": 14,
+		"name": "Kabupaten Purwakarta",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Seal_of_Purwakarta_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Babakancikao"
+			},
+			{
+				"id": 2,
+				"name": "Bojong"
+			},
+			{
+				"id": 3,
+				"name": "Bungursari"
+			},
+			{
+				"id": 4,
+				"name": "Campaka"
+			},
+			{
+				"id": 5,
+				"name": "Cibatu"
+			},
+			{
+				"id": 6,
+				"name": "Darangdan"
+			},
+			{
+				"id": 7,
+				"name": "Jatiluhur"
+			},
+			{
+				"id": 8,
+				"name": "Kiarapedes"
+			},
+			{
+				"id": 9,
+				"name": "Maniis"
+			},
+			{
+				"id": 10,
+				"name": "Pasawahan"
+			},
+			{
+				"id": 11,
+				"name": "Plered"
+			},
+			{
+				"id": 12,
+				"name": "Pondoksalam"
+			},
+			{
+				"id": 13,
+				"name": "Purwakarta"
+			},
+			{
+				"id": 14,
+				"name": "Sukasari"
+			},
+			{
+				"id": 15,
+				"name": "Sukatani"
+			},
+			{
+				"id": 16,
+				"name": "Tegalwaru"
+			},
+			{
+				"id": 17,
+				"name": "Wanayasa"
+			}
+		]
+	}
+}

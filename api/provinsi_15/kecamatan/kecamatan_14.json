@@ -1,0 +1,145 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Malang",
+	"scraped_at": "2023-01-23T04:24:58.738Z",
+	"kabupaten": {
+		"id": 14,
+		"name": "Kabupaten Malang",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Kabupaten_Malang_-_Seal_of_Malang_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Ampelgading"
+			},
+			{
+				"id": 2,
+				"name": "Bantur"
+			},
+			{
+				"id": 3,
+				"name": "Bululawang"
+			},
+			{
+				"id": 4,
+				"name": "Dampit"
+			},
+			{
+				"id": 5,
+				"name": "Dau, Malang‎ (12 H"
+			},
+			{
+				"id": 6,
+				"name": "Donomulyo"
+			},
+			{
+				"id": 7,
+				"name": "Gedangan"
+			},
+			{
+				"id": 8,
+				"name": "Gondanglegi"
+			},
+			{
+				"id": 9,
+				"name": "Jabung"
+			},
+			{
+				"id": 10,
+				"name": "Kalipare"
+			},
+			{
+				"id": 11,
+				"name": "Karangploso, Malang‎ (1 K"
+			},
+			{
+				"id": 12,
+				"name": "Kasembon"
+			},
+			{
+				"id": 13,
+				"name": "Kepanjen"
+			},
+			{
+				"id": 14,
+				"name": "Kromengan"
+			},
+			{
+				"id": 15,
+				"name": "Lawang"
+			},
+			{
+				"id": 16,
+				"name": "Ngajum"
+			},
+			{
+				"id": 17,
+				"name": "Ngantang"
+			},
+			{
+				"id": 18,
+				"name": "Pagak"
+			},
+			{
+				"id": 19,
+				"name": "Pagelaran"
+			},
+			{
+				"id": 20,
+				"name": "Pakis"
+			},
+			{
+				"id": 21,
+				"name": "Pakisaji"
+			},
+			{
+				"id": 22,
+				"name": "Poncokusumo"
+			},
+			{
+				"id": 23,
+				"name": "Pujon"
+			},
+			{
+				"id": 24,
+				"name": "Singosari"
+			},
+			{
+				"id": 25,
+				"name": "Sumbermanjing Wetan"
+			},
+			{
+				"id": 26,
+				"name": "Sumberpucung"
+			},
+			{
+				"id": 27,
+				"name": "Tajinan"
+			},
+			{
+				"id": 28,
+				"name": "Tirtoyudo"
+			},
+			{
+				"id": 29,
+				"name": "Tumpang"
+			},
+			{
+				"id": 30,
+				"name": "Turen"
+			},
+			{
+				"id": 31,
+				"name": "Wagir"
+			},
+			{
+				"id": 32,
+				"name": "Wajak"
+			},
+			{
+				"id": 33,
+				"name": "Wonosari"
+			}
+		]
+	}
+}

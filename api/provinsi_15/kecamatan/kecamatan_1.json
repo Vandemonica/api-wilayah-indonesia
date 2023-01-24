@@ -1,0 +1,85 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bangkalan",
+	"scraped_at": "2023-01-23T04:24:40.986Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Bangkalan",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Seal_of_Bangkalan_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Arosbaya"
+			},
+			{
+				"id": 2,
+				"name": "Bangkalan"
+			},
+			{
+				"id": 3,
+				"name": "Blega"
+			},
+			{
+				"id": 4,
+				"name": "Burneh"
+			},
+			{
+				"id": 5,
+				"name": "Galis"
+			},
+			{
+				"id": 6,
+				"name": "Geger"
+			},
+			{
+				"id": 7,
+				"name": "Kamal"
+			},
+			{
+				"id": 8,
+				"name": "Klampis"
+			},
+			{
+				"id": 9,
+				"name": "Kokop"
+			},
+			{
+				"id": 10,
+				"name": "Konang"
+			},
+			{
+				"id": 11,
+				"name": "Kwanyar"
+			},
+			{
+				"id": 12,
+				"name": "Labang"
+			},
+			{
+				"id": 13,
+				"name": "Modung"
+			},
+			{
+				"id": 14,
+				"name": "Sepulu"
+			},
+			{
+				"id": 15,
+				"name": "Socah"
+			},
+			{
+				"id": 16,
+				"name": "Tanah Merah"
+			},
+			{
+				"id": 17,
+				"name": "Tanjung Bumi"
+			},
+			{
+				"id": 18,
+				"name": "Tragah"
+			}
+		]
+	}
+}

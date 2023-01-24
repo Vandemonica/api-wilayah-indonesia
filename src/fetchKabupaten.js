@@ -10,7 +10,7 @@ const fs = require('fs');
 async function fetchKabupaten(page, province) {
   const selector = 'table.wikitable:nth-of-type(1) tbody tr';
   const url = 'https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_' +  province.name.replace(' ', '_');
-  const dir = `./api/kabupaten_${province.id}`;
+  const dir = `./api/provinsi_${province.id}`;
 
   await page.goto(url);
   await page.waitForSelector(selector);

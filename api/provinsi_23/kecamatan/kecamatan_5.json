@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Mahakam Ulu",
+	"scraped_at": "2023-01-23T04:27:57.904Z",
+	"kabupaten": {
+		"id": 5,
+		"name": "Kabupaten Mahakam Ulu",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mahakam_Ulu.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Laham"
+			},
+			{
+				"id": 2,
+				"name": "Long Apari"
+			},
+			{
+				"id": 3,
+				"name": "Long Bagun"
+			},
+			{
+				"id": 4,
+				"name": "Long Hubung"
+			},
+			{
+				"id": 5,
+				"name": "Long Pahangai"
+			}
+		]
+	}
+}

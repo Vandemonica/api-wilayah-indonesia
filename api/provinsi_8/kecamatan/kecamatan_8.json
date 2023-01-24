@@ -1,0 +1,57 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pesisir Barat",
+	"scraped_at": "2023-01-23T04:22:22.296Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kabupaten Pesisir Barat",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Lambang_Kabupaten_Pesisir_Barat.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bangkunat"
+			},
+			{
+				"id": 2,
+				"name": "Karya Penggawa"
+			},
+			{
+				"id": 3,
+				"name": "Krui Selatan"
+			},
+			{
+				"id": 4,
+				"name": "Lemong"
+			},
+			{
+				"id": 5,
+				"name": "Ngambur"
+			},
+			{
+				"id": 6,
+				"name": "Ngaras"
+			},
+			{
+				"id": 7,
+				"name": "Pesisir Selatan"
+			},
+			{
+				"id": 8,
+				"name": "Pesisir Tengah"
+			},
+			{
+				"id": 9,
+				"name": "Pesisir Utara"
+			},
+			{
+				"id": 10,
+				"name": "Pulau Pisang"
+			},
+			{
+				"id": 11,
+				"name": "Way Krui"
+			}
+		]
+	}
+}

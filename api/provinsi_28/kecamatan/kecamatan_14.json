@@ -1,0 +1,57 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Muna Barat",
+	"scraped_at": "2023-01-23T04:29:55.382Z",
+	"kabupaten": {
+		"id": 14,
+		"name": "Kabupaten Muna Barat",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lambang_Kabupaten_Muna_Barat.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Barangka"
+			},
+			{
+				"id": 2,
+				"name": "Kusambi"
+			},
+			{
+				"id": 3,
+				"name": "Lawa"
+			},
+			{
+				"id": 4,
+				"name": "Maginti"
+			},
+			{
+				"id": 5,
+				"name": "Napano Kusambi"
+			},
+			{
+				"id": 6,
+				"name": "Sawerigadi"
+			},
+			{
+				"id": 7,
+				"name": "Tiworo Kepulauan"
+			},
+			{
+				"id": 8,
+				"name": "Tiworo Selatan"
+			},
+			{
+				"id": 9,
+				"name": "Tiworo Tengah"
+			},
+			{
+				"id": 10,
+				"name": "Tiworo Utara"
+			},
+			{
+				"id": 11,
+				"name": "Wadaga"
+			}
+		]
+	}
+}

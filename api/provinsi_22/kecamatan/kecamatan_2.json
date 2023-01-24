@@ -1,0 +1,93 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Banjar",
+	"scraped_at": "2023-01-23T04:27:31.159Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Banjar",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lambangkabbanjar.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Aluh Aluh"
+			},
+			{
+				"id": 2,
+				"name": "Aranio"
+			},
+			{
+				"id": 3,
+				"name": "Astambul"
+			},
+			{
+				"id": 4,
+				"name": "Beruntung Baru"
+			},
+			{
+				"id": 5,
+				"name": "Cintapuri Darussalam"
+			},
+			{
+				"id": 6,
+				"name": "Gambut"
+			},
+			{
+				"id": 7,
+				"name": "Karang Intan"
+			},
+			{
+				"id": 8,
+				"name": "Kertak Hanyar"
+			},
+			{
+				"id": 9,
+				"name": "Martapura Barat"
+			},
+			{
+				"id": 10,
+				"name": "Martapura Timur"
+			},
+			{
+				"id": 11,
+				"name": "Martapura"
+			},
+			{
+				"id": 12,
+				"name": "Mataraman"
+			},
+			{
+				"id": 13,
+				"name": "Paramasan"
+			},
+			{
+				"id": 14,
+				"name": "Pengaron"
+			},
+			{
+				"id": 15,
+				"name": "Sambung Makmur"
+			},
+			{
+				"id": 16,
+				"name": "Simpang Empat"
+			},
+			{
+				"id": 17,
+				"name": "Sungai Pinang"
+			},
+			{
+				"id": 18,
+				"name": "Sungai Tabuk"
+			},
+			{
+				"id": 19,
+				"name": "Tatah Makmur"
+			},
+			{
+				"id": 20,
+				"name": "Telaga Bauntung"
+			}
+		]
+	}
+}

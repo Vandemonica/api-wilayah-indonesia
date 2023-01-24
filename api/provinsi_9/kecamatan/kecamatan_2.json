@@ -1,0 +1,37 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bangka Barat",
+	"scraped_at": "2023-01-23T04:22:36.496Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Bangka Barat",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Seal_of_Bangka_Barat_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Jebus"
+			},
+			{
+				"id": 2,
+				"name": "Kelapa"
+			},
+			{
+				"id": 3,
+				"name": "Muntok"
+			},
+			{
+				"id": 4,
+				"name": "Parittiga"
+			},
+			{
+				"id": 5,
+				"name": "Simpang Teritip"
+			},
+			{
+				"id": 6,
+				"name": "Tempilang"
+			}
+		]
+	}
+}

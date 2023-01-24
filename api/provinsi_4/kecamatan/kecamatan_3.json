@@ -1,0 +1,69 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Indragiri Hulu",
+	"scraped_at": "2023-01-23T04:20:51.318Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Indragiri Hulu",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lambang_Kab_Indragiri_Hulu.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Batang Cenaku"
+			},
+			{
+				"id": 2,
+				"name": "Batang Gangsal"
+			},
+			{
+				"id": 3,
+				"name": "Batang Peranap"
+			},
+			{
+				"id": 4,
+				"name": "Kelayang"
+			},
+			{
+				"id": 5,
+				"name": "Kuala Cenaku"
+			},
+			{
+				"id": 6,
+				"name": "Lirik"
+			},
+			{
+				"id": 7,
+				"name": "Lubuk Batu Jaya"
+			},
+			{
+				"id": 8,
+				"name": "Pasir Penyu"
+			},
+			{
+				"id": 9,
+				"name": "Peranap"
+			},
+			{
+				"id": 10,
+				"name": "Rakit Kulim"
+			},
+			{
+				"id": 11,
+				"name": "Rengat Barat"
+			},
+			{
+				"id": 12,
+				"name": "Rengat"
+			},
+			{
+				"id": 13,
+				"name": "Siberida"
+			},
+			{
+				"id": 14,
+				"name": "Sungai Lala"
+			}
+		]
+	}
+}

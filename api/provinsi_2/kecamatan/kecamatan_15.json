@@ -1,0 +1,57 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Nias Utara",
+	"scraped_at": "2023-01-23T04:19:49.426Z",
+	"kabupaten": {
+		"id": 15,
+		"name": "Kabupaten Nias Utara",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Lambang_kabupaten_nias_utara.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Afulu"
+			},
+			{
+				"id": 2,
+				"name": "Alasa Talumuzoi"
+			},
+			{
+				"id": 3,
+				"name": "Alasa"
+			},
+			{
+				"id": 4,
+				"name": "Lahewa Timur"
+			},
+			{
+				"id": 5,
+				"name": "Lahewa"
+			},
+			{
+				"id": 6,
+				"name": "Lotu"
+			},
+			{
+				"id": 7,
+				"name": "Namohalu Esiwa"
+			},
+			{
+				"id": 8,
+				"name": "Sawo"
+			},
+			{
+				"id": 9,
+				"name": "Sitolu Ori"
+			},
+			{
+				"id": 10,
+				"name": "Tugala Oyo"
+			},
+			{
+				"id": 11,
+				"name": "Tuhemberua"
+			}
+		]
+	}
+}

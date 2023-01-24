@@ -8,13 +8,40 @@ const fs = require('fs');
 
 
 async function fetchKapanewon(page, region, provinceId, index) {
-  const url = 'https://id.wikipedia.org/wiki/Daftar_kapanewon_dan_kalurahan_di_' +  region.name.replace(' ', '_');
-  const selector = '';
+  const url = 'https://id.wikipedia.org/wiki/Daftar_kapanewon,_kemantren,_kalurahan,_dan_kelurahan_di_Daerah_Istimewa_Yogyakarta';
+  const selector = `table.wikitable:nth-of-type(${index + 1}) tbody tr`;
 
-  const dir = `./api/kabupaten_${provinceId}/kecamatan`;
+  const dir = `./api/provinsi_${provinceId}/kecamatan`;
   const filename = dir + `/kecamatan_${index}.json`;
 
+  await page.goto(url);
+  await page.waitForSelector(selector);
 
+  const district = await page.evaluate(selector => {
+    return [...document.querySelectorAll(selector)].filter(
+      i => i.innerText
+    ).map((item, index) => {
+      const col = item.querySelector('td:nth-of-type(2)') ?? '';
+
+      return {
+        id: (index + 1),
+        hanacaraka: col.innerHTML
+      };
+    }).filter(i => i);
+  }, selector);
+
+  const result = {
+    source: url,
+    scraped_at: new Date(),
+    kabupaten: {
+      id: region.id,
+      name: region.name,
+      image_url: region.image_url
+    },
+    data: {
+      kecamatan: district
+    }
+  };
 
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir);

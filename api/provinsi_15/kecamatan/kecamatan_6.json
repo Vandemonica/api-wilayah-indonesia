@@ -1,0 +1,85 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Gresik",
+	"scraped_at": "2023-01-23T04:24:46.658Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Gresik",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Seal_of_Gresik_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Balongpanggang"
+			},
+			{
+				"id": 2,
+				"name": "Benjeng"
+			},
+			{
+				"id": 3,
+				"name": "Bungah"
+			},
+			{
+				"id": 4,
+				"name": "Cerme"
+			},
+			{
+				"id": 5,
+				"name": "Driyorejo"
+			},
+			{
+				"id": 6,
+				"name": "Duduksampeyan"
+			},
+			{
+				"id": 7,
+				"name": "Dukun"
+			},
+			{
+				"id": 8,
+				"name": "Gresik"
+			},
+			{
+				"id": 9,
+				"name": "Kebomas"
+			},
+			{
+				"id": 10,
+				"name": "Kedamean"
+			},
+			{
+				"id": 11,
+				"name": "Manyar"
+			},
+			{
+				"id": 12,
+				"name": "Menganti"
+			},
+			{
+				"id": 13,
+				"name": "Panceng"
+			},
+			{
+				"id": 14,
+				"name": "Sangkapura"
+			},
+			{
+				"id": 15,
+				"name": "Sidayu"
+			},
+			{
+				"id": 16,
+				"name": "Tambak"
+			},
+			{
+				"id": 17,
+				"name": "Ujungpangkah"
+			},
+			{
+				"id": 18,
+				"name": "Wringinanom"
+			}
+		]
+	}
+}

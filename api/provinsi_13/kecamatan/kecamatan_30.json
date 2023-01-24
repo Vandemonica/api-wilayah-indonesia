@@ -1,0 +1,25 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Magelang",
+	"scraped_at": "2023-01-23T04:24:29.159Z",
+	"kabupaten": {
+		"id": 30,
+		"name": "Kota Magelang",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_the_City_of_Magelang.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Magelang Selatan"
+			},
+			{
+				"id": 2,
+				"name": "Magelang Tengah"
+			},
+			{
+				"id": 3,
+				"name": "Magelang Utara"
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Karimun",
+	"scraped_at": "2023-01-23T04:22:48.786Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Karimun",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lambang_Kabupaten_Karimun.gif"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Belat"
+			},
+			{
+				"id": 2,
+				"name": "Buru"
+			},
+			{
+				"id": 3,
+				"name": "Durai"
+			},
+			{
+				"id": 4,
+				"name": "Karimun"
+			},
+			{
+				"id": 5,
+				"name": "Kundur Barat"
+			},
+			{
+				"id": 6,
+				"name": "Kundur Utara"
+			},
+			{
+				"id": 7,
+				"name": "Kundur"
+			},
+			{
+				"id": 8,
+				"name": "Meral Barat"
+			},
+			{
+				"id": 9,
+				"name": "Meral"
+			},
+			{
+				"id": 10,
+				"name": "Moro"
+			},
+			{
+				"id": 11,
+				"name": "Tebing"
+			},
+			{
+				"id": 12,
+				"name": "Ungar"
+			}
+		]
+	}
+}

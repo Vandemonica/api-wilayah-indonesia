@@ -1,0 +1,25 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Blitar",
+	"scraped_at": "2023-01-23T04:25:19.737Z",
+	"kabupaten": {
+		"id": 31,
+		"name": "Kota Blitar",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Seal_of_the_City_of_Blitar.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Kepanjenkidul"
+			},
+			{
+				"id": 2,
+				"name": "Sananwetan"
+			},
+			{
+				"id": 3,
+				"name": "Sukorejo"
+			}
+		]
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Konawe Kepulauan",
+	"scraped_at": "2023-01-23T04:29:48.255Z",
+	"kabupaten": {
+		"id": 10,
+		"name": "Kabupaten Konawe Kepulauan",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lambang_Kabupaten_Konawe_Kepulauan.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Wawonii Barat"
+			},
+			{
+				"id": 2,
+				"name": "Wawonii Selatan"
+			},
+			{
+				"id": 3,
+				"name": "Wawonii Tengah"
+			},
+			{
+				"id": 4,
+				"name": "Wawonii Tenggara"
+			},
+			{
+				"id": 5,
+				"name": "Wawonii Timur Laut"
+			},
+			{
+				"id": 6,
+				"name": "Wawonii Timur"
+			},
+			{
+				"id": 7,
+				"name": "Wawonii Utara"
+			}
+		]
+	}
+}

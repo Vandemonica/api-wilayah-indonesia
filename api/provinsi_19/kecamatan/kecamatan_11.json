@@ -1,0 +1,41 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Nagekeo",
+	"scraped_at": "2023-01-23T04:26:23.448Z",
+	"kabupaten": {
+		"id": 11,
+		"name": "Kabupaten Nagekeo",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Lambang_Kabupaten_Nagekeo.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Aesesa Selatan"
+			},
+			{
+				"id": 2,
+				"name": "Aesesa"
+			},
+			{
+				"id": 3,
+				"name": "Boawae"
+			},
+			{
+				"id": 4,
+				"name": "Keo Tengah"
+			},
+			{
+				"id": 5,
+				"name": "Mauponggo"
+			},
+			{
+				"id": 6,
+				"name": "Nangaroro"
+			},
+			{
+				"id": 7,
+				"name": "Wolowae"
+			}
+		]
+	}
+}

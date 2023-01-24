@@ -1,0 +1,57 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Melawi",
+	"scraped_at": "2023-01-23T04:26:53.462Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Melawi",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Kabupaten_Melawi.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Belimbing Hulu"
+			},
+			{
+				"id": 2,
+				"name": "Belimbing"
+			},
+			{
+				"id": 3,
+				"name": "Ella Hilir"
+			},
+			{
+				"id": 4,
+				"name": "Menukung"
+			},
+			{
+				"id": 5,
+				"name": "Nanga Pinoh"
+			},
+			{
+				"id": 6,
+				"name": "Pinoh Selatan"
+			},
+			{
+				"id": 7,
+				"name": "Pinoh Utara"
+			},
+			{
+				"id": 8,
+				"name": "Sayan"
+			},
+			{
+				"id": 9,
+				"name": "Sokan"
+			},
+			{
+				"id": 10,
+				"name": "Tanah Pinoh Barat"
+			},
+			{
+				"id": 11,
+				"name": "Tanah Pinoh"
+			}
+		]
+	}
+}

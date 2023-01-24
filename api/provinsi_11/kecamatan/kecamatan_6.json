@@ -1,0 +1,37 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Administrasi Jakarta Utara",
+	"scraped_at": "2023-01-23T04:23:08.987Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kota Administrasi Jakarta Utara",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lambang_Kota_Administrasi_Jakarta_Utara.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Cilincing"
+			},
+			{
+				"id": 2,
+				"name": "Kelapa Gading, Jakarta Utara‎ (7 H"
+			},
+			{
+				"id": 3,
+				"name": "Koja"
+			},
+			{
+				"id": 4,
+				"name": "Pademangan"
+			},
+			{
+				"id": 5,
+				"name": "Penjaringan"
+			},
+			{
+				"id": 6,
+				"name": "Tanjung Priok"
+			}
+		]
+	}
+}

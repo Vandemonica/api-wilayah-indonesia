@@ -1,0 +1,89 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tana Toraja",
+	"scraped_at": "2023-01-23T04:29:23.713Z",
+	"kabupaten": {
+		"id": 19,
+		"name": "Kabupaten Tana Toraja",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Coat_of_Arms%2C_Tana_Toraja_Regency.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bittuang"
+			},
+			{
+				"id": 2,
+				"name": "Bonggakaradeng"
+			},
+			{
+				"id": 3,
+				"name": "Gandang Batu Sillanan"
+			},
+			{
+				"id": 4,
+				"name": "Kurra"
+			},
+			{
+				"id": 5,
+				"name": "Makale Selatan"
+			},
+			{
+				"id": 6,
+				"name": "Makale Utara"
+			},
+			{
+				"id": 7,
+				"name": "Makale"
+			},
+			{
+				"id": 8,
+				"name": "Malimbong Balepe'"
+			},
+			{
+				"id": 9,
+				"name": "Mappak"
+			},
+			{
+				"id": 10,
+				"name": "Masanda"
+			},
+			{
+				"id": 11,
+				"name": "Mengkendek"
+			},
+			{
+				"id": 12,
+				"name": "Rano"
+			},
+			{
+				"id": 13,
+				"name": "Rantetayo"
+			},
+			{
+				"id": 14,
+				"name": "Rembon"
+			},
+			{
+				"id": 15,
+				"name": "Saluputti"
+			},
+			{
+				"id": 16,
+				"name": "Sangalla Selatan"
+			},
+			{
+				"id": 17,
+				"name": "Sangalla Utara"
+			},
+			{
+				"id": 18,
+				"name": "Sangalla"
+			},
+			{
+				"id": 19,
+				"name": "Simbuang"
+			}
+		]
+	}
+}

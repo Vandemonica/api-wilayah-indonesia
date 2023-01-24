@@ -1,0 +1,45 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Lubuklinggau",
+	"scraped_at": "2023-01-23T04:21:45.340Z",
+	"kabupaten": {
+		"id": 14,
+		"name": "Kota Lubuklinggau",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lambang_Kota_Lubuklinggau.jpeg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Lubuklinggau Barat I"
+			},
+			{
+				"id": 2,
+				"name": "Lubuklinggau Barat II"
+			},
+			{
+				"id": 3,
+				"name": "Lubuklinggau Selatan I"
+			},
+			{
+				"id": 4,
+				"name": "Lubuklinggau Selatan II"
+			},
+			{
+				"id": 5,
+				"name": "Lubuklinggau Timur I"
+			},
+			{
+				"id": 6,
+				"name": "Lubuklinggau Timur II"
+			},
+			{
+				"id": 7,
+				"name": "Lubuklinggau Utara I"
+			},
+			{
+				"id": 8,
+				"name": "Lubuklinggau Utara II"
+			}
+		]
+	}
+}

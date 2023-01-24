@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Jembrana",
+	"scraped_at": "2023-01-23T04:25:46.881Z",
+	"kabupaten": {
+		"id": 5,
+		"name": "Kabupaten Jembrana",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lambang_Kab_Jembrana.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Jembrana"
+			},
+			{
+				"id": 2,
+				"name": "Melaya"
+			},
+			{
+				"id": 3,
+				"name": "Mendoyo"
+			},
+			{
+				"id": 4,
+				"name": "Negara"
+			},
+			{
+				"id": 5,
+				"name": "Pekutatan"
+			}
+		]
+	}
+}

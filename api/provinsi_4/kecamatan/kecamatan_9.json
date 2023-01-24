@@ -1,0 +1,77 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Rokan Hulu",
+	"scraped_at": "2023-01-23T04:21:01.748Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kabupaten Rokan Hulu",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Lambang_Kabupaten_Rokan_Hulu.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bangun Purba"
+			},
+			{
+				"id": 2,
+				"name": "Bonai Darussalam"
+			},
+			{
+				"id": 3,
+				"name": "Kabun"
+			},
+			{
+				"id": 4,
+				"name": "Kepenuhan Hulu"
+			},
+			{
+				"id": 5,
+				"name": "Kepenuhan"
+			},
+			{
+				"id": 6,
+				"name": "Kunto Darussalam"
+			},
+			{
+				"id": 7,
+				"name": "Pagaran Tapah Darussalam"
+			},
+			{
+				"id": 8,
+				"name": "Pendalian IV Koto"
+			},
+			{
+				"id": 9,
+				"name": "Rambah Hilir"
+			},
+			{
+				"id": 10,
+				"name": "Rambah Samo"
+			},
+			{
+				"id": 11,
+				"name": "Rambah"
+			},
+			{
+				"id": 12,
+				"name": "Rokan IV Koto"
+			},
+			{
+				"id": 13,
+				"name": "Tambusai Utara"
+			},
+			{
+				"id": 14,
+				"name": "Tambusai"
+			},
+			{
+				"id": 15,
+				"name": "Tandun"
+			},
+			{
+				"id": 16,
+				"name": "Ujung Batu"
+			}
+		]
+	}
+}

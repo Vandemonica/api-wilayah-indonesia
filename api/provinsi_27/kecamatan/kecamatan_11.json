@@ -1,0 +1,73 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Luwu Utara",
+	"scraped_at": "2023-01-23T04:29:13.085Z",
+	"kabupaten": {
+		"id": 11,
+		"name": "Kabupaten Luwu Utara",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Luwu_Utara_Logo_%28North_Luwu%29.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Baebunta Selatan"
+			},
+			{
+				"id": 2,
+				"name": "Baebunta"
+			},
+			{
+				"id": 3,
+				"name": "Bone-Bone"
+			},
+			{
+				"id": 4,
+				"name": "Limbong"
+			},
+			{
+				"id": 5,
+				"name": "Malangke Barat"
+			},
+			{
+				"id": 6,
+				"name": "Malangke, Luwu Utara‎ (16 H"
+			},
+			{
+				"id": 7,
+				"name": "Mappedeceng"
+			},
+			{
+				"id": 8,
+				"name": "Masamba"
+			},
+			{
+				"id": 9,
+				"name": "Rampi"
+			},
+			{
+				"id": 10,
+				"name": "Sabbang Selatan"
+			},
+			{
+				"id": 11,
+				"name": "Sabbang"
+			},
+			{
+				"id": 12,
+				"name": "Seko"
+			},
+			{
+				"id": 13,
+				"name": "Sukamaju Selatan"
+			},
+			{
+				"id": 14,
+				"name": "Sukamaju"
+			},
+			{
+				"id": 15,
+				"name": "Tana Lili"
+			}
+		]
+	}
+}

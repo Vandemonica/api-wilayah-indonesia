@@ -1,0 +1,81 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Situbondo",
+	"scraped_at": "2023-01-23T04:25:13.388Z",
+	"kabupaten": {
+		"id": 25,
+		"name": "Kabupaten Situbondo",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Seal_of_Situbondo_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Arjasa"
+			},
+			{
+				"id": 2,
+				"name": "Asembagus"
+			},
+			{
+				"id": 3,
+				"name": "Banyuglugur"
+			},
+			{
+				"id": 4,
+				"name": "Banyuputih"
+			},
+			{
+				"id": 5,
+				"name": "Besuki"
+			},
+			{
+				"id": 6,
+				"name": "Bungatan"
+			},
+			{
+				"id": 7,
+				"name": "Jangkar"
+			},
+			{
+				"id": 8,
+				"name": "Jatibanteng"
+			},
+			{
+				"id": 9,
+				"name": "Kapongan"
+			},
+			{
+				"id": 10,
+				"name": "Kendit"
+			},
+			{
+				"id": 11,
+				"name": "Mangaran"
+			},
+			{
+				"id": 12,
+				"name": "Mlandingan"
+			},
+			{
+				"id": 13,
+				"name": "Panarukan"
+			},
+			{
+				"id": 14,
+				"name": "Panji"
+			},
+			{
+				"id": 15,
+				"name": "Situbondo"
+			},
+			{
+				"id": 16,
+				"name": "Suboh"
+			},
+			{
+				"id": 17,
+				"name": "Sumbermalang"
+			}
+		]
+	}
+}

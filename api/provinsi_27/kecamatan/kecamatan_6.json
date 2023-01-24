@@ -1,0 +1,85 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Gowa",
+	"scraped_at": "2023-01-23T04:29:06.763Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Gowa",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/New_Coat_of_Arms_of_Gowa.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bajeng Barat"
+			},
+			{
+				"id": 2,
+				"name": "Bajeng"
+			},
+			{
+				"id": 3,
+				"name": "Barombong"
+			},
+			{
+				"id": 4,
+				"name": "Biringbulu"
+			},
+			{
+				"id": 5,
+				"name": "Bontolempangan"
+			},
+			{
+				"id": 6,
+				"name": "Bontomarannu"
+			},
+			{
+				"id": 7,
+				"name": "Bontonompo Selatan"
+			},
+			{
+				"id": 8,
+				"name": "Bontonompo"
+			},
+			{
+				"id": 9,
+				"name": "Bungaya"
+			},
+			{
+				"id": 10,
+				"name": "Manuju"
+			},
+			{
+				"id": 11,
+				"name": "Pallangga"
+			},
+			{
+				"id": 12,
+				"name": "Parangloe"
+			},
+			{
+				"id": 13,
+				"name": "Parigi"
+			},
+			{
+				"id": 14,
+				"name": "Pattallassang"
+			},
+			{
+				"id": 15,
+				"name": "Somba Opu"
+			},
+			{
+				"id": 16,
+				"name": "Tinggimoncong"
+			},
+			{
+				"id": 17,
+				"name": "Tombolo Pao"
+			},
+			{
+				"id": 18,
+				"name": "Tompobulu"
+			}
+		]
+	}
+}

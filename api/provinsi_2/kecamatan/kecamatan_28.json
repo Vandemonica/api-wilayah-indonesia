@@ -1,0 +1,97 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Medan",
+	"scraped_at": "2023-01-23T04:20:08.949Z",
+	"kabupaten": {
+		"id": 28,
+		"name": "Kota Medan",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Logo_Kota_Medan_%28Seal_of_Medan%29.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Medan Amplas"
+			},
+			{
+				"id": 2,
+				"name": "Medan Area"
+			},
+			{
+				"id": 3,
+				"name": "Medan Barat"
+			},
+			{
+				"id": 4,
+				"name": "Medan Baru"
+			},
+			{
+				"id": 5,
+				"name": "Medan Belawan"
+			},
+			{
+				"id": 6,
+				"name": "Medan Deli"
+			},
+			{
+				"id": 7,
+				"name": "Medan Denai"
+			},
+			{
+				"id": 8,
+				"name": "Medan Helvetia"
+			},
+			{
+				"id": 9,
+				"name": "Medan Johor"
+			},
+			{
+				"id": 10,
+				"name": "Medan Kota"
+			},
+			{
+				"id": 11,
+				"name": "Medan Labuhan"
+			},
+			{
+				"id": 12,
+				"name": "Medan Maimun"
+			},
+			{
+				"id": 13,
+				"name": "Medan Marelan"
+			},
+			{
+				"id": 14,
+				"name": "Medan Perjuangan"
+			},
+			{
+				"id": 15,
+				"name": "Medan Petisah"
+			},
+			{
+				"id": 16,
+				"name": "Medan Polonia"
+			},
+			{
+				"id": 17,
+				"name": "Medan Selayang"
+			},
+			{
+				"id": 18,
+				"name": "Medan Sunggal"
+			},
+			{
+				"id": 19,
+				"name": "Medan Tembung"
+			},
+			{
+				"id": 20,
+				"name": "Medan Timur"
+			},
+			{
+				"id": 21,
+				"name": "Medan Tuntungan"
+			}
+		]
+	}
+}

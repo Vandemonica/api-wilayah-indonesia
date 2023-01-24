@@ -1,0 +1,61 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Padang Lawas",
+	"scraped_at": "2023-01-23T04:19:50.940Z",
+	"kabupaten": {
+		"id": 16,
+		"name": "Kabupaten Padang Lawas",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Padang-Lawas-logo.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Aek Nabara Barumun"
+			},
+			{
+				"id": 2,
+				"name": "Barumun Selatan"
+			},
+			{
+				"id": 3,
+				"name": "Barumun Tengah"
+			},
+			{
+				"id": 4,
+				"name": "Barumun"
+			},
+			{
+				"id": 5,
+				"name": "Batang Lubu Sutam"
+			},
+			{
+				"id": 6,
+				"name": "Huristak"
+			},
+			{
+				"id": 7,
+				"name": "Huta Raja Tinggi"
+			},
+			{
+				"id": 8,
+				"name": "Lubuk Barumun"
+			},
+			{
+				"id": 9,
+				"name": "Sihapas Barumun"
+			},
+			{
+				"id": 10,
+				"name": "Sosa"
+			},
+			{
+				"id": 11,
+				"name": "Sosopan"
+			},
+			{
+				"id": 12,
+				"name": "Ulu Barumun"
+			}
+		]
+	}
+}

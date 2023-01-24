@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Mamuju Tengah",
+	"scraped_at": "2023-01-23T04:30:17.185Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Mamuju Tengah",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lambang_Kabupaten_Mamuju_Tengah.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Budong-Budong"
+			},
+			{
+				"id": 2,
+				"name": "Karossa"
+			},
+			{
+				"id": 3,
+				"name": "Pangale"
+			},
+			{
+				"id": 4,
+				"name": "Tobadak"
+			},
+			{
+				"id": 5,
+				"name": "Topoyo"
+			}
+		]
+	}
+}

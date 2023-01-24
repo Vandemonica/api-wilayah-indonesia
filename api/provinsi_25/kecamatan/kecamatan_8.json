@@ -1,0 +1,113 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Minahasa",
+	"scraped_at": "2023-01-23T04:28:29.016Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kabupaten Minahasa",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Lambang_Kabupaten_Minahasa.jpeg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Eris"
+			},
+			{
+				"id": 2,
+				"name": "Kakas Barat"
+			},
+			{
+				"id": 3,
+				"name": "Kakas"
+			},
+			{
+				"id": 4,
+				"name": "Kawangkoan Barat"
+			},
+			{
+				"id": 5,
+				"name": "Kawangkoan Utara, Minahasa‎ (8 H"
+			},
+			{
+				"id": 6,
+				"name": "Kawangkoan"
+			},
+			{
+				"id": 7,
+				"name": "Kombi"
+			},
+			{
+				"id": 8,
+				"name": "Langowan Barat"
+			},
+			{
+				"id": 9,
+				"name": "Langowan Selatan"
+			},
+			{
+				"id": 10,
+				"name": "Langowan Timur"
+			},
+			{
+				"id": 11,
+				"name": "Langowan Utara"
+			},
+			{
+				"id": 12,
+				"name": "Lembean Timur"
+			},
+			{
+				"id": 13,
+				"name": "Mandolang"
+			},
+			{
+				"id": 14,
+				"name": "Pineleng"
+			},
+			{
+				"id": 15,
+				"name": "Remboken"
+			},
+			{
+				"id": 16,
+				"name": "Sonder"
+			},
+			{
+				"id": 17,
+				"name": "Tombariri Timur"
+			},
+			{
+				"id": 18,
+				"name": "Tombariri"
+			},
+			{
+				"id": 19,
+				"name": "Tombulu"
+			},
+			{
+				"id": 20,
+				"name": "Tompaso Barat"
+			},
+			{
+				"id": 21,
+				"name": "Tompaso"
+			},
+			{
+				"id": 22,
+				"name": "Tondano Barat"
+			},
+			{
+				"id": 23,
+				"name": "Tondano Selatan"
+			},
+			{
+				"id": 24,
+				"name": "Tondano Timur"
+			},
+			{
+				"id": 25,
+				"name": "Tondano Utara, Minahasa‎ (11 H"
+			}
+		]
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Ambon",
+	"scraped_at": "2023-01-23T04:30:38.852Z",
+	"kabupaten": {
+		"id": 10,
+		"name": "Kota Ambon",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lambang_Ambon.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Leitimur Selatan"
+			},
+			{
+				"id": 2,
+				"name": "Nusaniwe"
+			},
+			{
+				"id": 3,
+				"name": "Sirimau"
+			},
+			{
+				"id": 4,
+				"name": "Teluk Ambon Baguala"
+			},
+			{
+				"id": 5,
+				"name": "Teluk Ambon"
+			}
+		]
+	}
+}

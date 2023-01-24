@@ -11,8 +11,8 @@ async function fetchDistrik(page, region, provinceId, index) {
   const url = 'https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_' +  region.name.replace(' ', '_');
   const selector = 'table.wikitable > tbody > tr';
 
-  const dir = `./api/provinsi/${provinceId}/${index}`;
-  const filename = dir + `/kecamatan.json`;
+  const dir = `./api/kabupaten/${provinceId}/kecamatan/${index}`;
+  const filename = dir + `/index.json`;
 
   await page.goto(url);
   await page.waitForSelector(selector);

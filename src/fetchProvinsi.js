@@ -34,7 +34,7 @@ async function fetchProvinsi(page) {
     }
   };
 
-  fs.writeFile('./api/provinsi.json', JSON.stringify(result, null, "\t"), function() {
+  fs.writeFile('./api/index.json', JSON.stringify(result, null, "\t"), function() {
     console.log('Saved Provinces');
   });
 

@@ -10,7 +10,7 @@ const fs = require('fs');
 async function fetchKabupaten(page, province) {
   const selector = 'table.wikitable:nth-of-type(1) tbody tr';
   const url = 'https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_' +  province.name.replace(' ', '_');
-  const dir = `./api/provinsi/${province.id}`;
+  const dir = `./api/kabupaten/${province.id}`;
 
   await page.goto(url);
   await page.waitForSelector(selector);
@@ -46,7 +46,7 @@ async function fetchKabupaten(page, province) {
     fs.mkdirSync(dir, {recursive: true});
   }
 
-  fs.writeFile(dir + '/kabupaten.json', JSON.stringify(result, null, "\t"), function() {
+  fs.writeFile(dir + '/index.json', JSON.stringify(result, null, "\t"), function() {
     console.log(`Saved ${province.name}!`);
   });
 

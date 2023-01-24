@@ -11,8 +11,8 @@ async function fetchKecamatan(page, region, provinceId, index) {
   const url = 'https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_' +  region.name.replace(' ', '_');
   const selector = '.CategoryTreeItem';
 
-  const dir = `./api/provinsi/${provinceId}/${index}`;
-  const filename = dir + `/kecamatan.json`;
+  const dir = `./api/kabupaten/${provinceId}/kecamatan/${index}`;
+  const filename = dir + `/index.json`;
 
   await page.goto(url);
   await page.waitForSelector(selector);

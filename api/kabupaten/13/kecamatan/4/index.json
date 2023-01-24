@@ -1,0 +1,77 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Blora",
+	"scraped_at": "2023-01-24T06:12:50.087Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Blora",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Seal_of_Blora_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Banjarejo"
+			},
+			{
+				"id": 2,
+				"name": "Blora"
+			},
+			{
+				"id": 3,
+				"name": "Bogorejo"
+			},
+			{
+				"id": 4,
+				"name": "Cepu, Blora‎ (23 H"
+			},
+			{
+				"id": 5,
+				"name": "Japah"
+			},
+			{
+				"id": 6,
+				"name": "Jati"
+			},
+			{
+				"id": 7,
+				"name": "Jepon"
+			},
+			{
+				"id": 8,
+				"name": "Jiken"
+			},
+			{
+				"id": 9,
+				"name": "Kedungtuban"
+			},
+			{
+				"id": 10,
+				"name": "Kradenan"
+			},
+			{
+				"id": 11,
+				"name": "Kunduran"
+			},
+			{
+				"id": 12,
+				"name": "Ngawen"
+			},
+			{
+				"id": 13,
+				"name": "Randublatung"
+			},
+			{
+				"id": 14,
+				"name": "Sambong"
+			},
+			{
+				"id": 15,
+				"name": "Todanan"
+			},
+			{
+				"id": 16,
+				"name": "Tunjungan"
+			}
+		]
+	}
+}

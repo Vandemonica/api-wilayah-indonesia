@@ -1,0 +1,69 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lampung Barat",
+	"scraped_at": "2023-01-24T06:11:43.797Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Lampung Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lambang_Kabupaten_Lampung_Barat.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Air Hitam"
+			},
+			{
+				"id": 2,
+				"name": "Balik Bukit"
+			},
+			{
+				"id": 3,
+				"name": "Bandar Negeri Suoh"
+			},
+			{
+				"id": 4,
+				"name": "Batu Brak, Lampung Barat‎ (1 K"
+			},
+			{
+				"id": 5,
+				"name": "Batu Ketulis"
+			},
+			{
+				"id": 6,
+				"name": "Belalau"
+			},
+			{
+				"id": 7,
+				"name": "Gedung Surian"
+			},
+			{
+				"id": 8,
+				"name": "Kebun Tebu"
+			},
+			{
+				"id": 9,
+				"name": "Pagar Dewa"
+			},
+			{
+				"id": 10,
+				"name": "Sekincau"
+			},
+			{
+				"id": 11,
+				"name": "Sukau"
+			},
+			{
+				"id": 12,
+				"name": "Sumber Jaya"
+			},
+			{
+				"id": 13,
+				"name": "Suoh"
+			},
+			{
+				"id": 14,
+				"name": "Way Tenong"
+			}
+		]
+	}
+}

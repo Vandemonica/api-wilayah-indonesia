@@ -1,0 +1,101 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sumba Timur",
+	"scraped_at": "2023-01-24T06:14:24.669Z",
+	"kabupaten": {
+		"id": 19,
+		"name": "Kabupaten Sumba Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lambang_Kabupaten_Sumba_Timur.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Haharu"
+			},
+			{
+				"id": 2,
+				"name": "Kahaungu Eti"
+			},
+			{
+				"id": 3,
+				"name": "Kambata Mapambuhang"
+			},
+			{
+				"id": 4,
+				"name": "Kambera"
+			},
+			{
+				"id": 5,
+				"name": "Kanatang"
+			},
+			{
+				"id": 6,
+				"name": "Karera"
+			},
+			{
+				"id": 7,
+				"name": "Katala Hamu Lingu"
+			},
+			{
+				"id": 8,
+				"name": "Kota Waingapu"
+			},
+			{
+				"id": 9,
+				"name": "Lewa Tidahu"
+			},
+			{
+				"id": 10,
+				"name": "Lewa"
+			},
+			{
+				"id": 11,
+				"name": "Mahu"
+			},
+			{
+				"id": 12,
+				"name": "Matawai La Pawu"
+			},
+			{
+				"id": 13,
+				"name": "Ngadu Ngala"
+			},
+			{
+				"id": 14,
+				"name": "Nggaha Ori Angu"
+			},
+			{
+				"id": 15,
+				"name": "Paberiwai"
+			},
+			{
+				"id": 16,
+				"name": "Pahunga Lodu"
+			},
+			{
+				"id": 17,
+				"name": "Pandawai"
+			},
+			{
+				"id": 18,
+				"name": "Pinu Pahar"
+			},
+			{
+				"id": 19,
+				"name": "Rindi"
+			},
+			{
+				"id": 20,
+				"name": "Tabundung"
+			},
+			{
+				"id": 21,
+				"name": "Umalulu"
+			},
+			{
+				"id": 22,
+				"name": "Wulla Waijelu"
+			}
+		]
+	}
+}

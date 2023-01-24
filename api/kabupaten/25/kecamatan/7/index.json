@@ -1,0 +1,89 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Talaud",
+	"scraped_at": "2023-01-24T06:15:30.380Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Kepulauan Talaud",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_Kabupaten_Kepulauan_Talaud.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Beo Selatan"
+			},
+			{
+				"id": 2,
+				"name": "Beo Utara"
+			},
+			{
+				"id": 3,
+				"name": "Beo"
+			},
+			{
+				"id": 4,
+				"name": "Damau"
+			},
+			{
+				"id": 5,
+				"name": "Essang Selatan"
+			},
+			{
+				"id": 6,
+				"name": "Essang"
+			},
+			{
+				"id": 7,
+				"name": "Gemeh"
+			},
+			{
+				"id": 8,
+				"name": "Kabaruan"
+			},
+			{
+				"id": 9,
+				"name": "Kalongan"
+			},
+			{
+				"id": 10,
+				"name": "Lirung"
+			},
+			{
+				"id": 11,
+				"name": "Melonguane Timur"
+			},
+			{
+				"id": 12,
+				"name": "Melonguane"
+			},
+			{
+				"id": 13,
+				"name": "Miangas"
+			},
+			{
+				"id": 14,
+				"name": "Moronge"
+			},
+			{
+				"id": 15,
+				"name": "Nanusa"
+			},
+			{
+				"id": 16,
+				"name": "Pulutan"
+			},
+			{
+				"id": 17,
+				"name": "Rainis"
+			},
+			{
+				"id": 18,
+				"name": "Salibabu"
+			},
+			{
+				"id": 19,
+				"name": "Tampan' Amma"
+			}
+		]
+	}
+}

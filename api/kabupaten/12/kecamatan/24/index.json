@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Cirebon",
+	"scraped_at": "2023-01-24T06:12:43.681Z",
+	"kabupaten": {
+		"id": 24,
+		"name": "Kota Cirebon",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Seal_of_the_City_of_Cirebon.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Harjamukti"
+			},
+			{
+				"id": 2,
+				"name": "Kejaksan"
+			},
+			{
+				"id": 3,
+				"name": "Kesambi"
+			},
+			{
+				"id": 4,
+				"name": "Lemahwungkuk"
+			},
+			{
+				"id": 5,
+				"name": "Pekalipan"
+			}
+		]
+	}
+}

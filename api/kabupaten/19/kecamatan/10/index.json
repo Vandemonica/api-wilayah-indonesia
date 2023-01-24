@@ -1,0 +1,49 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Manggarai Timur",
+	"scraped_at": "2023-01-24T06:14:17.279Z",
+	"kabupaten": {
+		"id": 10,
+		"name": "Kabupaten Manggarai Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Lambang_Kabupaten_Manggarai_Timur.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Borong"
+			},
+			{
+				"id": 2,
+				"name": "Elar Selatan"
+			},
+			{
+				"id": 3,
+				"name": "Elar"
+			},
+			{
+				"id": 4,
+				"name": "Kota Komba"
+			},
+			{
+				"id": 5,
+				"name": "Lamba Leda"
+			},
+			{
+				"id": 6,
+				"name": "Poco Ranaka Timur"
+			},
+			{
+				"id": 7,
+				"name": "Poco Ranaka"
+			},
+			{
+				"id": 8,
+				"name": "Rana Mese"
+			},
+			{
+				"id": 9,
+				"name": "Sambi Rampas"
+			}
+		]
+	}
+}

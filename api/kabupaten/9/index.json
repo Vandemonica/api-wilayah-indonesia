@@ -1,0 +1,56 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kepulauan_Bangka Belitung",
+	"scraped_at": "2023-01-24T06:12:00.873Z",
+	"provinsi": {
+		"id": 9,
+		"code": "19",
+		"name": "Kepulauan Bangka Belitung",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Coat_of_arms_of_Bangka_Belitung_Islands.svg"
+	},
+	"data": {
+		"kabupaten": [
+			{
+				"id": 1,
+				"name": "Kabupaten Bangka",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lambang_Kabupaten_Bangka.png",
+				"capital": "Sungai Liat"
+			},
+			{
+				"id": 2,
+				"name": "Kabupaten Bangka Barat",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Seal_of_Bangka_Barat_Regency.svg",
+				"capital": "Muntok"
+			},
+			{
+				"id": 3,
+				"name": "Kabupaten Bangka Selatan",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lambang_Kabupaten_Bangka_Selatan.png",
+				"capital": "Toboali"
+			},
+			{
+				"id": 4,
+				"name": "Kabupaten Bangka Tengah",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Lambang_Kabupaten_Bangka_Tengah.png",
+				"capital": "Koba"
+			},
+			{
+				"id": 5,
+				"name": "Kabupaten Belitung",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Lambang_Kabupaten_Belitung.png",
+				"capital": "Tanjung Pandan"
+			},
+			{
+				"id": 6,
+				"name": "Kabupaten Belitung Timur",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lambang_Kabupaten_Belitung_Timur.jpeg",
+				"capital": "Manggar"
+			},
+			{
+				"id": 7,
+				"name": "Kota Pangkalpinang",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lambang_Kota_Pangkalpinang.png",
+				"capital": "-"
+			}
+		]
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Dumai",
+	"scraped_at": "2023-01-24T06:10:46.439Z",
+	"kabupaten": {
+		"id": 11,
+		"name": "Kota Dumai",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Lambang_Kota_Dumai.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bukit Kapur"
+			},
+			{
+				"id": 2,
+				"name": "Dumai Barat"
+			},
+			{
+				"id": 3,
+				"name": "Dumai Kota"
+			},
+			{
+				"id": 4,
+				"name": "Dumai Selatan"
+			},
+			{
+				"id": 5,
+				"name": "Dumai Timur"
+			},
+			{
+				"id": 6,
+				"name": "Medang Kampai"
+			},
+			{
+				"id": 7,
+				"name": "Sungai Sembilan"
+			}
+		]
+	}
+}

@@ -1,0 +1,65 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pohuwato",
+	"scraped_at": "2023-01-24T06:16:28.082Z",
+	"kabupaten": {
+		"id": 5,
+		"name": "Kabupaten Pohuwato",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Pohuwato.gif"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Buntulia"
+			},
+			{
+				"id": 2,
+				"name": "Dengilo"
+			},
+			{
+				"id": 3,
+				"name": "Duhiadaa"
+			},
+			{
+				"id": 4,
+				"name": "Lemito"
+			},
+			{
+				"id": 5,
+				"name": "Marisa"
+			},
+			{
+				"id": 6,
+				"name": "Paguat"
+			},
+			{
+				"id": 7,
+				"name": "Patilanggio"
+			},
+			{
+				"id": 8,
+				"name": "Popayato Barat"
+			},
+			{
+				"id": 9,
+				"name": "Popayato Timur"
+			},
+			{
+				"id": 10,
+				"name": "Popayato"
+			},
+			{
+				"id": 11,
+				"name": "Randangan"
+			},
+			{
+				"id": 12,
+				"name": "Taluditi"
+			},
+			{
+				"id": 13,
+				"name": "Wanggarasi"
+			}
+		]
+	}
+}

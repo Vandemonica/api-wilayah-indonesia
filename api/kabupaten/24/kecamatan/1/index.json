@@ -1,0 +1,53 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bulungan",
+	"scraped_at": "2023-01-24T06:15:17.989Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Bulungan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lambang_Kabupaten_Bulungan.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bunyu, Bulungan‎ (6 H"
+			},
+			{
+				"id": 2,
+				"name": "Peso"
+			},
+			{
+				"id": 3,
+				"name": "Peso Hilir"
+			},
+			{
+				"id": 4,
+				"name": "Sekatak"
+			},
+			{
+				"id": 5,
+				"name": "Tanjung Palas Barat"
+			},
+			{
+				"id": 6,
+				"name": "Tanjung Palas Tengah"
+			},
+			{
+				"id": 7,
+				"name": "Tanjung Palas Timur"
+			},
+			{
+				"id": 8,
+				"name": "Tanjung Palas Utara"
+			},
+			{
+				"id": 9,
+				"name": "Tanjung Palas"
+			},
+			{
+				"id": 10,
+				"name": "Tanjung Selor, Bulungan‎ (1 K"
+			}
+		]
+	}
+}

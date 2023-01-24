@@ -1,0 +1,68 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Bali",
+	"scraped_at": "2023-01-24T06:13:49.670Z",
+	"provinsi": {
+		"id": 17,
+		"code": "51",
+		"name": "Bali",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Coat_of_arms_of_Bali.svg"
+	},
+	"data": {
+		"kabupaten": [
+			{
+				"id": 1,
+				"name": "Kabupaten Badung",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lambang_Kabupaten_Badung.png",
+				"capital": "Mangupura"
+			},
+			{
+				"id": 2,
+				"name": "Kabupaten Bangli",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Lambang_Kab_Bangli.png",
+				"capital": "Bangli"
+			},
+			{
+				"id": 3,
+				"name": "Kabupaten Buleleng",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lambang_Kabupaten_Buleleng.png",
+				"capital": "Singaraja"
+			},
+			{
+				"id": 4,
+				"name": "Kabupaten Gianyar",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lambang_Kab_Gianyar.png",
+				"capital": "Gianyar"
+			},
+			{
+				"id": 5,
+				"name": "Kabupaten Jembrana",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lambang_Kab_Jembrana.png",
+				"capital": "Negara"
+			},
+			{
+				"id": 6,
+				"name": "Kabupaten Karangasem",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lambang_Kabupaten_Karangasem.png",
+				"capital": "Amlapura"
+			},
+			{
+				"id": 7,
+				"name": "Kabupaten Klungkung",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Lambang_Kabupaten_Klungkung.png",
+				"capital": "Semarapura"
+			},
+			{
+				"id": 8,
+				"name": "Kabupaten Tabanan",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lambang_Kabupaten_Tabanan.png",
+				"capital": "Tabanan"
+			},
+			{
+				"id": 9,
+				"name": "Kota Denpasar",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lambang_Kota_Denpasar_%281%29.png",
+				"capital": "-"
+			}
+		]
+	}
+}

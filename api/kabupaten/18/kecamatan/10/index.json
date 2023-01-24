@@ -1,0 +1,37 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Mataram",
+	"scraped_at": "2023-01-24T06:14:06.414Z",
+	"kabupaten": {
+		"id": 10,
+		"name": "Kota Mataram",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Lambang_Kota_Mataram.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Ampenan"
+			},
+			{
+				"id": 2,
+				"name": "Cakranegara"
+			},
+			{
+				"id": 3,
+				"name": "Mataram"
+			},
+			{
+				"id": 4,
+				"name": "Sandubaya"
+			},
+			{
+				"id": 5,
+				"name": "Sekarbela"
+			},
+			{
+				"id": 6,
+				"name": "Selaparang"
+			}
+		]
+	}
+}

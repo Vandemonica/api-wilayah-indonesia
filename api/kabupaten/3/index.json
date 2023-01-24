@@ -1,0 +1,128 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sumatra_Barat",
+	"scraped_at": "2023-01-24T06:10:12.212Z",
+	"provinsi": {
+		"id": 3,
+		"code": "13",
+		"name": "Sumatra Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Coat_of_arms_of_West_Sumatra.svg"
+	},
+	"data": {
+		"kabupaten": [
+			{
+				"id": 1,
+				"name": "Kabupaten Agam",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Agam_Regency.PNG",
+				"capital": "Lubuk Basung"
+			},
+			{
+				"id": 2,
+				"name": "Kabupaten Dharmasraya",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lambang_Kabupaten_Dharmasraya.png",
+				"capital": "Pulau Punjung"
+			},
+			{
+				"id": 3,
+				"name": "Kabupaten Kepulauan Mentawai",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_Mentawai.jpg",
+				"capital": "Tua Pejat"
+			},
+			{
+				"id": 4,
+				"name": "Kabupaten Lima Puluh Kota",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lambang_Kabupaten_Lima_Puluh_Kota.png",
+				"capital": "Sarilamak"
+			},
+			{
+				"id": 5,
+				"name": "Kabupaten Padang Pariaman",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lambang_Kabupaten_Padang_Pariaman.gif",
+				"capital": "Parit Malintang"
+			},
+			{
+				"id": 6,
+				"name": "Kabupaten Pasaman",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Wapen_Pasaman.png",
+				"capital": "Lubuk Sikaping"
+			},
+			{
+				"id": 7,
+				"name": "Kabupaten Pasaman Barat",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Pasaman_Barat.png",
+				"capital": "Simpang Ampek"
+			},
+			{
+				"id": 8,
+				"name": "Kabupaten Pesisir Selatan",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Coat_of_arms_of_Pesisir_Selatan_Regency.svg",
+				"capital": "Painan"
+			},
+			{
+				"id": 9,
+				"name": "Kabupaten Sijunjung",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Coat_of_arms_of_Sijunjung_Regency.svg",
+				"capital": "Muaro Sijunjung"
+			},
+			{
+				"id": 10,
+				"name": "Kabupaten Solok",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lambang_Kabupaten_Solok.png",
+				"capital": "Arosuka"
+			},
+			{
+				"id": 11,
+				"name": "Kabupaten Solok Selatan",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Lambang_Kabupaten_Solok_Selatan.png",
+				"capital": "Padang Aro"
+			},
+			{
+				"id": 12,
+				"name": "Kabupaten Tanah Datar",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lambang_Kabupaten_Tanah_Datar.png",
+				"capital": "Batusangkar"
+			},
+			{
+				"id": 13,
+				"name": "Kota Bukittinggi",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_Kota_Bukittinggi.png",
+				"capital": "-"
+			},
+			{
+				"id": 14,
+				"name": "Kota Padang",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Logo_Padang.svg",
+				"capital": "-"
+			},
+			{
+				"id": 15,
+				"name": "Kota Padang Panjang",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Logopadangpanjang.png",
+				"capital": "-"
+			},
+			{
+				"id": 16,
+				"name": "Kota Pariaman",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lambang_Kota_Pariaman.png",
+				"capital": "-"
+			},
+			{
+				"id": 17,
+				"name": "Kota Payakumbuh",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Lambang_Kota_Payakumbuh.png",
+				"capital": "-"
+			},
+			{
+				"id": 18,
+				"name": "Kota Sawahlunto",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lambang_Kota_Sawahlunto.png",
+				"capital": "-"
+			},
+			{
+				"id": 19,
+				"name": "Kota Solok",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Kotasolok.gif",
+				"capital": "-"
+			}
+		]
+	}
+}

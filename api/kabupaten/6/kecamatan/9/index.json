@@ -1,0 +1,85 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Ogan Komering Ilir",
+	"scraped_at": "2023-01-24T06:11:22.005Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kabupaten Ogan Komering Ilir",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lambang_Kabupaten_Ogan_Komering_Ilir.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Air Sugihan"
+			},
+			{
+				"id": 2,
+				"name": "Cengal"
+			},
+			{
+				"id": 3,
+				"name": "Jejawi"
+			},
+			{
+				"id": 4,
+				"name": "Kayu Agung, Ogan Komering Ilir‎ (7 H"
+			},
+			{
+				"id": 5,
+				"name": "Lempuing Jaya"
+			},
+			{
+				"id": 6,
+				"name": "Lempuing"
+			},
+			{
+				"id": 7,
+				"name": "Mesuji Makmur"
+			},
+			{
+				"id": 8,
+				"name": "Mesuji Raya"
+			},
+			{
+				"id": 9,
+				"name": "Mesuji"
+			},
+			{
+				"id": 10,
+				"name": "Pampangan"
+			},
+			{
+				"id": 11,
+				"name": "Pangkalan Lampam"
+			},
+			{
+				"id": 12,
+				"name": "Pedamaran Timur"
+			},
+			{
+				"id": 13,
+				"name": "Pedamaran"
+			},
+			{
+				"id": 14,
+				"name": "Sirah Pulau Padang"
+			},
+			{
+				"id": 15,
+				"name": "Sungai Menang"
+			},
+			{
+				"id": 16,
+				"name": "Tanjung Lubuk"
+			},
+			{
+				"id": 17,
+				"name": "Teluk Gelam"
+			},
+			{
+				"id": 18,
+				"name": "Tulung Selapan"
+			}
+		]
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kayong Utara",
+	"scraped_at": "2023-01-24T06:14:32.083Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Kayong Utara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lambang_Kabupaten_Kayong_Utara.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Kepulauan Karimata"
+			},
+			{
+				"id": 2,
+				"name": "Pulau Maya"
+			},
+			{
+				"id": 3,
+				"name": "Seponti"
+			},
+			{
+				"id": 4,
+				"name": "Simpang Hilir"
+			},
+			{
+				"id": 5,
+				"name": "Sukadana, Kayong Utara‎ (13 H"
+			},
+			{
+				"id": 6,
+				"name": "Teluk Batang"
+			}
+		]
+	}
+}

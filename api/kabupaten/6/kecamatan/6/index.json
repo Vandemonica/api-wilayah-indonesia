@@ -1,0 +1,69 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Musi Rawas",
+	"scraped_at": "2023-01-24T06:11:17.796Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Musi Rawas",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_Kabupaten_Musi_Rawas.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bulang Tengah Suku Ulu"
+			},
+			{
+				"id": 2,
+				"name": "Jayaloka"
+			},
+			{
+				"id": 3,
+				"name": "Megang Sakti"
+			},
+			{
+				"id": 4,
+				"name": "Muara Beliti"
+			},
+			{
+				"id": 5,
+				"name": "Muara Kelingi"
+			},
+			{
+				"id": 6,
+				"name": "Muara Lakitan"
+			},
+			{
+				"id": 7,
+				"name": "Purwodadi"
+			},
+			{
+				"id": 8,
+				"name": "Selangit"
+			},
+			{
+				"id": 9,
+				"name": "Sukakarya"
+			},
+			{
+				"id": 10,
+				"name": "Suku Tengah Lakitan Ulu Terawas"
+			},
+			{
+				"id": 11,
+				"name": "Sumber Harta"
+			},
+			{
+				"id": 12,
+				"name": "Tiang Pumpung Kepungut"
+			},
+			{
+				"id": 13,
+				"name": "Tuah Negeri"
+			},
+			{
+				"id": 14,
+				"name": "Tugumulyo"
+			}
+		]
+	}
+}

@@ -1,0 +1,224 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Jawa_Tengah",
+	"scraped_at": "2023-01-24T06:12:47.014Z",
+	"provinsi": {
+		"id": 13,
+		"code": "33",
+		"name": "Jawa Tengah",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Coat_of_arms_of_Central_Java.svg"
+	},
+	"data": {
+		"kabupaten": [
+			{
+				"id": 1,
+				"name": "Kabupaten Banjarnegara",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Seal_of_Banjarnegara_Regency_%282022%29.svg",
+				"capital": "Banjarnegara"
+			},
+			{
+				"id": 2,
+				"name": "Kabupaten Banyumas",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Emblem_of_Banyumas_Regency.svg",
+				"capital": "Purwokerto"
+			},
+			{
+				"id": 3,
+				"name": "Kabupaten Batang",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Seal_of_Batang_Regency.svg",
+				"capital": "Batang"
+			},
+			{
+				"id": 4,
+				"name": "Kabupaten Blora",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Seal_of_Blora_Regency.svg",
+				"capital": "Blora"
+			},
+			{
+				"id": 5,
+				"name": "Kabupaten Boyolali",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Seal_of_Boyolali_Regency.svg",
+				"capital": "Boyolali"
+			},
+			{
+				"id": 6,
+				"name": "Kabupaten Brebes",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Seal_of_Brebes_Regency.svg",
+				"capital": "Brebes"
+			},
+			{
+				"id": 7,
+				"name": "Kabupaten Cilacap",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Seal_of_Cilacap_Regency.svg",
+				"capital": "Cilacap"
+			},
+			{
+				"id": 8,
+				"name": "Kabupaten Demak",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Seal_of_Demak_Regency.svg",
+				"capital": "Demak"
+			},
+			{
+				"id": 9,
+				"name": "Kabupaten Grobogan",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Coat_of_arms_of_Grobogan_Regency.svg",
+				"capital": "Purwodadi"
+			},
+			{
+				"id": 10,
+				"name": "Kabupaten Jepara",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Seal_of_Jepara_Regency.svg",
+				"capital": "Jepara"
+			},
+			{
+				"id": 11,
+				"name": "Kabupaten Karanganyar",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Seal_of_Karanganyar_Regency.svg",
+				"capital": "Karanganyar"
+			},
+			{
+				"id": 12,
+				"name": "Kabupaten Kebumen",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Seal_of_Kebumen_Regency.svg",
+				"capital": "Kebumen"
+			},
+			{
+				"id": 13,
+				"name": "Kabupaten Kendal",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Emblem_of_Kendal_Regency_%282011%29.svg",
+				"capital": "Kendal"
+			},
+			{
+				"id": 14,
+				"name": "Kabupaten Klaten",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Seal_of_Klaten_Regency.svg",
+				"capital": "Klaten"
+			},
+			{
+				"id": 15,
+				"name": "Kabupaten Kudus",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Seal_of_Kudus_Regency.svg",
+				"capital": "Kudus"
+			},
+			{
+				"id": 16,
+				"name": "Kabupaten Magelang",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Seal_of_Magelang_Regency.svg",
+				"capital": "Mungkid"
+			},
+			{
+				"id": 17,
+				"name": "Kabupaten Pati",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Seal_of_Pati_Regency.svg",
+				"capital": "Pati"
+			},
+			{
+				"id": 18,
+				"name": "Kabupaten Pekalongan",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Coat_of_arms_of_Pekalongan_Regency.svg",
+				"capital": "Kajen"
+			},
+			{
+				"id": 19,
+				"name": "Kabupaten Pemalang",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Seal_of_Pemalang_Regency.svg",
+				"capital": "Pemalang"
+			},
+			{
+				"id": 20,
+				"name": "Kabupaten Purbalingga",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Seal_of_Purbalingga_Regency.svg",
+				"capital": "Purbalingga"
+			},
+			{
+				"id": 21,
+				"name": "Kabupaten Purworejo",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Seal_of_Purworejo_Regency.svg",
+				"capital": "Purworejo"
+			},
+			{
+				"id": 22,
+				"name": "Kabupaten Rembang",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Seal_of_Rembang_Regency.svg",
+				"capital": "Rembang"
+			},
+			{
+				"id": 23,
+				"name": "Kabupaten Semarang",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Seal_of_Semarang_Regency.svg",
+				"capital": "Ungaran"
+			},
+			{
+				"id": 24,
+				"name": "Kabupaten Sragen",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Seal_of_Sragen_Regency.svg",
+				"capital": "Sragen"
+			},
+			{
+				"id": 25,
+				"name": "Kabupaten Sukoharjo",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Seal_of_Sukoharjo_Regency.svg",
+				"capital": "Sukoharjo"
+			},
+			{
+				"id": 26,
+				"name": "Kabupaten Tegal",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shield_of_Tegal_Regency.svg",
+				"capital": "Slawi"
+			},
+			{
+				"id": 27,
+				"name": "Kabupaten Temanggung",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Seal_of_Temanggung_Regency.svg",
+				"capital": "Temanggung"
+			},
+			{
+				"id": 28,
+				"name": "Kabupaten Wonogiri",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Seal_of_Wonogiri_Regency.svg",
+				"capital": "Wonogiri"
+			},
+			{
+				"id": 29,
+				"name": "Kabupaten Wonosobo",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Seal_of_Wonosobo_Regency.svg",
+				"capital": "Wonosobo"
+			},
+			{
+				"id": 30,
+				"name": "Kota Magelang",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_the_City_of_Magelang.svg",
+				"capital": "-"
+			},
+			{
+				"id": 31,
+				"name": "Kota Pekalongan",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Coat_of_arms_of_the_City_of_Pekalongan.svg",
+				"capital": "-"
+			},
+			{
+				"id": 32,
+				"name": "Kota Salatiga",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Seal_of_the_City_of_Salatiga.svg",
+				"capital": "-"
+			},
+			{
+				"id": 33,
+				"name": "Kota Semarang",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Seal_of_the_City_of_Semarang.svg",
+				"capital": "-"
+			},
+			{
+				"id": 34,
+				"name": "Kota Surakarta",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Seal_of_the_City_of_Surakarta.svg",
+				"capital": "-"
+			},
+			{
+				"id": 35,
+				"name": "Kota Tegal",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Shield_of_the_city_of_Tegal.svg",
+				"capital": "-"
+			}
+		]
+	}
+}

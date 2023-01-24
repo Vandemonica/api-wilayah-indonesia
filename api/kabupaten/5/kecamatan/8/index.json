@@ -1,0 +1,57 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tanjung Jabung Timur",
+	"scraped_at": "2023-01-24T06:11:04.445Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kabupaten Tanjung Jabung Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_Tanjung_Jabung_Timur.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Berbak"
+			},
+			{
+				"id": 2,
+				"name": "Dendang"
+			},
+			{
+				"id": 3,
+				"name": "Geragai"
+			},
+			{
+				"id": 4,
+				"name": "Kuala Jambi"
+			},
+			{
+				"id": 5,
+				"name": "Mendahara Ulu"
+			},
+			{
+				"id": 6,
+				"name": "Mendahara"
+			},
+			{
+				"id": 7,
+				"name": "Muara Sabak Barat"
+			},
+			{
+				"id": 8,
+				"name": "Muara Sabak Timur"
+			},
+			{
+				"id": 9,
+				"name": "Nipah Panjang"
+			},
+			{
+				"id": 10,
+				"name": "Rantau Rasau"
+			},
+			{
+				"id": 11,
+				"name": "Sadu"
+			}
+		]
+	}
+}

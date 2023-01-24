@@ -1,0 +1,125 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Konawe",
+	"scraped_at": "2023-01-24T06:16:15.628Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kabupaten Konawe",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Lambang_Kabupaten_Konawe.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Abuki"
+			},
+			{
+				"id": 2,
+				"name": "Amonggedo"
+			},
+			{
+				"id": 3,
+				"name": "Anggaberi"
+			},
+			{
+				"id": 4,
+				"name": "Anggalomoare"
+			},
+			{
+				"id": 5,
+				"name": "Anggotoa"
+			},
+			{
+				"id": 6,
+				"name": "Asinua"
+			},
+			{
+				"id": 7,
+				"name": "Besulutu"
+			},
+			{
+				"id": 8,
+				"name": "Bondoala"
+			},
+			{
+				"id": 9,
+				"name": "Kapoiala"
+			},
+			{
+				"id": 10,
+				"name": "Konawe"
+			},
+			{
+				"id": 11,
+				"name": "Lalonggasumeeto"
+			},
+			{
+				"id": 12,
+				"name": "Lambuya"
+			},
+			{
+				"id": 13,
+				"name": "Latoma"
+			},
+			{
+				"id": 14,
+				"name": "Meluhu"
+			},
+			{
+				"id": 15,
+				"name": "Morosi"
+			},
+			{
+				"id": 16,
+				"name": "Onembute"
+			},
+			{
+				"id": 17,
+				"name": "Padangguni"
+			},
+			{
+				"id": 18,
+				"name": "Pondidaha"
+			},
+			{
+				"id": 19,
+				"name": "Puriala"
+			},
+			{
+				"id": 20,
+				"name": "Routa"
+			},
+			{
+				"id": 21,
+				"name": "Sampara"
+			},
+			{
+				"id": 22,
+				"name": "Soropia"
+			},
+			{
+				"id": 23,
+				"name": "Tongauna"
+			},
+			{
+				"id": 24,
+				"name": "Uepai"
+			},
+			{
+				"id": 25,
+				"name": "Unaaha"
+			},
+			{
+				"id": 26,
+				"name": "Wawotobi"
+			},
+			{
+				"id": 27,
+				"name": "Wonggeduku Barat"
+			},
+			{
+				"id": 28,
+				"name": "Wonggeduku"
+			}
+		]
+	}
+}

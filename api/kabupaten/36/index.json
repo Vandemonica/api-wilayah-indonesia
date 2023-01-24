@@ -1,0 +1,62 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Papua_Tengah",
+	"scraped_at": "2023-01-24T06:17:02.452Z",
+	"provinsi": {
+		"id": 36,
+		"code": "94",
+		"name": "Papua Tengah",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Opsi_Lambang_Papua_Tengah.png"
+	},
+	"data": {
+		"kabupaten": [
+			{
+				"id": 1,
+				"name": "Kabupaten Deiyai",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Lambang_Kabupaten_Deiyai.png",
+				"capital": "Tigi"
+			},
+			{
+				"id": 2,
+				"name": "Kabupaten Dogiyai",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Lambang_Kabupaten_Dogiyai.gif",
+				"capital": "Kamu"
+			},
+			{
+				"id": 3,
+				"name": "Kabupaten Intan Jaya",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Lambang_Kabupaten_Intan_Jaya.png",
+				"capital": "Sugapa"
+			},
+			{
+				"id": 4,
+				"name": "Kabupaten Mimika",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Lambang_Kabupaten_Mimika.jpg",
+				"capital": "Timika"
+			},
+			{
+				"id": 5,
+				"name": "Kabupaten Nabire",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lambang_kabupaten_nabire.jpg",
+				"capital": "Nabire"
+			},
+			{
+				"id": 6,
+				"name": "Kabupaten Paniai",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lambang_Kabupaten_Paniai.jpg",
+				"capital": "Enarotali"
+			},
+			{
+				"id": 7,
+				"name": "Kabupaten Puncak",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lambang_Kabupaten_Puncak.webp",
+				"capital": "Ilaga"
+			},
+			{
+				"id": 8,
+				"name": "Kabupaten Puncak Jaya",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lambang_Kabupaten_Puncak_Jaya.png",
+				"capital": "Mulia"
+			}
+		]
+	}
+}

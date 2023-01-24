@@ -1,0 +1,57 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Jambi",
+	"scraped_at": "2023-01-24T06:11:06.526Z",
+	"kabupaten": {
+		"id": 10,
+		"name": "Kota Jambi",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Lambang_Kota_Jambi.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Alam Barajo"
+			},
+			{
+				"id": 2,
+				"name": "Danau Sipin"
+			},
+			{
+				"id": 3,
+				"name": "Danau Teluk"
+			},
+			{
+				"id": 4,
+				"name": "Jambi Selatan"
+			},
+			{
+				"id": 5,
+				"name": "Jambi Timur"
+			},
+			{
+				"id": 6,
+				"name": "Jelutung"
+			},
+			{
+				"id": 7,
+				"name": "Kota Baru"
+			},
+			{
+				"id": 8,
+				"name": "Paal Merah"
+			},
+			{
+				"id": 9,
+				"name": "Pasar Jambi"
+			},
+			{
+				"id": 10,
+				"name": "Pelayangan"
+			},
+			{
+				"id": 11,
+				"name": "Telanaipura"
+			}
+		]
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tebing Tinggi",
+	"scraped_at": "2023-01-24T06:10:10.864Z",
+	"kabupaten": {
+		"id": 33,
+		"name": "Kota Tebing Tinggi",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Tebing_Tinggi_armcoats.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bajenis"
+			},
+			{
+				"id": 2,
+				"name": "Padang Hilir"
+			},
+			{
+				"id": 3,
+				"name": "Padang Hulu"
+			},
+			{
+				"id": 4,
+				"name": "Rambutan"
+			},
+			{
+				"id": 5,
+				"name": "Tebing Tinggi Kota"
+			}
+		]
+	}
+}

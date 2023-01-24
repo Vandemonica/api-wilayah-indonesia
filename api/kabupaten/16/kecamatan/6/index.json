@@ -1,0 +1,37 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Serang",
+	"scraped_at": "2023-01-24T06:13:46.576Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kota Serang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Seal_of_the_City_of_Serang.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Cipocok Jaya"
+			},
+			{
+				"id": 2,
+				"name": "Curug"
+			},
+			{
+				"id": 3,
+				"name": "Kasemen"
+			},
+			{
+				"id": 4,
+				"name": "Serang"
+			},
+			{
+				"id": 5,
+				"name": "Taktakan"
+			},
+			{
+				"id": 6,
+				"name": "Walantaka"
+			}
+		]
+	}
+}

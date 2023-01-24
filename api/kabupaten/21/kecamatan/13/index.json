@@ -1,0 +1,53 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Seruyan",
+	"scraped_at": "2023-01-24T06:14:53.150Z",
+	"kabupaten": {
+		"id": 13,
+		"name": "Kabupaten Seruyan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lambang_Kabupaten_Seruyan.gif"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Batu Ampar"
+			},
+			{
+				"id": 2,
+				"name": "Danau Seluluk"
+			},
+			{
+				"id": 3,
+				"name": "Danau Sembuluh"
+			},
+			{
+				"id": 4,
+				"name": "Hanau"
+			},
+			{
+				"id": 5,
+				"name": "Seruyan Hilir Timur"
+			},
+			{
+				"id": 6,
+				"name": "Seruyan Hilir"
+			},
+			{
+				"id": 7,
+				"name": "Seruyan Hulu"
+			},
+			{
+				"id": 8,
+				"name": "Seruyan Raya"
+			},
+			{
+				"id": 9,
+				"name": "Seruyan Tengah"
+			},
+			{
+				"id": 10,
+				"name": "Suling Tambun"
+			}
+		]
+	}
+}

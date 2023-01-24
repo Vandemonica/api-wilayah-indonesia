@@ -1,0 +1,61 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tebo",
+	"scraped_at": "2023-01-24T06:11:05.879Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kabupaten Tebo",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Tebo.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Muara Tabir"
+			},
+			{
+				"id": 2,
+				"name": "Rimbo Bujang"
+			},
+			{
+				"id": 3,
+				"name": "Rimbo Ilir"
+			},
+			{
+				"id": 4,
+				"name": "Rimbo Ulu"
+			},
+			{
+				"id": 5,
+				"name": "Serai Serumpun"
+			},
+			{
+				"id": 6,
+				"name": "Sumay"
+			},
+			{
+				"id": 7,
+				"name": "Tebo Ilir"
+			},
+			{
+				"id": 8,
+				"name": "Tebo Tengah"
+			},
+			{
+				"id": 9,
+				"name": "Tebo Ulu"
+			},
+			{
+				"id": 10,
+				"name": "Tengah Ilir"
+			},
+			{
+				"id": 11,
+				"name": "VII Koto Ilir"
+			},
+			{
+				"id": 12,
+				"name": "VII Koto"
+			}
+		]
+	}
+}

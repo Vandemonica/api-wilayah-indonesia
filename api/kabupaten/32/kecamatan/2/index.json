@@ -1,0 +1,53 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Halmahera Tengah",
+	"scraped_at": "2023-01-24T06:16:50.211Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Halmahera Tengah",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lambang_Kabupaten_Halmahera_Tengah.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Patani Barat"
+			},
+			{
+				"id": 2,
+				"name": "Patani Timur"
+			},
+			{
+				"id": 3,
+				"name": "Patani Utara"
+			},
+			{
+				"id": 4,
+				"name": "Patani"
+			},
+			{
+				"id": 5,
+				"name": "Pulau Gebe"
+			},
+			{
+				"id": 6,
+				"name": "Weda Selatan"
+			},
+			{
+				"id": 7,
+				"name": "Weda Tengah"
+			},
+			{
+				"id": 8,
+				"name": "Weda Timur"
+			},
+			{
+				"id": 9,
+				"name": "Weda Utara"
+			},
+			{
+				"id": 10,
+				"name": "Weda"
+			}
+		]
+	}
+}

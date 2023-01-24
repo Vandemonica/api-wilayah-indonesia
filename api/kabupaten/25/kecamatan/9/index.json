@@ -1,0 +1,81 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Minahasa Selatan",
+	"scraped_at": "2023-01-24T06:15:32.449Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kabupaten Minahasa Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Lambang_Kabupaten_Minahasa_Selatan.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Amurang Barat"
+			},
+			{
+				"id": 2,
+				"name": "Amurang Timur"
+			},
+			{
+				"id": 3,
+				"name": "Amurang"
+			},
+			{
+				"id": 4,
+				"name": "Kumelembuai"
+			},
+			{
+				"id": 5,
+				"name": "Maesaan"
+			},
+			{
+				"id": 6,
+				"name": "Modoinding"
+			},
+			{
+				"id": 7,
+				"name": "Motoling Barat"
+			},
+			{
+				"id": 8,
+				"name": "Motoling Timur"
+			},
+			{
+				"id": 9,
+				"name": "Motoling"
+			},
+			{
+				"id": 10,
+				"name": "Ranoyapo"
+			},
+			{
+				"id": 11,
+				"name": "Sinonsayang"
+			},
+			{
+				"id": 12,
+				"name": "Suluun Tareran"
+			},
+			{
+				"id": 13,
+				"name": "Tareran"
+			},
+			{
+				"id": 14,
+				"name": "Tatapaan"
+			},
+			{
+				"id": 15,
+				"name": "Tenga"
+			},
+			{
+				"id": 16,
+				"name": "Tompaso Baru"
+			},
+			{
+				"id": 17,
+				"name": "Tumpaan"
+			}
+		]
+	}
+}

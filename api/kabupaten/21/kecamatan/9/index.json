@@ -1,0 +1,45 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lamandau",
+	"scraped_at": "2023-01-24T06:14:49.007Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kabupaten Lamandau",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Lambang_Kabupaten_Lamandau.jpeg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Batang Kawa"
+			},
+			{
+				"id": 2,
+				"name": "Belantikan Raya"
+			},
+			{
+				"id": 3,
+				"name": "Bulik Timur"
+			},
+			{
+				"id": 4,
+				"name": "Bulik"
+			},
+			{
+				"id": 5,
+				"name": "Delang"
+			},
+			{
+				"id": 6,
+				"name": "Lamandau"
+			},
+			{
+				"id": 7,
+				"name": "Menthobi Raya"
+			},
+			{
+				"id": 8,
+				"name": "Sematu Jaya"
+			}
+		]
+	}
+}

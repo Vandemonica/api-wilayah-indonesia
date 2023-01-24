@@ -1,0 +1,105 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pidie",
+	"scraped_at": "2023-01-24T06:09:29.256Z",
+	"kabupaten": {
+		"id": 16,
+		"name": "Kabupaten Pidie",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_Kabupaten_Pidie.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Batee"
+			},
+			{
+				"id": 2,
+				"name": "Delima"
+			},
+			{
+				"id": 3,
+				"name": "Geulumpang Tiga"
+			},
+			{
+				"id": 4,
+				"name": "Geumpang"
+			},
+			{
+				"id": 5,
+				"name": "Glumpang Baro"
+			},
+			{
+				"id": 6,
+				"name": "Grong-Grong"
+			},
+			{
+				"id": 7,
+				"name": "Indra Jaya"
+			},
+			{
+				"id": 8,
+				"name": "Kembang Tanjong"
+			},
+			{
+				"id": 9,
+				"name": "Keumala"
+			},
+			{
+				"id": 10,
+				"name": "Kota Sigli"
+			},
+			{
+				"id": 11,
+				"name": "Mane"
+			},
+			{
+				"id": 12,
+				"name": "Mila"
+			},
+			{
+				"id": 13,
+				"name": "Muara Tiga"
+			},
+			{
+				"id": 14,
+				"name": "Mutiara Timur"
+			},
+			{
+				"id": 15,
+				"name": "Mutiara"
+			},
+			{
+				"id": 16,
+				"name": "Padang Tiji"
+			},
+			{
+				"id": 17,
+				"name": "Peukan Baro"
+			},
+			{
+				"id": 18,
+				"name": "Pidie"
+			},
+			{
+				"id": 19,
+				"name": "Sakti"
+			},
+			{
+				"id": 20,
+				"name": "Simpang Tiga"
+			},
+			{
+				"id": 21,
+				"name": "Tangse"
+			},
+			{
+				"id": 22,
+				"name": "Tiro"
+			},
+			{
+				"id": 23,
+				"name": "Titeue"
+			}
+		]
+	}
+}

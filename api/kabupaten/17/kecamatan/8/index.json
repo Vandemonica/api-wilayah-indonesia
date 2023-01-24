@@ -1,0 +1,53 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tabanan",
+	"scraped_at": "2023-01-24T06:13:55.574Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kabupaten Tabanan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lambang_Kabupaten_Tabanan.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Baturiti, Tabanan‎ (13 H"
+			},
+			{
+				"id": 2,
+				"name": "Kediri"
+			},
+			{
+				"id": 3,
+				"name": "Kerambitan"
+			},
+			{
+				"id": 4,
+				"name": "Marga"
+			},
+			{
+				"id": 5,
+				"name": "Penebel"
+			},
+			{
+				"id": 6,
+				"name": "Pupuan"
+			},
+			{
+				"id": 7,
+				"name": "Selemadeg Barat"
+			},
+			{
+				"id": 8,
+				"name": "Selemadeg Timur"
+			},
+			{
+				"id": 9,
+				"name": "Selemadeg"
+			},
+			{
+				"id": 10,
+				"name": "Tabanan, Tabanan‎ (14 H"
+			}
+		]
+	}
+}

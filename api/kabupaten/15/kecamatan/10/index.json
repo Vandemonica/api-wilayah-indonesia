@@ -1,0 +1,121 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lamongan",
+	"scraped_at": "2023-01-24T06:13:21.558Z",
+	"kabupaten": {
+		"id": 10,
+		"name": "Kabupaten Lamongan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Coat_of_arms_of_Lamongan_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Babat"
+			},
+			{
+				"id": 2,
+				"name": "Bluluk"
+			},
+			{
+				"id": 3,
+				"name": "Brondong"
+			},
+			{
+				"id": 4,
+				"name": "Deket"
+			},
+			{
+				"id": 5,
+				"name": "Glagah"
+			},
+			{
+				"id": 6,
+				"name": "Kalitengah"
+			},
+			{
+				"id": 7,
+				"name": "Karangbinangun"
+			},
+			{
+				"id": 8,
+				"name": "Karanggeneng"
+			},
+			{
+				"id": 9,
+				"name": "Kedungpring"
+			},
+			{
+				"id": 10,
+				"name": "Kembangbahu"
+			},
+			{
+				"id": 11,
+				"name": "Lamongan"
+			},
+			{
+				"id": 12,
+				"name": "Laren"
+			},
+			{
+				"id": 13,
+				"name": "Maduran"
+			},
+			{
+				"id": 14,
+				"name": "Mantup"
+			},
+			{
+				"id": 15,
+				"name": "Modo"
+			},
+			{
+				"id": 16,
+				"name": "Ngimbang"
+			},
+			{
+				"id": 17,
+				"name": "Paciran"
+			},
+			{
+				"id": 18,
+				"name": "Pucuk"
+			},
+			{
+				"id": 19,
+				"name": "Sambeng"
+			},
+			{
+				"id": 20,
+				"name": "Sarirejo"
+			},
+			{
+				"id": 21,
+				"name": "Sekaran"
+			},
+			{
+				"id": 22,
+				"name": "Solokuro"
+			},
+			{
+				"id": 23,
+				"name": "Sugio"
+			},
+			{
+				"id": 24,
+				"name": "Sukodadi"
+			},
+			{
+				"id": 25,
+				"name": "Sukorame"
+			},
+			{
+				"id": 26,
+				"name": "Tikung"
+			},
+			{
+				"id": 27,
+				"name": "Turi"
+			}
+		]
+	}
+}

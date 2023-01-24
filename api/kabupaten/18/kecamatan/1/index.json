@@ -1,0 +1,85 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bima",
+	"scraped_at": "2023-01-24T06:13:57.760Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Bima",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Lambang_Kabupaten_Bima.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Ambalawi"
+			},
+			{
+				"id": 2,
+				"name": "Belo"
+			},
+			{
+				"id": 3,
+				"name": "Bolo"
+			},
+			{
+				"id": 4,
+				"name": "Donggo"
+			},
+			{
+				"id": 5,
+				"name": "Lambitu"
+			},
+			{
+				"id": 6,
+				"name": "Lambu"
+			},
+			{
+				"id": 7,
+				"name": "Langgudu"
+			},
+			{
+				"id": 8,
+				"name": "Madapangga"
+			},
+			{
+				"id": 9,
+				"name": "Monta"
+			},
+			{
+				"id": 10,
+				"name": "Palibelo"
+			},
+			{
+				"id": 11,
+				"name": "Parado"
+			},
+			{
+				"id": 12,
+				"name": "Sanggar"
+			},
+			{
+				"id": 13,
+				"name": "Sape"
+			},
+			{
+				"id": 14,
+				"name": "Soromandi"
+			},
+			{
+				"id": 15,
+				"name": "Tambora"
+			},
+			{
+				"id": 16,
+				"name": "Wawo"
+			},
+			{
+				"id": 17,
+				"name": "Wera"
+			},
+			{
+				"id": 18,
+				"name": "Woha"
+			}
+		]
+	}
+}

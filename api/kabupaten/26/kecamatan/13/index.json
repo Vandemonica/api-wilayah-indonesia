@@ -1,0 +1,45 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Palu",
+	"scraped_at": "2023-01-24T06:15:47.776Z",
+	"kabupaten": {
+		"id": 13,
+		"name": "Kota Palu",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lambang_Kota_Palu.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Mantikulore"
+			},
+			{
+				"id": 2,
+				"name": "Palu Barat"
+			},
+			{
+				"id": 3,
+				"name": "Palu Selatan"
+			},
+			{
+				"id": 4,
+				"name": "Palu Timur"
+			},
+			{
+				"id": 5,
+				"name": "Palu Utara"
+			},
+			{
+				"id": 6,
+				"name": "Tatanga"
+			},
+			{
+				"id": 7,
+				"name": "Tawaeli"
+			},
+			{
+				"id": 8,
+				"name": "Ulujadi"
+			}
+		]
+	}
+}

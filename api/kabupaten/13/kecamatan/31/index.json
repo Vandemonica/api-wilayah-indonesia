@@ -1,0 +1,29 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Pekalongan",
+	"scraped_at": "2023-01-24T06:13:09.092Z",
+	"kabupaten": {
+		"id": 31,
+		"name": "Kota Pekalongan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Coat_of_arms_of_the_City_of_Pekalongan.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Pekalongan Barat, Pekalongan‎ (1 K"
+			},
+			{
+				"id": 2,
+				"name": "Pekalongan Selatan"
+			},
+			{
+				"id": 3,
+				"name": "Pekalongan Timur"
+			},
+			{
+				"id": 4,
+				"name": "Pekalongan Utara"
+			}
+		]
+	}
+}

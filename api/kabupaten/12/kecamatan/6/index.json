@@ -1,0 +1,141 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Cianjur",
+	"scraped_at": "2023-01-24T06:12:29.904Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Cianjur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lambang_Kabupaten_Cianjur.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Agrabinta"
+			},
+			{
+				"id": 2,
+				"name": "Bojongpicung"
+			},
+			{
+				"id": 3,
+				"name": "Campaka"
+			},
+			{
+				"id": 4,
+				"name": "Campakamulya"
+			},
+			{
+				"id": 5,
+				"name": "Cianjur, Cianjur‎ (1 K"
+			},
+			{
+				"id": 6,
+				"name": "Cibeber"
+			},
+			{
+				"id": 7,
+				"name": "Cibinong"
+			},
+			{
+				"id": 8,
+				"name": "Cidaun"
+			},
+			{
+				"id": 9,
+				"name": "Cijati"
+			},
+			{
+				"id": 10,
+				"name": "Cikadu"
+			},
+			{
+				"id": 11,
+				"name": "Cikalongkulon"
+			},
+			{
+				"id": 12,
+				"name": "Cilaku"
+			},
+			{
+				"id": 13,
+				"name": "Cipanas"
+			},
+			{
+				"id": 14,
+				"name": "Ciranjang"
+			},
+			{
+				"id": 15,
+				"name": "Cugenang"
+			},
+			{
+				"id": 16,
+				"name": "Gekbrong"
+			},
+			{
+				"id": 17,
+				"name": "Haurwangi"
+			},
+			{
+				"id": 18,
+				"name": "Kadupandak"
+			},
+			{
+				"id": 19,
+				"name": "Karangtengah"
+			},
+			{
+				"id": 20,
+				"name": "Leles"
+			},
+			{
+				"id": 21,
+				"name": "Mande"
+			},
+			{
+				"id": 22,
+				"name": "Naringgul"
+			},
+			{
+				"id": 23,
+				"name": "Pacet"
+			},
+			{
+				"id": 24,
+				"name": "Pagelaran"
+			},
+			{
+				"id": 25,
+				"name": "Pasirkuda"
+			},
+			{
+				"id": 26,
+				"name": "Sindangbarang"
+			},
+			{
+				"id": 27,
+				"name": "Sukaluyu"
+			},
+			{
+				"id": 28,
+				"name": "Sukanagara"
+			},
+			{
+				"id": 29,
+				"name": "Sukaresmi"
+			},
+			{
+				"id": 30,
+				"name": "Takokak, Cianjur‎ (1 K"
+			},
+			{
+				"id": 31,
+				"name": "Tanggeung"
+			},
+			{
+				"id": 32,
+				"name": "Warungkondang"
+			}
+		]
+	}
+}

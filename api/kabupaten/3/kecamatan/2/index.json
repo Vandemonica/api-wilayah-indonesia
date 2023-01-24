@@ -1,0 +1,57 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Dharmasraya",
+	"scraped_at": "2023-01-24T06:10:14.063Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Dharmasraya",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lambang_Kabupaten_Dharmasraya.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Asam Jujuhan"
+			},
+			{
+				"id": 2,
+				"name": "Koto Baru"
+			},
+			{
+				"id": 3,
+				"name": "Koto Besar"
+			},
+			{
+				"id": 4,
+				"name": "Koto Salak"
+			},
+			{
+				"id": 5,
+				"name": "Padang Laweh"
+			},
+			{
+				"id": 6,
+				"name": "Pulau Punjung"
+			},
+			{
+				"id": 7,
+				"name": "Sembilan Koto"
+			},
+			{
+				"id": 8,
+				"name": "Sitiung"
+			},
+			{
+				"id": 9,
+				"name": "Sungai Rumbai"
+			},
+			{
+				"id": 10,
+				"name": "Timpeh"
+			},
+			{
+				"id": 11,
+				"name": "Tiumang"
+			}
+		]
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Kotamobagu",
+	"scraped_at": "2023-01-24T06:15:35.869Z",
+	"kabupaten": {
+		"id": 13,
+		"name": "Kota Kotamobagu",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Lambang_Kota_Mobagu.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Kotamobagu Barat"
+			},
+			{
+				"id": 2,
+				"name": "Kotamobagu Selatan"
+			},
+			{
+				"id": 3,
+				"name": "Kotamobagu Timur"
+			},
+			{
+				"id": 4,
+				"name": "Kotamobagu Utara"
+			}
+		]
+	}
+}

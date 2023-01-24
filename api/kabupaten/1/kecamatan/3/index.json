@@ -1,0 +1,105 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Aceh Besar",
+	"scraped_at": "2023-01-24T06:09:13.414Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Aceh Besar",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Lambang_Kabupaten_Aceh_Besar.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Baitussalam"
+			},
+			{
+				"id": 2,
+				"name": "Blang Bintang"
+			},
+			{
+				"id": 3,
+				"name": "Darul Imarah"
+			},
+			{
+				"id": 4,
+				"name": "Darul Kamal"
+			},
+			{
+				"id": 5,
+				"name": "Darussalam"
+			},
+			{
+				"id": 6,
+				"name": "Indrapuri"
+			},
+			{
+				"id": 7,
+				"name": "Ingin Jaya"
+			},
+			{
+				"id": 8,
+				"name": "Kota Jantho"
+			},
+			{
+				"id": 9,
+				"name": "Krueng Barona Jaya"
+			},
+			{
+				"id": 10,
+				"name": "Kuta Baro"
+			},
+			{
+				"id": 11,
+				"name": "Kuta Cot Glie"
+			},
+			{
+				"id": 12,
+				"name": "Kuta Malaka"
+			},
+			{
+				"id": 13,
+				"name": "Lembah Seulawah"
+			},
+			{
+				"id": 14,
+				"name": "Leupung"
+			},
+			{
+				"id": 15,
+				"name": "Lhoknga"
+			},
+			{
+				"id": 16,
+				"name": "Lhoong"
+			},
+			{
+				"id": 17,
+				"name": "Mesjid Raya"
+			},
+			{
+				"id": 18,
+				"name": "Montasik"
+			},
+			{
+				"id": 19,
+				"name": "Peukan Bada"
+			},
+			{
+				"id": 20,
+				"name": "Pulo Aceh"
+			},
+			{
+				"id": 21,
+				"name": "Seulimeum"
+			},
+			{
+				"id": 22,
+				"name": "Simpang Tiga"
+			},
+			{
+				"id": 23,
+				"name": "Sukamakmur"
+			}
+		]
+	}
+}

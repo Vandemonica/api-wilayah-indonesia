@@ -1,0 +1,49 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lembata",
+	"scraped_at": "2023-01-24T06:14:13.551Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Lembata",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lambang_Kabupaten_Lembata.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Atadei"
+			},
+			{
+				"id": 2,
+				"name": "Buyasuri"
+			},
+			{
+				"id": 3,
+				"name": "Ile Ape Timur"
+			},
+			{
+				"id": 4,
+				"name": "Ile Ape"
+			},
+			{
+				"id": 5,
+				"name": "Lebatukan"
+			},
+			{
+				"id": 6,
+				"name": "Nagawutung"
+			},
+			{
+				"id": 7,
+				"name": "Nubatukan"
+			},
+			{
+				"id": 8,
+				"name": "Omesuri"
+			},
+			{
+				"id": 9,
+				"name": "Wulandoni"
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tojo Una-Una",
+	"scraped_at": "2023-01-24T06:15:46.220Z",
+	"kabupaten": {
+		"id": 11,
+		"name": "Kabupaten Tojo Una-Una",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lambang_Kabupaten_Tojo_Una-Una.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Ampana Kota"
+			},
+			{
+				"id": 2,
+				"name": "Ampana Tete"
+			},
+			{
+				"id": 3,
+				"name": "Batudaka"
+			},
+			{
+				"id": 4,
+				"name": "Ratolindo"
+			},
+			{
+				"id": 5,
+				"name": "Talatako"
+			},
+			{
+				"id": 6,
+				"name": "Togean"
+			},
+			{
+				"id": 7,
+				"name": "Tojo"
+			},
+			{
+				"id": 8,
+				"name": "Tojo Barat"
+			},
+			{
+				"id": 9,
+				"name": "Ulubongka"
+			},
+			{
+				"id": 10,
+				"name": "Una-Una"
+			},
+			{
+				"id": 11,
+				"name": "Walea Besar"
+			},
+			{
+				"id": 12,
+				"name": "Walea Kepulauan"
+			}
+		]
+	}
+}

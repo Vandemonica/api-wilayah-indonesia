@@ -1,0 +1,61 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pasangkayu",
+	"scraped_at": "2023-01-24T06:16:33.572Z",
+	"kabupaten": {
+		"id": 5,
+		"name": "Kabupaten Pasangkayu",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kabupaten_Pasangkayu.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bambaira"
+			},
+			{
+				"id": 2,
+				"name": "Bambalamotu"
+			},
+			{
+				"id": 3,
+				"name": "Baras"
+			},
+			{
+				"id": 4,
+				"name": "Bulu Taba"
+			},
+			{
+				"id": 5,
+				"name": "Dapurang"
+			},
+			{
+				"id": 6,
+				"name": "Duripoku"
+			},
+			{
+				"id": 7,
+				"name": "Lariang"
+			},
+			{
+				"id": 8,
+				"name": "Pasangkayu"
+			},
+			{
+				"id": 9,
+				"name": "Pedongga"
+			},
+			{
+				"id": 10,
+				"name": "Sarjo"
+			},
+			{
+				"id": 11,
+				"name": "Sarudu"
+			},
+			{
+				"id": 12,
+				"name": "Tikke Raya"
+			}
+		]
+	}
+}

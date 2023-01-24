@@ -1,0 +1,176 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Jawa_Barat",
+	"scraped_at": "2023-01-24T06:12:24.648Z",
+	"provinsi": {
+		"id": 12,
+		"code": "32",
+		"name": "Jawa Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Coat_of_arms_of_West_Java.svg"
+	},
+	"data": {
+		"kabupaten": [
+			{
+				"id": 1,
+				"name": "Kabupaten Bandung",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Lambang_Kabupaten_Bandung%2C_Jawa_Barat%2C_Indonesia.svg",
+				"capital": "Soreang"
+			},
+			{
+				"id": 2,
+				"name": "Kabupaten Bandung Barat",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Kab_Bandung_Barat.svg",
+				"capital": "Ngamprah"
+			},
+			{
+				"id": 3,
+				"name": "Kabupaten Bekasi",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lambang_Kabupaten_Bekasi.svg",
+				"capital": "Cikarang Pusat"
+			},
+			{
+				"id": 4,
+				"name": "Kabupaten Bogor",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Lambang_Kabupaten_Bogor.svg",
+				"capital": "Cibinong"
+			},
+			{
+				"id": 5,
+				"name": "Kabupaten Ciamis",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/86/LAMBANG_KABUPATEN_CIAMIS.svg",
+				"capital": "Ciamis"
+			},
+			{
+				"id": 6,
+				"name": "Kabupaten Cianjur",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lambang_Kabupaten_Cianjur.svg",
+				"capital": "Cianjur"
+			},
+			{
+				"id": 7,
+				"name": "Kabupaten Cirebon",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Coat_of_arms_of_Cirebon_Regency.svg",
+				"capital": "Sumber"
+			},
+			{
+				"id": 8,
+				"name": "Kabupaten Garut",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Lambang_Kabupaten_Garut.svg",
+				"capital": "Tarogong Kidul"
+			},
+			{
+				"id": 9,
+				"name": "Kabupaten Indramayu",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Seal_of_Indramayu_Regency.svg",
+				"capital": "Indramayu"
+			},
+			{
+				"id": 10,
+				"name": "Kabupaten Karawang",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/LAMBANG_KABUPATEN_KARAWANG.svg",
+				"capital": "Karawang Barat"
+			},
+			{
+				"id": 11,
+				"name": "Kabupaten Kuningan",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Seal_of_Kuningan_Regency.svg",
+				"capital": "Kuningan"
+			},
+			{
+				"id": 12,
+				"name": "Kabupaten Majalengka",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Lambang_Kabupaten_Majalengka.svg",
+				"capital": "Majalengka"
+			},
+			{
+				"id": 13,
+				"name": "Kabupaten Pangandaran",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-pangandaran-perbup.no.4.thn.2013.png",
+				"capital": "Parigi"
+			},
+			{
+				"id": 14,
+				"name": "Kabupaten Purwakarta",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Seal_of_Purwakarta_Regency.svg",
+				"capital": "Purwakarta"
+			},
+			{
+				"id": 15,
+				"name": "Kabupaten Subang",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Seal_of_Subang_Regency.svg",
+				"capital": "Subang"
+			},
+			{
+				"id": 16,
+				"name": "Kabupaten Sukabumi",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Lambang_Kab_Sukabumi.svg",
+				"capital": "Palabuhanratu"
+			},
+			{
+				"id": 17,
+				"name": "Kabupaten Sumedang",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Coat_of_arms_of_Sumedang_Regency.svg",
+				"capital": "Sumedang Utara"
+			},
+			{
+				"id": 18,
+				"name": "Kabupaten Tasikmalaya",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Seal_of_Tasikmalaya_Regency.svg",
+				"capital": "Singaparna"
+			},
+			{
+				"id": 19,
+				"name": "Kota Bandung",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lambang_Kota_Bandung.svg",
+				"capital": "-"
+			},
+			{
+				"id": 20,
+				"name": "Kota Banjar",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Seal_of_the_City_of_Banjar.svg",
+				"capital": "-"
+			},
+			{
+				"id": 21,
+				"name": "Kota Bekasi",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coat_of_arms_of_Bekasi.svg",
+				"capital": "-"
+			},
+			{
+				"id": 22,
+				"name": "Kota Bogor",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Emblem_of_Bogor.svg",
+				"capital": "-"
+			},
+			{
+				"id": 23,
+				"name": "Kota Cimahi",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kota_Cimahi.svg",
+				"capital": "-"
+			},
+			{
+				"id": 24,
+				"name": "Kota Cirebon",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Seal_of_the_City_of_Cirebon.svg",
+				"capital": "-"
+			},
+			{
+				"id": 25,
+				"name": "Kota Depok",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Coat_of_arms_of_Depok_City.svg",
+				"capital": "-"
+			},
+			{
+				"id": 26,
+				"name": "Kota Sukabumi",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Lambang_Kota_Sukabumi_Vektor.svg",
+				"capital": "-"
+			},
+			{
+				"id": 27,
+				"name": "Kota Tasikmalaya",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Seal_of_the_City_of_Tasikmalaya.svg",
+				"capital": "-"
+			}
+		]
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Sibolga",
+	"scraped_at": "2023-01-24T06:10:08.852Z",
+	"kabupaten": {
+		"id": 31,
+		"name": "Kota Sibolga",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Lambang_Kota_Sibolga.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Sibolga Kota"
+			},
+			{
+				"id": 2,
+				"name": "Sibolga Sambas"
+			},
+			{
+				"id": 3,
+				"name": "Sibolga Selatan"
+			},
+			{
+				"id": 4,
+				"name": "Sibolga Utara"
+			}
+		]
+	}
+}

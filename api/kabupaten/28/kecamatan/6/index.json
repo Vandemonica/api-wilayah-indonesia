@@ -1,0 +1,61 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kolaka",
+	"scraped_at": "2023-01-24T06:16:13.034Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Kolaka",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Lambang_Kab_Kolaka.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Baula"
+			},
+			{
+				"id": 2,
+				"name": "Iwoimendaa"
+			},
+			{
+				"id": 3,
+				"name": "Kolaka"
+			},
+			{
+				"id": 4,
+				"name": "Latambaga"
+			},
+			{
+				"id": 5,
+				"name": "Polinggona"
+			},
+			{
+				"id": 6,
+				"name": "Pomalaa"
+			},
+			{
+				"id": 7,
+				"name": "Samaturu"
+			},
+			{
+				"id": 8,
+				"name": "Tanggetada"
+			},
+			{
+				"id": 9,
+				"name": "Toari"
+			},
+			{
+				"id": 10,
+				"name": "Watubangga"
+			},
+			{
+				"id": 11,
+				"name": "Wolo"
+			},
+			{
+				"id": 12,
+				"name": "Wundulako"
+			}
+		]
+	}
+}

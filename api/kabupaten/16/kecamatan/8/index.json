@@ -1,0 +1,41 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tangerang Selatan",
+	"scraped_at": "2023-01-24T06:13:48.352Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kota Tangerang Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lambang_Kota_Tangerang_Selatan.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Ciputat Timur"
+			},
+			{
+				"id": 2,
+				"name": "Ciputat"
+			},
+			{
+				"id": 3,
+				"name": "Pamulang"
+			},
+			{
+				"id": 4,
+				"name": "Pondok Aren"
+			},
+			{
+				"id": 5,
+				"name": "Serpong Utara"
+			},
+			{
+				"id": 6,
+				"name": "Serpong"
+			},
+			{
+				"id": 7,
+				"name": "Setu"
+			}
+		]
+	}
+}

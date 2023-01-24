@@ -1,0 +1,104 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sulawesi_Utara",
+	"scraped_at": "2023-01-24T06:15:21.860Z",
+	"provinsi": {
+		"id": 25,
+		"code": "71",
+		"name": "Sulawesi Utara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Coat_of_arms_of_North_Sulawesi.svg"
+	},
+	"data": {
+		"kabupaten": [
+			{
+				"id": 1,
+				"name": "Kabupaten Bolaang Mongondow",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lambang_Kabupaten_Bolaang_Mongondow.png",
+				"capital": "Lolak"
+			},
+			{
+				"id": 2,
+				"name": "Kabupaten Bolaang Mongondow Selatan",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo_Kab._Bolsel.jpg",
+				"capital": "Bolaang Uki"
+			},
+			{
+				"id": 3,
+				"name": "Kabupaten Bolaang Mongondow Timur",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_Kab._Boltim.jpg",
+				"capital": "Tutuyan"
+			},
+			{
+				"id": 4,
+				"name": "Kabupaten Bolaang Mongondow Utara",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lambang_Kabupaten_Bolaang_Mongondow_Utara.jpg",
+				"capital": "Boroko"
+			},
+			{
+				"id": 5,
+				"name": "Kabupaten Kepulauan Sangihe",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lambang_Kabupaten_Kepulauan_Sangihe.jpeg",
+				"capital": "Tahuna"
+			},
+			{
+				"id": 6,
+				"name": "Kabupaten Kepulauan Siau Tagulandang Biaro",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Kab._Sitaro.jpg",
+				"capital": "Ondong Siau"
+			},
+			{
+				"id": 7,
+				"name": "Kabupaten Kepulauan Talaud",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_Kabupaten_Kepulauan_Talaud.jpg",
+				"capital": "Melonguane"
+			},
+			{
+				"id": 8,
+				"name": "Kabupaten Minahasa",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Lambang_Kabupaten_Minahasa.jpeg",
+				"capital": "Tondano"
+			},
+			{
+				"id": 9,
+				"name": "Kabupaten Minahasa Selatan",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Lambang_Kabupaten_Minahasa_Selatan.png",
+				"capital": "Amurang"
+			},
+			{
+				"id": 10,
+				"name": "Kabupaten Minahasa Tenggara",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lambang_Kabupaten_Minahasa_Tenggara.jpg",
+				"capital": "Ratahan"
+			},
+			{
+				"id": 11,
+				"name": "Kabupaten Minahasa Utara",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Lambang_Kabupaten_Minahasa_Utara.png",
+				"capital": "Airmadidi"
+			},
+			{
+				"id": 12,
+				"name": "Kota Bitung",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/13/LOGO_KOTA_BITUNG_SULAWESI_UTARA.png",
+				"capital": "-"
+			},
+			{
+				"id": 13,
+				"name": "Kota Kotamobagu",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Lambang_Kota_Mobagu.jpg",
+				"capital": "-"
+			},
+			{
+				"id": 14,
+				"name": "Kota Manado",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Lambang_Kota_Manado.png",
+				"capital": "-"
+			},
+			{
+				"id": 15,
+				"name": "Kota Tomohon",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Lambang_Kota_Tomohon.png",
+				"capital": "-"
+			}
+		]
+	}
+}

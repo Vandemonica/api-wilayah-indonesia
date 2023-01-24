@@ -1,0 +1,45 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bangka",
+	"scraped_at": "2023-01-24T06:12:01.960Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Bangka",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lambang_Kabupaten_Bangka.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bakam"
+			},
+			{
+				"id": 2,
+				"name": "Belinyu"
+			},
+			{
+				"id": 3,
+				"name": "Mendo Barat"
+			},
+			{
+				"id": 4,
+				"name": "Merawang"
+			},
+			{
+				"id": 5,
+				"name": "Pemali"
+			},
+			{
+				"id": 6,
+				"name": "Puding Besar"
+			},
+			{
+				"id": 7,
+				"name": "Riau Silip"
+			},
+			{
+				"id": 8,
+				"name": "Sungai Liat"
+			}
+		]
+	}
+}

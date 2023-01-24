@@ -1,0 +1,41 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sekadau",
+	"scraped_at": "2023-01-24T06:14:37.636Z",
+	"kabupaten": {
+		"id": 11,
+		"name": "Kabupaten Sekadau",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lambang_Kabupaten_Sekadau.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Belitang Hilir"
+			},
+			{
+				"id": 2,
+				"name": "Belitang Hulu"
+			},
+			{
+				"id": 3,
+				"name": "Belitang"
+			},
+			{
+				"id": 4,
+				"name": "Nanga Mahap"
+			},
+			{
+				"id": 5,
+				"name": "Nanga Taman"
+			},
+			{
+				"id": 6,
+				"name": "Sekadau Hilir"
+			},
+			{
+				"id": 7,
+				"name": "Sekadau Hulu"
+			}
+		]
+	}
+}

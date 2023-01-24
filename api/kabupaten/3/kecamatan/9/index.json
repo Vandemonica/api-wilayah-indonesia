@@ -1,0 +1,45 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sijunjung",
+	"scraped_at": "2023-01-24T06:10:21.854Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kabupaten Sijunjung",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Coat_of_arms_of_Sijunjung_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "IV Nagari"
+			},
+			{
+				"id": 2,
+				"name": "Kamang Baru"
+			},
+			{
+				"id": 3,
+				"name": "Koto VII"
+			},
+			{
+				"id": 4,
+				"name": "Kupitan"
+			},
+			{
+				"id": 5,
+				"name": "Lubuk Tarok"
+			},
+			{
+				"id": 6,
+				"name": "Sijunjung"
+			},
+			{
+				"id": 7,
+				"name": "Sumpur Kudus"
+			},
+			{
+				"id": 8,
+				"name": "Tanjung Gadang"
+			}
+		]
+	}
+}

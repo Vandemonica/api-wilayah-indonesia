@@ -1,0 +1,89 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Poso",
+	"scraped_at": "2023-01-24T06:15:44.761Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kabupaten Poso",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lambang_Kabupaten_Poso.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Lage"
+			},
+			{
+				"id": 2,
+				"name": "Lore Barat"
+			},
+			{
+				"id": 3,
+				"name": "Lore Peore, Poso‎ (8 H"
+			},
+			{
+				"id": 4,
+				"name": "Lore Selatan"
+			},
+			{
+				"id": 5,
+				"name": "Lore Tengah"
+			},
+			{
+				"id": 6,
+				"name": "Lore Timur"
+			},
+			{
+				"id": 7,
+				"name": "Lore Utara"
+			},
+			{
+				"id": 8,
+				"name": "Pamona Barat"
+			},
+			{
+				"id": 9,
+				"name": "Pamona Puselemba"
+			},
+			{
+				"id": 10,
+				"name": "Pamona Selatan"
+			},
+			{
+				"id": 11,
+				"name": "Pamona Tenggara"
+			},
+			{
+				"id": 12,
+				"name": "Pamona Timur"
+			},
+			{
+				"id": 13,
+				"name": "Pamona Utara"
+			},
+			{
+				"id": 14,
+				"name": "Poso Kota Selatan"
+			},
+			{
+				"id": 15,
+				"name": "Poso Kota Utara"
+			},
+			{
+				"id": 16,
+				"name": "Poso Kota"
+			},
+			{
+				"id": 17,
+				"name": "Poso Pesisir Selatan"
+			},
+			{
+				"id": 18,
+				"name": "Poso Pesisir Utara"
+			},
+			{
+				"id": 19,
+				"name": "Poso Pesisir"
+			}
+		]
+	}
+}

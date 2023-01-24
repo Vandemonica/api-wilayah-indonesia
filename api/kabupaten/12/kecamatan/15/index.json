@@ -1,0 +1,133 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Subang",
+	"scraped_at": "2023-01-24T06:12:37.223Z",
+	"kabupaten": {
+		"id": 15,
+		"name": "Kabupaten Subang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Seal_of_Subang_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Binong"
+			},
+			{
+				"id": 2,
+				"name": "Blanakan"
+			},
+			{
+				"id": 3,
+				"name": "Ciasem"
+			},
+			{
+				"id": 4,
+				"name": "Ciater"
+			},
+			{
+				"id": 5,
+				"name": "Cibogo"
+			},
+			{
+				"id": 6,
+				"name": "Cijambe"
+			},
+			{
+				"id": 7,
+				"name": "Cikaum"
+			},
+			{
+				"id": 8,
+				"name": "Cipeundeuy"
+			},
+			{
+				"id": 9,
+				"name": "Cipunagara"
+			},
+			{
+				"id": 10,
+				"name": "Cisalak"
+			},
+			{
+				"id": 11,
+				"name": "Compreng"
+			},
+			{
+				"id": 12,
+				"name": "Dawuan"
+			},
+			{
+				"id": 13,
+				"name": "Jalancagak"
+			},
+			{
+				"id": 14,
+				"name": "Kalijati"
+			},
+			{
+				"id": 15,
+				"name": "Kasomalang"
+			},
+			{
+				"id": 16,
+				"name": "Legonkulon"
+			},
+			{
+				"id": 17,
+				"name": "Pabuaran"
+			},
+			{
+				"id": 18,
+				"name": "Pagaden Barat"
+			},
+			{
+				"id": 19,
+				"name": "Pagaden"
+			},
+			{
+				"id": 20,
+				"name": "Pamanukan"
+			},
+			{
+				"id": 21,
+				"name": "Patokbeusi"
+			},
+			{
+				"id": 22,
+				"name": "Purwadadi"
+			},
+			{
+				"id": 23,
+				"name": "Pusakajaya"
+			},
+			{
+				"id": 24,
+				"name": "Pusakanagara"
+			},
+			{
+				"id": 25,
+				"name": "Sagalaherang"
+			},
+			{
+				"id": 26,
+				"name": "Serangpanjang"
+			},
+			{
+				"id": 27,
+				"name": "Subang"
+			},
+			{
+				"id": 28,
+				"name": "Sukasari"
+			},
+			{
+				"id": 29,
+				"name": "Tambakdahan"
+			},
+			{
+				"id": 30,
+				"name": "Tanjungsiang"
+			}
+		]
+	}
+}

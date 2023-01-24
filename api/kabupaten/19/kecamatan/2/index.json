@@ -1,0 +1,61 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Belu",
+	"scraped_at": "2023-01-24T06:14:09.624Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Belu",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Lambang_Kabupaten_Belu.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Atambua Barat"
+			},
+			{
+				"id": 2,
+				"name": "Atambua Selatan"
+			},
+			{
+				"id": 3,
+				"name": "Kakuluk Mesak"
+			},
+			{
+				"id": 4,
+				"name": "Kota Atambua"
+			},
+			{
+				"id": 5,
+				"name": "Lamaknen Selatan"
+			},
+			{
+				"id": 6,
+				"name": "Lamaknen"
+			},
+			{
+				"id": 7,
+				"name": "Lasiolat"
+			},
+			{
+				"id": 8,
+				"name": "Nanaet Duabesi"
+			},
+			{
+				"id": 9,
+				"name": "Raihat"
+			},
+			{
+				"id": 10,
+				"name": "Raimanuk"
+			},
+			{
+				"id": 11,
+				"name": "Tasifeto Barat"
+			},
+			{
+				"id": 12,
+				"name": "Tasifeto Timur"
+			}
+		]
+	}
+}

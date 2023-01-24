@@ -1,0 +1,61 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pasaman",
+	"scraped_at": "2023-01-24T06:10:19.021Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Pasaman",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Wapen_Pasaman.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bonjol"
+			},
+			{
+				"id": 2,
+				"name": "Dua Koto"
+			},
+			{
+				"id": 3,
+				"name": "Lubuk Sikaping"
+			},
+			{
+				"id": 4,
+				"name": "Mapat Tunggul Selatan"
+			},
+			{
+				"id": 5,
+				"name": "Mapat Tunggul"
+			},
+			{
+				"id": 6,
+				"name": "Padang Gelugur"
+			},
+			{
+				"id": 7,
+				"name": "Panti"
+			},
+			{
+				"id": 8,
+				"name": "Rao Selatan"
+			},
+			{
+				"id": 9,
+				"name": "Rao Utara"
+			},
+			{
+				"id": 10,
+				"name": "Rao"
+			},
+			{
+				"id": 11,
+				"name": "Simpang Alahan Mati"
+			},
+			{
+				"id": 12,
+				"name": "Tigo Nagari"
+			}
+		]
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Boalemo",
+	"scraped_at": "2023-01-24T06:16:24.346Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Boalemo",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lambang_Kabupaten_Boalemo.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Botumoito"
+			},
+			{
+				"id": 2,
+				"name": "Dulupi"
+			},
+			{
+				"id": 3,
+				"name": "Mananggu"
+			},
+			{
+				"id": 4,
+				"name": "Paguyaman Pantai"
+			},
+			{
+				"id": 5,
+				"name": "Paguyaman"
+			},
+			{
+				"id": 6,
+				"name": "Tilamuta"
+			},
+			{
+				"id": 7,
+				"name": "Wonosari"
+			}
+		]
+	}
+}

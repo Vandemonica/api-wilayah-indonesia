@@ -1,0 +1,45 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Pematangsiantar",
+	"scraped_at": "2023-01-24T06:10:08.164Z",
+	"kabupaten": {
+		"id": 30,
+		"name": "Kota Pematangsiantar",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_kota_pematangsiantar.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Siantar Barat"
+			},
+			{
+				"id": 2,
+				"name": "Siantar Marihat"
+			},
+			{
+				"id": 3,
+				"name": "Siantar Marimbun"
+			},
+			{
+				"id": 4,
+				"name": "Siantar Martoba"
+			},
+			{
+				"id": 5,
+				"name": "Siantar Selatan"
+			},
+			{
+				"id": 6,
+				"name": "Siantar Sitalasari"
+			},
+			{
+				"id": 7,
+				"name": "Siantar Timur"
+			},
+			{
+				"id": 8,
+				"name": "Siantar Utara"
+			}
+		]
+	}
+}

@@ -1,0 +1,80 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Jambi",
+	"scraped_at": "2023-01-24T06:10:53.845Z",
+	"provinsi": {
+		"id": 5,
+		"code": "15",
+		"name": "Jambi",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Coat_of_arms_of_Jambi.svg"
+	},
+	"data": {
+		"kabupaten": [
+			{
+				"id": 1,
+				"name": "Kabupaten Batanghari",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lambang_Kabupaten_Batang_Hari.gif",
+				"capital": "Muara Bulian"
+			},
+			{
+				"id": 2,
+				"name": "Kabupaten Bungo",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lambang_Kabupaten_Bungo.png",
+				"capital": "Muara Bungo"
+			},
+			{
+				"id": 3,
+				"name": "Kabupaten Kerinci",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kab.Kerinci.svg",
+				"capital": "Siulak"
+			},
+			{
+				"id": 4,
+				"name": "Kabupaten Merangin",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lambang_Kabupaten_Merangin.png",
+				"capital": "Bangko"
+			},
+			{
+				"id": 5,
+				"name": "Kabupaten Muaro Jambi",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lambang_Kabupaten_Muaro_Jambi.png",
+				"capital": "Sengeti"
+			},
+			{
+				"id": 6,
+				"name": "Kabupaten Sarolangun",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Sarolangun.png",
+				"capital": "Sarolangun"
+			},
+			{
+				"id": 7,
+				"name": "Kabupaten Tanjung Jabung Barat",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Logo_Kabupaten_Tanjung_Jabung_Barat.jpg",
+				"capital": "Kuala Tungkal"
+			},
+			{
+				"id": 8,
+				"name": "Kabupaten Tanjung Jabung Timur",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_Tanjung_Jabung_Timur.jpg",
+				"capital": "Muara Sabak"
+			},
+			{
+				"id": 9,
+				"name": "Kabupaten Tebo",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Tebo.png",
+				"capital": "Muara Tebo"
+			},
+			{
+				"id": 10,
+				"name": "Kota Jambi",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Lambang_Kota_Jambi.png",
+				"capital": "-"
+			},
+			{
+				"id": 11,
+				"name": "Kota Sungai Penuh",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lambang_Kota_Sungai_Penuh.png",
+				"capital": "-"
+			}
+		]
+	}
+}

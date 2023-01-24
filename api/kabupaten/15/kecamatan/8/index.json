@@ -1,0 +1,97 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Jombang",
+	"scraped_at": "2023-01-24T06:13:20.250Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kabupaten Jombang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Seal_of_Jombang_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bandarkedungmulyo, Jombang‎ (11 H"
+			},
+			{
+				"id": 2,
+				"name": "Bareng"
+			},
+			{
+				"id": 3,
+				"name": "Diwek"
+			},
+			{
+				"id": 4,
+				"name": "Gudo"
+			},
+			{
+				"id": 5,
+				"name": "Jogoroto"
+			},
+			{
+				"id": 6,
+				"name": "Jombang, Jombang‎ (22 H"
+			},
+			{
+				"id": 7,
+				"name": "Kabuh"
+			},
+			{
+				"id": 8,
+				"name": "Kesamben"
+			},
+			{
+				"id": 9,
+				"name": "Kudu"
+			},
+			{
+				"id": 10,
+				"name": "Megaluh"
+			},
+			{
+				"id": 11,
+				"name": "Mojoagung"
+			},
+			{
+				"id": 12,
+				"name": "Mojowarno"
+			},
+			{
+				"id": 13,
+				"name": "Ngoro"
+			},
+			{
+				"id": 14,
+				"name": "Ngusikan"
+			},
+			{
+				"id": 15,
+				"name": "Perak"
+			},
+			{
+				"id": 16,
+				"name": "Peterongan, Jombang‎ (16 H"
+			},
+			{
+				"id": 17,
+				"name": "Plandaan"
+			},
+			{
+				"id": 18,
+				"name": "Ploso"
+			},
+			{
+				"id": 19,
+				"name": "Sumobito"
+			},
+			{
+				"id": 20,
+				"name": "Tembelang"
+			},
+			{
+				"id": 21,
+				"name": "Wonosalam"
+			}
+		]
+	}
+}

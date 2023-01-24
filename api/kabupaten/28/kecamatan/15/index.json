@@ -1,0 +1,45 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Wakatobi",
+	"scraped_at": "2023-01-24T06:16:21.314Z",
+	"kabupaten": {
+		"id": 15,
+		"name": "Kabupaten Wakatobi",
+		"emblem": "https://upload.wikimedia.org/wikipedia/id/0/0d/Logo_Kabupaten_Wakatobi_Sulawesi_Tenggara.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Binongko"
+			},
+			{
+				"id": 2,
+				"name": "Kaledupa Selatan"
+			},
+			{
+				"id": 3,
+				"name": "Kaledupa"
+			},
+			{
+				"id": 4,
+				"name": "Togo Binongko"
+			},
+			{
+				"id": 5,
+				"name": "Tomia Timur"
+			},
+			{
+				"id": 6,
+				"name": "Tomia"
+			},
+			{
+				"id": 7,
+				"name": "Wangi-Wangi Selatan"
+			},
+			{
+				"id": 8,
+				"name": "Wangi-Wangi"
+			}
+		]
+	}
+}

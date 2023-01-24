@@ -1,0 +1,25 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Bukittinggi",
+	"scraped_at": "2023-01-24T06:10:25.435Z",
+	"kabupaten": {
+		"id": 13,
+		"name": "Kota Bukittinggi",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_Kota_Bukittinggi.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Aur Birugo Tigo Baleh"
+			},
+			{
+				"id": 2,
+				"name": "Guguk Panjang"
+			},
+			{
+				"id": 3,
+				"name": "Mandiangin Koto Selayan"
+			}
+		]
+	}
+}

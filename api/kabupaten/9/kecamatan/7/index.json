@@ -1,0 +1,41 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Pangkalpinang",
+	"scraped_at": "2023-01-24T06:12:07.293Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kota Pangkalpinang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lambang_Kota_Pangkalpinang.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bukit Intan"
+			},
+			{
+				"id": 2,
+				"name": "Gabek"
+			},
+			{
+				"id": 3,
+				"name": "Gerunggang"
+			},
+			{
+				"id": 4,
+				"name": "Girimaya"
+			},
+			{
+				"id": 5,
+				"name": "Pangkal Balam"
+			},
+			{
+				"id": 6,
+				"name": "Rangkui"
+			},
+			{
+				"id": 7,
+				"name": "Taman Sari"
+			}
+		]
+	}
+}

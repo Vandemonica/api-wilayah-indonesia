@@ -1,0 +1,93 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tuban",
+	"scraped_at": "2023-01-24T06:13:33.810Z",
+	"kabupaten": {
+		"id": 28,
+		"name": "Kabupaten Tuban",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Coat_of_arms_of_Tuban_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bancar"
+			},
+			{
+				"id": 2,
+				"name": "Bangilan"
+			},
+			{
+				"id": 3,
+				"name": "Grabagan"
+			},
+			{
+				"id": 4,
+				"name": "Jatirogo"
+			},
+			{
+				"id": 5,
+				"name": "Jenu"
+			},
+			{
+				"id": 6,
+				"name": "Kenduruan"
+			},
+			{
+				"id": 7,
+				"name": "Kerek"
+			},
+			{
+				"id": 8,
+				"name": "Merakurak"
+			},
+			{
+				"id": 9,
+				"name": "Montong"
+			},
+			{
+				"id": 10,
+				"name": "Palang"
+			},
+			{
+				"id": 11,
+				"name": "Parengan"
+			},
+			{
+				"id": 12,
+				"name": "Plumpang"
+			},
+			{
+				"id": 13,
+				"name": "Rengel"
+			},
+			{
+				"id": 14,
+				"name": "Semanding"
+			},
+			{
+				"id": 15,
+				"name": "Senori"
+			},
+			{
+				"id": 16,
+				"name": "Singgahan"
+			},
+			{
+				"id": 17,
+				"name": "Soko"
+			},
+			{
+				"id": 18,
+				"name": "Tambakboyo"
+			},
+			{
+				"id": 19,
+				"name": "Tuban"
+			},
+			{
+				"id": 20,
+				"name": "Widang"
+			}
+		]
+	}
+}

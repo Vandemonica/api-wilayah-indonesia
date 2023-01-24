@@ -1,0 +1,61 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pinrang",
+	"scraped_at": "2023-01-24T06:15:59.337Z",
+	"kabupaten": {
+		"id": 14,
+		"name": "Kabupaten Pinrang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/86/Official_Logo_of_Pinrang_Regency.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Batulappa"
+			},
+			{
+				"id": 2,
+				"name": "Cempa"
+			},
+			{
+				"id": 3,
+				"name": "Duampanua"
+			},
+			{
+				"id": 4,
+				"name": "Lanrisang"
+			},
+			{
+				"id": 5,
+				"name": "Lembang"
+			},
+			{
+				"id": 6,
+				"name": "Mattiro Bulu"
+			},
+			{
+				"id": 7,
+				"name": "Mattiro Sompe"
+			},
+			{
+				"id": 8,
+				"name": "Paleteang"
+			},
+			{
+				"id": 9,
+				"name": "Patampanua"
+			},
+			{
+				"id": 10,
+				"name": "Suppa"
+			},
+			{
+				"id": 11,
+				"name": "Tiroang"
+			},
+			{
+				"id": 12,
+				"name": "Watang Sawitto"
+			}
+		]
+	}
+}

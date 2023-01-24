@@ -1,0 +1,57 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Muaro Jambi",
+	"scraped_at": "2023-01-24T06:11:01.238Z",
+	"kabupaten": {
+		"id": 5,
+		"name": "Kabupaten Muaro Jambi",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lambang_Kabupaten_Muaro_Jambi.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bahar Selatan"
+			},
+			{
+				"id": 2,
+				"name": "Bahar Utara"
+			},
+			{
+				"id": 3,
+				"name": "Jambi Luar Kota"
+			},
+			{
+				"id": 4,
+				"name": "Kumpeh Ulu"
+			},
+			{
+				"id": 5,
+				"name": "Kumpeh"
+			},
+			{
+				"id": 6,
+				"name": "Maro Sebo"
+			},
+			{
+				"id": 7,
+				"name": "Mestong"
+			},
+			{
+				"id": 8,
+				"name": "Sekernan"
+			},
+			{
+				"id": 9,
+				"name": "Sungai Bahar"
+			},
+			{
+				"id": 10,
+				"name": "Sungai Gelam"
+			},
+			{
+				"id": 11,
+				"name": "Taman Rajo"
+			}
+		]
+	}
+}

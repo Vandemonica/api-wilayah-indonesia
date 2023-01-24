@@ -1,0 +1,65 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pamekasan",
+	"scraped_at": "2023-01-24T06:13:27.586Z",
+	"kabupaten": {
+		"id": 19,
+		"name": "Kabupaten Pamekasan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Seal_of_Pamekasan_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Batumarmar"
+			},
+			{
+				"id": 2,
+				"name": "Galis"
+			},
+			{
+				"id": 3,
+				"name": "Kadur"
+			},
+			{
+				"id": 4,
+				"name": "Larangan"
+			},
+			{
+				"id": 5,
+				"name": "Pademawu"
+			},
+			{
+				"id": 6,
+				"name": "Pakong"
+			},
+			{
+				"id": 7,
+				"name": "Palenggaan"
+			},
+			{
+				"id": 8,
+				"name": "Pamekasan"
+			},
+			{
+				"id": 9,
+				"name": "Pasean"
+			},
+			{
+				"id": 10,
+				"name": "Pegantenan"
+			},
+			{
+				"id": 11,
+				"name": "Proppo"
+			},
+			{
+				"id": 12,
+				"name": "Tlanakan"
+			},
+			{
+				"id": 13,
+				"name": "Waru"
+			}
+		]
+	}
+}

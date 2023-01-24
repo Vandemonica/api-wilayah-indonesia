@@ -1,0 +1,29 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Penajam Paser Utara",
+	"scraped_at": "2023-01-24T06:15:14.877Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Penajam Paser Utara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Lambang_Kabupaten_Penajam_Paser_Utara.jpeg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Babulu"
+			},
+			{
+				"id": 2,
+				"name": "Penajam"
+			},
+			{
+				"id": 3,
+				"name": "Sepaku"
+			},
+			{
+				"id": 4,
+				"name": "Waru"
+			}
+		]
+	}
+}

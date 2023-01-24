@@ -1,0 +1,85 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Purbalingga",
+	"scraped_at": "2023-01-24T06:13:01.898Z",
+	"kabupaten": {
+		"id": 20,
+		"name": "Kabupaten Purbalingga",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Seal_of_Purbalingga_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bobotsari"
+			},
+			{
+				"id": 2,
+				"name": "Bojongsari"
+			},
+			{
+				"id": 3,
+				"name": "Bukateja"
+			},
+			{
+				"id": 4,
+				"name": "Kaligondang"
+			},
+			{
+				"id": 5,
+				"name": "Kalimanah"
+			},
+			{
+				"id": 6,
+				"name": "Karanganyar"
+			},
+			{
+				"id": 7,
+				"name": "Karangjambu"
+			},
+			{
+				"id": 8,
+				"name": "Karangmoncol"
+			},
+			{
+				"id": 9,
+				"name": "Karangreja"
+			},
+			{
+				"id": 10,
+				"name": "Kejobong"
+			},
+			{
+				"id": 11,
+				"name": "Kemangkon"
+			},
+			{
+				"id": 12,
+				"name": "Kertanegara"
+			},
+			{
+				"id": 13,
+				"name": "Kutasari"
+			},
+			{
+				"id": 14,
+				"name": "Mrebet"
+			},
+			{
+				"id": 15,
+				"name": "Padamara"
+			},
+			{
+				"id": 16,
+				"name": "Pengadegan"
+			},
+			{
+				"id": 17,
+				"name": "Purbalingga"
+			},
+			{
+				"id": 18,
+				"name": "Rembang"
+			}
+		]
+	}
+}

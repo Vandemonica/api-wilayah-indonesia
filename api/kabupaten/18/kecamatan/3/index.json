@@ -1,0 +1,53 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lombok Barat",
+	"scraped_at": "2023-01-24T06:13:59.573Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Lombok Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lambang_Kabupaten_Lombok_Barat.jpeg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Batu Layar"
+			},
+			{
+				"id": 2,
+				"name": "Gerung"
+			},
+			{
+				"id": 3,
+				"name": "Gunungsari"
+			},
+			{
+				"id": 4,
+				"name": "Kediri"
+			},
+			{
+				"id": 5,
+				"name": "Kuripan"
+			},
+			{
+				"id": 6,
+				"name": "Labuapi"
+			},
+			{
+				"id": 7,
+				"name": "Lembar"
+			},
+			{
+				"id": 8,
+				"name": "Lingsar"
+			},
+			{
+				"id": 9,
+				"name": "Narmada"
+			},
+			{
+				"id": 10,
+				"name": "Sekotong"
+			}
+		]
+	}
+}

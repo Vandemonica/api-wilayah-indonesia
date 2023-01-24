@@ -1,0 +1,61 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Manggarai",
+	"scraped_at": "2023-01-24T06:14:15.039Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kabupaten Manggarai",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lambang_Kabupaten_Manggarai.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Cibal Barat"
+			},
+			{
+				"id": 2,
+				"name": "Cibal"
+			},
+			{
+				"id": 3,
+				"name": "Langke Rembong"
+			},
+			{
+				"id": 4,
+				"name": "Lelak"
+			},
+			{
+				"id": 5,
+				"name": "Rahong Utara"
+			},
+			{
+				"id": 6,
+				"name": "Reok Barat"
+			},
+			{
+				"id": 7,
+				"name": "Reok"
+			},
+			{
+				"id": 8,
+				"name": "Ruteng"
+			},
+			{
+				"id": 9,
+				"name": "Satar Mese Barat"
+			},
+			{
+				"id": 10,
+				"name": "Satar Mese Utara"
+			},
+			{
+				"id": 11,
+				"name": "Satar Mese"
+			},
+			{
+				"id": 12,
+				"name": "Wae Rii"
+			}
+		]
+	}
+}

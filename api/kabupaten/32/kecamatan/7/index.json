@@ -1,0 +1,37 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pulau Morotai",
+	"scraped_at": "2023-01-24T06:16:55.619Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Pulau Morotai",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lambang_Kabupaten_Pulau_Morotai.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Morotai Jaya"
+			},
+			{
+				"id": 2,
+				"name": "Morotai Selatan"
+			},
+			{
+				"id": 3,
+				"name": "Morotai Selatan Barat"
+			},
+			{
+				"id": 4,
+				"name": "Morotai Timur"
+			},
+			{
+				"id": 5,
+				"name": "Morotai Utara"
+			},
+			{
+				"id": 6,
+				"name": "Pulau Rao"
+			}
+		]
+	}
+}

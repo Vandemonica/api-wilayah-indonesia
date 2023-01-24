@@ -1,0 +1,29 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bangli",
+	"scraped_at": "2023-01-24T06:13:51.274Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Bangli",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Lambang_Kab_Bangli.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bangli"
+			},
+			{
+				"id": 2,
+				"name": "Kintamani"
+			},
+			{
+				"id": 3,
+				"name": "Susut"
+			},
+			{
+				"id": 4,
+				"name": "Tembuku"
+			}
+		]
+	}
+}

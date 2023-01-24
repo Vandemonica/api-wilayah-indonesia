@@ -1,0 +1,45 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Labuhanbatu Utara",
+	"scraped_at": "2023-01-24T06:09:46.835Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kabupaten Labuhanbatu Utara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Lambang_Labuhanbatu_Utara.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Aek Kuo"
+			},
+			{
+				"id": 2,
+				"name": "Aek Natas"
+			},
+			{
+				"id": 3,
+				"name": "Kualuh Hilir"
+			},
+			{
+				"id": 4,
+				"name": "Kualuh Hulu"
+			},
+			{
+				"id": 5,
+				"name": "Kualuh Leidong"
+			},
+			{
+				"id": 6,
+				"name": "Kualuh Selatan"
+			},
+			{
+				"id": 7,
+				"name": "Marbau"
+			},
+			{
+				"id": 8,
+				"name": "Na IX-X"
+			}
+		]
+	}
+}

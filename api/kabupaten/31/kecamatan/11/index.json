@@ -1,0 +1,33 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tual",
+	"scraped_at": "2023-01-24T06:16:47.002Z",
+	"kabupaten": {
+		"id": 11,
+		"name": "Kota Tual",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_kota_tual.jpg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Kur Selatan"
+			},
+			{
+				"id": 2,
+				"name": "Pulau Dullah Selatan"
+			},
+			{
+				"id": 3,
+				"name": "Pulau Dullah Utara"
+			},
+			{
+				"id": 4,
+				"name": "Pulau-Pulau Kur"
+			},
+			{
+				"id": 5,
+				"name": "Tayando Tam"
+			}
+		]
+	}
+}

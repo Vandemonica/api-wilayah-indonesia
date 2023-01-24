@@ -1,0 +1,73 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Batang",
+	"scraped_at": "2023-01-24T06:12:49.410Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Batang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Seal_of_Batang_Regency.svg"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Bandar"
+			},
+			{
+				"id": 2,
+				"name": "Banyuputih"
+			},
+			{
+				"id": 3,
+				"name": "Batang"
+			},
+			{
+				"id": 4,
+				"name": "Bawang"
+			},
+			{
+				"id": 5,
+				"name": "Blado"
+			},
+			{
+				"id": 6,
+				"name": "Gringsing"
+			},
+			{
+				"id": 7,
+				"name": "Kandeman"
+			},
+			{
+				"id": 8,
+				"name": "Limpung"
+			},
+			{
+				"id": 9,
+				"name": "Pecalungan"
+			},
+			{
+				"id": 10,
+				"name": "Reban"
+			},
+			{
+				"id": 11,
+				"name": "Subah"
+			},
+			{
+				"id": 12,
+				"name": "Tersono"
+			},
+			{
+				"id": 13,
+				"name": "Tulis"
+			},
+			{
+				"id": 14,
+				"name": "Warungasem"
+			},
+			{
+				"id": 15,
+				"name": "Wonotunggal"
+			}
+		]
+	}
+}

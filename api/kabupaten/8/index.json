@@ -1,0 +1,104 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Lampung",
+	"scraped_at": "2023-01-24T06:11:42.599Z",
+	"provinsi": {
+		"id": 8,
+		"code": "18",
+		"name": "Lampung",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Coat_of_arms_of_Lampung.svg"
+	},
+	"data": {
+		"kabupaten": [
+			{
+				"id": 1,
+				"name": "Kabupaten Lampung Barat",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lambang_Kabupaten_Lampung_Barat.jpg",
+				"capital": "Liwa"
+			},
+			{
+				"id": 2,
+				"name": "Kabupaten Lampung Selatan",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_Lampung_Selatan_Baru.jpg",
+				"capital": "Kalianda"
+			},
+			{
+				"id": 3,
+				"name": "Kabupaten Lampung Tengah",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lambang_Kabupaten_Lampung_Tengah.png",
+				"capital": "Gunung Sugih"
+			},
+			{
+				"id": 4,
+				"name": "Kabupaten Lampung Timur",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lambang_Kabupaten_Lampung_Timur.png",
+				"capital": "Sukadana"
+			},
+			{
+				"id": 5,
+				"name": "Kabupaten Lampung Utara",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lambang_Kabupaten_Lampung_Utara.png",
+				"capital": "Kotabumi"
+			},
+			{
+				"id": 6,
+				"name": "Kabupaten Mesuji",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/LOGO_KABUPATEN_MESUJI.png",
+				"capital": "Wiralaga Mulya"
+			},
+			{
+				"id": 7,
+				"name": "Kabupaten Pesawaran",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lambang_Kabupaten_Pesawaran.png",
+				"capital": "Gedong Tataan"
+			},
+			{
+				"id": 8,
+				"name": "Kabupaten Pesisir Barat",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Lambang_Kabupaten_Pesisir_Barat.png",
+				"capital": "Krui"
+			},
+			{
+				"id": 9,
+				"name": "Kabupaten Pringsewu",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lambang_Kabupaten_Pringsewu.png",
+				"capital": "Pringsewu"
+			},
+			{
+				"id": 10,
+				"name": "Kabupaten Tanggamus",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lambang_Kabupaten_Tanggamus.png",
+				"capital": "Kota Agung"
+			},
+			{
+				"id": 11,
+				"name": "Kabupaten Tulang Bawang",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/LOGO_KABUPATEN_TULANG_BAWANG.png",
+				"capital": "Menggala"
+			},
+			{
+				"id": 12,
+				"name": "Kabupaten Tulang Bawang Barat",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lambang_Kabupaten_Tulang_Bawang_Barat.png",
+				"capital": "Panaragan Jaya"
+			},
+			{
+				"id": 13,
+				"name": "Kabupaten Way Kanan",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Lambang_Kabupaten_Way_Kanan.png",
+				"capital": "Blambangan Umpu"
+			},
+			{
+				"id": 14,
+				"name": "Kota Bandar Lampung",
+				"emblem": "https://upload.wikimedia.org/wikipedia/id/6/6a/LOGO_KOTA_BANDAR_LAMPUNG_BARU.png",
+				"capital": "-"
+			},
+			{
+				"id": 15,
+				"name": "Kota Metro",
+				"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/71/LOGO_KOTA_METRO.png",
+				"capital": "-"
+			}
+		]
+	}
+}

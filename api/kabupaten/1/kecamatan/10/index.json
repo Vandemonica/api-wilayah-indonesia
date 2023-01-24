@@ -1,0 +1,109 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Aceh Timur",
+	"scraped_at": "2023-01-24T06:09:22.781Z",
+	"kabupaten": {
+		"id": 10,
+		"name": "Kabupaten Aceh Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lambang_Kabupaten_Aceh_Timur.png"
+	},
+	"data": {
+		"kecamatan": [
+			{
+				"id": 1,
+				"name": "Banda Alam"
+			},
+			{
+				"id": 2,
+				"name": "Birem Bayeun"
+			},
+			{
+				"id": 3,
+				"name": "Darul Aman"
+			},
+			{
+				"id": 4,
+				"name": "Darul Falah"
+			},
+			{
+				"id": 5,
+				"name": "Darul Ihsan"
+			},
+			{
+				"id": 6,
+				"name": "Idi Rayeuk"
+			},
+			{
+				"id": 7,
+				"name": "Idi Timur"
+			},
+			{
+				"id": 8,
+				"name": "Idi Tunong"
+			},
+			{
+				"id": 9,
+				"name": "Indra Makmur"
+			},
+			{
+				"id": 10,
+				"name": "Julok"
+			},
+			{
+				"id": 11,
+				"name": "Madat"
+			},
+			{
+				"id": 12,
+				"name": "Nurussalam"
+			},
+			{
+				"id": 13,
+				"name": "Pante Bidari"
+			},
+			{
+				"id": 14,
+				"name": "Peudawa"
+			},
+			{
+				"id": 15,
+				"name": "Peunaron"
+			},
+			{
+				"id": 16,
+				"name": "Peureulak Barat"
+			},
+			{
+				"id": 17,
+				"name": "Peureulak Timur"
+			},
+			{
+				"id": 18,
+				"name": "Peureulak"
+			},
+			{
+				"id": 19,
+				"name": "Rantau Selamat"
+			},
+			{
+				"id": 20,
+				"name": "Ranto Peureulak"
+			},
+			{
+				"id": 21,
+				"name": "Serbajadi"
+			},
+			{
+				"id": 22,
+				"name": "Simpang Jernih"
+			},
+			{
+				"id": 23,
+				"name": "Simpang Ulim"
+			},
+			{
+				"id": 24,
+				"name": "Sungai Raya"
+			}
+		]
+	}
+}

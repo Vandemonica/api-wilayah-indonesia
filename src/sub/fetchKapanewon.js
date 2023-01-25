@@ -19,13 +19,11 @@ async function fetchKapanewon(page, region, provinceId, index) {
 
   const district = await page.evaluate(selector => {
     return [...document.querySelectorAll(selector)].filter(
-      i => i.innerText
+      i => i.innerText.trim()
     ).map((item, index) => {
-      const col = item.querySelector('td:nth-of-type(2)') ?? '';
-
       return {
         id: (index + 1),
-        hanacaraka: col.innerHTML
+        name: item.querySelector('td:nth-of-type(2)')?.innerText.split("\n")[0] || ""
       };
     }).filter(i => i);
   }, selector);

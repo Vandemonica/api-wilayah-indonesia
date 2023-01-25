@@ -51,11 +51,9 @@ const uniqueRegion = {
       const region = regions.data[i];
 
       if (uniqueRegion.kapanewon.includes(province.name)) {
-        // await fetchKapanewon(page, region, regions.provinsi.id, (i + 1));
-        console.log('A');
+        await fetchKapanewon(page, region, regions.provinsi.id, (i + 1));
       } else if (uniqueRegion.distrik.includes(province.name)) {
-        // await fetchDistrik(page, region, regions.provinsi.id, (i + 1));
-        console.log('B');
+        await fetchDistrik(page, region, regions.provinsi.id, (i + 1));
       } else {
         await fetchKecamatan(page, region, regions.provinsi.id, (i + 1));
       }

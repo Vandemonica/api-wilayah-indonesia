@@ -9,7 +9,7 @@ const fs = require('fs');
 
 async function fetchKabupaten(page, province) {
   const selector = 'table.wikitable:nth-of-type(1) tbody tr';
-  const url = 'https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_' +  province.name.replace(' ', '_');
+  const url = 'https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_' + province.name.replace(' ', '_');
   const dir = `./api/kabupaten/${province.id}`;
 
   await page.goto(url);
@@ -19,11 +19,17 @@ async function fetchKabupaten(page, province) {
     return [...document.querySelectorAll(selector)].filter(
       i => i.querySelector('td:nth-of-type(2)')
     ).map((rows, index) => {
+      let capitalSelector = 'td:nth-of-type(3):not([data-sort-value="-"])';
+
+      if (rows.querySelector('td:nth-of-type(3) span[lang="jv"]') != null) {
+        capitalSelector = 'td:nth-of-type(5):not([data-sort-value="-"])';
+      }
+
       return {
         id: (index + 1),
         name: rows.querySelector('td:nth-of-type(2)')?.innerText || '',
         emblem: rows.querySelector('td a > img')?.src.replace('thumb/', '').split('/').slice(0, -1).join('/') || '',
-        capital: rows.querySelector('td:nth-of-type(3):not([data-sort-value="-"])')?.innerText || ''
+        capital: rows.querySelector(capitalSelector)?.innerText || ''
       };
     }).filter(i => i.name);
   }, selector);

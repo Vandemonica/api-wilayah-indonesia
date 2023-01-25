@@ -8,7 +8,7 @@ const fs = require('fs');
 
 
 async function fetchKecamatan(page, region, provinceId, index) {
-  const url = 'https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_' +  region.name.replace(' ', '_');
+  const url = 'https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_' + region.name.replace(' ', '_');
   const selector = '.CategoryTreeItem';
 
   const dir = `./api/kabupaten/${provinceId}/kecamatan/${index}`;
@@ -19,7 +19,7 @@ async function fetchKecamatan(page, region, provinceId, index) {
 
   const district = await page.evaluate(selector => {
     return [...document.querySelectorAll(selector)].filter(
-      i => i.innerText
+      i => i.innerText.trim()
     ).map((item, index) => {
       let slices = item.innerText.split(',');
       slices.pop();

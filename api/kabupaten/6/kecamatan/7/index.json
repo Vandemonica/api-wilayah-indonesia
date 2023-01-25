@@ -1,0 +1,39 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Musi Rawas Utara",
+	"scraped_at": "2023-01-25T10:04:02.799Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Musi Rawas Utara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Musi_Rawas_Utara.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Karang Dapo"
+		},
+		{
+			"id": 2,
+			"name": "Karang Jaya"
+		},
+		{
+			"id": 3,
+			"name": "Nibung"
+		},
+		{
+			"id": 4,
+			"name": "Rawas Ilir"
+		},
+		{
+			"id": 5,
+			"name": "Rawas Ulu"
+		},
+		{
+			"id": 6,
+			"name": "Rupit"
+		},
+		{
+			"id": 7,
+			"name": "Ulu Rawas"
+		}
+	]
+}

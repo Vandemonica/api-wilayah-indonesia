@@ -1,0 +1,103 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bekasi",
+	"scraped_at": "2023-01-25T10:05:17.115Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Bekasi",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lambang_Kabupaten_Bekasi.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Babelan"
+		},
+		{
+			"id": 2,
+			"name": "Bojongmangu"
+		},
+		{
+			"id": 3,
+			"name": "Cabangbungin"
+		},
+		{
+			"id": 4,
+			"name": "Cibarusah"
+		},
+		{
+			"id": 5,
+			"name": "Cibitung"
+		},
+		{
+			"id": 6,
+			"name": "Cikarang Barat"
+		},
+		{
+			"id": 7,
+			"name": "Cikarang Pusat"
+		},
+		{
+			"id": 8,
+			"name": "Cikarang Selatan, Bekasi‎ (7 H"
+		},
+		{
+			"id": 9,
+			"name": "Cikarang Timur"
+		},
+		{
+			"id": 10,
+			"name": "Cikarang Utara"
+		},
+		{
+			"id": 11,
+			"name": "Karangbahagia"
+		},
+		{
+			"id": 12,
+			"name": "Kedungwaringin"
+		},
+		{
+			"id": 13,
+			"name": "Muaragembong"
+		},
+		{
+			"id": 14,
+			"name": "Pebayuran"
+		},
+		{
+			"id": 15,
+			"name": "Serang Baru"
+		},
+		{
+			"id": 16,
+			"name": "Setu"
+		},
+		{
+			"id": 17,
+			"name": "Sukakarya"
+		},
+		{
+			"id": 18,
+			"name": "Sukatani"
+		},
+		{
+			"id": 19,
+			"name": "Sukawangi"
+		},
+		{
+			"id": 20,
+			"name": "Tambelang"
+		},
+		{
+			"id": 21,
+			"name": "Tambun Selatan"
+		},
+		{
+			"id": 22,
+			"name": "Tambun Utara"
+		},
+		{
+			"id": 23,
+			"name": "Tarumajaya"
+		}
+	]
+}

@@ -1,0 +1,167 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Lanny Jaya",
+	"scraped_at": "2023-01-25T10:13:40.102Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Lanny Jaya",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lambang_Kabupaten_Lanny_Jaya%2C_Papua.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Tiom"
+		},
+		{
+			"id": 2,
+			"name": "Pirime"
+		},
+		{
+			"id": 3,
+			"name": "Makki"
+		},
+		{
+			"id": 4,
+			"name": "Gamelia"
+		},
+		{
+			"id": 5,
+			"name": "Dimba"
+		},
+		{
+			"id": 6,
+			"name": "Melagineri"
+		},
+		{
+			"id": 7,
+			"name": "Balingga"
+		},
+		{
+			"id": 8,
+			"name": "Tiomneri"
+		},
+		{
+			"id": 9,
+			"name": "Kuyawage"
+		},
+		{
+			"id": 10,
+			"name": "Poga"
+		},
+		{
+			"id": 11,
+			"name": "Niname"
+		},
+		{
+			"id": 12,
+			"name": "Nogi"
+		},
+		{
+			"id": 13,
+			"name": "Yiginua"
+		},
+		{
+			"id": 14,
+			"name": "Tiom Ollo"
+		},
+		{
+			"id": 15,
+			"name": "Yugungwi"
+		},
+		{
+			"id": 16,
+			"name": "Mokoni"
+		},
+		{
+			"id": 17,
+			"name": "Wereka"
+		},
+		{
+			"id": 18,
+			"name": "Milimbo"
+		},
+		{
+			"id": 19,
+			"name": "Wiringgambut"
+		},
+		{
+			"id": 20,
+			"name": "Gollo"
+		},
+		{
+			"id": 21,
+			"name": "Awina"
+		},
+		{
+			"id": 22,
+			"name": "Ayumnati"
+		},
+		{
+			"id": 23,
+			"name": "Wano Barat"
+		},
+		{
+			"id": 24,
+			"name": "Goa Balim"
+		},
+		{
+			"id": 25,
+			"name": "Bruwa"
+		},
+		{
+			"id": 26,
+			"name": "Balingga Barat"
+		},
+		{
+			"id": 27,
+			"name": "Gupura"
+		},
+		{
+			"id": 28,
+			"name": "Kolawa"
+		},
+		{
+			"id": 29,
+			"name": "Gelok Beam"
+		},
+		{
+			"id": 30,
+			"name": "Kuly Lanny"
+		},
+		{
+			"id": 31,
+			"name": "Lannyna"
+		},
+		{
+			"id": 32,
+			"name": "Karu"
+		},
+		{
+			"id": 33,
+			"name": "Yiluk"
+		},
+		{
+			"id": 34,
+			"name": "Guna"
+		},
+		{
+			"id": 35,
+			"name": "Kelulome"
+		},
+		{
+			"id": 36,
+			"name": "Nikogwe"
+		},
+		{
+			"id": 37,
+			"name": "Muara"
+		},
+		{
+			"id": 38,
+			"name": "Buguk Gona"
+		},
+		{
+			"id": 39,
+			"name": "Melagi"
+		}
+	]
+}

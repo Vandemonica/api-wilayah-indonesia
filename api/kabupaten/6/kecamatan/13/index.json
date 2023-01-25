@@ -1,0 +1,31 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Penukal Abab Lematang Ilir",
+	"scraped_at": "2023-01-25T10:04:10.173Z",
+	"kabupaten": {
+		"id": 13,
+		"name": "Kabupaten Penukal Abab Lematang Ilir",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_PALI.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Abab"
+		},
+		{
+			"id": 2,
+			"name": "Penukal Utara"
+		},
+		{
+			"id": 3,
+			"name": "Penukal"
+		},
+		{
+			"id": 4,
+			"name": "Talang Ubi"
+		},
+		{
+			"id": 5,
+			"name": "Tanah Abang"
+		}
+	]
+}

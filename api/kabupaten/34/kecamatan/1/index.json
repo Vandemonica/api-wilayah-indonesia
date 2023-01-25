@@ -1,0 +1,79 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Fakfak",
+	"scraped_at": "2023-01-25T10:13:12.374Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Fakfak",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lambang_Kabupaten_Fak-fak.gif"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Arguni"
+		},
+		{
+			"id": 2,
+			"name": "Bomberay"
+		},
+		{
+			"id": 3,
+			"name": "Fakfak"
+		},
+		{
+			"id": 4,
+			"name": "Fakfak Barat"
+		},
+		{
+			"id": 5,
+			"name": "Fakfak Tengah"
+		},
+		{
+			"id": 6,
+			"name": "Fakfak Timur"
+		},
+		{
+			"id": 7,
+			"name": "Fakfak Timur Tengah"
+		},
+		{
+			"id": 8,
+			"name": "Furwagi"
+		},
+		{
+			"id": 9,
+			"name": "Karas"
+		},
+		{
+			"id": 10,
+			"name": "Kayauni"
+		},
+		{
+			"id": 11,
+			"name": "Kokas"
+		},
+		{
+			"id": 12,
+			"name": "Kramongmongga"
+		},
+		{
+			"id": 13,
+			"name": "Mbahamdandara"
+		},
+		{
+			"id": 14,
+			"name": "Pariwari"
+		},
+		{
+			"id": 15,
+			"name": "Teluk Patipi"
+		},
+		{
+			"id": 16,
+			"name": "Tomage"
+		},
+		{
+			"id": 17,
+			"name": "Wartutin"
+		}
+	]
+}

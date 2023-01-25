@@ -1,0 +1,127 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Tambrauw",
+	"scraped_at": "2023-01-25T10:13:56.204Z",
+	"kabupaten": {
+		"id": 5,
+		"name": "Kabupaten Tambrauw",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Lambang_Kabupaten_Tambrauw%2C_Papua_Barat.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Abun"
+		},
+		{
+			"id": 2,
+			"name": "Amberbaken"
+		},
+		{
+			"id": 3,
+			"name": "Amberbaken Barat"
+		},
+		{
+			"id": 4,
+			"name": "Ases"
+		},
+		{
+			"id": 5,
+			"name": "Bamusbama"
+		},
+		{
+			"id": 6,
+			"name": "Bikar"
+		},
+		{
+			"id": 7,
+			"name": "Fef"
+		},
+		{
+			"id": 8,
+			"name": "Ireres"
+		},
+		{
+			"id": 9,
+			"name": "Kasi"
+		},
+		{
+			"id": 10,
+			"name": "Kebar"
+		},
+		{
+			"id": 11,
+			"name": "Kebar Selatan"
+		},
+		{
+			"id": 12,
+			"name": "Kebar Timur"
+		},
+		{
+			"id": 13,
+			"name": "Kwesefo"
+		},
+		{
+			"id": 14,
+			"name": "Kwoor"
+		},
+		{
+			"id": 15,
+			"name": "Manekar"
+		},
+		{
+			"id": 16,
+			"name": "Mawabuan"
+		},
+		{
+			"id": 17,
+			"name": "Miyah"
+		},
+		{
+			"id": 18,
+			"name": "Miyah Selatan"
+		},
+		{
+			"id": 19,
+			"name": "Mpur"
+		},
+		{
+			"id": 20,
+			"name": "Moraid"
+		},
+		{
+			"id": 21,
+			"name": "Mubrani"
+		},
+		{
+			"id": 22,
+			"name": "Sausapor"
+		},
+		{
+			"id": 23,
+			"name": "Selemkai"
+		},
+		{
+			"id": 24,
+			"name": "Senopi"
+		},
+		{
+			"id": 25,
+			"name": "Syujak"
+		},
+		{
+			"id": 26,
+			"name": "Tinggouw"
+		},
+		{
+			"id": 27,
+			"name": "Tobouw"
+		},
+		{
+			"id": 28,
+			"name": "Wilhem Roumbouts"
+		},
+		{
+			"id": 29,
+			"name": "Yembun"
+		}
+	]
+}

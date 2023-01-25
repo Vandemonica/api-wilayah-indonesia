@@ -1,0 +1,135 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bandung",
+	"scraped_at": "2023-01-25T10:05:15.383Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Bandung",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Lambang_Kabupaten_Bandung%2C_Jawa_Barat%2C_Indonesia.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Arjasari"
+		},
+		{
+			"id": 2,
+			"name": "Baleendah"
+		},
+		{
+			"id": 3,
+			"name": "Banjaran"
+		},
+		{
+			"id": 4,
+			"name": "Bojongsoang"
+		},
+		{
+			"id": 5,
+			"name": "Cangkuang"
+		},
+		{
+			"id": 6,
+			"name": "Cicalengka"
+		},
+		{
+			"id": 7,
+			"name": "Cikancung"
+		},
+		{
+			"id": 8,
+			"name": "Cilengkrang"
+		},
+		{
+			"id": 9,
+			"name": "Cileunyi"
+		},
+		{
+			"id": 10,
+			"name": "Cimaung"
+		},
+		{
+			"id": 11,
+			"name": "Cimenyan"
+		},
+		{
+			"id": 12,
+			"name": "Ciparay"
+		},
+		{
+			"id": 13,
+			"name": "Ciwidey"
+		},
+		{
+			"id": 14,
+			"name": "Dayeuhkolot"
+		},
+		{
+			"id": 15,
+			"name": "Ibun"
+		},
+		{
+			"id": 16,
+			"name": "Katapang"
+		},
+		{
+			"id": 17,
+			"name": "Kertasari"
+		},
+		{
+			"id": 18,
+			"name": "Kutawaringin, Bandung‎ (1 K"
+		},
+		{
+			"id": 19,
+			"name": "Majalaya"
+		},
+		{
+			"id": 20,
+			"name": "Margaasih"
+		},
+		{
+			"id": 21,
+			"name": "Margahayu"
+		},
+		{
+			"id": 22,
+			"name": "Nagreg"
+		},
+		{
+			"id": 23,
+			"name": "Pacet"
+		},
+		{
+			"id": 24,
+			"name": "Pameungpeuk"
+		},
+		{
+			"id": 25,
+			"name": "Pangalengan"
+		},
+		{
+			"id": 26,
+			"name": "Paseh"
+		},
+		{
+			"id": 27,
+			"name": "Pasirjambu"
+		},
+		{
+			"id": 28,
+			"name": "Rancabali"
+		},
+		{
+			"id": 29,
+			"name": "Rancaekek"
+		},
+		{
+			"id": 30,
+			"name": "Solokanjeruk"
+		},
+		{
+			"id": 31,
+			"name": "Soreang, Bandung‎ (1 K"
+		}
+	]
+}

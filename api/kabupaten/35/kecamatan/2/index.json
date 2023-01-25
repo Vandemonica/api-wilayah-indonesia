@@ -1,0 +1,91 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Boven Digoel",
+	"scraped_at": "2023-01-25T10:13:23.390Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Boven Digoel",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_BOVENDIGOEL.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Mandobo"
+		},
+		{
+			"id": 2,
+			"name": "Mindiptana"
+		},
+		{
+			"id": 3,
+			"name": "Waropko"
+		},
+		{
+			"id": 4,
+			"name": "Kouh"
+		},
+		{
+			"id": 5,
+			"name": "Jair"
+		},
+		{
+			"id": 6,
+			"name": "Bomakia"
+		},
+		{
+			"id": 7,
+			"name": "Kombut"
+		},
+		{
+			"id": 8,
+			"name": "Iniyandit"
+		},
+		{
+			"id": 9,
+			"name": "Arimop"
+		},
+		{
+			"id": 10,
+			"name": "Fofi"
+		},
+		{
+			"id": 11,
+			"name": "Ambatkwi"
+		},
+		{
+			"id": 12,
+			"name": "Manggelum"
+		},
+		{
+			"id": 13,
+			"name": "Firiwage"
+		},
+		{
+			"id": 14,
+			"name": "Yaniruma"
+		},
+		{
+			"id": 15,
+			"name": "Subur"
+		},
+		{
+			"id": 16,
+			"name": "Kombay"
+		},
+		{
+			"id": 17,
+			"name": "Ninati"
+		},
+		{
+			"id": 18,
+			"name": "Sesnuk"
+		},
+		{
+			"id": 19,
+			"name": "Ki"
+		},
+		{
+			"id": 20,
+			"name": "Kawagit"
+		}
+	]
+}

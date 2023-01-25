@@ -1,0 +1,19 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Padang Panjang",
+	"scraped_at": "2023-01-25T10:03:28.083Z",
+	"kabupaten": {
+		"id": 15,
+		"name": "Kota Padang Panjang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Logopadangpanjang.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Padang Panjang Barat"
+		},
+		{
+			"id": 2,
+			"name": "Padang Panjang Timur"
+		}
+	]
+}

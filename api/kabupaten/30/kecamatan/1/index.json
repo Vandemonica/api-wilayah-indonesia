@@ -1,0 +1,43 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Majene",
+	"scraped_at": "2023-01-25T10:12:30.852Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Majene",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Lambang_Kabupaten_Majene.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Banggae Timur"
+		},
+		{
+			"id": 2,
+			"name": "Banggae"
+		},
+		{
+			"id": 3,
+			"name": "Malunda"
+		},
+		{
+			"id": 4,
+			"name": "Pamboang"
+		},
+		{
+			"id": 5,
+			"name": "Sendana"
+		},
+		{
+			"id": 6,
+			"name": "Tammerodo Sendana"
+		},
+		{
+			"id": 7,
+			"name": "Tubo Sendana"
+		},
+		{
+			"id": 8,
+			"name": "Ulumanda"
+		}
+	]
+}

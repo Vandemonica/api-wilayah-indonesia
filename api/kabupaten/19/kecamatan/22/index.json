@@ -1,0 +1,35 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Kupang",
+	"scraped_at": "2023-01-25T10:09:24.511Z",
+	"kabupaten": {
+		"id": 22,
+		"name": "Kota Kupang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/LOGO_KOTA_KUPANG.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Alak"
+		},
+		{
+			"id": 2,
+			"name": "Kelapa Lima"
+		},
+		{
+			"id": 3,
+			"name": "Kota Lama"
+		},
+		{
+			"id": 4,
+			"name": "Kota Raja"
+		},
+		{
+			"id": 5,
+			"name": "Maulafa"
+		},
+		{
+			"id": 6,
+			"name": "Oebobo"
+		}
+	]
+}

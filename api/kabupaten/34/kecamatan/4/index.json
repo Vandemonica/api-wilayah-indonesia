@@ -1,0 +1,35 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Manokwari Selatan",
+	"scraped_at": "2023-01-25T10:13:15.643Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Manokwari Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Logo_Kabupaten_Manokwari_Selatan.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Dataran Isim"
+		},
+		{
+			"id": 2,
+			"name": "Momi Waren"
+		},
+		{
+			"id": 3,
+			"name": "Neney"
+		},
+		{
+			"id": 4,
+			"name": "Oransbari"
+		},
+		{
+			"id": 5,
+			"name": "Ransiki"
+		},
+		{
+			"id": 6,
+			"name": "Tahota"
+		}
+	]
+}

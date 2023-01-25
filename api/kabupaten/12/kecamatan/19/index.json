@@ -1,0 +1,131 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Bandung",
+	"scraped_at": "2023-01-25T10:05:31.023Z",
+	"kabupaten": {
+		"id": 19,
+		"name": "Kota Bandung",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lambang_Kota_Bandung.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Andir"
+		},
+		{
+			"id": 2,
+			"name": "Antapani"
+		},
+		{
+			"id": 3,
+			"name": "Arcamanik"
+		},
+		{
+			"id": 4,
+			"name": "Astanaanyar"
+		},
+		{
+			"id": 5,
+			"name": "Babakan Ciparay"
+		},
+		{
+			"id": 6,
+			"name": "Bandung Kidul"
+		},
+		{
+			"id": 7,
+			"name": "Bandung Kulon"
+		},
+		{
+			"id": 8,
+			"name": "Bandung Wetan"
+		},
+		{
+			"id": 9,
+			"name": "Batununggal"
+		},
+		{
+			"id": 10,
+			"name": "Bojongloa Kaler"
+		},
+		{
+			"id": 11,
+			"name": "Bojongloa Kidul"
+		},
+		{
+			"id": 12,
+			"name": "Buahbatu"
+		},
+		{
+			"id": 13,
+			"name": "Cibeunying Kaler"
+		},
+		{
+			"id": 14,
+			"name": "Cibeunying Kidul"
+		},
+		{
+			"id": 15,
+			"name": "Cibiru"
+		},
+		{
+			"id": 16,
+			"name": "Cicendo"
+		},
+		{
+			"id": 17,
+			"name": "Cidadap"
+		},
+		{
+			"id": 18,
+			"name": "Cinambo"
+		},
+		{
+			"id": 19,
+			"name": "Coblong, Bandung‎ (1 K"
+		},
+		{
+			"id": 20,
+			"name": "Gedebage"
+		},
+		{
+			"id": 21,
+			"name": "Kiaracondong"
+		},
+		{
+			"id": 22,
+			"name": "Lengkong"
+		},
+		{
+			"id": 23,
+			"name": "Mandalajati"
+		},
+		{
+			"id": 24,
+			"name": "Panyileukan"
+		},
+		{
+			"id": 25,
+			"name": "Rancasari"
+		},
+		{
+			"id": 26,
+			"name": "Regol"
+		},
+		{
+			"id": 27,
+			"name": "Sukajadi"
+		},
+		{
+			"id": 28,
+			"name": "Sukasari"
+		},
+		{
+			"id": 29,
+			"name": "Sumur Bandung"
+		},
+		{
+			"id": 30,
+			"name": "Ujungberung"
+		}
+	]
+}

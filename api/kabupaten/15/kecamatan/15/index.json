@@ -1,0 +1,83 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Mojokerto",
+	"scraped_at": "2023-01-25T10:07:32.103Z",
+	"kabupaten": {
+		"id": 15,
+		"name": "Kabupaten Mojokerto",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Seal_of_Mojokerto_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Bangsal"
+		},
+		{
+			"id": 2,
+			"name": "Dawarblandong"
+		},
+		{
+			"id": 3,
+			"name": "Dlanggu"
+		},
+		{
+			"id": 4,
+			"name": "Gedeg"
+		},
+		{
+			"id": 5,
+			"name": "Gondang"
+		},
+		{
+			"id": 6,
+			"name": "Jatirejo"
+		},
+		{
+			"id": 7,
+			"name": "Jetis"
+		},
+		{
+			"id": 8,
+			"name": "Kemlagi"
+		},
+		{
+			"id": 9,
+			"name": "Kutorejo"
+		},
+		{
+			"id": 10,
+			"name": "Mojoanyar"
+		},
+		{
+			"id": 11,
+			"name": "Mojosari"
+		},
+		{
+			"id": 12,
+			"name": "Ngoro"
+		},
+		{
+			"id": 13,
+			"name": "Pacet"
+		},
+		{
+			"id": 14,
+			"name": "Pungging"
+		},
+		{
+			"id": 15,
+			"name": "Puri"
+		},
+		{
+			"id": 16,
+			"name": "Sooko"
+		},
+		{
+			"id": 17,
+			"name": "Trawas"
+		},
+		{
+			"id": 18,
+			"name": "Trowulan"
+		}
+	]
+}

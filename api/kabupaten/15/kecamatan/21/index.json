@@ -1,0 +1,95 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Ponorogo",
+	"scraped_at": "2023-01-25T10:07:37.663Z",
+	"kabupaten": {
+		"id": 21,
+		"name": "Kabupaten Ponorogo",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Seal_of_Ponorogo_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Babadan"
+		},
+		{
+			"id": 2,
+			"name": "Badegan"
+		},
+		{
+			"id": 3,
+			"name": "Balong, Ponorogo‎ (22 H"
+		},
+		{
+			"id": 4,
+			"name": "Bungkal"
+		},
+		{
+			"id": 5,
+			"name": "Jambon"
+		},
+		{
+			"id": 6,
+			"name": "Jenangan"
+		},
+		{
+			"id": 7,
+			"name": "Jetis"
+		},
+		{
+			"id": 8,
+			"name": "Kauman"
+		},
+		{
+			"id": 9,
+			"name": "Mlarak"
+		},
+		{
+			"id": 10,
+			"name": "Ngebel"
+		},
+		{
+			"id": 11,
+			"name": "Ngrayun"
+		},
+		{
+			"id": 12,
+			"name": "Ponorogo"
+		},
+		{
+			"id": 13,
+			"name": "Pudak"
+		},
+		{
+			"id": 14,
+			"name": "Pulung"
+		},
+		{
+			"id": 15,
+			"name": "Sambit"
+		},
+		{
+			"id": 16,
+			"name": "Sampung"
+		},
+		{
+			"id": 17,
+			"name": "Sawoo"
+		},
+		{
+			"id": 18,
+			"name": "Siman"
+		},
+		{
+			"id": 19,
+			"name": "Slahung"
+		},
+		{
+			"id": 20,
+			"name": "Sooko"
+		},
+		{
+			"id": 21,
+			"name": "Sukorejo"
+		}
+	]
+}

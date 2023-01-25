@@ -1,0 +1,72 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Bengkulu",
+	"scraped_at": "2023-01-25T10:04:14.454Z",
+	"provinsi": {
+		"id": 7,
+		"code": "17",
+		"name": "Bengkulu",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Coat_of_arms_of_Bengkulu.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kabupaten Bengkulu Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bengkulu_Selatan.png",
+			"capital": "Kota Manna"
+		},
+		{
+			"id": 2,
+			"name": "Kabupaten Bengkulu Tengah",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Lambang_Kabupaten_Bengkulu_Tengah.png",
+			"capital": "Karang Tinggi"
+		},
+		{
+			"id": 3,
+			"name": "Kabupaten Bengkulu Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_Bengkulu_Utara.png",
+			"capital": "Kota Arga Makmur"
+		},
+		{
+			"id": 4,
+			"name": "Kabupaten Kaur",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kabupaten_Kaur.png",
+			"capital": "Kaur Selatan"
+		},
+		{
+			"id": 5,
+			"name": "Kabupaten Kepahiang",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_Kepahiang.jpg",
+			"capital": "Kepahiang"
+		},
+		{
+			"id": 6,
+			"name": "Kabupaten Lebong",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Lebong.png",
+			"capital": "Tubei"
+		},
+		{
+			"id": 7,
+			"name": "Kabupaten Mukomuko",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_Mukomuko.png",
+			"capital": "Kota Mukomuko"
+		},
+		{
+			"id": 8,
+			"name": "Kabupaten Rejang Lebong",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rejang_Lebong.png",
+			"capital": "Curup"
+		},
+		{
+			"id": 9,
+			"name": "Kabupaten Seluma",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Seluma.png",
+			"capital": "Pasar Tais"
+		},
+		{
+			"id": 10,
+			"name": "Kota Bengkulu",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kota_Bengkulu.png",
+			"capital": "-"
+		}
+	]
+}

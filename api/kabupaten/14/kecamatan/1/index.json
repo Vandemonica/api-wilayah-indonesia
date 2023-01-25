@@ -1,0 +1,79 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kapanewon,_kemantren,_kalurahan,_dan_kelurahan_di_Daerah_Istimewa_Yogyakarta",
+	"scraped_at": "2023-01-25T10:07:06.811Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Bantul",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Seal_of_Bantul_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Bambanglipuro"
+		},
+		{
+			"id": 2,
+			"name": "Banguntapan"
+		},
+		{
+			"id": 3,
+			"name": "Bantul"
+		},
+		{
+			"id": 4,
+			"name": "Dlingo"
+		},
+		{
+			"id": 5,
+			"name": "Imogiri"
+		},
+		{
+			"id": 6,
+			"name": "Jetis"
+		},
+		{
+			"id": 7,
+			"name": "Kasihan"
+		},
+		{
+			"id": 8,
+			"name": "Kretek"
+		},
+		{
+			"id": 9,
+			"name": "Pajangan"
+		},
+		{
+			"id": 10,
+			"name": "Pandak"
+		},
+		{
+			"id": 11,
+			"name": "Piyungan"
+		},
+		{
+			"id": 12,
+			"name": "Pleret"
+		},
+		{
+			"id": 13,
+			"name": "Pundong"
+		},
+		{
+			"id": 14,
+			"name": "Sanden"
+		},
+		{
+			"id": 15,
+			"name": "Sedayu"
+		},
+		{
+			"id": 16,
+			"name": "Sewon"
+		},
+		{
+			"id": 17,
+			"name": "Srandakan"
+		}
+	]
+}

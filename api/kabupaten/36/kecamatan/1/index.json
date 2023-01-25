@@ -1,0 +1,31 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Deiyai",
+	"scraped_at": "2023-01-25T10:13:27.719Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Deiyai",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Lambang_Kabupaten_Deiyai.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Tigi"
+		},
+		{
+			"id": 2,
+			"name": "Tigi Timur"
+		},
+		{
+			"id": 3,
+			"name": "Bowobado"
+		},
+		{
+			"id": 4,
+			"name": "Tigi Barat"
+		},
+		{
+			"id": 5,
+			"name": "Kapiraya"
+		}
+	]
+}

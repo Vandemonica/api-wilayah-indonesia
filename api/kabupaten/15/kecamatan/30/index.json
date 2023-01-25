@@ -1,0 +1,23 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Batu",
+	"scraped_at": "2023-01-25T10:07:50.765Z",
+	"kabupaten": {
+		"id": 30,
+		"name": "Kota Batu",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_Kota_Batu%2C_Jawa_Timur_%28Seal_of_Batu%2C_East_Java%29.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Batu"
+		},
+		{
+			"id": 2,
+			"name": "Bumiaji"
+		},
+		{
+			"id": 3,
+			"name": "Junrejo"
+		}
+	]
+}

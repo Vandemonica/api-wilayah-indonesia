@@ -1,0 +1,111 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Puncak",
+	"scraped_at": "2023-01-25T10:13:34.365Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Puncak",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lambang_Kabupaten_Puncak.webp"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Ilaga"
+		},
+		{
+			"id": 2,
+			"name": "Wangbe"
+		},
+		{
+			"id": 3,
+			"name": "Beoga"
+		},
+		{
+			"id": 4,
+			"name": "Doufo"
+		},
+		{
+			"id": 5,
+			"name": "Pogoma"
+		},
+		{
+			"id": 6,
+			"name": "Sinak"
+		},
+		{
+			"id": 7,
+			"name": "Agandugume"
+		},
+		{
+			"id": 8,
+			"name": "Gome"
+		},
+		{
+			"id": 9,
+			"name": "Dervos"
+		},
+		{
+			"id": 10,
+			"name": "Beoga Barat"
+		},
+		{
+			"id": 11,
+			"name": "Beoga Timur"
+		},
+		{
+			"id": 12,
+			"name": "Ogamanim"
+		},
+		{
+			"id": 13,
+			"name": "Kembru"
+		},
+		{
+			"id": 14,
+			"name": "Bina"
+		},
+		{
+			"id": 15,
+			"name": "Sinak Barat"
+		},
+		{
+			"id": 16,
+			"name": "Mage'abume"
+		},
+		{
+			"id": 17,
+			"name": "Yugumuak"
+		},
+		{
+			"id": 18,
+			"name": "Ilaga Utara"
+		},
+		{
+			"id": 19,
+			"name": "Mabugi"
+		},
+		{
+			"id": 20,
+			"name": "Omukia"
+		},
+		{
+			"id": 21,
+			"name": "Lambewi"
+		},
+		{
+			"id": 22,
+			"name": "Oneri"
+		},
+		{
+			"id": 23,
+			"name": "Amungkalpia"
+		},
+		{
+			"id": 24,
+			"name": "Gome Utara"
+		},
+		{
+			"id": 25,
+			"name": "Erelmakawia"
+		}
+	]
+}

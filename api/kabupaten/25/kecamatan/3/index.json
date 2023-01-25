@@ -1,0 +1,39 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bolaang Mongondow Timur",
+	"scraped_at": "2023-01-25T10:11:16.811Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Bolaang Mongondow Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_Kab._Boltim.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kotabunan"
+		},
+		{
+			"id": 2,
+			"name": "Modayag"
+		},
+		{
+			"id": 3,
+			"name": "Modayag Barat"
+		},
+		{
+			"id": 4,
+			"name": "Mooat"
+		},
+		{
+			"id": 5,
+			"name": "Motongkad"
+		},
+		{
+			"id": 6,
+			"name": "Nuangan"
+		},
+		{
+			"id": 7,
+			"name": "Tutuyan"
+		}
+	]
+}

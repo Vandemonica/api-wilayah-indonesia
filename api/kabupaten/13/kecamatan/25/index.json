@@ -1,0 +1,59 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sukoharjo",
+	"scraped_at": "2023-01-25T10:06:56.551Z",
+	"kabupaten": {
+		"id": 25,
+		"name": "Kabupaten Sukoharjo",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Seal_of_Sukoharjo_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Baki"
+		},
+		{
+			"id": 2,
+			"name": "Bendosari"
+		},
+		{
+			"id": 3,
+			"name": "Bulu"
+		},
+		{
+			"id": 4,
+			"name": "Gatak"
+		},
+		{
+			"id": 5,
+			"name": "Grogol"
+		},
+		{
+			"id": 6,
+			"name": "Kartasura, Sukoharjo‎ (1 K"
+		},
+		{
+			"id": 7,
+			"name": "Mojolaban"
+		},
+		{
+			"id": 8,
+			"name": "Nguter"
+		},
+		{
+			"id": 9,
+			"name": "Polokarto"
+		},
+		{
+			"id": 10,
+			"name": "Sukoharjo"
+		},
+		{
+			"id": 11,
+			"name": "Tawangsari"
+		},
+		{
+			"id": 12,
+			"name": "Weru"
+		}
+	]
+}

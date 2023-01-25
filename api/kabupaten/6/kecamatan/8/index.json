@@ -1,0 +1,75 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Ogan Ilir",
+	"scraped_at": "2023-01-25T10:04:04.265Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kabupaten Ogan Ilir",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Lambang_Kabupaten_Ogan_Ilir.gif"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Indralaya Selatan"
+		},
+		{
+			"id": 2,
+			"name": "Indralaya Utara"
+		},
+		{
+			"id": 3,
+			"name": "Indralaya"
+		},
+		{
+			"id": 4,
+			"name": "Kandis"
+		},
+		{
+			"id": 5,
+			"name": "Lubuk Keliat"
+		},
+		{
+			"id": 6,
+			"name": "Muara Kuang"
+		},
+		{
+			"id": 7,
+			"name": "Payaraman"
+		},
+		{
+			"id": 8,
+			"name": "Pemulutan Barat"
+		},
+		{
+			"id": 9,
+			"name": "Pemulutan Selatan"
+		},
+		{
+			"id": 10,
+			"name": "Pemulutan"
+		},
+		{
+			"id": 11,
+			"name": "Rambang Kuang"
+		},
+		{
+			"id": 12,
+			"name": "Rantau Alai"
+		},
+		{
+			"id": 13,
+			"name": "Rantau Panjang"
+		},
+		{
+			"id": 14,
+			"name": "Sungai Pinang"
+		},
+		{
+			"id": 15,
+			"name": "Tanjung Batu"
+		},
+		{
+			"id": 16,
+			"name": "Tanjung Raja"
+		}
+	]
+}

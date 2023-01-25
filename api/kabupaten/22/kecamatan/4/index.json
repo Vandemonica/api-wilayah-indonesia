@@ -1,0 +1,55 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Hulu Sungai Selatan",
+	"scraped_at": "2023-01-25T10:10:31.663Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Hulu Sungai Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lambang_Kabupaten_Hulu_Sungai_Selatan.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Angkinang"
+		},
+		{
+			"id": 2,
+			"name": "Daha Barat"
+		},
+		{
+			"id": 3,
+			"name": "Daha Selatan"
+		},
+		{
+			"id": 4,
+			"name": "Daha Utara"
+		},
+		{
+			"id": 5,
+			"name": "Kalumpang"
+		},
+		{
+			"id": 6,
+			"name": "Kandangan"
+		},
+		{
+			"id": 7,
+			"name": "Loksado"
+		},
+		{
+			"id": 8,
+			"name": "Padang Batung"
+		},
+		{
+			"id": 9,
+			"name": "Simpur"
+		},
+		{
+			"id": 10,
+			"name": "Sungai Raya"
+		},
+		{
+			"id": 11,
+			"name": "Telaga Langsat"
+		}
+	]
+}

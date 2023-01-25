@@ -1,0 +1,31 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Labuhanbatu Selatan",
+	"scraped_at": "2023-01-25T10:02:45.586Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kabupaten Labuhanbatu Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lambang_Kabupaten_Labuhanbatu_Selatan.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kampung Rakyat"
+		},
+		{
+			"id": 2,
+			"name": "Kotapinang"
+		},
+		{
+			"id": 3,
+			"name": "Silangkitang"
+		},
+		{
+			"id": 4,
+			"name": "Sungai Kanan"
+		},
+		{
+			"id": 5,
+			"name": "Torgamba"
+		}
+	]
+}

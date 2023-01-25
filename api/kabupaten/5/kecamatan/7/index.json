@@ -1,0 +1,63 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tanjung Jabung Barat",
+	"scraped_at": "2023-01-25T10:03:51.009Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Tanjung Jabung Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Logo_Kabupaten_Tanjung_Jabung_Barat.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Batang Asam"
+		},
+		{
+			"id": 2,
+			"name": "Betara"
+		},
+		{
+			"id": 3,
+			"name": "Bram Itam"
+		},
+		{
+			"id": 4,
+			"name": "Kuala Betara"
+		},
+		{
+			"id": 5,
+			"name": "Merlung"
+		},
+		{
+			"id": 6,
+			"name": "Muara Papalik"
+		},
+		{
+			"id": 7,
+			"name": "Pengabuan"
+		},
+		{
+			"id": 8,
+			"name": "Renah Mendaluh"
+		},
+		{
+			"id": 9,
+			"name": "Seberang Kota"
+		},
+		{
+			"id": 10,
+			"name": "Senyerang"
+		},
+		{
+			"id": 11,
+			"name": "Tebing Tinggi"
+		},
+		{
+			"id": 12,
+			"name": "Tungkal Ilir"
+		},
+		{
+			"id": 13,
+			"name": "Tungkal Ulu"
+		}
+	]
+}

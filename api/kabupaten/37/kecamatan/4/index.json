@@ -1,0 +1,139 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Nduga",
+	"scraped_at": "2023-01-25T10:13:42.823Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Nduga",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Lambang_Kabupaten_Nduga.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kenyam"
+		},
+		{
+			"id": 2,
+			"name": "Mapenduma"
+		},
+		{
+			"id": 3,
+			"name": "Yigi"
+		},
+		{
+			"id": 4,
+			"name": "Wosak"
+		},
+		{
+			"id": 5,
+			"name": "Geselma"
+		},
+		{
+			"id": 6,
+			"name": "Mugi"
+		},
+		{
+			"id": 7,
+			"name": "Mbuwa"
+		},
+		{
+			"id": 8,
+			"name": "Gearek"
+		},
+		{
+			"id": 9,
+			"name": "Koroptak"
+		},
+		{
+			"id": 10,
+			"name": "Kegayem"
+		},
+		{
+			"id": 11,
+			"name": "Paro"
+		},
+		{
+			"id": 12,
+			"name": "Mebarok"
+		},
+		{
+			"id": 13,
+			"name": "Yenggelo"
+		},
+		{
+			"id": 14,
+			"name": "Kilmid"
+		},
+		{
+			"id": 15,
+			"name": "Alama"
+		},
+		{
+			"id": 16,
+			"name": "Yal"
+		},
+		{
+			"id": 17,
+			"name": "Mam"
+		},
+		{
+			"id": 18,
+			"name": "Dal"
+		},
+		{
+			"id": 19,
+			"name": "Nirkuri"
+		},
+		{
+			"id": 20,
+			"name": "Inikgal"
+		},
+		{
+			"id": 21,
+			"name": "Iniye"
+		},
+		{
+			"id": 22,
+			"name": "Mbulmu Yalma"
+		},
+		{
+			"id": 23,
+			"name": "Mbua Tengah"
+		},
+		{
+			"id": 24,
+			"name": "Embetpen"
+		},
+		{
+			"id": 25,
+			"name": "Kora"
+		},
+		{
+			"id": 26,
+			"name": "Wusi"
+		},
+		{
+			"id": 27,
+			"name": "Pija"
+		},
+		{
+			"id": 28,
+			"name": "Moba"
+		},
+		{
+			"id": 29,
+			"name": "Wutpaga"
+		},
+		{
+			"id": 30,
+			"name": "Nenggeagin"
+		},
+		{
+			"id": 31,
+			"name": "Krepkuri"
+		},
+		{
+			"id": 32,
+			"name": "Pasir Putih"
+		}
+	]
+}

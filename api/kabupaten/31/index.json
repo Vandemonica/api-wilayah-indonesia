@@ -1,0 +1,78 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Maluku",
+	"scraped_at": "2023-01-25T10:12:36.530Z",
+	"provinsi": {
+		"id": 31,
+		"code": "81",
+		"name": "Maluku",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Coat_of_arms_of_Maluku.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kabupaten Buru",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lambang_Kabupaten_Buru.png",
+			"capital": "Namlea"
+		},
+		{
+			"id": 2,
+			"name": "Kabupaten Buru Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lambang_Kabupaten_Buru_Selatan.jpeg",
+			"capital": "Namrole"
+		},
+		{
+			"id": 3,
+			"name": "Kabupaten Kepulauan Aru",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lambang_Kabupaten_Kepulauan_Aru.jpg",
+			"capital": "Dobo"
+		},
+		{
+			"id": 4,
+			"name": "Kabupaten Kepulauan Tanimbar",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lambang_Kabupaten_Maluku_Tenggara_Barat.jpg",
+			"capital": "Saumlaki"
+		},
+		{
+			"id": 5,
+			"name": "Kabupaten Maluku Barat Daya",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lambang_Kabupaten_Maluku_Barat_Daya.png",
+			"capital": "Tiakur"
+		},
+		{
+			"id": 6,
+			"name": "Kabupaten Maluku Tengah",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lambang_Kabupaten_Maluku_Tengah.png",
+			"capital": "Masohi"
+		},
+		{
+			"id": 7,
+			"name": "Kabupaten Maluku Tenggara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lambang_Kabupaten_Maluku_Tenggara.gif",
+			"capital": "Langgur"
+		},
+		{
+			"id": 8,
+			"name": "Kabupaten Seram Bagian Barat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lambang_Kabupaten_Seram_Bagian_Barat.gif",
+			"capital": "Piru"
+		},
+		{
+			"id": 9,
+			"name": "Kabupaten Seram Bagian Timur",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Lambang_Kabupaten_Seram_Bagian_Timur.png",
+			"capital": "Bula"
+		},
+		{
+			"id": 10,
+			"name": "Kota Ambon",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lambang_Ambon.png",
+			"capital": "-"
+		},
+		{
+			"id": 11,
+			"name": "Kota Tual",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_kota_tual.jpg",
+			"capital": "-"
+		}
+	]
+}

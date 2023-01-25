@@ -1,0 +1,75 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kutai Barat",
+	"scraped_at": "2023-01-25T10:10:45.780Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Kutai Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lambang_Kab_Kutai_Barat.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Barong Tongkok"
+		},
+		{
+			"id": 2,
+			"name": "Bentian Besar"
+		},
+		{
+			"id": 3,
+			"name": "Bongan"
+		},
+		{
+			"id": 4,
+			"name": "Damai"
+		},
+		{
+			"id": 5,
+			"name": "Jempang"
+		},
+		{
+			"id": 6,
+			"name": "Linggang Bigung"
+		},
+		{
+			"id": 7,
+			"name": "Long Iram"
+		},
+		{
+			"id": 8,
+			"name": "Melak"
+		},
+		{
+			"id": 9,
+			"name": "Mook Manaar Bulatn"
+		},
+		{
+			"id": 10,
+			"name": "Muara Lawa"
+		},
+		{
+			"id": 11,
+			"name": "Muara Pahu"
+		},
+		{
+			"id": 12,
+			"name": "Nyuatan"
+		},
+		{
+			"id": 13,
+			"name": "Penyinggahan"
+		},
+		{
+			"id": 14,
+			"name": "Sekolaq Darat"
+		},
+		{
+			"id": 15,
+			"name": "Siluq Ngurai"
+		},
+		{
+			"id": 16,
+			"name": "Tering"
+		}
+	]
+}

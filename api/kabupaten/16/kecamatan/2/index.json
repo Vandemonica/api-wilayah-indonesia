@@ -1,0 +1,151 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pandeglang",
+	"scraped_at": "2023-01-25T10:08:05.931Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Pandeglang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Coat_of_arms_of_Pandeglang.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Angsana"
+		},
+		{
+			"id": 2,
+			"name": "Banjar"
+		},
+		{
+			"id": 3,
+			"name": "Bojong"
+		},
+		{
+			"id": 4,
+			"name": "Cadasari"
+		},
+		{
+			"id": 5,
+			"name": "Carita"
+		},
+		{
+			"id": 6,
+			"name": "Cibaliung"
+		},
+		{
+			"id": 7,
+			"name": "Cibitung"
+		},
+		{
+			"id": 8,
+			"name": "Cigeulis"
+		},
+		{
+			"id": 9,
+			"name": "Cikedal"
+		},
+		{
+			"id": 10,
+			"name": "Cikeusik"
+		},
+		{
+			"id": 11,
+			"name": "Cimanggu"
+		},
+		{
+			"id": 12,
+			"name": "Cimanuk"
+		},
+		{
+			"id": 13,
+			"name": "Cipeucang"
+		},
+		{
+			"id": 14,
+			"name": "Cisata"
+		},
+		{
+			"id": 15,
+			"name": "Jiput"
+		},
+		{
+			"id": 16,
+			"name": "Kaduhejo"
+		},
+		{
+			"id": 17,
+			"name": "Karang Tanjung"
+		},
+		{
+			"id": 18,
+			"name": "Koroncong"
+		},
+		{
+			"id": 19,
+			"name": "Labuan"
+		},
+		{
+			"id": 20,
+			"name": "Majasari"
+		},
+		{
+			"id": 21,
+			"name": "Mandalawangi"
+		},
+		{
+			"id": 22,
+			"name": "Mekarjaya"
+		},
+		{
+			"id": 23,
+			"name": "Menes"
+		},
+		{
+			"id": 24,
+			"name": "Munjul"
+		},
+		{
+			"id": 25,
+			"name": "Pagelaran"
+		},
+		{
+			"id": 26,
+			"name": "Pandeglang"
+		},
+		{
+			"id": 27,
+			"name": "Panimbang"
+		},
+		{
+			"id": 28,
+			"name": "Patia"
+		},
+		{
+			"id": 29,
+			"name": "Picung"
+		},
+		{
+			"id": 30,
+			"name": "Pulosari"
+		},
+		{
+			"id": 31,
+			"name": "Saketi"
+		},
+		{
+			"id": 32,
+			"name": "Sindangresmi"
+		},
+		{
+			"id": 33,
+			"name": "Sobang"
+		},
+		{
+			"id": 34,
+			"name": "Sukaresmi"
+		},
+		{
+			"id": 35,
+			"name": "Sumur"
+		}
+	]
+}

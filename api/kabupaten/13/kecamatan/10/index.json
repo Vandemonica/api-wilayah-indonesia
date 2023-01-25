@@ -1,0 +1,75 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Jepara",
+	"scraped_at": "2023-01-25T10:06:34.332Z",
+	"kabupaten": {
+		"id": 10,
+		"name": "Kabupaten Jepara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Seal_of_Jepara_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Bangsri"
+		},
+		{
+			"id": 2,
+			"name": "Batealit"
+		},
+		{
+			"id": 3,
+			"name": "Donorojo"
+		},
+		{
+			"id": 4,
+			"name": "Jepara, Jepara‎ (1 K"
+		},
+		{
+			"id": 5,
+			"name": "Kalinyamatan"
+		},
+		{
+			"id": 6,
+			"name": "Karimunjawa"
+		},
+		{
+			"id": 7,
+			"name": "Kedung"
+		},
+		{
+			"id": 8,
+			"name": "Keling"
+		},
+		{
+			"id": 9,
+			"name": "Kembang"
+		},
+		{
+			"id": 10,
+			"name": "Mayong"
+		},
+		{
+			"id": 11,
+			"name": "Mlonggo"
+		},
+		{
+			"id": 12,
+			"name": "Nalumsari"
+		},
+		{
+			"id": 13,
+			"name": "Pakis Aji"
+		},
+		{
+			"id": 14,
+			"name": "Pecangaan, Jepara‎ (1 K"
+		},
+		{
+			"id": 15,
+			"name": "Tahunan"
+		},
+		{
+			"id": 16,
+			"name": "Welahan"
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Padang",
+	"scraped_at": "2023-01-25T10:03:26.700Z",
+	"kabupaten": {
+		"id": 14,
+		"name": "Kota Padang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Logo_Padang.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Bungus Teluk Kabung"
+		},
+		{
+			"id": 2,
+			"name": "Koto Tangah"
+		},
+		{
+			"id": 3,
+			"name": "Kuranji"
+		},
+		{
+			"id": 4,
+			"name": "Lubuk Begalung"
+		},
+		{
+			"id": 5,
+			"name": "Lubuk Kilangan"
+		},
+		{
+			"id": 6,
+			"name": "Nanggalo"
+		},
+		{
+			"id": 7,
+			"name": "Padang Barat"
+		},
+		{
+			"id": 8,
+			"name": "Padang Selatan"
+		},
+		{
+			"id": 9,
+			"name": "Padang Timur"
+		},
+		{
+			"id": 10,
+			"name": "Padang Utara"
+		},
+		{
+			"id": 11,
+			"name": "Pauh"
+		}
+	]
+}

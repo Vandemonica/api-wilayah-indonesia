@@ -1,0 +1,103 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Parigi Moutong",
+	"scraped_at": "2023-01-25T10:11:37.756Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kabupaten Parigi Moutong",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lambang_Kabupaten_Parigi_Moutong.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Ampibabo"
+		},
+		{
+			"id": 2,
+			"name": "Balinggi"
+		},
+		{
+			"id": 3,
+			"name": "Bolano"
+		},
+		{
+			"id": 4,
+			"name": "Bolano Lambunu"
+		},
+		{
+			"id": 5,
+			"name": "Kasimbar"
+		},
+		{
+			"id": 6,
+			"name": "Mepanga"
+		},
+		{
+			"id": 7,
+			"name": "Moutong, Parigi Moutong‎ (13 H"
+		},
+		{
+			"id": 8,
+			"name": "Ongka Malino"
+		},
+		{
+			"id": 9,
+			"name": "Palasa"
+		},
+		{
+			"id": 10,
+			"name": "Parigi Barat"
+		},
+		{
+			"id": 11,
+			"name": "Parigi Selatan"
+		},
+		{
+			"id": 12,
+			"name": "Parigi Tengah"
+		},
+		{
+			"id": 13,
+			"name": "Parigi Utara"
+		},
+		{
+			"id": 14,
+			"name": "Parigi"
+		},
+		{
+			"id": 15,
+			"name": "Sausu"
+		},
+		{
+			"id": 16,
+			"name": "Sidoan"
+		},
+		{
+			"id": 17,
+			"name": "Siniu"
+		},
+		{
+			"id": 18,
+			"name": "Taopa"
+		},
+		{
+			"id": 19,
+			"name": "Tinombo Selatan"
+		},
+		{
+			"id": 20,
+			"name": "Tinombo"
+		},
+		{
+			"id": 21,
+			"name": "Tomini"
+		},
+		{
+			"id": 22,
+			"name": "Toribulu"
+		},
+		{
+			"id": 23,
+			"name": "Torue"
+		}
+	]
+}

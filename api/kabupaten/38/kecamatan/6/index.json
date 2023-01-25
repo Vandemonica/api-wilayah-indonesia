@@ -1,0 +1,51 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kota_Sorong",
+	"scraped_at": "2023-01-25T10:14:02.785Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kota Sorong",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Lambang_Kota_Sorong.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Klaurung"
+		},
+		{
+			"id": 2,
+			"name": "Maladum Mes"
+		},
+		{
+			"id": 3,
+			"name": "Malaimsimsa"
+		},
+		{
+			"id": 4,
+			"name": "Sorong"
+		},
+		{
+			"id": 5,
+			"name": "Sorong Barat"
+		},
+		{
+			"id": 6,
+			"name": "Sorong Kepulauan"
+		},
+		{
+			"id": 7,
+			"name": "Sorong Kota"
+		},
+		{
+			"id": 8,
+			"name": "Sorong Manoi"
+		},
+		{
+			"id": 9,
+			"name": "Sorong Timur"
+		},
+		{
+			"id": 10,
+			"name": "Sorong Utara"
+		}
+	]
+}

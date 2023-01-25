@@ -1,0 +1,119 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Ciamis",
+	"scraped_at": "2023-01-25T10:05:18.660Z",
+	"kabupaten": {
+		"id": 5,
+		"name": "Kabupaten Ciamis",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/86/LAMBANG_KABUPATEN_CIAMIS.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Banjaranyar"
+		},
+		{
+			"id": 2,
+			"name": "Banjarsari"
+		},
+		{
+			"id": 3,
+			"name": "Baregbeg"
+		},
+		{
+			"id": 4,
+			"name": "Ciamis"
+		},
+		{
+			"id": 5,
+			"name": "Cidolog"
+		},
+		{
+			"id": 6,
+			"name": "Cihaurbeuti"
+		},
+		{
+			"id": 7,
+			"name": "Cijeungjing"
+		},
+		{
+			"id": 8,
+			"name": "Cikoneng"
+		},
+		{
+			"id": 9,
+			"name": "Cimaragas"
+		},
+		{
+			"id": 10,
+			"name": "Cipaku"
+		},
+		{
+			"id": 11,
+			"name": "Cisaga"
+		},
+		{
+			"id": 12,
+			"name": "Jatinagara"
+		},
+		{
+			"id": 13,
+			"name": "Kawali"
+		},
+		{
+			"id": 14,
+			"name": "Lakbok"
+		},
+		{
+			"id": 15,
+			"name": "Lumbung"
+		},
+		{
+			"id": 16,
+			"name": "Pamarican"
+		},
+		{
+			"id": 17,
+			"name": "Panawangan"
+		},
+		{
+			"id": 18,
+			"name": "Panjalu"
+		},
+		{
+			"id": 19,
+			"name": "Panumbangan"
+		},
+		{
+			"id": 20,
+			"name": "Purwadadi"
+		},
+		{
+			"id": 21,
+			"name": "Rajadesa"
+		},
+		{
+			"id": 22,
+			"name": "Rancah"
+		},
+		{
+			"id": 23,
+			"name": "Sadananya"
+		},
+		{
+			"id": 24,
+			"name": "Sindangkasih"
+		},
+		{
+			"id": 25,
+			"name": "Sukadana"
+		},
+		{
+			"id": 26,
+			"name": "Sukamantri"
+		},
+		{
+			"id": 27,
+			"name": "Tambaksari"
+		}
+	]
+}

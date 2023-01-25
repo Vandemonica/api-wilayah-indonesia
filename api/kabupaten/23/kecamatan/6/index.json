@@ -1,0 +1,51 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Paser",
+	"scraped_at": "2023-01-25T10:10:52.795Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Paser",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lambang_Kabupaten_Paser.jpeg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Batu Engau"
+		},
+		{
+			"id": 2,
+			"name": "Batu Sopang"
+		},
+		{
+			"id": 3,
+			"name": "Kuaro"
+		},
+		{
+			"id": 4,
+			"name": "Long Ikis"
+		},
+		{
+			"id": 5,
+			"name": "Long Kali"
+		},
+		{
+			"id": 6,
+			"name": "Muara Komam"
+		},
+		{
+			"id": 7,
+			"name": "Muara Samu"
+		},
+		{
+			"id": 8,
+			"name": "Paser Belengkong"
+		},
+		{
+			"id": 9,
+			"name": "Tanah Grogot"
+		},
+		{
+			"id": 10,
+			"name": "Tanjung Harapan"
+		}
+	]
+}

@@ -1,0 +1,171 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Jayawijaya",
+	"scraped_at": "2023-01-25T10:13:38.218Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Jayawijaya",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Lambang_Kabupaten_Jayawijaya.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Wamena"
+		},
+		{
+			"id": 2,
+			"name": "Kurulu"
+		},
+		{
+			"id": 3,
+			"name": "Asologaima"
+		},
+		{
+			"id": 4,
+			"name": "Hubikosi"
+		},
+		{
+			"id": 5,
+			"name": "Bolakme"
+		},
+		{
+			"id": 6,
+			"name": "Walelagama"
+		},
+		{
+			"id": 7,
+			"name": "Musatfak"
+		},
+		{
+			"id": 8,
+			"name": "Wolo"
+		},
+		{
+			"id": 9,
+			"name": "Asolokobal"
+		},
+		{
+			"id": 10,
+			"name": "Pelebaga"
+		},
+		{
+			"id": 11,
+			"name": "Yalengga"
+		},
+		{
+			"id": 12,
+			"name": "Trikora"
+		},
+		{
+			"id": 13,
+			"name": "Napua"
+		},
+		{
+			"id": 14,
+			"name": "Walaik"
+		},
+		{
+			"id": 15,
+			"name": "Wouma"
+		},
+		{
+			"id": 16,
+			"name": "Hubukiak"
+		},
+		{
+			"id": 17,
+			"name": "Ibele"
+		},
+		{
+			"id": 18,
+			"name": "Taelarek"
+		},
+		{
+			"id": 19,
+			"name": "Itlay Hisage"
+		},
+		{
+			"id": 20,
+			"name": "Siepkosi"
+		},
+		{
+			"id": 21,
+			"name": "Usilimo"
+		},
+		{
+			"id": 22,
+			"name": "Wita Waya"
+		},
+		{
+			"id": 23,
+			"name": "Libarek"
+		},
+		{
+			"id": 24,
+			"name": "Wadangku"
+		},
+		{
+			"id": 25,
+			"name": "Pisugi"
+		},
+		{
+			"id": 26,
+			"name": "Koragi"
+		},
+		{
+			"id": 27,
+			"name": "Tagime"
+		},
+		{
+			"id": 28,
+			"name": "Molagalome"
+		},
+		{
+			"id": 29,
+			"name": "Tagineri"
+		},
+		{
+			"id": 30,
+			"name": "Silo Karno Doga"
+		},
+		{
+			"id": 31,
+			"name": "Piramid"
+		},
+		{
+			"id": 32,
+			"name": "Muliama"
+		},
+		{
+			"id": 33,
+			"name": "Bugi"
+		},
+		{
+			"id": 34,
+			"name": "Bpiri"
+		},
+		{
+			"id": 35,
+			"name": "Welesi"
+		},
+		{
+			"id": 36,
+			"name": "Asotipo"
+		},
+		{
+			"id": 37,
+			"name": "Maima"
+		},
+		{
+			"id": 38,
+			"name": "Popugoba"
+		},
+		{
+			"id": 39,
+			"name": "Wame"
+		},
+		{
+			"id": 40,
+			"name": "Wesaput"
+		}
+	]
+}

@@ -1,0 +1,147 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Pegunungan Bintang",
+	"scraped_at": "2023-01-25T10:13:44.327Z",
+	"kabupaten": {
+		"id": 5,
+		"name": "Kabupaten Pegunungan Bintang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Lambang_Kabupaten_Pegunungan_Bintang.webp"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Oksibil"
+		},
+		{
+			"id": 2,
+			"name": "Kiwirok"
+		},
+		{
+			"id": 3,
+			"name": "Okbibab"
+		},
+		{
+			"id": 4,
+			"name": "Iwur"
+		},
+		{
+			"id": 5,
+			"name": "Batom"
+		},
+		{
+			"id": 6,
+			"name": "Borme"
+		},
+		{
+			"id": 7,
+			"name": "Kiwirok Timur"
+		},
+		{
+			"id": 8,
+			"name": "Aboy"
+		},
+		{
+			"id": 9,
+			"name": "Pepera"
+		},
+		{
+			"id": 10,
+			"name": "Bime"
+		},
+		{
+			"id": 11,
+			"name": "Alemsom"
+		},
+		{
+			"id": 12,
+			"name": "Okbape"
+		},
+		{
+			"id": 13,
+			"name": "Kalomdol"
+		},
+		{
+			"id": 14,
+			"name": "Oksop"
+		},
+		{
+			"id": 15,
+			"name": "Serambakon"
+		},
+		{
+			"id": 16,
+			"name": "Ok Aom"
+		},
+		{
+			"id": 17,
+			"name": "Kawor"
+		},
+		{
+			"id": 18,
+			"name": "Awinbon"
+		},
+		{
+			"id": 19,
+			"name": "Tarup"
+		},
+		{
+			"id": 20,
+			"name": "Okhika"
+		},
+		{
+			"id": 21,
+			"name": "Oksamol"
+		},
+		{
+			"id": 22,
+			"name": "Oklip"
+		},
+		{
+			"id": 23,
+			"name": "Okbemtau"
+		},
+		{
+			"id": 24,
+			"name": "Oksebang"
+		},
+		{
+			"id": 25,
+			"name": "Okbab"
+		},
+		{
+			"id": 26,
+			"name": "Batani"
+		},
+		{
+			"id": 27,
+			"name": "Weime"
+		},
+		{
+			"id": 28,
+			"name": "Murkim"
+		},
+		{
+			"id": 29,
+			"name": "Mofinop"
+		},
+		{
+			"id": 30,
+			"name": "Jetfa"
+		},
+		{
+			"id": 31,
+			"name": "Teiraplu"
+		},
+		{
+			"id": 32,
+			"name": "Eipumek"
+		},
+		{
+			"id": 33,
+			"name": "Pamek"
+		},
+		{
+			"id": 34,
+			"name": "Nongme"
+		}
+	]
+}

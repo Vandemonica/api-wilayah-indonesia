@@ -1,0 +1,31 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Probolinggo",
+	"scraped_at": "2023-01-25T10:08:00.513Z",
+	"kabupaten": {
+		"id": 37,
+		"name": "Kota Probolinggo",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Coat_of_arms_of_the_City_of_Probolinggo.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kademangan"
+		},
+		{
+			"id": 2,
+			"name": "Kanigaran"
+		},
+		{
+			"id": 3,
+			"name": "Kedopok"
+		},
+		{
+			"id": 4,
+			"name": "Mayangan"
+		},
+		{
+			"id": 5,
+			"name": "Wonoasih"
+		}
+	]
+}

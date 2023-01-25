@@ -1,0 +1,55 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sumba Barat Daya",
+	"scraped_at": "2023-01-25T10:09:10.925Z",
+	"kabupaten": {
+		"id": 17,
+		"name": "Kabupaten Sumba Barat Daya",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Lambang_Kabupaten_Sumba_Barat_Daya.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kodi"
+		},
+		{
+			"id": 2,
+			"name": "Kodi Balaghar"
+		},
+		{
+			"id": 3,
+			"name": "Kodi Bangedo"
+		},
+		{
+			"id": 4,
+			"name": "Kodi Utara"
+		},
+		{
+			"id": 5,
+			"name": "Kota Tambolaka"
+		},
+		{
+			"id": 6,
+			"name": "Loura"
+		},
+		{
+			"id": 7,
+			"name": "Wewewa Barat"
+		},
+		{
+			"id": 8,
+			"name": "Wewewa Selatan"
+		},
+		{
+			"id": 9,
+			"name": "Wewewa Tengah"
+		},
+		{
+			"id": 10,
+			"name": "Wewewa Timur"
+		},
+		{
+			"id": 11,
+			"name": "Wewewa Utara"
+		}
+	]
+}

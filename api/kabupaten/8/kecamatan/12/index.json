@@ -1,0 +1,47 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tulang Bawang Barat",
+	"scraped_at": "2023-01-25T10:04:35.692Z",
+	"kabupaten": {
+		"id": 12,
+		"name": "Kabupaten Tulang Bawang Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lambang_Kabupaten_Tulang_Bawang_Barat.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Batu Putih"
+		},
+		{
+			"id": 2,
+			"name": "Gunung Agung"
+		},
+		{
+			"id": 3,
+			"name": "Gunung Terang"
+		},
+		{
+			"id": 4,
+			"name": "Lambu Kibang"
+		},
+		{
+			"id": 5,
+			"name": "Pagar Dewa"
+		},
+		{
+			"id": 6,
+			"name": "Tulang Bawang Tengah"
+		},
+		{
+			"id": 7,
+			"name": "Tulang Bawang Udik"
+		},
+		{
+			"id": 8,
+			"name": "Tumi Jajar"
+		},
+		{
+			"id": 9,
+			"name": "Way Kenanga"
+		}
+	]
+}

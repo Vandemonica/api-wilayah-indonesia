@@ -1,0 +1,67 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Teluk Wondama",
+	"scraped_at": "2023-01-25T10:13:19.986Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Teluk Wondama",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lambang_Kabupaten_Teluk_Wondama.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kuri Wamesa"
+		},
+		{
+			"id": 2,
+			"name": "Naikere"
+		},
+		{
+			"id": 3,
+			"name": "Nikiwar"
+		},
+		{
+			"id": 4,
+			"name": "Rasiey"
+		},
+		{
+			"id": 5,
+			"name": "Roon"
+		},
+		{
+			"id": 6,
+			"name": "Roswar"
+		},
+		{
+			"id": 7,
+			"name": "Rumberpon"
+		},
+		{
+			"id": 8,
+			"name": "Soug Jaya"
+		},
+		{
+			"id": 9,
+			"name": "Teluk Duairi"
+		},
+		{
+			"id": 10,
+			"name": "Wamesa"
+		},
+		{
+			"id": 11,
+			"name": "Wasior"
+		},
+		{
+			"id": 12,
+			"name": "Wasior I"
+		},
+		{
+			"id": 13,
+			"name": "Windesi"
+		},
+		{
+			"id": 14,
+			"name": "Wondiboy"
+		}
+	]
+}

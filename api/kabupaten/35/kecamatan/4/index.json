@@ -1,0 +1,91 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Merauke",
+	"scraped_at": "2023-01-25T10:13:25.858Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Merauke",
+		"emblem": "https://upload.wikimedia.org/wikipedia/id/2/2b/Lambang_Kabupaten_Merauke.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Merauke"
+		},
+		{
+			"id": 2,
+			"name": "Muting"
+		},
+		{
+			"id": 3,
+			"name": "Okaba"
+		},
+		{
+			"id": 4,
+			"name": "Kimaam"
+		},
+		{
+			"id": 5,
+			"name": "Semangga"
+		},
+		{
+			"id": 6,
+			"name": "Tanah Miring"
+		},
+		{
+			"id": 7,
+			"name": "Jagebob"
+		},
+		{
+			"id": 8,
+			"name": "Sota"
+		},
+		{
+			"id": 9,
+			"name": "Ulilin"
+		},
+		{
+			"id": 10,
+			"name": "Elikobal"
+		},
+		{
+			"id": 11,
+			"name": "Kurik"
+		},
+		{
+			"id": 12,
+			"name": "Naukenjerai"
+		},
+		{
+			"id": 13,
+			"name": "Animha"
+		},
+		{
+			"id": 14,
+			"name": "Malind"
+		},
+		{
+			"id": 15,
+			"name": "Tubang"
+		},
+		{
+			"id": 16,
+			"name": "Ngguti"
+		},
+		{
+			"id": 17,
+			"name": "Kaptel"
+		},
+		{
+			"id": 18,
+			"name": "Tabonji"
+		},
+		{
+			"id": 19,
+			"name": "Waan"
+		},
+		{
+			"id": 20,
+			"name": "Ilwayab"
+		}
+	]
+}

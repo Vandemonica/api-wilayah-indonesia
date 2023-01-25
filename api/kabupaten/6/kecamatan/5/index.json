@@ -1,0 +1,71 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Musi Banyuasin",
+	"scraped_at": "2023-01-25T10:04:00.964Z",
+	"kabupaten": {
+		"id": 5,
+		"name": "Kabupaten Musi Banyuasin",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lambang_Kabupaten_Musi_Banyuasin.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Babat Supat"
+		},
+		{
+			"id": 2,
+			"name": "Babat Toman"
+		},
+		{
+			"id": 3,
+			"name": "Batanghari Leko"
+		},
+		{
+			"id": 4,
+			"name": "Bayung Lencir"
+		},
+		{
+			"id": 5,
+			"name": "Jirak Jaya"
+		},
+		{
+			"id": 6,
+			"name": "Keluang"
+		},
+		{
+			"id": 7,
+			"name": "Lais"
+		},
+		{
+			"id": 8,
+			"name": "Lalan"
+		},
+		{
+			"id": 9,
+			"name": "Lawang Wetan"
+		},
+		{
+			"id": 10,
+			"name": "Plakat Tinggi"
+		},
+		{
+			"id": 11,
+			"name": "Sanga Desa"
+		},
+		{
+			"id": 12,
+			"name": "Sekayu, Musi Banyuasin‎ (3 H"
+		},
+		{
+			"id": 13,
+			"name": "Sungai Keruh"
+		},
+		{
+			"id": 14,
+			"name": "Sungai Lilin"
+		},
+		{
+			"id": 15,
+			"name": "Tungkal Jaya"
+		}
+	]
+}

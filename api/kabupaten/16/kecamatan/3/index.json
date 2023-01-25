@@ -1,0 +1,127 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Serang",
+	"scraped_at": "2023-01-25T10:08:06.831Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Serang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Seal_of_Serang_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Anyar"
+		},
+		{
+			"id": 2,
+			"name": "Bandung"
+		},
+		{
+			"id": 3,
+			"name": "Baros"
+		},
+		{
+			"id": 4,
+			"name": "Binuang"
+		},
+		{
+			"id": 5,
+			"name": "Bojonegara"
+		},
+		{
+			"id": 6,
+			"name": "Carenang"
+		},
+		{
+			"id": 7,
+			"name": "Cikande"
+		},
+		{
+			"id": 8,
+			"name": "Cikeusal"
+		},
+		{
+			"id": 9,
+			"name": "Cinangka"
+		},
+		{
+			"id": 10,
+			"name": "Ciomas"
+		},
+		{
+			"id": 11,
+			"name": "Ciruas"
+		},
+		{
+			"id": 12,
+			"name": "Gunungsari"
+		},
+		{
+			"id": 13,
+			"name": "Jawilan"
+		},
+		{
+			"id": 14,
+			"name": "Kibin"
+		},
+		{
+			"id": 15,
+			"name": "Kopo"
+		},
+		{
+			"id": 16,
+			"name": "Kragilan"
+		},
+		{
+			"id": 17,
+			"name": "Kramatwatu"
+		},
+		{
+			"id": 18,
+			"name": "Lebak Wangi"
+		},
+		{
+			"id": 19,
+			"name": "Mancak"
+		},
+		{
+			"id": 20,
+			"name": "Pabuaran"
+		},
+		{
+			"id": 21,
+			"name": "Padarincang"
+		},
+		{
+			"id": 22,
+			"name": "Pamarayan"
+		},
+		{
+			"id": 23,
+			"name": "Petir"
+		},
+		{
+			"id": 24,
+			"name": "Pontang"
+		},
+		{
+			"id": 25,
+			"name": "Pulo Ampel"
+		},
+		{
+			"id": 26,
+			"name": "Tanara"
+		},
+		{
+			"id": 27,
+			"name": "Tirtayasa"
+		},
+		{
+			"id": 28,
+			"name": "Tunjung Teja"
+		},
+		{
+			"id": 29,
+			"name": "Waringinkurung"
+		}
+	]
+}

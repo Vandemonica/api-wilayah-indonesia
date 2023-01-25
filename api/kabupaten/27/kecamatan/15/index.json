@@ -1,0 +1,55 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sidenreng Rappang",
+	"scraped_at": "2023-01-25T10:11:57.332Z",
+	"kabupaten": {
+		"id": 15,
+		"name": "Kabupaten Sidenreng Rappang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Official_Logo_of_Sidenreng_Rappang_Regency.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Baranti"
+		},
+		{
+			"id": 2,
+			"name": "Duapitue"
+		},
+		{
+			"id": 3,
+			"name": "Kulo"
+		},
+		{
+			"id": 4,
+			"name": "Maritengngae"
+		},
+		{
+			"id": 5,
+			"name": "Panca Lautang"
+		},
+		{
+			"id": 6,
+			"name": "Panca Rijang"
+		},
+		{
+			"id": 7,
+			"name": "Pitu Riase"
+		},
+		{
+			"id": 8,
+			"name": "Pitu Riawa"
+		},
+		{
+			"id": 9,
+			"name": "Tellu Limpoe"
+		},
+		{
+			"id": 10,
+			"name": "Watang Pulu"
+		},
+		{
+			"id": 11,
+			"name": "Watang Sidenreng"
+		}
+	]
+}

@@ -1,0 +1,115 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Puncak Jaya",
+	"scraped_at": "2023-01-25T10:13:35.882Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kabupaten Puncak Jaya",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lambang_Kabupaten_Puncak_Jaya.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Mulia"
+		},
+		{
+			"id": 2,
+			"name": "Ilu"
+		},
+		{
+			"id": 3,
+			"name": "Fawi"
+		},
+		{
+			"id": 4,
+			"name": "Mewoluk"
+		},
+		{
+			"id": 5,
+			"name": "Yamo"
+		},
+		{
+			"id": 6,
+			"name": "Nume"
+		},
+		{
+			"id": 7,
+			"name": "Torere"
+		},
+		{
+			"id": 8,
+			"name": "Tingginambut"
+		},
+		{
+			"id": 9,
+			"name": "Pagaleme"
+		},
+		{
+			"id": 10,
+			"name": "Gurage"
+		},
+		{
+			"id": 11,
+			"name": "Irimuli"
+		},
+		{
+			"id": 12,
+			"name": "Muara"
+		},
+		{
+			"id": 13,
+			"name": "Ilamburawi"
+		},
+		{
+			"id": 14,
+			"name": "Yambi"
+		},
+		{
+			"id": 15,
+			"name": "Lumo"
+		},
+		{
+			"id": 16,
+			"name": "Molanikime"
+		},
+		{
+			"id": 17,
+			"name": "Dokome"
+		},
+		{
+			"id": 18,
+			"name": "Kalome"
+		},
+		{
+			"id": 19,
+			"name": "Wanwi"
+		},
+		{
+			"id": 20,
+			"name": "Yamoneri"
+		},
+		{
+			"id": 21,
+			"name": "Waegi"
+		},
+		{
+			"id": 22,
+			"name": "Nioga"
+		},
+		{
+			"id": 23,
+			"name": "Gubume"
+		},
+		{
+			"id": 24,
+			"name": "Taganombak"
+		},
+		{
+			"id": 25,
+			"name": "Dagai"
+		},
+		{
+			"id": 26,
+			"name": "Kiyage"
+		}
+	]
+}

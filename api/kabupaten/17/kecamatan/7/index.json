@@ -1,0 +1,27 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Klungkung",
+	"scraped_at": "2023-01-25T10:08:19.783Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Klungkung",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Lambang_Kabupaten_Klungkung.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Banjarangkan"
+		},
+		{
+			"id": 2,
+			"name": "Dawan"
+		},
+		{
+			"id": 3,
+			"name": "Klungkung"
+		},
+		{
+			"id": 4,
+			"name": "Nusa Penida"
+		}
+	]
+}

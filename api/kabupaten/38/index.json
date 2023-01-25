@@ -1,0 +1,48 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Papua_Barat Daya",
+	"scraped_at": "2023-01-25T10:13:50.503Z",
+	"provinsi": {
+		"id": 38,
+		"code": "96",
+		"name": "Papua Barat Daya",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Coat_of_Arms_of_Southwest_Papua_Province_%28HD%29.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kabupaten Maybrat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Lambang_Kabupaten_Maybrat%2C_Papua_Barat.jpg",
+			"capital": "Kumurkek"
+		},
+		{
+			"id": 2,
+			"name": "Kabupaten Raja Ampat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Lambang_Kabupaten_Raja_Ampat%2C_Papua_Barat.gif",
+			"capital": "Waisai"
+		},
+		{
+			"id": 3,
+			"name": "Kabupaten Sorong",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lambang_Kabupaten_Sorong.jpg",
+			"capital": "Aimas"
+		},
+		{
+			"id": 4,
+			"name": "Kabupaten Sorong Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lambang_Kabupaten_Sorong_Selatan.png",
+			"capital": "Teminabuan"
+		},
+		{
+			"id": 5,
+			"name": "Kabupaten Tambrauw",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Lambang_Kabupaten_Tambrauw%2C_Papua_Barat.png",
+			"capital": "Fef"
+		},
+		{
+			"id": 6,
+			"name": "Kota Sorong",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Lambang_Kota_Sorong.jpg",
+			"capital": "-"
+		}
+	]
+}

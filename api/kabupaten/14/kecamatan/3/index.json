@@ -1,0 +1,71 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kapanewon,_kemantren,_kalurahan,_dan_kelurahan_di_Daerah_Istimewa_Yogyakarta",
+	"scraped_at": "2023-01-25T10:07:09.641Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Kulon Progo",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kulonprogo_Seal.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": ""
+		},
+		{
+			"id": 2,
+			"name": "Galur"
+		},
+		{
+			"id": 3,
+			"name": "Girimulyo"
+		},
+		{
+			"id": 4,
+			"name": "Kalibawang"
+		},
+		{
+			"id": 5,
+			"name": "Kokap"
+		},
+		{
+			"id": 6,
+			"name": "Lendah"
+		},
+		{
+			"id": 7,
+			"name": "Nanggulan"
+		},
+		{
+			"id": 8,
+			"name": "Panjatan"
+		},
+		{
+			"id": 9,
+			"name": "Pengasih"
+		},
+		{
+			"id": 10,
+			"name": "Samigaluh"
+		},
+		{
+			"id": 11,
+			"name": "Sentolo"
+		},
+		{
+			"id": 12,
+			"name": "Temon"
+		},
+		{
+			"id": 13,
+			"name": "Wates"
+		},
+		{
+			"id": 14,
+			"name": "Wates ꦮꦠꦼꦱ꧀"
+		},
+		{
+			"id": 15,
+			"name": ""
+		}
+	]
+}

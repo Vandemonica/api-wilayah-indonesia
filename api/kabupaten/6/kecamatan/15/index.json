@@ -1,0 +1,31 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Pagar Alam",
+	"scraped_at": "2023-01-25T10:04:11.668Z",
+	"kabupaten": {
+		"id": 15,
+		"name": "Kota Pagar Alam",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lambang_Kota_Pagar_Alam.gif"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Dempo Selatan"
+		},
+		{
+			"id": 2,
+			"name": "Dempo Tengah"
+		},
+		{
+			"id": 3,
+			"name": "Dempo Utara"
+		},
+		{
+			"id": 4,
+			"name": "Pagar Alam Selatan"
+		},
+		{
+			"id": 5,
+			"name": "Pagar Alam Utara"
+		}
+	]
+}

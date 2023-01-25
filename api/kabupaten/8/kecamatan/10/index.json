@@ -1,0 +1,91 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tanggamus",
+	"scraped_at": "2023-01-25T10:04:33.818Z",
+	"kabupaten": {
+		"id": 10,
+		"name": "Kabupaten Tanggamus",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lambang_Kabupaten_Tanggamus.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Air Naningan"
+		},
+		{
+			"id": 2,
+			"name": "Bandar Negeri Semuong"
+		},
+		{
+			"id": 3,
+			"name": "Bulok"
+		},
+		{
+			"id": 4,
+			"name": "Cukuh Balak"
+		},
+		{
+			"id": 5,
+			"name": "Gisting"
+		},
+		{
+			"id": 6,
+			"name": "Gunung Alip"
+		},
+		{
+			"id": 7,
+			"name": "Kelumbayan Barat"
+		},
+		{
+			"id": 8,
+			"name": "Kelumbayan"
+		},
+		{
+			"id": 9,
+			"name": "Kota Agung Barat"
+		},
+		{
+			"id": 10,
+			"name": "Kota Agung Timur"
+		},
+		{
+			"id": 11,
+			"name": "Kota Agung"
+		},
+		{
+			"id": 12,
+			"name": "Limau"
+		},
+		{
+			"id": 13,
+			"name": "Pematang Sawa"
+		},
+		{
+			"id": 14,
+			"name": "Pugung"
+		},
+		{
+			"id": 15,
+			"name": "Pulau Panggung"
+		},
+		{
+			"id": 16,
+			"name": "Semaka"
+		},
+		{
+			"id": 17,
+			"name": "Sumberejo"
+		},
+		{
+			"id": 18,
+			"name": "Talang Padang"
+		},
+		{
+			"id": 19,
+			"name": "Ulu Belu"
+		},
+		{
+			"id": 20,
+			"name": "Wonosobo"
+		}
+	]
+}

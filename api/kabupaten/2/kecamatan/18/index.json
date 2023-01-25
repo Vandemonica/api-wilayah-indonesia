@@ -1,0 +1,43 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pakpak Bharat",
+	"scraped_at": "2023-01-25T10:02:56.557Z",
+	"kabupaten": {
+		"id": 18,
+		"name": "Kabupaten Pakpak Bharat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lambang_Kabupaten_Pakpak_Bharat.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kerajaan"
+		},
+		{
+			"id": 2,
+			"name": "Pagindar"
+		},
+		{
+			"id": 3,
+			"name": "Pergetteng Getteng Sengkut"
+		},
+		{
+			"id": 4,
+			"name": "Salak"
+		},
+		{
+			"id": 5,
+			"name": "Siempat Rube"
+		},
+		{
+			"id": 6,
+			"name": "Sitellu Tali Urang Jehe"
+		},
+		{
+			"id": 7,
+			"name": "Sitellu Tali Urang Julu"
+		},
+		{
+			"id": 8,
+			"name": "Tinada"
+		}
+	]
+}

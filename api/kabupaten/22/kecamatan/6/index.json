@@ -1,0 +1,51 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Hulu Sungai Utara",
+	"scraped_at": "2023-01-25T10:10:33.497Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Hulu Sungai Utara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lambang_Kabupaten_Hulu_Sungai_Utara.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Amuntai Selatan"
+		},
+		{
+			"id": 2,
+			"name": "Amuntai Tengah"
+		},
+		{
+			"id": 3,
+			"name": "Amuntai Utara"
+		},
+		{
+			"id": 4,
+			"name": "Babirik"
+		},
+		{
+			"id": 5,
+			"name": "Banjang"
+		},
+		{
+			"id": 6,
+			"name": "Danau Panggang, Hulu Sungai Utara‎ (19 H"
+		},
+		{
+			"id": 7,
+			"name": "Haur Gading"
+		},
+		{
+			"id": 8,
+			"name": "Paminggir"
+		},
+		{
+			"id": 9,
+			"name": "Sungai Pandan"
+		},
+		{
+			"id": 10,
+			"name": "Sungai Tabukan"
+		}
+	]
+}

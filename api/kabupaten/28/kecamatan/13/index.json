@@ -1,0 +1,99 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Muna",
+	"scraped_at": "2023-01-25T10:12:19.587Z",
+	"kabupaten": {
+		"id": 13,
+		"name": "Kabupaten Muna",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lambang_Kabupaten_Muna_Revisi.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Batalaiworu"
+		},
+		{
+			"id": 2,
+			"name": "Batukara"
+		},
+		{
+			"id": 3,
+			"name": "Bone"
+		},
+		{
+			"id": 4,
+			"name": "Duruka"
+		},
+		{
+			"id": 5,
+			"name": "Kabangka"
+		},
+		{
+			"id": 6,
+			"name": "Kabawo"
+		},
+		{
+			"id": 7,
+			"name": "Katobu"
+		},
+		{
+			"id": 8,
+			"name": "Kontu Kowuna"
+		},
+		{
+			"id": 9,
+			"name": "Kontunaga"
+		},
+		{
+			"id": 10,
+			"name": "Lasalepa"
+		},
+		{
+			"id": 11,
+			"name": "Lohia"
+		},
+		{
+			"id": 12,
+			"name": "Maligano"
+		},
+		{
+			"id": 13,
+			"name": "Marobo"
+		},
+		{
+			"id": 14,
+			"name": "Napabalano"
+		},
+		{
+			"id": 15,
+			"name": "Parigi"
+		},
+		{
+			"id": 16,
+			"name": "Pasi Kolaga"
+		},
+		{
+			"id": 17,
+			"name": "Pasir Putih"
+		},
+		{
+			"id": 18,
+			"name": "Tongkuno"
+		},
+		{
+			"id": 19,
+			"name": "Tongkuno Selatan"
+		},
+		{
+			"id": 20,
+			"name": "Towea"
+		},
+		{
+			"id": 21,
+			"name": "Wakorumba Selatan"
+		},
+		{
+			"id": 22,
+			"name": "Watopute"
+		}
+	]
+}

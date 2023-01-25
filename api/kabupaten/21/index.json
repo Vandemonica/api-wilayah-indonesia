@@ -1,0 +1,96 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kalimantan_Tengah",
+	"scraped_at": "2023-01-25T10:09:49.093Z",
+	"provinsi": {
+		"id": 21,
+		"code": "62",
+		"name": "Kalimantan Tengah",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_arms_of_Central_Kalimantan.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kabupaten Barito Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Lambang_Kabupaten_Barito_Selatan.webp",
+			"capital": "Buntok"
+		},
+		{
+			"id": 2,
+			"name": "Kabupaten Barito Timur",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lambang_Kabupaten_Barito_Timur.tif",
+			"capital": "Tamiang Layang"
+		},
+		{
+			"id": 3,
+			"name": "Kabupaten Barito Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Lambang_Kabupaten_Barito_Utara.png",
+			"capital": "Muara Teweh"
+		},
+		{
+			"id": 4,
+			"name": "Kabupaten Gunung Mas",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lambang_Kabupaten_Gunung_Mas.tif",
+			"capital": "Kuala Kurun"
+		},
+		{
+			"id": 5,
+			"name": "Kabupaten Kapuas",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lambang_Kabupaten_Kapuas.png",
+			"capital": "Kuala Kapuas"
+		},
+		{
+			"id": 6,
+			"name": "Kabupaten Katingan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lambang_Kabupaten_Katingan.png",
+			"capital": "Kasongan"
+		},
+		{
+			"id": 7,
+			"name": "Kabupaten Kotawaringin Barat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Lambang_Kabupaten_Kotawaringin_Barat.png",
+			"capital": "Pangkalan Bun"
+		},
+		{
+			"id": 8,
+			"name": "Kabupaten Kotawaringin Timur",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lambang_Kabupaten_Kotawaringin_Timur.tif",
+			"capital": "Sampit"
+		},
+		{
+			"id": 9,
+			"name": "Kabupaten Lamandau",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Lambang_Kabupaten_Lamandau.jpeg",
+			"capital": "Nanga Bulik"
+		},
+		{
+			"id": 10,
+			"name": "Kabupaten Murung Raya",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lambang_Kabupaten_Murung_Raya.jpg",
+			"capital": "Puruk Cahu"
+		},
+		{
+			"id": 11,
+			"name": "Kabupaten Pulang Pisau",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lambang_Kabupaten_Pulang_Pisau.jpg",
+			"capital": "Pulang Pisau"
+		},
+		{
+			"id": 12,
+			"name": "Kabupaten Sukamara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Lambang_Kabupaten_Sukamara.png",
+			"capital": "Sukamara"
+		},
+		{
+			"id": 13,
+			"name": "Kabupaten Seruyan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lambang_Kabupaten_Seruyan.gif",
+			"capital": "Kuala Pembuang"
+		},
+		{
+			"id": 14,
+			"name": "Kota Palangka Raya",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lambang_Kota_Palangka_Raya.gif",
+			"capital": "-"
+		}
+	]
+}

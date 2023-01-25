@@ -1,0 +1,55 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Gayo Lues",
+	"scraped_at": "2023-01-25T10:02:14.543Z",
+	"kabupaten": {
+		"id": 14,
+		"name": "Kabupaten Gayo Lues",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Lambang_Gayo_Lues.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Blang Jerango"
+		},
+		{
+			"id": 2,
+			"name": "Blang Pegayon"
+		},
+		{
+			"id": 3,
+			"name": "Blangkejeren"
+		},
+		{
+			"id": 4,
+			"name": "Dabun Gelang"
+		},
+		{
+			"id": 5,
+			"name": "Kuta Panjang"
+		},
+		{
+			"id": 6,
+			"name": "Pantan Cuaca"
+		},
+		{
+			"id": 7,
+			"name": "Pining"
+		},
+		{
+			"id": 8,
+			"name": "Putri Betung"
+		},
+		{
+			"id": 9,
+			"name": "Rikit Gaib"
+		},
+		{
+			"id": 10,
+			"name": "Terangun"
+		},
+		{
+			"id": 11,
+			"name": "Tripe Jaya"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lombok Tengah",
+	"scraped_at": "2023-01-25T10:08:41.640Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Lombok Tengah",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lambang_Kabupaten_Lombok_Tengah.gif"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Batukliang Utara"
+		},
+		{
+			"id": 2,
+			"name": "Batukliang"
+		},
+		{
+			"id": 3,
+			"name": "Janapria"
+		},
+		{
+			"id": 4,
+			"name": "Jonggat"
+		},
+		{
+			"id": 5,
+			"name": "Kopang"
+		},
+		{
+			"id": 6,
+			"name": "Praya Barat"
+		},
+		{
+			"id": 7,
+			"name": "Praya Barat Daya"
+		},
+		{
+			"id": 8,
+			"name": "Praya Tengah"
+		},
+		{
+			"id": 9,
+			"name": "Praya Timur"
+		},
+		{
+			"id": 10,
+			"name": "Praya, Lombok Tengah‎ (17 H"
+		},
+		{
+			"id": 11,
+			"name": "Pringgarata"
+		},
+		{
+			"id": 12,
+			"name": "Pujut"
+		}
+	]
+}

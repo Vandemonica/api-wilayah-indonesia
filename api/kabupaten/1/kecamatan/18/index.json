@@ -1,0 +1,51 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Simeulue",
+	"scraped_at": "2023-01-25T10:02:20.102Z",
+	"kabupaten": {
+		"id": 18,
+		"name": "Kabupaten Simeulue",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/29/LOGO_KABUPATEN_SIMEULUE.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Alafan"
+		},
+		{
+			"id": 2,
+			"name": "Salang"
+		},
+		{
+			"id": 3,
+			"name": "Simeulue Barat"
+		},
+		{
+			"id": 4,
+			"name": "Simeulue Cut"
+		},
+		{
+			"id": 5,
+			"name": "Simeulue Tengah"
+		},
+		{
+			"id": 6,
+			"name": "Simeulue Timur"
+		},
+		{
+			"id": 7,
+			"name": "Teluk Dalam"
+		},
+		{
+			"id": 8,
+			"name": "Teupah Barat"
+		},
+		{
+			"id": 9,
+			"name": "Teupah Selatan"
+		},
+		{
+			"id": 10,
+			"name": "Teupah Tengah"
+		}
+	]
+}

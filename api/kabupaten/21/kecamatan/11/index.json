@@ -1,0 +1,43 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pulang Pisau",
+	"scraped_at": "2023-01-25T10:10:03.238Z",
+	"kabupaten": {
+		"id": 11,
+		"name": "Kabupaten Pulang Pisau",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lambang_Kabupaten_Pulang_Pisau.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Banama Tingang"
+		},
+		{
+			"id": 2,
+			"name": "Jabiren Raya"
+		},
+		{
+			"id": 3,
+			"name": "Kahayan Hilir"
+		},
+		{
+			"id": 4,
+			"name": "Kahayan Kuala"
+		},
+		{
+			"id": 5,
+			"name": "Kahayan Tengah"
+		},
+		{
+			"id": 6,
+			"name": "Maliku"
+		},
+		{
+			"id": 7,
+			"name": "Pandih Batu"
+		},
+		{
+			"id": 8,
+			"name": "Sebangau Kuala"
+		}
+	]
+}

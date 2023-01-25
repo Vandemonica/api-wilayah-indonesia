@@ -1,0 +1,71 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tapanuli Selatan",
+	"scraped_at": "2023-01-25T10:03:00.146Z",
+	"kabupaten": {
+		"id": 22,
+		"name": "Kabupaten Tapanuli Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lambang_Kabupaten_Tapanuli_Selatan.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Aek Bilah"
+		},
+		{
+			"id": 2,
+			"name": "Angkola Barat"
+		},
+		{
+			"id": 3,
+			"name": "Angkola Muara Tais"
+		},
+		{
+			"id": 4,
+			"name": "Angkola Sangkunur"
+		},
+		{
+			"id": 5,
+			"name": "Angkola Selatan"
+		},
+		{
+			"id": 6,
+			"name": "Angkola Timur"
+		},
+		{
+			"id": 7,
+			"name": "Arse"
+		},
+		{
+			"id": 8,
+			"name": "Batang Angkola"
+		},
+		{
+			"id": 9,
+			"name": "Batang Toru"
+		},
+		{
+			"id": 10,
+			"name": "Marancar"
+		},
+		{
+			"id": 11,
+			"name": "Muara Batang Toru"
+		},
+		{
+			"id": 12,
+			"name": "Saipar Dolok Hole"
+		},
+		{
+			"id": 13,
+			"name": "Sayur Matinggi"
+		},
+		{
+			"id": 14,
+			"name": "Sipirok"
+		},
+		{
+			"id": 15,
+			"name": "Tano Tombangan Angkola"
+		}
+	]
+}

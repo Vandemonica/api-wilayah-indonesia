@@ -1,0 +1,99 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Blitar",
+	"scraped_at": "2023-01-25T10:07:16.439Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Blitar",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Seal_of_Blitar_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Bakung"
+		},
+		{
+			"id": 2,
+			"name": "Binangun"
+		},
+		{
+			"id": 3,
+			"name": "Doko"
+		},
+		{
+			"id": 4,
+			"name": "Gandusari"
+		},
+		{
+			"id": 5,
+			"name": "Garum"
+		},
+		{
+			"id": 6,
+			"name": "Kademangan"
+		},
+		{
+			"id": 7,
+			"name": "Kanigoro"
+		},
+		{
+			"id": 8,
+			"name": "Kesamben"
+		},
+		{
+			"id": 9,
+			"name": "Nglegok"
+		},
+		{
+			"id": 10,
+			"name": "Panggungrejo"
+		},
+		{
+			"id": 11,
+			"name": "Ponggok"
+		},
+		{
+			"id": 12,
+			"name": "Sanankulon"
+		},
+		{
+			"id": 13,
+			"name": "Selopuro"
+		},
+		{
+			"id": 14,
+			"name": "Selorejo"
+		},
+		{
+			"id": 15,
+			"name": "Srengat"
+		},
+		{
+			"id": 16,
+			"name": "Sutojayan"
+		},
+		{
+			"id": 17,
+			"name": "Talun"
+		},
+		{
+			"id": 18,
+			"name": "Udanawu"
+		},
+		{
+			"id": 19,
+			"name": "Wates"
+		},
+		{
+			"id": 20,
+			"name": "Wlingi, Blitar‎ (2 K, 15 H"
+		},
+		{
+			"id": 21,
+			"name": "Wonodadi"
+		},
+		{
+			"id": 22,
+			"name": "Wonotirto"
+		}
+	]
+}

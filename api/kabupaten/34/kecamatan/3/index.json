@@ -1,0 +1,47 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Manokwari",
+	"scraped_at": "2023-01-25T10:13:14.384Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Manokwari",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lambang_Kabupaten_Manokwari.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Manokwari Barat"
+		},
+		{
+			"id": 2,
+			"name": "Manokwari Selatan"
+		},
+		{
+			"id": 3,
+			"name": "Manokwari Timur"
+		},
+		{
+			"id": 4,
+			"name": "Manokwari Utara"
+		},
+		{
+			"id": 5,
+			"name": "Masni"
+		},
+		{
+			"id": 6,
+			"name": "Prafi"
+		},
+		{
+			"id": 7,
+			"name": "Sidey"
+		},
+		{
+			"id": 8,
+			"name": "Tanah Rubuh"
+		},
+		{
+			"id": 9,
+			"name": "Warmare"
+		}
+	]
+}

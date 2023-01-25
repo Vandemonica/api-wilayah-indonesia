@@ -1,0 +1,75 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Agam",
+	"scraped_at": "2023-01-25T10:03:13.085Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Agam",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Agam_Regency.PNG"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Ampek Angkek"
+		},
+		{
+			"id": 2,
+			"name": "Ampek Nagari"
+		},
+		{
+			"id": 3,
+			"name": "Banuhampu"
+		},
+		{
+			"id": 4,
+			"name": "Baso"
+		},
+		{
+			"id": 5,
+			"name": "Candung"
+		},
+		{
+			"id": 6,
+			"name": "IV Koto"
+		},
+		{
+			"id": 7,
+			"name": "Kamang Magek"
+		},
+		{
+			"id": 8,
+			"name": "Lubuk Basung"
+		},
+		{
+			"id": 9,
+			"name": "Malalak"
+		},
+		{
+			"id": 10,
+			"name": "Matur"
+		},
+		{
+			"id": 11,
+			"name": "Palembayan"
+		},
+		{
+			"id": 12,
+			"name": "Palupuh"
+		},
+		{
+			"id": 13,
+			"name": "Sungai Pua"
+		},
+		{
+			"id": 14,
+			"name": "Tanjung Mutiara"
+		},
+		{
+			"id": 15,
+			"name": "Tanjung Raya"
+		},
+		{
+			"id": 16,
+			"name": "Tilatang Kamang"
+		}
+	]
+}

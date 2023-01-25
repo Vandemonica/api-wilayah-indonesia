@@ -1,0 +1,119 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sumenep",
+	"scraped_at": "2023-01-25T10:07:46.225Z",
+	"kabupaten": {
+		"id": 26,
+		"name": "Kabupaten Sumenep",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Coat_of_arms_of_Sumenep_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Ambunten"
+		},
+		{
+			"id": 2,
+			"name": "Arjasa"
+		},
+		{
+			"id": 3,
+			"name": "Batang Batang"
+		},
+		{
+			"id": 4,
+			"name": "Batuan"
+		},
+		{
+			"id": 5,
+			"name": "Batuputih"
+		},
+		{
+			"id": 6,
+			"name": "Bluto"
+		},
+		{
+			"id": 7,
+			"name": "Dasuk"
+		},
+		{
+			"id": 8,
+			"name": "Dungkek"
+		},
+		{
+			"id": 9,
+			"name": "Ganding"
+		},
+		{
+			"id": 10,
+			"name": "Gapura"
+		},
+		{
+			"id": 11,
+			"name": "Gayam"
+		},
+		{
+			"id": 12,
+			"name": "Giligenting"
+		},
+		{
+			"id": 13,
+			"name": "Guluk-Guluk"
+		},
+		{
+			"id": 14,
+			"name": "Kalianget"
+		},
+		{
+			"id": 15,
+			"name": "Kangayan"
+		},
+		{
+			"id": 16,
+			"name": "Kota Sumenep"
+		},
+		{
+			"id": 17,
+			"name": "Lenteng"
+		},
+		{
+			"id": 18,
+			"name": "Manding"
+		},
+		{
+			"id": 19,
+			"name": "Masalembu"
+		},
+		{
+			"id": 20,
+			"name": "Nonggunong"
+		},
+		{
+			"id": 21,
+			"name": "Pasongsongan"
+		},
+		{
+			"id": 22,
+			"name": "Pragaan"
+		},
+		{
+			"id": 23,
+			"name": "Raas"
+		},
+		{
+			"id": 24,
+			"name": "Rubaru"
+		},
+		{
+			"id": 25,
+			"name": "Sapeken"
+		},
+		{
+			"id": 26,
+			"name": "Saronggi"
+		},
+		{
+			"id": 27,
+			"name": "Talango"
+		}
+	]
+}

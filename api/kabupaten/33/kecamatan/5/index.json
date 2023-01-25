@@ -1,0 +1,43 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Mamberamo Raya",
+	"scraped_at": "2023-01-25T10:13:07.118Z",
+	"kabupaten": {
+		"id": 5,
+		"name": "Kabupaten Mamberamo Raya",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lambang_Kabupaten_Mamberamo_Raya%2C_Papua.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Mamberamo Tengah"
+		},
+		{
+			"id": 2,
+			"name": "Mamberamo Hulu"
+		},
+		{
+			"id": 3,
+			"name": "Rufaer"
+		},
+		{
+			"id": 4,
+			"name": "Mamberamo Tengah Timur"
+		},
+		{
+			"id": 5,
+			"name": "Mamberamo Hilir"
+		},
+		{
+			"id": 6,
+			"name": "Waropen Atas"
+		},
+		{
+			"id": 7,
+			"name": "Benuki"
+		},
+		{
+			"id": 8,
+			"name": "Sawai"
+		}
+	]
+}

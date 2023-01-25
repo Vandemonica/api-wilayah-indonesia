@@ -1,0 +1,87 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Biak Numfor",
+	"scraped_at": "2023-01-25T10:13:02.428Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Biak Numfor",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Lambang_Kabupaten_Biak_Numfor.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Biak Kota"
+		},
+		{
+			"id": 2,
+			"name": "Biak Utara"
+		},
+		{
+			"id": 3,
+			"name": "Biak Timur"
+		},
+		{
+			"id": 4,
+			"name": "Numfor Barat"
+		},
+		{
+			"id": 5,
+			"name": "Numfor Timur"
+		},
+		{
+			"id": 6,
+			"name": "Biak Barat"
+		},
+		{
+			"id": 7,
+			"name": "Warsa"
+		},
+		{
+			"id": 8,
+			"name": "Padaido"
+		},
+		{
+			"id": 9,
+			"name": "Yendidori"
+		},
+		{
+			"id": 10,
+			"name": "Samofa"
+		},
+		{
+			"id": 11,
+			"name": "Yawosi"
+		},
+		{
+			"id": 12,
+			"name": "Andey"
+		},
+		{
+			"id": 13,
+			"name": "Swandiwe"
+		},
+		{
+			"id": 14,
+			"name": "Bruyadori"
+		},
+		{
+			"id": 15,
+			"name": "Orkeri"
+		},
+		{
+			"id": 16,
+			"name": "Poiru"
+		},
+		{
+			"id": 17,
+			"name": "Aimando Padaido"
+		},
+		{
+			"id": 18,
+			"name": "Oridek"
+		},
+		{
+			"id": 19,
+			"name": "Bondifuar"
+		}
+	]
+}

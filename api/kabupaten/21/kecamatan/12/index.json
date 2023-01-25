@@ -1,0 +1,31 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sukamara",
+	"scraped_at": "2023-01-25T10:10:04.160Z",
+	"kabupaten": {
+		"id": 12,
+		"name": "Kabupaten Sukamara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Lambang_Kabupaten_Sukamara.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Balai Riam"
+		},
+		{
+			"id": 2,
+			"name": "Jelai"
+		},
+		{
+			"id": 3,
+			"name": "Pantai Lunci"
+		},
+		{
+			"id": 4,
+			"name": "Permata Kecubung"
+		},
+		{
+			"id": 5,
+			"name": "Sukamara"
+		}
+	]
+}

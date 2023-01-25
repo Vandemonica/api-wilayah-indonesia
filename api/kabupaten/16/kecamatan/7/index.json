@@ -1,0 +1,63 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tangerang",
+	"scraped_at": "2023-01-25T10:08:10.111Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kota Tangerang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Seal_of_the_City_of_Tangerang.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Batuceper"
+		},
+		{
+			"id": 2,
+			"name": "Benda"
+		},
+		{
+			"id": 3,
+			"name": "Cibodas"
+		},
+		{
+			"id": 4,
+			"name": "Ciledug, Tangerang‎ (9 H"
+		},
+		{
+			"id": 5,
+			"name": "Cipondoh, Tangerang‎ (12 H"
+		},
+		{
+			"id": 6,
+			"name": "Jatiuwung"
+		},
+		{
+			"id": 7,
+			"name": "Karang Tengah"
+		},
+		{
+			"id": 8,
+			"name": "Karawaci"
+		},
+		{
+			"id": 9,
+			"name": "Larangan"
+		},
+		{
+			"id": 10,
+			"name": "Neglasari"
+		},
+		{
+			"id": 11,
+			"name": "Periuk"
+		},
+		{
+			"id": 12,
+			"name": "Pinang"
+		},
+		{
+			"id": 13,
+			"name": "Tangerang"
+		}
+	]
+}

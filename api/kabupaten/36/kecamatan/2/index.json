@@ -1,0 +1,51 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Dogiyai",
+	"scraped_at": "2023-01-25T10:13:28.926Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Dogiyai",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Lambang_Kabupaten_Dogiyai.gif"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kamu"
+		},
+		{
+			"id": 2,
+			"name": "Mapia"
+		},
+		{
+			"id": 3,
+			"name": "Piyaiye"
+		},
+		{
+			"id": 4,
+			"name": "Kamu Utara"
+		},
+		{
+			"id": 5,
+			"name": "Sukikai Selatan"
+		},
+		{
+			"id": 6,
+			"name": "Mapia Barat"
+		},
+		{
+			"id": 7,
+			"name": "Kamu Selatan"
+		},
+		{
+			"id": 8,
+			"name": "Kamu Timur"
+		},
+		{
+			"id": 9,
+			"name": "Mapia Tengah"
+		},
+		{
+			"id": 10,
+			"name": "Dogiyai"
+		}
+	]
+}

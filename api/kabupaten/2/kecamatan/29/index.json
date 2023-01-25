@@ -1,0 +1,35 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Padang Sidempuan",
+	"scraped_at": "2023-01-25T10:03:07.487Z",
+	"kabupaten": {
+		"id": 29,
+		"name": "Kota Padang Sidempuan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lambang_Kota_Padang_Sidempuan.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Padangsidimpuan Angkola Julu"
+		},
+		{
+			"id": 2,
+			"name": "Padangsidimpuan Batunadua"
+		},
+		{
+			"id": 3,
+			"name": "Padangsidimpuan Hutaimbaru"
+		},
+		{
+			"id": 4,
+			"name": "Padangsidimpuan Selatan"
+		},
+		{
+			"id": 5,
+			"name": "Padangsidimpuan Tenggara"
+		},
+		{
+			"id": 6,
+			"name": "Padangsidimpuan Utara"
+		}
+	]
+}

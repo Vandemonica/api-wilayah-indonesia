@@ -1,0 +1,83 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kapanewon,_kemantren,_kalurahan,_dan_kelurahan_di_Daerah_Istimewa_Yogyakarta",
+	"scraped_at": "2023-01-25T10:07:08.803Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Gunungkidul",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Seal_of_Gunungkidul_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Gedangsari"
+		},
+		{
+			"id": 2,
+			"name": "Girisubo"
+		},
+		{
+			"id": 3,
+			"name": "Karangmojo"
+		},
+		{
+			"id": 4,
+			"name": "Ngawen"
+		},
+		{
+			"id": 5,
+			"name": "Nglipar"
+		},
+		{
+			"id": 6,
+			"name": "Paliyan"
+		},
+		{
+			"id": 7,
+			"name": "Panggang"
+		},
+		{
+			"id": 8,
+			"name": "Patuk"
+		},
+		{
+			"id": 9,
+			"name": "Playen"
+		},
+		{
+			"id": 10,
+			"name": "Ponjong"
+		},
+		{
+			"id": 11,
+			"name": "Purwosari"
+		},
+		{
+			"id": 12,
+			"name": "Rongkop"
+		},
+		{
+			"id": 13,
+			"name": "Saptosari"
+		},
+		{
+			"id": 14,
+			"name": "Semanu"
+		},
+		{
+			"id": 15,
+			"name": "Semin"
+		},
+		{
+			"id": 16,
+			"name": "Tanjungsari"
+		},
+		{
+			"id": 17,
+			"name": "Tepus"
+		},
+		{
+			"id": 18,
+			"name": "Wonosari"
+		}
+	]
+}

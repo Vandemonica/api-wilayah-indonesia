@@ -1,0 +1,67 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kapanewon,_kemantren,_kalurahan,_dan_kelurahan_di_Daerah_Istimewa_Yogyakarta",
+	"scraped_at": "2023-01-25T10:07:12.452Z",
+	"kabupaten": {
+		"id": 5,
+		"name": "Kota Yogyakarta",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Seal_of_the_City_of_Yogyakarta.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Danurejan"
+		},
+		{
+			"id": 2,
+			"name": "Gedongtengen"
+		},
+		{
+			"id": 3,
+			"name": "Gondokusuman"
+		},
+		{
+			"id": 4,
+			"name": "Gondomanan"
+		},
+		{
+			"id": 5,
+			"name": "Jetis"
+		},
+		{
+			"id": 6,
+			"name": "Kotagede"
+		},
+		{
+			"id": 7,
+			"name": "Kraton"
+		},
+		{
+			"id": 8,
+			"name": "Mantrijeron"
+		},
+		{
+			"id": 9,
+			"name": "Mergangsan"
+		},
+		{
+			"id": 10,
+			"name": "Ngampilan"
+		},
+		{
+			"id": 11,
+			"name": "Pakualaman"
+		},
+		{
+			"id": 12,
+			"name": "Tegalrejo"
+		},
+		{
+			"id": 13,
+			"name": "Umbulharjo"
+		},
+		{
+			"id": 14,
+			"name": "Wirobrajan"
+		}
+	]
+}

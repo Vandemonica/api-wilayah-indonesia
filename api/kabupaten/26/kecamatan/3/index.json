@@ -1,0 +1,39 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Banggai Laut",
+	"scraped_at": "2023-01-25T10:11:32.866Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Banggai Laut",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lambang_Kabupaten_Banggai_Laut.tif"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Banggai Selatan"
+		},
+		{
+			"id": 2,
+			"name": "Banggai Tengah"
+		},
+		{
+			"id": 3,
+			"name": "Banggai Utara"
+		},
+		{
+			"id": 4,
+			"name": "Banggai"
+		},
+		{
+			"id": 5,
+			"name": "Bangkurung"
+		},
+		{
+			"id": 6,
+			"name": "Bokan Kepulauan"
+		},
+		{
+			"id": 7,
+			"name": "Labobo"
+		}
+	]
+}

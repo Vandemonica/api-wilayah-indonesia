@@ -1,0 +1,23 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Madiun",
+	"scraped_at": "2023-01-25T10:07:54.462Z",
+	"kabupaten": {
+		"id": 33,
+		"name": "Kota Madiun",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Seal_of_the_City_of_Madiun.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kartoharjo"
+		},
+		{
+			"id": 2,
+			"name": "Manguharjo"
+		},
+		{
+			"id": 3,
+			"name": "Taman"
+		}
+	]
+}

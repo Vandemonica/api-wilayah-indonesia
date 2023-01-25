@@ -1,0 +1,63 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lingga",
+	"scraped_at": "2023-01-25T10:04:58.481Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Lingga",
+		"emblem": "https://upload.wikimedia.org/wikipedia/id/d/d9/Logo-lingga-new.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Bakung Serumpun"
+		},
+		{
+			"id": 2,
+			"name": "Katang Bidare"
+		},
+		{
+			"id": 3,
+			"name": "Kepulauan Posek"
+		},
+		{
+			"id": 4,
+			"name": "Lingga Timur"
+		},
+		{
+			"id": 5,
+			"name": "Lingga Utara"
+		},
+		{
+			"id": 6,
+			"name": "Lingga"
+		},
+		{
+			"id": 7,
+			"name": "Selayar"
+		},
+		{
+			"id": 8,
+			"name": "Senayang"
+		},
+		{
+			"id": 9,
+			"name": "Singkep Barat"
+		},
+		{
+			"id": 10,
+			"name": "Singkep Pesisir"
+		},
+		{
+			"id": 11,
+			"name": "Singkep Selatan"
+		},
+		{
+			"id": 12,
+			"name": "Singkep"
+		},
+		{
+			"id": 13,
+			"name": "Temiang Pesisir"
+		}
+	]
+}

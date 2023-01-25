@@ -1,0 +1,83 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Rokan Hilir",
+	"scraped_at": "2023-01-25T10:03:40.666Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kabupaten Rokan Hilir",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lambang_Kabupaten_Rokan_Hilir.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Bagan Sinembah Raya"
+		},
+		{
+			"id": 2,
+			"name": "Bagan Sinembah"
+		},
+		{
+			"id": 3,
+			"name": "Balai Jaya"
+		},
+		{
+			"id": 4,
+			"name": "Bangko Pusako"
+		},
+		{
+			"id": 5,
+			"name": "Bangko"
+		},
+		{
+			"id": 6,
+			"name": "Batu Hampar"
+		},
+		{
+			"id": 7,
+			"name": "Kubu Babussalam"
+		},
+		{
+			"id": 8,
+			"name": "Kubu"
+		},
+		{
+			"id": 9,
+			"name": "Pasir Limau Kapas"
+		},
+		{
+			"id": 10,
+			"name": "Pekaitan"
+		},
+		{
+			"id": 11,
+			"name": "Pujud"
+		},
+		{
+			"id": 12,
+			"name": "Rantau Kopar"
+		},
+		{
+			"id": 13,
+			"name": "Rimba Melintang"
+		},
+		{
+			"id": 14,
+			"name": "Simpang Kanan"
+		},
+		{
+			"id": 15,
+			"name": "Sinaboi"
+		},
+		{
+			"id": 16,
+			"name": "Tanah Putih Tanjung Melawan"
+		},
+		{
+			"id": 17,
+			"name": "Tanah Putih"
+		},
+		{
+			"id": 18,
+			"name": "Tanjung Medan"
+		}
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Mimika",
+	"scraped_at": "2023-01-25T10:13:31.504Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Mimika",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Lambang_Kabupaten_Mimika.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Mimika Baru"
+		},
+		{
+			"id": 2,
+			"name": "Agimuga"
+		},
+		{
+			"id": 3,
+			"name": "Mimika Timur"
+		},
+		{
+			"id": 4,
+			"name": "Mimika Barat"
+		},
+		{
+			"id": 5,
+			"name": "Jita"
+		},
+		{
+			"id": 6,
+			"name": "Jila"
+		},
+		{
+			"id": 7,
+			"name": "Mimika Timur Jauh"
+		},
+		{
+			"id": 8,
+			"name": "Mimika Tengah"
+		},
+		{
+			"id": 9,
+			"name": "Kuala Kencana"
+		},
+		{
+			"id": 10,
+			"name": "Tembagapura"
+		},
+		{
+			"id": 11,
+			"name": "Mimika Barat Jauh"
+		},
+		{
+			"id": 12,
+			"name": "Mimika Barat Tengah"
+		},
+		{
+			"id": 13,
+			"name": "Kwamki Narama"
+		},
+		{
+			"id": 14,
+			"name": "Hoya"
+		},
+		{
+			"id": 15,
+			"name": "Iwaka"
+		},
+		{
+			"id": 16,
+			"name": "Wania"
+		},
+		{
+			"id": 17,
+			"name": "Amar"
+		},
+		{
+			"id": 18,
+			"name": "Alama"
+		}
+	]
+}

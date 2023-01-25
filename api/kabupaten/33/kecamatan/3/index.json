@@ -1,0 +1,55 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Keerom",
+	"scraped_at": "2023-01-25T10:13:04.298Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Keerom",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lambang_Kabupaten_Keerom.jpeg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Waris"
+		},
+		{
+			"id": 2,
+			"name": "Arso"
+		},
+		{
+			"id": 3,
+			"name": "Senggi"
+		},
+		{
+			"id": 4,
+			"name": "Web"
+		},
+		{
+			"id": 5,
+			"name": "Skanto"
+		},
+		{
+			"id": 6,
+			"name": "Arso Timur"
+		},
+		{
+			"id": 7,
+			"name": "Towe"
+		},
+		{
+			"id": 8,
+			"name": "Arso Barat"
+		},
+		{
+			"id": 9,
+			"name": "Mannem"
+		},
+		{
+			"id": 10,
+			"name": "Yaffi"
+		},
+		{
+			"id": 11,
+			"name": "Kaisenar"
+		}
+	]
+}

@@ -1,0 +1,79 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Mamasa",
+	"scraped_at": "2023-01-25T10:12:31.629Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Mamasa",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Lambang_Kabupaten_Mamasa.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Aralle"
+		},
+		{
+			"id": 2,
+			"name": "Balla"
+		},
+		{
+			"id": 3,
+			"name": "Bambang"
+		},
+		{
+			"id": 4,
+			"name": "Buntu Malangka"
+		},
+		{
+			"id": 5,
+			"name": "Mamasa"
+		},
+		{
+			"id": 6,
+			"name": "Mambi"
+		},
+		{
+			"id": 7,
+			"name": "Mehalaan"
+		},
+		{
+			"id": 8,
+			"name": "Messawa"
+		},
+		{
+			"id": 9,
+			"name": "Nosu"
+		},
+		{
+			"id": 10,
+			"name": "Pana"
+		},
+		{
+			"id": 11,
+			"name": "Rantebulahan Timur"
+		},
+		{
+			"id": 12,
+			"name": "Sesenapadang"
+		},
+		{
+			"id": 13,
+			"name": "Sumarorong"
+		},
+		{
+			"id": 14,
+			"name": "Tabang"
+		},
+		{
+			"id": 15,
+			"name": "Tabulahan"
+		},
+		{
+			"id": 16,
+			"name": "Tanduk Kalua"
+		},
+		{
+			"id": 17,
+			"name": "Tawalian"
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Intan Jaya",
+	"scraped_at": "2023-01-25T10:13:29.818Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Intan Jaya",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Lambang_Kabupaten_Intan_Jaya.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Sugapa"
+		},
+		{
+			"id": 2,
+			"name": "Homeyo"
+		},
+		{
+			"id": 3,
+			"name": "Wandai"
+		},
+		{
+			"id": 4,
+			"name": "Biandoga"
+		},
+		{
+			"id": 5,
+			"name": "Agisiga"
+		},
+		{
+			"id": 6,
+			"name": "Hitadipa"
+		},
+		{
+			"id": 7,
+			"name": "Ugimba"
+		},
+		{
+			"id": 8,
+			"name": "Tomosiga"
+		}
+	]
+}

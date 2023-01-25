@@ -1,0 +1,111 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Asahan",
+	"scraped_at": "2023-01-25T10:02:38.181Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Asahan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Logo_kabupaten_asahan.gif"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Aek Kuasan"
+		},
+		{
+			"id": 2,
+			"name": "Aek Ledong"
+		},
+		{
+			"id": 3,
+			"name": "Aek Songsongan"
+		},
+		{
+			"id": 4,
+			"name": "Air Batu"
+		},
+		{
+			"id": 5,
+			"name": "Air Joman"
+		},
+		{
+			"id": 6,
+			"name": "Bandar Pasir Mandoge"
+		},
+		{
+			"id": 7,
+			"name": "Bandar Pulau"
+		},
+		{
+			"id": 8,
+			"name": "Buntu Pane"
+		},
+		{
+			"id": 9,
+			"name": "Kota Kisaran Barat"
+		},
+		{
+			"id": 10,
+			"name": "Kota Kisaran Timur"
+		},
+		{
+			"id": 11,
+			"name": "Meranti"
+		},
+		{
+			"id": 12,
+			"name": "Pulau Rakyat"
+		},
+		{
+			"id": 13,
+			"name": "Pulo Bandring"
+		},
+		{
+			"id": 14,
+			"name": "Rahuning"
+		},
+		{
+			"id": 15,
+			"name": "Rawang Panca Arga"
+		},
+		{
+			"id": 16,
+			"name": "Sei Dadap"
+		},
+		{
+			"id": 17,
+			"name": "Sei Kepayang Barat"
+		},
+		{
+			"id": 18,
+			"name": "Sei Kepayang Timur"
+		},
+		{
+			"id": 19,
+			"name": "Sei Kepayang"
+		},
+		{
+			"id": 20,
+			"name": "Setia Janji"
+		},
+		{
+			"id": 21,
+			"name": "Silau Laut"
+		},
+		{
+			"id": 22,
+			"name": "Simpang Empat"
+		},
+		{
+			"id": 23,
+			"name": "Tanjung Balai"
+		},
+		{
+			"id": 24,
+			"name": "Teluk Dalam"
+		},
+		{
+			"id": 25,
+			"name": "Tinggi Raja"
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Bogor",
+	"scraped_at": "2023-01-25T10:05:36.906Z",
+	"kabupaten": {
+		"id": 22,
+		"name": "Kota Bogor",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Emblem_of_Bogor.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Bogor Barat"
+		},
+		{
+			"id": 2,
+			"name": "Bogor Selatan"
+		},
+		{
+			"id": 3,
+			"name": "Bogor Tengah"
+		},
+		{
+			"id": 4,
+			"name": "Bogor Timur"
+		},
+		{
+			"id": 5,
+			"name": "Bogor Utara"
+		},
+		{
+			"id": 6,
+			"name": "Tanah Sareal"
+		}
+	]
+}

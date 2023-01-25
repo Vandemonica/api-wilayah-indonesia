@@ -1,0 +1,207 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Sorong",
+	"scraped_at": "2023-01-25T10:13:53.911Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Sorong",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lambang_Kabupaten_Sorong.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Aimas"
+		},
+		{
+			"id": 2,
+			"name": "Bagun"
+		},
+		{
+			"id": 3,
+			"name": "Beraur"
+		},
+		{
+			"id": 4,
+			"name": "Botain"
+		},
+		{
+			"id": 5,
+			"name": "Buk"
+		},
+		{
+			"id": 6,
+			"name": "Hobard"
+		},
+		{
+			"id": 7,
+			"name": "Klabot"
+		},
+		{
+			"id": 8,
+			"name": "Klamono"
+		},
+		{
+			"id": 9,
+			"name": "Klasafet"
+		},
+		{
+			"id": 10,
+			"name": "Klaso"
+		},
+		{
+			"id": 11,
+			"name": "Klawak"
+		},
+		{
+			"id": 12,
+			"name": "Klayili"
+		},
+		{
+			"id": 13,
+			"name": "Konhir"
+		},
+		{
+			"id": 14,
+			"name": "Makbon"
+		},
+		{
+			"id": 15,
+			"name": "Malabotom"
+		},
+		{
+			"id": 16,
+			"name": "Mariat"
+		},
+		{
+			"id": 17,
+			"name": "Maudus"
+		},
+		{
+			"id": 18,
+			"name": "Mayamuk"
+		},
+		{
+			"id": 19,
+			"name": "Moisegen"
+		},
+		{
+			"id": 20,
+			"name": "Saengkeduk"
+		},
+		{
+			"id": 21,
+			"name": "Salawati"
+		},
+		{
+			"id": 22,
+			"name": "Salawati Selatan"
+		},
+		{
+			"id": 23,
+			"name": "Salawati Tengah"
+		},
+		{
+			"id": 24,
+			"name": "Sayosa"
+		},
+		{
+			"id": 25,
+			"name": "Sayosa Timur"
+		},
+		{
+			"id": 26,
+			"name": "Seget"
+		},
+		{
+			"id": 27,
+			"name": "Segun"
+		},
+		{
+			"id": 28,
+			"name": "Sorong"
+		},
+		{
+			"id": 29,
+			"name": "Sunook"
+		},
+		{
+			"id": 30,
+			"name": "Wemak"
+		},
+		{
+			"id": 31,
+			"name": "Moraid"
+		},
+		{
+			"id": 32,
+			"name": "Klaso"
+		},
+		{
+			"id": 33,
+			"name": "Makbon"
+		},
+		{
+			"id": 34,
+			"name": "Klayili"
+		},
+		{
+			"id": 35,
+			"name": "Beraur"
+		},
+		{
+			"id": 36,
+			"name": "Klamono"
+		},
+		{
+			"id": 37,
+			"name": "Klabot"
+		},
+		{
+			"id": 38,
+			"name": "Klawak"
+		},
+		{
+			"id": 39,
+			"name": "Salawati"
+		},
+		{
+			"id": 40,
+			"name": "Mayamuk"
+		},
+		{
+			"id": 41,
+			"name": "Salawati Timur"
+		},
+		{
+			"id": 42,
+			"name": "Seget"
+		},
+		{
+			"id": 43,
+			"name": "Segun"
+		},
+		{
+			"id": 44,
+			"name": "Salawati Selatan"
+		},
+		{
+			"id": 45,
+			"name": "Aimas"
+		},
+		{
+			"id": 46,
+			"name": "Mariat"
+		},
+		{
+			"id": 47,
+			"name": "Sayosa"
+		},
+		{
+			"id": 48,
+			"name": "Maudus"
+		},
+		{
+			"id": 49,
+			"name": "Sorong"
+		}
+	]
+}

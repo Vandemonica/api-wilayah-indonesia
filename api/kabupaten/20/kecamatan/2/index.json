@@ -1,0 +1,103 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kapuas Hulu",
+	"scraped_at": "2023-01-25T10:09:28.950Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Kapuas Hulu",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lambang_Kapuas_Hulu.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Badau"
+		},
+		{
+			"id": 2,
+			"name": "Batang Lupar"
+		},
+		{
+			"id": 3,
+			"name": "Bika"
+		},
+		{
+			"id": 4,
+			"name": "Boyan Tanjung"
+		},
+		{
+			"id": 5,
+			"name": "Bunut Hilir"
+		},
+		{
+			"id": 6,
+			"name": "Bunut Hulu"
+		},
+		{
+			"id": 7,
+			"name": "Embaloh Hilir"
+		},
+		{
+			"id": 8,
+			"name": "Embaloh Hulu"
+		},
+		{
+			"id": 9,
+			"name": "Empanang"
+		},
+		{
+			"id": 10,
+			"name": "Hulu Gurung"
+		},
+		{
+			"id": 11,
+			"name": "Jongkong"
+		},
+		{
+			"id": 12,
+			"name": "Kalis"
+		},
+		{
+			"id": 13,
+			"name": "Mentebah"
+		},
+		{
+			"id": 14,
+			"name": "Pengkadan"
+		},
+		{
+			"id": 15,
+			"name": "Puring Kencana"
+		},
+		{
+			"id": 16,
+			"name": "Putussibau Selatan"
+		},
+		{
+			"id": 17,
+			"name": "Putussibau Utara"
+		},
+		{
+			"id": 18,
+			"name": "Seberuang"
+		},
+		{
+			"id": 19,
+			"name": "Selimbau"
+		},
+		{
+			"id": 20,
+			"name": "Semitau"
+		},
+		{
+			"id": 21,
+			"name": "Silat Hilir"
+		},
+		{
+			"id": 22,
+			"name": "Silat Hulu"
+		},
+		{
+			"id": 23,
+			"name": "Suhaid"
+		}
+	]
+}

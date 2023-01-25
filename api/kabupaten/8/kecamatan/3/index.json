@@ -1,0 +1,119 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lampung Tengah",
+	"scraped_at": "2023-01-25T10:04:27.446Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Lampung Tengah",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lambang_Kabupaten_Lampung_Tengah.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Anak Ratu Aji"
+		},
+		{
+			"id": 2,
+			"name": "Anak Tuha"
+		},
+		{
+			"id": 3,
+			"name": "Bandar Mataram"
+		},
+		{
+			"id": 4,
+			"name": "Bandar Surabaya"
+		},
+		{
+			"id": 5,
+			"name": "Bangun Rejo"
+		},
+		{
+			"id": 6,
+			"name": "Bekri"
+		},
+		{
+			"id": 7,
+			"name": "Bumi Nabung"
+		},
+		{
+			"id": 8,
+			"name": "Bumi Ratu Nuban"
+		},
+		{
+			"id": 9,
+			"name": "Gunung Sugih"
+		},
+		{
+			"id": 10,
+			"name": "Kalirejo"
+		},
+		{
+			"id": 11,
+			"name": "Kota Gajah"
+		},
+		{
+			"id": 12,
+			"name": "Padang Ratu"
+		},
+		{
+			"id": 13,
+			"name": "Pubian"
+		},
+		{
+			"id": 14,
+			"name": "Punggur"
+		},
+		{
+			"id": 15,
+			"name": "Putra Rumbia"
+		},
+		{
+			"id": 16,
+			"name": "Rumbia"
+		},
+		{
+			"id": 17,
+			"name": "Sendang Agung"
+		},
+		{
+			"id": 18,
+			"name": "Seputih Agung"
+		},
+		{
+			"id": 19,
+			"name": "Seputih Banyak"
+		},
+		{
+			"id": 20,
+			"name": "Seputih Mataram"
+		},
+		{
+			"id": 21,
+			"name": "Seputih Raman"
+		},
+		{
+			"id": 22,
+			"name": "Seputih Surabaya"
+		},
+		{
+			"id": 23,
+			"name": "Terbanggi Besar"
+		},
+		{
+			"id": 24,
+			"name": "Terusan Nunyai"
+		},
+		{
+			"id": 25,
+			"name": "Trimurjo"
+		},
+		{
+			"id": 26,
+			"name": "Way Pengubuan"
+		},
+		{
+			"id": 27,
+			"name": "Way Seputih"
+		}
+	]
+}

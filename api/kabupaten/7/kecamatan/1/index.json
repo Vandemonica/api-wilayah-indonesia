@@ -1,0 +1,55 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bengkulu Selatan",
+	"scraped_at": "2023-01-25T10:04:15.959Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Bengkulu Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bengkulu_Selatan.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Air Nipis"
+		},
+		{
+			"id": 2,
+			"name": "Bunga Mas"
+		},
+		{
+			"id": 3,
+			"name": "Kedurang Ilir"
+		},
+		{
+			"id": 4,
+			"name": "Kedurang"
+		},
+		{
+			"id": 5,
+			"name": "Kota Manna"
+		},
+		{
+			"id": 6,
+			"name": "Manna"
+		},
+		{
+			"id": 7,
+			"name": "Pasar Manna"
+		},
+		{
+			"id": 8,
+			"name": "Pino"
+		},
+		{
+			"id": 9,
+			"name": "Pino Raya"
+		},
+		{
+			"id": 10,
+			"name": "Seginim"
+		},
+		{
+			"id": 11,
+			"name": "Ulu Manna"
+		}
+	]
+}

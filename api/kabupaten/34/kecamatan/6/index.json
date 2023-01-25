@@ -1,0 +1,107 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Teluk Bintuni",
+	"scraped_at": "2023-01-25T10:13:18.539Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Teluk Bintuni",
+		"emblem": "https://upload.wikimedia.org/wikipedia/id/0/08/Teluk_Bintuni.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Aranday"
+		},
+		{
+			"id": 2,
+			"name": "Aroba"
+		},
+		{
+			"id": 3,
+			"name": "Babo"
+		},
+		{
+			"id": 4,
+			"name": "Bintuni"
+		},
+		{
+			"id": 5,
+			"name": "Biscoop"
+		},
+		{
+			"id": 6,
+			"name": "Dataran Beimes"
+		},
+		{
+			"id": 7,
+			"name": "Fafurwar"
+		},
+		{
+			"id": 8,
+			"name": "Kaitaro"
+		},
+		{
+			"id": 9,
+			"name": "Kamundan"
+		},
+		{
+			"id": 10,
+			"name": "Kuri"
+		},
+		{
+			"id": 11,
+			"name": "Manimeri"
+		},
+		{
+			"id": 12,
+			"name": "Masyeta"
+		},
+		{
+			"id": 13,
+			"name": "Meyado"
+		},
+		{
+			"id": 14,
+			"name": "Merdey"
+		},
+		{
+			"id": 15,
+			"name": "Moskona Barat"
+		},
+		{
+			"id": 16,
+			"name": "Moskona Selatan"
+		},
+		{
+			"id": 17,
+			"name": "Moskona Timur"
+		},
+		{
+			"id": 18,
+			"name": "Moskona Utara"
+		},
+		{
+			"id": 19,
+			"name": "Sumuri"
+		},
+		{
+			"id": 20,
+			"name": "Tembuni"
+		},
+		{
+			"id": 21,
+			"name": "Tomu"
+		},
+		{
+			"id": 22,
+			"name": "Tuhiba"
+		},
+		{
+			"id": 23,
+			"name": "Wamesa"
+		},
+		{
+			"id": 24,
+			"name": "Weriagar"
+		}
+	]
+}

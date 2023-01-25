@@ -1,0 +1,55 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bengkalis",
+	"scraped_at": "2023-01-25T10:03:33.003Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Bengkalis",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lambang_Kabupaten_Bengkalis.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Bandar Laksamana"
+		},
+		{
+			"id": 2,
+			"name": "Bantan"
+		},
+		{
+			"id": 3,
+			"name": "Bathin Solapan"
+		},
+		{
+			"id": 4,
+			"name": "Bengkalis"
+		},
+		{
+			"id": 5,
+			"name": "Bukit Batu"
+		},
+		{
+			"id": 6,
+			"name": "Mandau"
+		},
+		{
+			"id": 7,
+			"name": "Pinggir"
+		},
+		{
+			"id": 8,
+			"name": "Rupat Utara"
+		},
+		{
+			"id": 9,
+			"name": "Rupat"
+		},
+		{
+			"id": 10,
+			"name": "Siak Kecil"
+		},
+		{
+			"id": 11,
+			"name": "Talang Muandau"
+		}
+	]
+}

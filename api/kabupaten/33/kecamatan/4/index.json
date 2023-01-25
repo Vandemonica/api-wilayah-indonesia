@@ -1,0 +1,75 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Kepulauan Yapen",
+	"scraped_at": "2023-01-25T10:13:05.714Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Kepulauan Yapen",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Lambang_Kabupaten_Kepulauan_Yapen%2C_Papua.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Yapen Selatan"
+		},
+		{
+			"id": 2,
+			"name": "Yapen Barat"
+		},
+		{
+			"id": 3,
+			"name": "Yapen Timur"
+		},
+		{
+			"id": 4,
+			"name": "Angkaisera"
+		},
+		{
+			"id": 5,
+			"name": "Poom"
+		},
+		{
+			"id": 6,
+			"name": "Kosiwo"
+		},
+		{
+			"id": 7,
+			"name": "Yapen Utara"
+		},
+		{
+			"id": 8,
+			"name": "Raimbawi"
+		},
+		{
+			"id": 9,
+			"name": "Teluk Ampimoi"
+		},
+		{
+			"id": 10,
+			"name": "Kepulauan Ambai"
+		},
+		{
+			"id": 11,
+			"name": "Wonawa"
+		},
+		{
+			"id": 12,
+			"name": "Windesi"
+		},
+		{
+			"id": 13,
+			"name": "Pulau Kurudu"
+		},
+		{
+			"id": 14,
+			"name": "Pulau Yerui"
+		},
+		{
+			"id": 15,
+			"name": "Anotaurei"
+		},
+		{
+			"id": 16,
+			"name": "Yawakukat"
+		}
+	]
+}

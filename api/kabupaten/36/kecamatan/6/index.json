@@ -1,0 +1,103 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Paniai",
+	"scraped_at": "2023-01-25T10:13:33.003Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Paniai",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lambang_Kabupaten_Paniai.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Paniai Timur"
+		},
+		{
+			"id": 2,
+			"name": "Paniai Barat"
+		},
+		{
+			"id": 3,
+			"name": "Aradide"
+		},
+		{
+			"id": 4,
+			"name": "Bogabaida"
+		},
+		{
+			"id": 5,
+			"name": "Bibida"
+		},
+		{
+			"id": 6,
+			"name": "Dumadama"
+		},
+		{
+			"id": 7,
+			"name": "Siriwo"
+		},
+		{
+			"id": 8,
+			"name": "Kebo"
+		},
+		{
+			"id": 9,
+			"name": "Yatamo"
+		},
+		{
+			"id": 10,
+			"name": "Ekadide"
+		},
+		{
+			"id": 11,
+			"name": "Wegee Muka"
+		},
+		{
+			"id": 12,
+			"name": "Wegee Bino"
+		},
+		{
+			"id": 13,
+			"name": "Pugo Dagi"
+		},
+		{
+			"id": 14,
+			"name": "Muye"
+		},
+		{
+			"id": 15,
+			"name": "Nakama"
+		},
+		{
+			"id": 16,
+			"name": "Teluk Deya"
+		},
+		{
+			"id": 17,
+			"name": "Yagai"
+		},
+		{
+			"id": 18,
+			"name": "Youtadi"
+		},
+		{
+			"id": 19,
+			"name": "Baya Biru"
+		},
+		{
+			"id": 20,
+			"name": "Deiyai Miyo"
+		},
+		{
+			"id": 21,
+			"name": "Dogomo"
+		},
+		{
+			"id": 22,
+			"name": "Aweida"
+		},
+		{
+			"id": 23,
+			"name": "Topiyai"
+		}
+	]
+}

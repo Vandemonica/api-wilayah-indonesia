@@ -1,0 +1,107 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Raja Ampat",
+	"scraped_at": "2023-01-25T10:13:52.722Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Raja Ampat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Lambang_Kabupaten_Raja_Ampat%2C_Papua_Barat.gif"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Ayau"
+		},
+		{
+			"id": 2,
+			"name": "Batanta Selatan"
+		},
+		{
+			"id": 3,
+			"name": "Batanta Utara"
+		},
+		{
+			"id": 4,
+			"name": "Kepulauan Ayau"
+		},
+		{
+			"id": 5,
+			"name": "Kepulauan Sembilan"
+		},
+		{
+			"id": 6,
+			"name": "Kofiau"
+		},
+		{
+			"id": 7,
+			"name": "Kota Waisai"
+		},
+		{
+			"id": 8,
+			"name": "Meos Mansar"
+		},
+		{
+			"id": 9,
+			"name": "Misool"
+		},
+		{
+			"id": 10,
+			"name": "Misool Barat"
+		},
+		{
+			"id": 11,
+			"name": "Misool Selatan"
+		},
+		{
+			"id": 12,
+			"name": "Misool Timur"
+		},
+		{
+			"id": 13,
+			"name": "Salawati Barat"
+		},
+		{
+			"id": 14,
+			"name": "Salawati Tengah"
+		},
+		{
+			"id": 15,
+			"name": "Salawati Utara"
+		},
+		{
+			"id": 16,
+			"name": "Supnin"
+		},
+		{
+			"id": 17,
+			"name": "Teluk Mayalibit"
+		},
+		{
+			"id": 18,
+			"name": "Tiplol Mayalibit"
+		},
+		{
+			"id": 19,
+			"name": "Waigeo Barat"
+		},
+		{
+			"id": 20,
+			"name": "Waigeo Barat Kepulauan"
+		},
+		{
+			"id": 21,
+			"name": "Waigeo Selatan"
+		},
+		{
+			"id": 22,
+			"name": "Waigeo Timur"
+		},
+		{
+			"id": 23,
+			"name": "Waigeo Utara"
+		},
+		{
+			"id": 24,
+			"name": "Warwarbomi"
+		}
+	]
+}

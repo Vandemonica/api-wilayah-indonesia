@@ -1,0 +1,39 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Kaimana",
+	"scraped_at": "2023-01-25T10:13:13.934Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Kaimana",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Lambang_Kabupaten_Kaimana.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Buruway"
+		},
+		{
+			"id": 2,
+			"name": "Kaimana"
+		},
+		{
+			"id": 3,
+			"name": "Kambrauw"
+		},
+		{
+			"id": 4,
+			"name": "Teluk Arguni Atas"
+		},
+		{
+			"id": 5,
+			"name": "Teluk Arguni Bawah"
+		},
+		{
+			"id": 6,
+			"name": "Teluk Etna"
+		},
+		{
+			"id": 7,
+			"name": "Yamor"
+		}
+	]
+}

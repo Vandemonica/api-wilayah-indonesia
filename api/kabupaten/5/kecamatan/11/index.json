@@ -1,0 +1,43 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Sungai Penuh",
+	"scraped_at": "2023-01-25T10:03:55.221Z",
+	"kabupaten": {
+		"id": 11,
+		"name": "Kota Sungai Penuh",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lambang_Kota_Sungai_Penuh.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Hamparan Rawang"
+		},
+		{
+			"id": 2,
+			"name": "Koto Baru"
+		},
+		{
+			"id": 3,
+			"name": "Kumun Debai"
+		},
+		{
+			"id": 4,
+			"name": "Pesisir Bukit"
+		},
+		{
+			"id": 5,
+			"name": "Pondok Tinggi"
+		},
+		{
+			"id": 6,
+			"name": "Sungai Bungkal"
+		},
+		{
+			"id": 7,
+			"name": "Sungai Penuh"
+		},
+		{
+			"id": 8,
+			"name": "Tanah Kampung"
+		}
+	]
+}

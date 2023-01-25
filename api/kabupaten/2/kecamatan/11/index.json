@@ -1,0 +1,103 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Mandailing Natal",
+	"scraped_at": "2023-01-25T10:02:49.240Z",
+	"kabupaten": {
+		"id": 11,
+		"name": "Kabupaten Mandailing Natal",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Mandailing-natal.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Batahan"
+		},
+		{
+			"id": 2,
+			"name": "Batang Natal"
+		},
+		{
+			"id": 3,
+			"name": "Bukit Malintang"
+		},
+		{
+			"id": 4,
+			"name": "Huta Bargot"
+		},
+		{
+			"id": 5,
+			"name": "Kotanopan"
+		},
+		{
+			"id": 6,
+			"name": "Lembah Sorik Marapi"
+		},
+		{
+			"id": 7,
+			"name": "Lingga Bayu"
+		},
+		{
+			"id": 8,
+			"name": "Muara Batang Gadis"
+		},
+		{
+			"id": 9,
+			"name": "Muara Sipongi"
+		},
+		{
+			"id": 10,
+			"name": "Naga Juang"
+		},
+		{
+			"id": 11,
+			"name": "Natal"
+		},
+		{
+			"id": 12,
+			"name": "Pakantan"
+		},
+		{
+			"id": 13,
+			"name": "Panyabungan Barat"
+		},
+		{
+			"id": 14,
+			"name": "Panyabungan"
+		},
+		{
+			"id": 15,
+			"name": "Panyabungan Selatan"
+		},
+		{
+			"id": 16,
+			"name": "Panyabungan Timur"
+		},
+		{
+			"id": 17,
+			"name": "Panyabungan Utara"
+		},
+		{
+			"id": 18,
+			"name": "Puncak Sorik Marapi"
+		},
+		{
+			"id": 19,
+			"name": "Ranto Baek"
+		},
+		{
+			"id": 20,
+			"name": "Siabu"
+		},
+		{
+			"id": 21,
+			"name": "Sinunukan"
+		},
+		{
+			"id": 22,
+			"name": "Tambangan"
+		},
+		{
+			"id": 23,
+			"name": "Ulu Pungkut"
+		}
+	]
+}

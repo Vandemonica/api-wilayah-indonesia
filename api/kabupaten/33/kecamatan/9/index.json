@@ -1,0 +1,51 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kota_Jayapura",
+	"scraped_at": "2023-01-25T10:13:10.882Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kota Jayapura",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lambang_Kota_Jayapura.jpeg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Jayapura Utara"
+		},
+		{
+			"id": 2,
+			"name": "Angkasapura\nBayangkara\nGurabesi\nImbi\nMandala\nTanjung Ria\nTrikora"
+		},
+		{
+			"id": 3,
+			"name": "Jayapura Selatan"
+		},
+		{
+			"id": 4,
+			"name": "Numbay\nHamadi\nEntrop\nArgapura\nArdipura"
+		},
+		{
+			"id": 5,
+			"name": "Abepura"
+		},
+		{
+			"id": 6,
+			"name": "Abepantai\nAsano\nAwiyo\nKota Baru\nVim\nWahno\nWay Mhorock\nYobe"
+		},
+		{
+			"id": 7,
+			"name": "Muara Tami"
+		},
+		{
+			"id": 8,
+			"name": "Koya Barat\nKoya Timur"
+		},
+		{
+			"id": 9,
+			"name": "Heram"
+		},
+		{
+			"id": 10,
+			"name": "Hedam\nWena\nYabansai"
+		}
+	]
+}

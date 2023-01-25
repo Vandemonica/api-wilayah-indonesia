@@ -1,0 +1,215 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Yahukimo",
+	"scraped_at": "2023-01-25T10:13:49.147Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kabupaten Yahukimo",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lambang_Kabupaten_Yahukimo.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kurima"
+		},
+		{
+			"id": 2,
+			"name": "Anggruk"
+		},
+		{
+			"id": 3,
+			"name": "Ninia"
+		},
+		{
+			"id": 4,
+			"name": "Silimo"
+		},
+		{
+			"id": 5,
+			"name": "Samenage"
+		},
+		{
+			"id": 6,
+			"name": "Nalca"
+		},
+		{
+			"id": 7,
+			"name": "Dekai"
+		},
+		{
+			"id": 8,
+			"name": "Obio"
+		},
+		{
+			"id": 9,
+			"name": "Suru Suru"
+		},
+		{
+			"id": 10,
+			"name": "Wusama"
+		},
+		{
+			"id": 11,
+			"name": "Amuma"
+		},
+		{
+			"id": 12,
+			"name": "Musaik"
+		},
+		{
+			"id": 13,
+			"name": "Pasema"
+		},
+		{
+			"id": 14,
+			"name": "Hogio"
+		},
+		{
+			"id": 15,
+			"name": "Mugi"
+		},
+		{
+			"id": 16,
+			"name": "Soba"
+		},
+		{
+			"id": 17,
+			"name": "Werima"
+		},
+		{
+			"id": 18,
+			"name": "Tangma"
+		},
+		{
+			"id": 19,
+			"name": "Ukha"
+		},
+		{
+			"id": 20,
+			"name": "Panggema"
+		},
+		{
+			"id": 21,
+			"name": "Kosarek"
+		},
+		{
+			"id": 22,
+			"name": "Nipsan"
+		},
+		{
+			"id": 23,
+			"name": "Ubahak"
+		},
+		{
+			"id": 24,
+			"name": "Pronggoli"
+		},
+		{
+			"id": 25,
+			"name": "Walma"
+		},
+		{
+			"id": 26,
+			"name": "Yahuliambut"
+		},
+		{
+			"id": 27,
+			"name": "Hereapini"
+		},
+		{
+			"id": 28,
+			"name": "Ubalihi"
+		},
+		{
+			"id": 29,
+			"name": "Talambo"
+		},
+		{
+			"id": 30,
+			"name": "Puldama"
+		},
+		{
+			"id": 31,
+			"name": "Endomen"
+		},
+		{
+			"id": 32,
+			"name": "Kona"
+		},
+		{
+			"id": 33,
+			"name": "Dirwemna"
+		},
+		{
+			"id": 34,
+			"name": "Holuon"
+		},
+		{
+			"id": 35,
+			"name": "Lolat"
+		},
+		{
+			"id": 36,
+			"name": "Soloikma"
+		},
+		{
+			"id": 37,
+			"name": "Sela"
+		},
+		{
+			"id": 38,
+			"name": "Korupun"
+		},
+		{
+			"id": 39,
+			"name": "Langda"
+		},
+		{
+			"id": 40,
+			"name": "Bomela"
+		},
+		{
+			"id": 41,
+			"name": "Suntamon"
+		},
+		{
+			"id": 42,
+			"name": "Seredela"
+		},
+		{
+			"id": 43,
+			"name": "Sobaham"
+		},
+		{
+			"id": 44,
+			"name": "Kabianggama"
+		},
+		{
+			"id": 45,
+			"name": "Kwelemdua"
+		},
+		{
+			"id": 46,
+			"name": "Kwikma"
+		},
+		{
+			"id": 47,
+			"name": "Hilipuk"
+		},
+		{
+			"id": 48,
+			"name": "Duram"
+		},
+		{
+			"id": 49,
+			"name": "Yogosem"
+		},
+		{
+			"id": 50,
+			"name": "Kayo"
+		},
+		{
+			"id": 51,
+			"name": "Sumo"
+		}
+	]
+}

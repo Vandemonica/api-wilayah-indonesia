@@ -1,0 +1,107 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Cilacap",
+	"scraped_at": "2023-01-25T10:06:30.865Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Cilacap",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Seal_of_Cilacap_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Adipala"
+		},
+		{
+			"id": 2,
+			"name": "Bantarsari"
+		},
+		{
+			"id": 3,
+			"name": "Binangun"
+		},
+		{
+			"id": 4,
+			"name": "Cilacap Selatan"
+		},
+		{
+			"id": 5,
+			"name": "Cilacap Tengah"
+		},
+		{
+			"id": 6,
+			"name": "Cilacap Utara"
+		},
+		{
+			"id": 7,
+			"name": "Cimanggu"
+		},
+		{
+			"id": 8,
+			"name": "Cipari"
+		},
+		{
+			"id": 9,
+			"name": "Dayeuhluhur"
+		},
+		{
+			"id": 10,
+			"name": "Gandrungmangu"
+		},
+		{
+			"id": 11,
+			"name": "Jeruklegi"
+		},
+		{
+			"id": 12,
+			"name": "Kampung Laut"
+		},
+		{
+			"id": 13,
+			"name": "Karangpucung"
+		},
+		{
+			"id": 14,
+			"name": "Kawunganten"
+		},
+		{
+			"id": 15,
+			"name": "Kedungreja"
+		},
+		{
+			"id": 16,
+			"name": "Kesugihan"
+		},
+		{
+			"id": 17,
+			"name": "Kroya"
+		},
+		{
+			"id": 18,
+			"name": "Majenang"
+		},
+		{
+			"id": 19,
+			"name": "Maos"
+		},
+		{
+			"id": 20,
+			"name": "Nusawungu"
+		},
+		{
+			"id": 21,
+			"name": "Patimuan"
+		},
+		{
+			"id": 22,
+			"name": "Sampang"
+		},
+		{
+			"id": 23,
+			"name": "Sidareja, Cilacap‎ (13 H"
+		},
+		{
+			"id": 24,
+			"name": "Wanareja"
+		}
+	]
+}

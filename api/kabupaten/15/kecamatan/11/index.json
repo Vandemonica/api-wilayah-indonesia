@@ -1,0 +1,95 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lumajang",
+	"scraped_at": "2023-01-25T10:07:26.692Z",
+	"kabupaten": {
+		"id": 11,
+		"name": "Kabupaten Lumajang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Seal_of_Lumajang_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Candipuro"
+		},
+		{
+			"id": 2,
+			"name": "Gucialit"
+		},
+		{
+			"id": 3,
+			"name": "Jatiroto"
+		},
+		{
+			"id": 4,
+			"name": "Kedungjajang"
+		},
+		{
+			"id": 5,
+			"name": "Klakah"
+		},
+		{
+			"id": 6,
+			"name": "Kunir"
+		},
+		{
+			"id": 7,
+			"name": "Lumajang"
+		},
+		{
+			"id": 8,
+			"name": "Padang"
+		},
+		{
+			"id": 9,
+			"name": "Pasirian"
+		},
+		{
+			"id": 10,
+			"name": "Pasrujambe"
+		},
+		{
+			"id": 11,
+			"name": "Pronojiwo"
+		},
+		{
+			"id": 12,
+			"name": "Randuagung"
+		},
+		{
+			"id": 13,
+			"name": "Ranuyoso"
+		},
+		{
+			"id": 14,
+			"name": "Rowokangkung"
+		},
+		{
+			"id": 15,
+			"name": "Senduro"
+		},
+		{
+			"id": 16,
+			"name": "Sukodono"
+		},
+		{
+			"id": 17,
+			"name": "Sumbersuko"
+		},
+		{
+			"id": 18,
+			"name": "Tekung"
+		},
+		{
+			"id": 19,
+			"name": "Tempeh"
+		},
+		{
+			"id": 20,
+			"name": "Tempursari"
+		},
+		{
+			"id": 21,
+			"name": "Yosowilangun"
+		}
+	]
+}

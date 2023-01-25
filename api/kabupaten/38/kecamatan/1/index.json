@@ -1,0 +1,107 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Maybrat",
+	"scraped_at": "2023-01-25T10:13:51.247Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Maybrat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Lambang_Kabupaten_Maybrat%2C_Papua_Barat.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Aifat"
+		},
+		{
+			"id": 2,
+			"name": "Aifat Timur"
+		},
+		{
+			"id": 3,
+			"name": "Aifat Timur Jauh"
+		},
+		{
+			"id": 4,
+			"name": "Aifat Timur Selatan"
+		},
+		{
+			"id": 5,
+			"name": "Aifat Timur Tengah"
+		},
+		{
+			"id": 6,
+			"name": "Aifat Selatan"
+		},
+		{
+			"id": 7,
+			"name": "Aifat Utara"
+		},
+		{
+			"id": 8,
+			"name": "Aitinyo"
+		},
+		{
+			"id": 9,
+			"name": "Aitinyo Barat"
+		},
+		{
+			"id": 10,
+			"name": "Aitinyo Raya"
+		},
+		{
+			"id": 11,
+			"name": "Aitinyo Tengah"
+		},
+		{
+			"id": 12,
+			"name": "Aitinyo Utara"
+		},
+		{
+			"id": 13,
+			"name": "Ayamaru"
+		},
+		{
+			"id": 14,
+			"name": "Ayamaru Barat"
+		},
+		{
+			"id": 15,
+			"name": "Ayamaru Jaya"
+		},
+		{
+			"id": 16,
+			"name": "Ayamaru Selatan"
+		},
+		{
+			"id": 17,
+			"name": "Ayamaru Selatan Jaya"
+		},
+		{
+			"id": 18,
+			"name": "Ayamaru Tengah"
+		},
+		{
+			"id": 19,
+			"name": "Ayamaru Timur"
+		},
+		{
+			"id": 20,
+			"name": "Ayamaru Timur Selatan"
+		},
+		{
+			"id": 21,
+			"name": "Ayamaru Utara"
+		},
+		{
+			"id": 22,
+			"name": "Ayamaru Utara Timur"
+		},
+		{
+			"id": 23,
+			"name": "Mare"
+		},
+		{
+			"id": 24,
+			"name": "Mare Selatan"
+		}
+	]
+}

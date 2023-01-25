@@ -1,0 +1,43 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Baubau",
+	"scraped_at": "2023-01-25T10:12:22.461Z",
+	"kabupaten": {
+		"id": 16,
+		"name": "Kota Baubau",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Baubau.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Batupoaro"
+		},
+		{
+			"id": 2,
+			"name": "Betoambari"
+		},
+		{
+			"id": 3,
+			"name": "Bungi"
+		},
+		{
+			"id": 4,
+			"name": "Kokalukuna"
+		},
+		{
+			"id": 5,
+			"name": "Lea-Lea"
+		},
+		{
+			"id": 6,
+			"name": "Murhum"
+		},
+		{
+			"id": 7,
+			"name": "Sorawolio"
+		},
+		{
+			"id": 8,
+			"name": "Wolio"
+		}
+	]
+}

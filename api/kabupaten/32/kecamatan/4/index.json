@@ -1,0 +1,131 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Halmahera Selatan",
+	"scraped_at": "2023-01-25T10:12:53.232Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Halmahera Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lambang_Kabupaten_Halmahera_Selatan.jpeg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Bacan Barat Utara"
+		},
+		{
+			"id": 2,
+			"name": "Bacan Barat"
+		},
+		{
+			"id": 3,
+			"name": "Bacan Selatan"
+		},
+		{
+			"id": 4,
+			"name": "Bacan Timur Selatan"
+		},
+		{
+			"id": 5,
+			"name": "Bacan Timur Tengah"
+		},
+		{
+			"id": 6,
+			"name": "Bacan Timur"
+		},
+		{
+			"id": 7,
+			"name": "Bacan"
+		},
+		{
+			"id": 8,
+			"name": "Gane Barat Selatan"
+		},
+		{
+			"id": 9,
+			"name": "Gane Barat Utara"
+		},
+		{
+			"id": 10,
+			"name": "Gane Barat"
+		},
+		{
+			"id": 11,
+			"name": "Gane Timur Selatan"
+		},
+		{
+			"id": 12,
+			"name": "Gane Timur Tengah"
+		},
+		{
+			"id": 13,
+			"name": "Gane Timur"
+		},
+		{
+			"id": 14,
+			"name": "Kasiruta Barat"
+		},
+		{
+			"id": 15,
+			"name": "Kasiruta Timur"
+		},
+		{
+			"id": 16,
+			"name": "Kayoa Barat"
+		},
+		{
+			"id": 17,
+			"name": "Kayoa Selatan"
+		},
+		{
+			"id": 18,
+			"name": "Kayoa Utara"
+		},
+		{
+			"id": 19,
+			"name": "Kayoa"
+		},
+		{
+			"id": 20,
+			"name": "Kepulauan Botang Lomang"
+		},
+		{
+			"id": 21,
+			"name": "Kepulauan Joronga"
+		},
+		{
+			"id": 22,
+			"name": "Makian Barat"
+		},
+		{
+			"id": 23,
+			"name": "Mandioli Selatan"
+		},
+		{
+			"id": 24,
+			"name": "Mandioli Utara"
+		},
+		{
+			"id": 25,
+			"name": "Obi Barat"
+		},
+		{
+			"id": 26,
+			"name": "Obi Selatan"
+		},
+		{
+			"id": 27,
+			"name": "Obi Timur"
+		},
+		{
+			"id": 28,
+			"name": "Obi Utara"
+		},
+		{
+			"id": 29,
+			"name": "Obi"
+		},
+		{
+			"id": 30,
+			"name": "Pulau Makian"
+		}
+	]
+}

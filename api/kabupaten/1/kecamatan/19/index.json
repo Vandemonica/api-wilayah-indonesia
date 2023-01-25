@@ -1,0 +1,47 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Banda Aceh",
+	"scraped_at": "2023-01-25T10:02:21.052Z",
+	"kabupaten": {
+		"id": 19,
+		"name": "Kota Banda Aceh",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lambang_Kota_Banda_Aceh.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Baiturrahman"
+		},
+		{
+			"id": 2,
+			"name": "Banda Raya"
+		},
+		{
+			"id": 3,
+			"name": "Jaya Baru"
+		},
+		{
+			"id": 4,
+			"name": "Kuta Alam"
+		},
+		{
+			"id": 5,
+			"name": "Kuta Raja"
+		},
+		{
+			"id": 6,
+			"name": "Lueng Bata"
+		},
+		{
+			"id": 7,
+			"name": "Meuraxa"
+		},
+		{
+			"id": 8,
+			"name": "Syiah Kuala"
+		},
+		{
+			"id": 9,
+			"name": "Ulee Kareng"
+		}
+	]
+}

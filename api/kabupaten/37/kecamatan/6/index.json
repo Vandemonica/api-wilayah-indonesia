@@ -1,0 +1,195 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Tolikara",
+	"scraped_at": "2023-01-25T10:13:46.016Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Tolikara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Lambang_Kabupaten_Tolikara.tif"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Karubaga"
+		},
+		{
+			"id": 2,
+			"name": "Bokondini"
+		},
+		{
+			"id": 3,
+			"name": "Kanggime"
+		},
+		{
+			"id": 4,
+			"name": "Kembu"
+		},
+		{
+			"id": 5,
+			"name": "Goyage"
+		},
+		{
+			"id": 6,
+			"name": "Wunim"
+		},
+		{
+			"id": 7,
+			"name": "Wina"
+		},
+		{
+			"id": 8,
+			"name": "Umagi"
+		},
+		{
+			"id": 9,
+			"name": "Panaga"
+		},
+		{
+			"id": 10,
+			"name": "Woniki"
+		},
+		{
+			"id": 11,
+			"name": "Kubu"
+		},
+		{
+			"id": 12,
+			"name": "Kondaga"
+		},
+		{
+			"id": 13,
+			"name": "Nelawi"
+		},
+		{
+			"id": 14,
+			"name": "Kuari"
+		},
+		{
+			"id": 15,
+			"name": "Bokoneri"
+		},
+		{
+			"id": 16,
+			"name": "Bewani"
+		},
+		{
+			"id": 17,
+			"name": "Nabunage"
+		},
+		{
+			"id": 18,
+			"name": "Gilubandu"
+		},
+		{
+			"id": 19,
+			"name": "Nunggawi"
+		},
+		{
+			"id": 20,
+			"name": "Gundagi"
+		},
+		{
+			"id": 21,
+			"name": "Numba"
+		},
+		{
+			"id": 22,
+			"name": "Timori"
+		},
+		{
+			"id": 23,
+			"name": "Dundu"
+		},
+		{
+			"id": 24,
+			"name": "Geya"
+		},
+		{
+			"id": 25,
+			"name": "Egiam"
+		},
+		{
+			"id": 26,
+			"name": "Poganeri"
+		},
+		{
+			"id": 27,
+			"name": "Kamboneri"
+		},
+		{
+			"id": 28,
+			"name": "Airgaram"
+		},
+		{
+			"id": 29,
+			"name": "Wari/Taiyeve II"
+		},
+		{
+			"id": 30,
+			"name": "Dow"
+		},
+		{
+			"id": 31,
+			"name": "Tagineri"
+		},
+		{
+			"id": 32,
+			"name": "Yuneri"
+		},
+		{
+			"id": 33,
+			"name": "Wakuwo"
+		},
+		{
+			"id": 34,
+			"name": "Gika"
+		},
+		{
+			"id": 35,
+			"name": "Telenggeme"
+		},
+		{
+			"id": 36,
+			"name": "Anawi"
+		},
+		{
+			"id": 37,
+			"name": "Wenam"
+		},
+		{
+			"id": 38,
+			"name": "Wugi"
+		},
+		{
+			"id": 39,
+			"name": "Danime"
+		},
+		{
+			"id": 40,
+			"name": "Tagime"
+		},
+		{
+			"id": 41,
+			"name": "Kai"
+		},
+		{
+			"id": 42,
+			"name": "Aweku"
+		},
+		{
+			"id": 43,
+			"name": "Bogonuk"
+		},
+		{
+			"id": 44,
+			"name": "Li Anogomma"
+		},
+		{
+			"id": 45,
+			"name": "Biuk"
+		},
+		{
+			"id": 46,
+			"name": "Yuko"
+		}
+	]
+}

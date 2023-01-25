@@ -1,0 +1,83 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tegal",
+	"scraped_at": "2023-01-25T10:06:57.426Z",
+	"kabupaten": {
+		"id": 26,
+		"name": "Kabupaten Tegal",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shield_of_Tegal_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Adiwerna"
+		},
+		{
+			"id": 2,
+			"name": "Balapulang"
+		},
+		{
+			"id": 3,
+			"name": "Bojong"
+		},
+		{
+			"id": 4,
+			"name": "Bumijawa"
+		},
+		{
+			"id": 5,
+			"name": "Dukuhturi"
+		},
+		{
+			"id": 6,
+			"name": "Dukuhwaru"
+		},
+		{
+			"id": 7,
+			"name": "Jatinegara"
+		},
+		{
+			"id": 8,
+			"name": "Kedungbanteng"
+		},
+		{
+			"id": 9,
+			"name": "Kramat"
+		},
+		{
+			"id": 10,
+			"name": "Lebaksiu"
+		},
+		{
+			"id": 11,
+			"name": "Margasari"
+		},
+		{
+			"id": 12,
+			"name": "Pagerbarang"
+		},
+		{
+			"id": 13,
+			"name": "Pangkah"
+		},
+		{
+			"id": 14,
+			"name": "Slawi, Tegal‎ (17 H"
+		},
+		{
+			"id": 15,
+			"name": "Suradadi"
+		},
+		{
+			"id": 16,
+			"name": "Talang"
+		},
+		{
+			"id": 17,
+			"name": "Tarub"
+		},
+		{
+			"id": 18,
+			"name": "Warureja"
+		}
+	]
+}

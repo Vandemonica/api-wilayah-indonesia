@@ -1,0 +1,87 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Jayapura",
+	"scraped_at": "2023-01-25T10:13:03.493Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Jayapura",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lambang_Kabupaten_Jayapura.jpeg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Sentani"
+		},
+		{
+			"id": 2,
+			"name": "Sentani Timur"
+		},
+		{
+			"id": 3,
+			"name": "Depapre"
+		},
+		{
+			"id": 4,
+			"name": "Sentani Barat"
+		},
+		{
+			"id": 5,
+			"name": "Kemtuk"
+		},
+		{
+			"id": 6,
+			"name": "Kemtuk Gresi"
+		},
+		{
+			"id": 7,
+			"name": "Nimboran"
+		},
+		{
+			"id": 8,
+			"name": "Nimbokrang"
+		},
+		{
+			"id": 9,
+			"name": "Unurum Guay"
+		},
+		{
+			"id": 10,
+			"name": "Demta"
+		},
+		{
+			"id": 11,
+			"name": "Kaureh"
+		},
+		{
+			"id": 12,
+			"name": "Ebungfao"
+		},
+		{
+			"id": 13,
+			"name": "Waibu"
+		},
+		{
+			"id": 14,
+			"name": "Nambluong"
+		},
+		{
+			"id": 15,
+			"name": "Yapsi"
+		},
+		{
+			"id": 16,
+			"name": "Airu"
+		},
+		{
+			"id": 17,
+			"name": "Raveni Rara"
+		},
+		{
+			"id": 18,
+			"name": "Gresi Selatan"
+		},
+		{
+			"id": 19,
+			"name": "Yokari"
+		}
+	]
+}

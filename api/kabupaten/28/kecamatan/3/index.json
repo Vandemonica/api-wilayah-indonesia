@@ -1,0 +1,39 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Buton Selatan",
+	"scraped_at": "2023-01-25T10:12:09.779Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Buton Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lambang_Kabupaten_Buton_Selatan.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Batauga"
+		},
+		{
+			"id": 2,
+			"name": "Batu Atas"
+		},
+		{
+			"id": 3,
+			"name": "Kadatua"
+		},
+		{
+			"id": 4,
+			"name": "Lapandewa"
+		},
+		{
+			"id": 5,
+			"name": "Sampolawa"
+		},
+		{
+			"id": 6,
+			"name": "Siompu Barat"
+		},
+		{
+			"id": 7,
+			"name": "Siompu"
+		}
+	]
+}

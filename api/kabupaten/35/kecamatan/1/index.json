@@ -1,0 +1,87 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Asmat",
+	"scraped_at": "2023-01-25T10:13:21.946Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Asmat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Lambang_Kabupaten_Asmat.jpeg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Agats"
+		},
+		{
+			"id": 2,
+			"name": "Atsj"
+		},
+		{
+			"id": 3,
+			"name": "Sawa Erma"
+		},
+		{
+			"id": 4,
+			"name": "Akat"
+		},
+		{
+			"id": 5,
+			"name": "Fayit"
+		},
+		{
+			"id": 6,
+			"name": "Pantai Kasuari"
+		},
+		{
+			"id": 7,
+			"name": "Suator"
+		},
+		{
+			"id": 8,
+			"name": "Suru-suru"
+		},
+		{
+			"id": 9,
+			"name": "Kolf Braza"
+		},
+		{
+			"id": 10,
+			"name": "Unir Sirau"
+		},
+		{
+			"id": 11,
+			"name": "Joerat"
+		},
+		{
+			"id": 12,
+			"name": "Pulau Tiga"
+		},
+		{
+			"id": 13,
+			"name": "Jetsy"
+		},
+		{
+			"id": 14,
+			"name": "Der Koumur"
+		},
+		{
+			"id": 15,
+			"name": "Kopay"
+		},
+		{
+			"id": 16,
+			"name": "Safan"
+		},
+		{
+			"id": 17,
+			"name": "Sirets"
+		},
+		{
+			"id": 18,
+			"name": "Ayip"
+		},
+		{
+			"id": 19,
+			"name": "Betcbamu"
+		}
+	]
+}

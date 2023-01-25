@@ -1,0 +1,71 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Nabire",
+	"scraped_at": "2023-01-25T10:13:32.143Z",
+	"kabupaten": {
+		"id": 5,
+		"name": "Kabupaten Nabire",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lambang_kabupaten_nabire.jpg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Nabire"
+		},
+		{
+			"id": 2,
+			"name": "Napan"
+		},
+		{
+			"id": 3,
+			"name": "Yaur"
+		},
+		{
+			"id": 4,
+			"name": "Uwapa"
+		},
+		{
+			"id": 5,
+			"name": "Wanggar"
+		},
+		{
+			"id": 6,
+			"name": "Siriwo"
+		},
+		{
+			"id": 7,
+			"name": "Makimi"
+		},
+		{
+			"id": 8,
+			"name": "Teluk Umar"
+		},
+		{
+			"id": 9,
+			"name": "Teluk Kimi"
+		},
+		{
+			"id": 10,
+			"name": "Yaro"
+		},
+		{
+			"id": 11,
+			"name": "Wapoga"
+		},
+		{
+			"id": 12,
+			"name": "Nabire Barat"
+		},
+		{
+			"id": 13,
+			"name": "Kepulauan Moora"
+		},
+		{
+			"id": 14,
+			"name": "Dipa"
+		},
+		{
+			"id": 15,
+			"name": "Menou"
+		}
+	]
+}

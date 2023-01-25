@@ -1,0 +1,115 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kediri",
+	"scraped_at": "2023-01-25T10:07:24.233Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kabupaten Kediri",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_Kabupaten_Kediri_%28Seal_of_Kediri_Regency%29.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Badas"
+		},
+		{
+			"id": 2,
+			"name": "Banyakan"
+		},
+		{
+			"id": 3,
+			"name": "Gampengrejo"
+		},
+		{
+			"id": 4,
+			"name": "Grogol"
+		},
+		{
+			"id": 5,
+			"name": "Gurah"
+		},
+		{
+			"id": 6,
+			"name": "Kandangan"
+		},
+		{
+			"id": 7,
+			"name": "Kandat"
+		},
+		{
+			"id": 8,
+			"name": "Kayen Kidul"
+		},
+		{
+			"id": 9,
+			"name": "Kepung"
+		},
+		{
+			"id": 10,
+			"name": "Kras"
+		},
+		{
+			"id": 11,
+			"name": "Kunjang"
+		},
+		{
+			"id": 12,
+			"name": "Mojo"
+		},
+		{
+			"id": 13,
+			"name": "Ngadiluwih"
+		},
+		{
+			"id": 14,
+			"name": "Ngancar"
+		},
+		{
+			"id": 15,
+			"name": "Ngasem"
+		},
+		{
+			"id": 16,
+			"name": "Pagu"
+		},
+		{
+			"id": 17,
+			"name": "Papar"
+		},
+		{
+			"id": 18,
+			"name": "Pare"
+		},
+		{
+			"id": 19,
+			"name": "Plemahan"
+		},
+		{
+			"id": 20,
+			"name": "Plosoklaten"
+		},
+		{
+			"id": 21,
+			"name": "Puncu"
+		},
+		{
+			"id": 22,
+			"name": "Purwoasri"
+		},
+		{
+			"id": 23,
+			"name": "Ringinrejo"
+		},
+		{
+			"id": 24,
+			"name": "Semen"
+		},
+		{
+			"id": 25,
+			"name": "Tarokan"
+		},
+		{
+			"id": 26,
+			"name": "Wates"
+		}
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kolaka Utara",
+	"scraped_at": "2023-01-25T10:12:14.742Z",
+	"kabupaten": {
+		"id": 8,
+		"name": "Kabupaten Kolaka Utara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Lambang_Kabupaten_Kolaka_Utara.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Batu Putih"
+		},
+		{
+			"id": 2,
+			"name": "Katoi"
+		},
+		{
+			"id": 3,
+			"name": "Kodeoha"
+		},
+		{
+			"id": 4,
+			"name": "Lambai"
+		},
+		{
+			"id": 5,
+			"name": "Lasusua"
+		},
+		{
+			"id": 6,
+			"name": "Ngapa"
+		},
+		{
+			"id": 7,
+			"name": "Pakue Tengah"
+		},
+		{
+			"id": 8,
+			"name": "Pakue Utara"
+		},
+		{
+			"id": 9,
+			"name": "Pakue"
+		},
+		{
+			"id": 10,
+			"name": "Porehu"
+		},
+		{
+			"id": 11,
+			"name": "Ranteangin"
+		},
+		{
+			"id": 12,
+			"name": "Tiwu"
+		},
+		{
+			"id": 13,
+			"name": "Tolala"
+		},
+		{
+			"id": 14,
+			"name": "Watunohu"
+		},
+		{
+			"id": 15,
+			"name": "Wawo"
+		}
+	]
+}

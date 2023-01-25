@@ -1,0 +1,51 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Pegunungan Arfak",
+	"scraped_at": "2023-01-25T10:13:16.995Z",
+	"kabupaten": {
+		"id": 5,
+		"name": "Kabupaten Pegunungan Arfak",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Lambang_Kabupaten_Pegunungan_Arfak.webp"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Anggi"
+		},
+		{
+			"id": 2,
+			"name": "Anggi Gida"
+		},
+		{
+			"id": 3,
+			"name": "Catubouw"
+		},
+		{
+			"id": 4,
+			"name": "Didohu"
+		},
+		{
+			"id": 5,
+			"name": "Hingk"
+		},
+		{
+			"id": 6,
+			"name": "Membey"
+		},
+		{
+			"id": 7,
+			"name": "Minyambouw"
+		},
+		{
+			"id": 8,
+			"name": "Sururey"
+		},
+		{
+			"id": 9,
+			"name": "Taige"
+		},
+		{
+			"id": 10,
+			"name": "Testega"
+		}
+	]
+}

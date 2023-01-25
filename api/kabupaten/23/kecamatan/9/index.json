@@ -1,0 +1,23 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Bontang",
+	"scraped_at": "2023-01-25T10:10:59.595Z",
+	"kabupaten": {
+		"id": 9,
+		"name": "Kota Bontang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bontang_City_Vector_Logo.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Bontang Barat"
+		},
+		{
+			"id": 2,
+			"name": "Bontang Selatan"
+		},
+		{
+			"id": 3,
+			"name": "Bontang Utara"
+		}
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Maluku Tengah",
+	"scraped_at": "2023-01-25T10:12:42.595Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Maluku Tengah",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lambang_Kabupaten_Maluku_Tengah.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Amahai"
+		},
+		{
+			"id": 2,
+			"name": "Banda"
+		},
+		{
+			"id": 3,
+			"name": "Kota Masohi"
+		},
+		{
+			"id": 4,
+			"name": "Leihitu Barat"
+		},
+		{
+			"id": 5,
+			"name": "Leihitu"
+		},
+		{
+			"id": 6,
+			"name": "Nusalaut"
+		},
+		{
+			"id": 7,
+			"name": "Pulau Haruku, Maluku Tengah‎ (1 K"
+		},
+		{
+			"id": 8,
+			"name": "Salahutu"
+		},
+		{
+			"id": 9,
+			"name": "Saparua Timur"
+		},
+		{
+			"id": 10,
+			"name": "Saparua"
+		},
+		{
+			"id": 11,
+			"name": "Seram Utara Barat"
+		},
+		{
+			"id": 12,
+			"name": "Seram Utara Timur Kobi"
+		},
+		{
+			"id": 13,
+			"name": "Seram Utara Timur Seti"
+		},
+		{
+			"id": 14,
+			"name": "Seram Utara"
+		},
+		{
+			"id": 15,
+			"name": "Tehoru"
+		},
+		{
+			"id": 16,
+			"name": "Teluk Elpaputih"
+		},
+		{
+			"id": 17,
+			"name": "Telutih"
+		},
+		{
+			"id": 18,
+			"name": "Teon Nila Serua"
+		}
+	]
+}

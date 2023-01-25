@@ -1,11 +1,22 @@
 {
   "name": "api-wilayah-indonesia",
   "version": "1.0.0",
-  "description": "Scrape data daerah administratif Indonesia",
+  "description": "Web scrape wilayah administratif 38 provinsi Indonesia",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vandemonica/api-wilayah-indonesia.git"
+  },
+  "keywords": [
+    "api",
+    "puppeteer",
+    "scrape",
+    "indonesia",
+    "nodejs"
+  ],
   "author": "Vandemonica",
   "license": "MIT",
   "dependencies": {

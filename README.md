@@ -4,7 +4,7 @@
 
 
 ## **About**
-Web scrape daftar wilayah administratif 38 provinsi beserta kabupaten dan kecamatan yang ada di Indonesia, scrape data Kemantren DI Yogyakarta dan Distrik Papua belum ada karena ada perbedaan halaman web (coming soon).
+Web scrape daftar nama wilayah administratif 38 provinsi beserta kabupaten dan kecamatan yang ada di Indonesia. Data bersumber dari halaman wikipedia
 
 Bebas untuk fork dan hosting sebagai github pages pribadi.
 

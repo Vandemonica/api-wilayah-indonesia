@@ -4,35 +4,42 @@
 
 ## **How to run scrape**
 Simply run
+
 `
 npm run start
 `
+
 *make sure to run npm install beforehand
 
 * * *
 
 ## **Endpoint**
-**Provinsi**
+### **Provinsi**
+
 https://vandemonica.github.io/api-wilayah-indonesia/api
 
 * * *
 
-**Kabupaten**
+### **Kabupaten**
+
 `
 https://vandemonica.github.io/api-wilayah-indonesia/api/kabupaten/[provinsi_id]
 `
 
 **Example:**
+
 https://vandemonica.github.io/api-wilayah-indonesia/api/kabupaten/15
 
 * * *
 
-**Kecamatan**
+### **Kecamatan**
+
 `
 https://vandemonica.github.io/api-wilayah-indonesia/api/kabupaten/[provinsi_id]/kecamatan/[kabupaten_id]
 `
 
 **Example:**
+
 https://vandemonica.github.io/api-wilayah-indonesia/api/kabupaten/15/kecamatan/38/
 
 * * *
@@ -53,4 +60,5 @@ Kemantren of DI Yogyakarta and District in Papua is coming soon
 
 ## **License**
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
 **[About MIT license](http://opensource.org/licenses/mit-license.php)**

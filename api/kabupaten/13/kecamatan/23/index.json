@@ -1,6 +1,6 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Semarang",
-	"scraped_at": "2023-01-25T10:06:54.998Z",
+	"scraped_at": "2023-01-26T08:25:57.343Z",
 	"kabupaten": {
 		"id": 23,
 		"name": "Kabupaten Semarang",
@@ -9,7 +9,7 @@
 	"data": [
 		{
 			"id": 1,
-			"name": "Ambarawa, Semarang‎ (1 K"
+			"name": "Ambarawa"
 		},
 		{
 			"id": 2,
@@ -33,7 +33,7 @@
 		},
 		{
 			"id": 7,
-			"name": "Bringin, Semarang‎ (1 K"
+			"name": "Bringin"
 		},
 		{
 			"id": 8,
@@ -53,7 +53,7 @@
 		},
 		{
 			"id": 12,
-			"name": "Pringapus, Semarang‎ (11 H"
+			"name": "Pringapus"
 		},
 		{
 			"id": 13,

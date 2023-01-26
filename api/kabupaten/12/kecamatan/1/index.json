@@ -1,6 +1,6 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bandung",
-	"scraped_at": "2023-01-25T10:05:15.383Z",
+	"scraped_at": "2023-01-26T08:25:17.383Z",
 	"kabupaten": {
 		"id": 1,
 		"name": "Kabupaten Bandung",
@@ -77,7 +77,7 @@
 		},
 		{
 			"id": 18,
-			"name": "Kutawaringin, Bandung‎ (1 K"
+			"name": "Kutawaringin"
 		},
 		{
 			"id": 19,
@@ -129,7 +129,7 @@
 		},
 		{
 			"id": 31,
-			"name": "Soreang, Bandung‎ (1 K"
+			"name": "Soreang"
 		}
 	]
 }

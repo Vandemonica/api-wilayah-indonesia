@@ -1,6 +1,6 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Jombang",
-	"scraped_at": "2023-01-25T10:07:21.707Z",
+	"scraped_at": "2023-01-26T08:26:22.875Z",
 	"kabupaten": {
 		"id": 8,
 		"name": "Kabupaten Jombang",
@@ -9,7 +9,7 @@
 	"data": [
 		{
 			"id": 1,
-			"name": "Bandarkedungmulyo, Jombang‎ (11 H"
+			"name": "Bandarkedungmulyo"
 		},
 		{
 			"id": 2,
@@ -29,7 +29,7 @@
 		},
 		{
 			"id": 6,
-			"name": "Jombang, Jombang‎ (22 H"
+			"name": "Jombang"
 		},
 		{
 			"id": 7,
@@ -69,7 +69,7 @@
 		},
 		{
 			"id": 16,
-			"name": "Peterongan, Jombang‎ (16 H"
+			"name": "Peterongan"
 		},
 		{
 			"id": 17,

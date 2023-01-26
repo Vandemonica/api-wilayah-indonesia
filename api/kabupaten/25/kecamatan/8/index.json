@@ -1,6 +1,6 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Minahasa",
-	"scraped_at": "2023-01-25T10:11:22.370Z",
+	"scraped_at": "2023-01-26T08:28:32.241Z",
 	"kabupaten": {
 		"id": 8,
 		"name": "Kabupaten Minahasa",
@@ -25,7 +25,7 @@
 		},
 		{
 			"id": 5,
-			"name": "Kawangkoan Utara, Minahasa‎ (8 H"
+			"name": "Kawangkoan Utara"
 		},
 		{
 			"id": 6,
@@ -105,7 +105,7 @@
 		},
 		{
 			"id": 25,
-			"name": "Tondano Utara, Minahasa‎ (11 H"
+			"name": "Tondano Utara"
 		}
 	]
 }

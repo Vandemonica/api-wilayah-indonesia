@@ -1,6 +1,6 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Maros",
-	"scraped_at": "2023-01-25T10:11:54.407Z",
+	"scraped_at": "2023-01-26T08:29:05.524Z",
 	"kabupaten": {
 		"id": 12,
 		"name": "Kabupaten Maros",
@@ -9,59 +9,59 @@
 	"data": [
 		{
 			"id": 1,
-			"name": "Bantimurung, Maros‎ (63 H"
+			"name": "Bantimurung"
 		},
 		{
 			"id": 2,
-			"name": "Bontoa, Maros‎ (19 H"
+			"name": "Bontoa"
 		},
 		{
 			"id": 3,
-			"name": "Camba, Maros‎ (11 H"
+			"name": "Camba"
 		},
 		{
 			"id": 4,
-			"name": "Cenrana, Maros‎ (1 K, 22 H"
+			"name": "Cenrana"
 		},
 		{
 			"id": 5,
-			"name": "Lau, Maros‎ (8 H"
+			"name": "Lau"
 		},
 		{
 			"id": 6,
-			"name": "Mallawa, Maros‎ (16 H"
+			"name": "Mallawa"
 		},
 		{
 			"id": 7,
-			"name": "Mandai, Maros‎ (8 H"
+			"name": "Mandai"
 		},
 		{
 			"id": 8,
-			"name": "Maros Baru, Maros‎ (13 H"
+			"name": "Maros Baru"
 		},
 		{
 			"id": 9,
-			"name": "Marusu, Maros‎ (10 H"
+			"name": "Marusu"
 		},
 		{
 			"id": 10,
-			"name": "Moncongloe, Maros‎ (8 H"
+			"name": "Moncongloe"
 		},
 		{
 			"id": 11,
-			"name": "Simbang, Maros‎ (42 H"
+			"name": "Simbang"
 		},
 		{
 			"id": 12,
-			"name": "Tanralili, Maros‎ (10 H"
+			"name": "Tanralili"
 		},
 		{
 			"id": 13,
-			"name": "Tompobulu, Maros‎ (16 H"
+			"name": "Tompobulu"
 		},
 		{
 			"id": 14,
-			"name": "Turikale, Maros‎ (13 H"
+			"name": "Turikale"
 		}
 	]
 }

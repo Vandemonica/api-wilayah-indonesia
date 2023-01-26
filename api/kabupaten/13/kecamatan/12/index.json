@@ -1,6 +1,6 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kebumen",
-	"scraped_at": "2023-01-25T10:06:36.450Z",
+	"scraped_at": "2023-01-26T08:25:48.884Z",
 	"kabupaten": {
 		"id": 12,
 		"name": "Kabupaten Kebumen",
@@ -9,7 +9,7 @@
 	"data": [
 		{
 			"id": 1,
-			"name": "Adimulyo, Kebumen‎ (1 K"
+			"name": "Adimulyo"
 		},
 		{
 			"id": 2,
@@ -21,7 +21,7 @@
 		},
 		{
 			"id": 4,
-			"name": "Ayah, Kebumen‎ (22 H"
+			"name": "Ayah"
 		},
 		{
 			"id": 5,
@@ -53,7 +53,7 @@
 		},
 		{
 			"id": 12,
-			"name": "Kebumen, Kebumen‎ (1 K, 38 H"
+			"name": "Kebumen"
 		},
 		{
 			"id": 13,
@@ -109,7 +109,7 @@
 		},
 		{
 			"id": 26,
-			"name": "Sruweng, Kebumen‎ (26 H"
+			"name": "Sruweng"
 		}
 	]
 }

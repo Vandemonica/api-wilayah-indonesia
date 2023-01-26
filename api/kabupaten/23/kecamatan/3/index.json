@@ -1,6 +1,6 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kutai Kartanegara",
-	"scraped_at": "2023-01-25T10:10:46.848Z",
+	"scraped_at": "2023-01-26T08:28:09.611Z",
 	"kabupaten": {
 		"id": 3,
 		"name": "Kabupaten Kutai Kartanegara",
@@ -69,7 +69,7 @@
 		},
 		{
 			"id": 16,
-			"name": "Sangasanga, Kutai Kartanegara‎ (8 H"
+			"name": "Sangasanga"
 		},
 		{
 			"id": 17,
@@ -81,11 +81,11 @@
 		},
 		{
 			"id": 19,
-			"name": "Tenggarong Seberang, Kutai Kartanegara‎ (1 K"
+			"name": "Tenggarong Seberang"
 		},
 		{
 			"id": 20,
-			"name": "Tenggarong, Kutai Kartanegara‎ (1 K, 18 H"
+			"name": "Tenggarong"
 		}
 	]
 }

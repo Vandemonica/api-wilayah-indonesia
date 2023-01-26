@@ -1,6 +1,6 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tabanan",
-	"scraped_at": "2023-01-25T10:08:20.855Z",
+	"scraped_at": "2023-01-26T08:27:04.794Z",
 	"kabupaten": {
 		"id": 8,
 		"name": "Kabupaten Tabanan",
@@ -9,7 +9,7 @@
 	"data": [
 		{
 			"id": 1,
-			"name": "Baturiti, Tabanan‎ (13 H"
+			"name": "Baturiti"
 		},
 		{
 			"id": 2,
@@ -45,7 +45,7 @@
 		},
 		{
 			"id": 10,
-			"name": "Tabanan, Tabanan‎ (14 H"
+			"name": "Tabanan"
 		}
 	]
 }

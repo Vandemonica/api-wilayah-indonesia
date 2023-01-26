@@ -1,6 +1,6 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bulungan",
-	"scraped_at": "2023-01-25T10:11:03.705Z",
+	"scraped_at": "2023-01-26T08:28:16.803Z",
 	"kabupaten": {
 		"id": 1,
 		"name": "Kabupaten Bulungan",
@@ -9,7 +9,7 @@
 	"data": [
 		{
 			"id": 1,
-			"name": "Bunyu, Bulungan‎ (6 H"
+			"name": "Bunyu"
 		},
 		{
 			"id": 2,
@@ -45,7 +45,7 @@
 		},
 		{
 			"id": 10,
-			"name": "Tanjung Selor, Bulungan‎ (1 K"
+			"name": "Tanjung Selor"
 		}
 	]
 }

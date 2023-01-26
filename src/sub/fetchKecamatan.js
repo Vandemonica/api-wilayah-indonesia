@@ -21,12 +21,9 @@ async function fetchKecamatan(page, region, provinceId, index) {
     return [...document.querySelectorAll(selector)].filter(
       i => i.innerText.trim()
     ).map((item, index) => {
-      let slices = item.innerText.split(',');
-      slices.pop();
-
       return {
         id: (index + 1),
-        name: slices.join(',')
+        name: item.innerText.split(',')[0]
       };
     }).filter(i => i);
   }, selector);

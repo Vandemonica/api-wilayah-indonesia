@@ -28,14 +28,19 @@ npm run start
 ## **Endpoint**
 ### **Provinsi**
 
-https://vandemonica.github.io/api-wilayah-indonesia/api
+`
+[site_url]/api
+`
 
+**Example:**
+
+https://vandemonica.github.io/api-wilayah-indonesia/api
 
 
 ### **Kabupaten**
 
 `
-https://vandemonica.github.io/api-wilayah-indonesia/api/kabupaten/[provinsi_id]
+[site_url]/api/kabupaten/[provinsi_id]
 `
 
 **Example:**
@@ -47,7 +52,7 @@ https://vandemonica.github.io/api-wilayah-indonesia/api/kabupaten/15
 ### **Kecamatan**
 
 `
-https://vandemonica.github.io/api-wilayah-indonesia/api/kabupaten/[provinsi_id]/kecamatan/[kabupaten_id]
+[site_url]/[provinsi_id]/kecamatan/[kabupaten_id]
 `
 
 **Example:**

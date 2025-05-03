@@ -1,0 +1,87 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kapanewon,_kemantren,_kalurahan,_dan_kelurahan_di_Daerah_Istimewa_Yogyakarta",
+	"scraped_at": "2025-05-03T17:58:30.834Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Sleman",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Seal_of_Sleman_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": ""
+		},
+		{
+			"id": 2,
+			"name": "Berbah"
+		},
+		{
+			"id": 3,
+			"name": "Cangkringan"
+		},
+		{
+			"id": 4,
+			"name": "Depok"
+		},
+		{
+			"id": 5,
+			"name": "Gamping"
+		},
+		{
+			"id": 6,
+			"name": "Godean"
+		},
+		{
+			"id": 7,
+			"name": "Kalasan"
+		},
+		{
+			"id": 8,
+			"name": "Minggir"
+		},
+		{
+			"id": 9,
+			"name": "Mlati"
+		},
+		{
+			"id": 10,
+			"name": "Moyudan"
+		},
+		{
+			"id": 11,
+			"name": "Ngaglik"
+		},
+		{
+			"id": 12,
+			"name": "Ngemplak"
+		},
+		{
+			"id": 13,
+			"name": "Pakem"
+		},
+		{
+			"id": 14,
+			"name": "Prambanan"
+		},
+		{
+			"id": 15,
+			"name": "Seyegan"
+		},
+		{
+			"id": 16,
+			"name": "Sleman"
+		},
+		{
+			"id": 17,
+			"name": "Tempel"
+		},
+		{
+			"id": 18,
+			"name": "Turi"
+		},
+		{
+			"id": 19,
+			"name": ""
+		}
+	]
+}

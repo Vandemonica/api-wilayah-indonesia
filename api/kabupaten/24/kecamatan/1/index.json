@@ -1,0 +1,95 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Biak Numfor",
+	"scraped_at": "2025-05-03T18:02:51.635Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Biak Numfor",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Lambang_Kabupaten_Biak_Numfor.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Biak Kota"
+		},
+		{
+			"id": 2,
+			"name": "BurokupFandoiMandalaSaramonSoridoWaupnorYenures"
+		},
+		{
+			"id": 3,
+			"name": "Biak Utara"
+		},
+		{
+			"id": 4,
+			"name": "Biak Timur"
+		},
+		{
+			"id": 5,
+			"name": "Numfor Barat"
+		},
+		{
+			"id": 6,
+			"name": "Numfor Timur"
+		},
+		{
+			"id": 7,
+			"name": "Biak Barat"
+		},
+		{
+			"id": 8,
+			"name": "Warsa"
+		},
+		{
+			"id": 9,
+			"name": "Padaido"
+		},
+		{
+			"id": 10,
+			"name": "Yendidori"
+		},
+		{
+			"id": 11,
+			"name": "Samofa"
+		},
+		{
+			"id": 12,
+			"name": "AnjareuwBrambakenKarang MuliaMansinyasSamofaSnerboYafdas"
+		},
+		{
+			"id": 13,
+			"name": "Yawosi"
+		},
+		{
+			"id": 14,
+			"name": "Andey"
+		},
+		{
+			"id": 15,
+			"name": "Swandiwe"
+		},
+		{
+			"id": 16,
+			"name": "Bruyadori"
+		},
+		{
+			"id": 17,
+			"name": "Orkeri"
+		},
+		{
+			"id": 18,
+			"name": "Poiru"
+		},
+		{
+			"id": 19,
+			"name": "Aimando Padaido"
+		},
+		{
+			"id": 20,
+			"name": "Oridek"
+		},
+		{
+			"id": 21,
+			"name": "Bondifuar"
+		}
+	]
+}

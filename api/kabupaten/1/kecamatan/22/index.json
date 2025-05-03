@@ -1,0 +1,23 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Sabang",
+	"scraped_at": "2025-05-03T17:57:48.415Z",
+	"kabupaten": {
+		"id": 22,
+		"name": "Kota Sabang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Lambang_Kota_Sabang.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Sukajaya"
+		},
+		{
+			"id": 2,
+			"name": "Sukakarya"
+		},
+		{
+			"id": 3,
+			"name": "Sukamakmue"
+		}
+	]
+}

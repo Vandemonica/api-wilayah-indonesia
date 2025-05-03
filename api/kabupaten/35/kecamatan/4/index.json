@@ -1,0 +1,35 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bolaang Mongondow Utara",
+	"scraped_at": "2025-05-03T18:04:55.649Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Bolaang Mongondow Utara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lambang_Kabupaten_Bolaang_Mongondow_Utara.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Bintauna"
+		},
+		{
+			"id": 2,
+			"name": "Bolangitang Barat"
+		},
+		{
+			"id": 3,
+			"name": "Bolangitang Timur"
+		},
+		{
+			"id": 4,
+			"name": "Kaidipang"
+		},
+		{
+			"id": 5,
+			"name": "Pinogaluman"
+		},
+		{
+			"id": 6,
+			"name": "Sangkub"
+		}
+	]
+}

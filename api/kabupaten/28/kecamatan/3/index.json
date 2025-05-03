@@ -1,0 +1,79 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Mappi",
+	"scraped_at": "2025-05-03T18:03:50.372Z",
+	"kabupaten": {
+		"id": 3,
+		"name": "Kabupaten Mappi",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lambang_Kabupaten_Mappi.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Obaa"
+		},
+		{
+			"id": 2,
+			"name": "Kepi"
+		},
+		{
+			"id": 3,
+			"name": "Mambioman Bapai"
+		},
+		{
+			"id": 4,
+			"name": "Citak Mitak"
+		},
+		{
+			"id": 5,
+			"name": "Edera"
+		},
+		{
+			"id": 6,
+			"name": "Bade"
+		},
+		{
+			"id": 7,
+			"name": "Haju"
+		},
+		{
+			"id": 8,
+			"name": "Assue"
+		},
+		{
+			"id": 9,
+			"name": "Kaibar"
+		},
+		{
+			"id": 10,
+			"name": "Passue"
+		},
+		{
+			"id": 11,
+			"name": "Minyamur"
+		},
+		{
+			"id": 12,
+			"name": "Venaha"
+		},
+		{
+			"id": 13,
+			"name": "Syahcame"
+		},
+		{
+			"id": 14,
+			"name": "Yakomi"
+		},
+		{
+			"id": 15,
+			"name": "Bamgi"
+		},
+		{
+			"id": 16,
+			"name": "Passue Bawah"
+		},
+		{
+			"id": 17,
+			"name": "Ti Zain"
+		}
+	]
+}

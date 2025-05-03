@@ -1,0 +1,90 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kalimantan_Selatan",
+	"scraped_at": "2025-05-03T18:00:25.047Z",
+	"provinsi": {
+		"id": 13,
+		"code": "63",
+		"name": "Kalimantan Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Coat_of_arms_of_South_Kalimantan.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Kabupaten Balangan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lambang_Kabupaten_Balangan.png",
+			"capital": "Paringin"
+		},
+		{
+			"id": 2,
+			"name": "Kabupaten Banjar",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Coats_of_arms_of_Banjar_Regency.svg",
+			"capital": "Martapura"
+		},
+		{
+			"id": 3,
+			"name": "Kabupaten Barito Kuala",
+			"emblem": "https://upload.wikimedia.org/wikipedia/id/b/bc/Lambang_Kabupaten_Barito_Kuala.png",
+			"capital": "Marabahan"
+		},
+		{
+			"id": 4,
+			"name": "Kabupaten Hulu Sungai Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Coats_of_arms_of_Hulu_Sungai_Selatan_Regency.svg",
+			"capital": "Kandangan"
+		},
+		{
+			"id": 5,
+			"name": "Kabupaten Hulu Sungai Tengah",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lambang_Kabupaten_Hulu_Sungai_Tengah.png",
+			"capital": "Barabai"
+		},
+		{
+			"id": 6,
+			"name": "Kabupaten Hulu Sungai Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lambang_Kabupaten_Hulu_Sungai_Utara.png",
+			"capital": "Amuntai"
+		},
+		{
+			"id": 7,
+			"name": "Kabupaten Kotabaru",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Coats_of_arms_of_Kotabaru_Regency.svg",
+			"capital": "Kotabaru"
+		},
+		{
+			"id": 8,
+			"name": "Kabupaten Tabalong",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Lambang_Kabupaten_Tabalong.png",
+			"capital": "Tanjung"
+		},
+		{
+			"id": 9,
+			"name": "Kabupaten Tanah Bumbu",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Coats_of_arms_of_Tanah_Bumbu.svg",
+			"capital": "Batulicin"
+		},
+		{
+			"id": 10,
+			"name": "Kabupaten Tanah Laut",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lambang_Kabupaten_Tanah_Laut.svg",
+			"capital": "Pelaihari"
+		},
+		{
+			"id": 11,
+			"name": "Kabupaten Tapin",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Coats_of_arms_of_Tapin_Regency.svg",
+			"capital": "Rantau"
+		},
+		{
+			"id": 12,
+			"name": "Kota Banjarbaru",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Lambang_Kota_Banjarbaru.svg",
+			"capital": "-"
+		},
+		{
+			"id": 13,
+			"name": "Kota Banjarmasin",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Banjarmasin_Logo.svg",
+			"capital": "-"
+		}
+	]
+}

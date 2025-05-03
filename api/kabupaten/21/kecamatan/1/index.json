@@ -1,0 +1,51 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Halmahera Barat",
+	"scraped_at": "2025-05-03T18:02:00.578Z",
+	"kabupaten": {
+		"id": 1,
+		"name": "Kabupaten Halmahera Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lambang_Kabupaten_Halmahera_Barat.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Ibu"
+		},
+		{
+			"id": 2,
+			"name": "Ibu Selatan"
+		},
+		{
+			"id": 3,
+			"name": "Jailolo"
+		},
+		{
+			"id": 4,
+			"name": "Jailolo Selatan"
+		},
+		{
+			"id": 5,
+			"name": "Jailolo Timur"
+		},
+		{
+			"id": 6,
+			"name": "Loloda Tengah"
+		},
+		{
+			"id": 7,
+			"name": "Loloda"
+		},
+		{
+			"id": 8,
+			"name": "Sahu Timur"
+		},
+		{
+			"id": 9,
+			"name": "Sahu"
+		},
+		{
+			"id": 10,
+			"name": "Tabaru"
+		}
+	]
+}

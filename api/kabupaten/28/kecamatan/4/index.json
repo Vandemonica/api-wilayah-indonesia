@@ -1,0 +1,103 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Merauke",
+	"scraped_at": "2025-05-03T18:03:51.211Z",
+	"kabupaten": {
+		"id": 4,
+		"name": "Kabupaten Merauke",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lambang_Kabupaten_Merauke.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Merauke"
+		},
+		{
+			"id": 2,
+			"name": "Bambu PemaliKamahedogaKamunduKarang IndahKelapa LimaMandalaMaroMuliRimba JayaSamkaiSeringgu Jaya"
+		},
+		{
+			"id": 3,
+			"name": "Muting"
+		},
+		{
+			"id": 4,
+			"name": "Okaba"
+		},
+		{
+			"id": 5,
+			"name": "Kimaam"
+		},
+		{
+			"id": 6,
+			"name": "Semangga"
+		},
+		{
+			"id": 7,
+			"name": "Tanah Miring"
+		},
+		{
+			"id": 8,
+			"name": "Jagebob"
+		},
+		{
+			"id": 9,
+			"name": "Sota"
+		},
+		{
+			"id": 10,
+			"name": "Ulilin"
+		},
+		{
+			"id": 11,
+			"name": "Elikobal"
+		},
+		{
+			"id": 12,
+			"name": "Kurik"
+		},
+		{
+			"id": 13,
+			"name": "Naukenjerai"
+		},
+		{
+			"id": 14,
+			"name": "Animha"
+		},
+		{
+			"id": 15,
+			"name": "Malind"
+		},
+		{
+			"id": 16,
+			"name": "Tubang"
+		},
+		{
+			"id": 17,
+			"name": "Ngguti"
+		},
+		{
+			"id": 18,
+			"name": "Kaptel"
+		},
+		{
+			"id": 19,
+			"name": "Tabonji"
+		},
+		{
+			"id": 20,
+			"name": "Waan"
+		},
+		{
+			"id": 21,
+			"name": "Ilwayab"
+		},
+		{
+			"id": 22,
+			"name": "Padua"
+		},
+		{
+			"id": 23,
+			"name": "Kontuar"
+		}
+	]
+}

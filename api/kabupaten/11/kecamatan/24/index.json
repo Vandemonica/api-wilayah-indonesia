@@ -1,0 +1,83 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sidoarjo",
+	"scraped_at": "2025-05-03T18:00:06.636Z",
+	"kabupaten": {
+		"id": 24,
+		"name": "Kabupaten Sidoarjo",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Seal_of_Sidoarjo_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Balongbendo"
+		},
+		{
+			"id": 2,
+			"name": "Buduran"
+		},
+		{
+			"id": 3,
+			"name": "Candi"
+		},
+		{
+			"id": 4,
+			"name": "Gedangan"
+		},
+		{
+			"id": 5,
+			"name": "Jabon"
+		},
+		{
+			"id": 6,
+			"name": "Krembung"
+		},
+		{
+			"id": 7,
+			"name": "Krian"
+		},
+		{
+			"id": 8,
+			"name": "Porong"
+		},
+		{
+			"id": 9,
+			"name": "Prambon"
+		},
+		{
+			"id": 10,
+			"name": "Sedati"
+		},
+		{
+			"id": 11,
+			"name": "Sidoarjo"
+		},
+		{
+			"id": 12,
+			"name": "Sukodono"
+		},
+		{
+			"id": 13,
+			"name": "Taman"
+		},
+		{
+			"id": 14,
+			"name": "Tanggulangin"
+		},
+		{
+			"id": 15,
+			"name": "Tarik"
+		},
+		{
+			"id": 16,
+			"name": "Tulangan"
+		},
+		{
+			"id": 17,
+			"name": "Waru"
+		},
+		{
+			"id": 18,
+			"name": "Wonoayu"
+		}
+	]
+}

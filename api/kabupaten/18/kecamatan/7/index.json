@@ -1,0 +1,27 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tanjung Pinang",
+	"scraped_at": "2025-05-03T18:01:21.220Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kota Tanjung Pinang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Lambang_Kota_Tanjungpinang.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Bukit Bestari"
+		},
+		{
+			"id": 2,
+			"name": "Tanjung Pinang Barat"
+		},
+		{
+			"id": 3,
+			"name": "Tanjung Pinang Kota"
+		},
+		{
+			"id": 4,
+			"name": "Tanjung Pinang Timur"
+		}
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Mukomuko",
+	"scraped_at": "2025-05-03T17:58:12.192Z",
+	"kabupaten": {
+		"id": 7,
+		"name": "Kabupaten Mukomuko",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_Mukomuko.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Air Dikit"
+		},
+		{
+			"id": 2,
+			"name": "Air Manjunto"
+		},
+		{
+			"id": 3,
+			"name": "Air Rami"
+		},
+		{
+			"id": 4,
+			"name": "Ipuh"
+		},
+		{
+			"id": 5,
+			"name": "Kota Mukomuko"
+		},
+		{
+			"id": 6,
+			"name": "Lubuk Pinang"
+		},
+		{
+			"id": 7,
+			"name": "Malin Deman"
+		},
+		{
+			"id": 8,
+			"name": "Penarik"
+		},
+		{
+			"id": 9,
+			"name": "Pondok Suguh"
+		},
+		{
+			"id": 10,
+			"name": "Selagan Raya"
+		},
+		{
+			"id": 11,
+			"name": "Sungai Rumbai"
+		},
+		{
+			"id": 12,
+			"name": "Teramang Jaya"
+		},
+		{
+			"id": 13,
+			"name": "Teras Terunjam"
+		},
+		{
+			"id": 14,
+			"name": "V Koto"
+		},
+		{
+			"id": 15,
+			"name": "XIV Koto"
+		}
+	]
+}

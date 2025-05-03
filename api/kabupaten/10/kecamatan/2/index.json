@@ -1,0 +1,119 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Banyumas",
+	"scraped_at": "2025-05-03T17:59:30.883Z",
+	"kabupaten": {
+		"id": 2,
+		"name": "Kabupaten Banyumas",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Emblem_of_Banyumas_Regency.svg"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Ajibarang"
+		},
+		{
+			"id": 2,
+			"name": "Banyumas"
+		},
+		{
+			"id": 3,
+			"name": "Baturraden"
+		},
+		{
+			"id": 4,
+			"name": "Cilongok"
+		},
+		{
+			"id": 5,
+			"name": "Gumelar"
+		},
+		{
+			"id": 6,
+			"name": "Jatilawang"
+		},
+		{
+			"id": 7,
+			"name": "Kalibagor"
+		},
+		{
+			"id": 8,
+			"name": "Karanglewas"
+		},
+		{
+			"id": 9,
+			"name": "Kebasen"
+		},
+		{
+			"id": 10,
+			"name": "Kedungbanteng"
+		},
+		{
+			"id": 11,
+			"name": "Kembaran"
+		},
+		{
+			"id": 12,
+			"name": "Kemranjen"
+		},
+		{
+			"id": 13,
+			"name": "Lumbir"
+		},
+		{
+			"id": 14,
+			"name": "Patikraja"
+		},
+		{
+			"id": 15,
+			"name": "Pekuncen"
+		},
+		{
+			"id": 16,
+			"name": "Purwojati"
+		},
+		{
+			"id": 17,
+			"name": "Purwokerto Barat"
+		},
+		{
+			"id": 18,
+			"name": "Purwokerto Selatan"
+		},
+		{
+			"id": 19,
+			"name": "Purwokerto Timur"
+		},
+		{
+			"id": 20,
+			"name": "Purwokerto Utara"
+		},
+		{
+			"id": 21,
+			"name": "Rawalo"
+		},
+		{
+			"id": 22,
+			"name": "Sokaraja"
+		},
+		{
+			"id": 23,
+			"name": "Somagede"
+		},
+		{
+			"id": 24,
+			"name": "Sumbang"
+		},
+		{
+			"id": 25,
+			"name": "Sumpiuh"
+		},
+		{
+			"id": 26,
+			"name": "Tambak"
+		},
+		{
+			"id": 27,
+			"name": "Wangon"
+		}
+	]
+}

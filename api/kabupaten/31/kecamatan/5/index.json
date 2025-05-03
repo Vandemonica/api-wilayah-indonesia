@@ -1,79 +1,59 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Maluku Barat Daya",
-	"scraped_at": "2023-01-26T08:30:00.814Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pasangkayu",
+	"scraped_at": "2025-05-03T17:33:51.647Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Maluku Barat Daya",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lambang_Kabupaten_Maluku_Barat_Daya.png"
+		"name": "Kabupaten Pasangkayu",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kabupaten_Pasangkayu.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Damer"
+			"name": "Bambaira"
 		},
 		{
 			"id": 2,
-			"name": "Dawelor Dawera"
+			"name": "Bambalamotu"
 		},
 		{
 			"id": 3,
-			"name": "Kepulauan Romang"
+			"name": "Baras"
 		},
 		{
 			"id": 4,
-			"name": "Kisar Utara"
+			"name": "Bulu Taba"
 		},
 		{
 			"id": 5,
-			"name": "Lakor"
+			"name": "Dapurang"
 		},
 		{
 			"id": 6,
-			"name": "Mndona Hiera"
+			"name": "Duripoku"
 		},
 		{
 			"id": 7,
-			"name": "Moa Lakor"
+			"name": "Lariang"
 		},
 		{
 			"id": 8,
-			"name": "Pulau Letti"
+			"name": "Pasangkayu"
 		},
 		{
 			"id": 9,
-			"name": "Pulau Masela"
+			"name": "Pedongga"
 		},
 		{
 			"id": 10,
-			"name": "Pulau Wetang"
+			"name": "Sarjo"
 		},
 		{
 			"id": 11,
-			"name": "Pulau-Pulau Babar Timur"
+			"name": "Sarudu"
 		},
 		{
 			"id": 12,
-			"name": "Pulau-Pulau Babar"
-		},
-		{
-			"id": 13,
-			"name": "Pulau-Pulau Terselatan"
-		},
-		{
-			"id": 14,
-			"name": "Wetar Barat"
-		},
-		{
-			"id": 15,
-			"name": "Wetar Timur"
-		},
-		{
-			"id": 16,
-			"name": "Wetar Utara"
-		},
-		{
-			"id": 17,
-			"name": "Wetar"
+			"name": "Tikke Raya"
 		}
 	]
 }

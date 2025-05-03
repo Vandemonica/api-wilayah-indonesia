@@ -1,107 +1,107 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lampung Timur",
-	"scraped_at": "2023-01-26T08:24:41.400Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Merangin",
+	"scraped_at": "2025-05-03T17:28:08.208Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Lampung Timur",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lambang_Kabupaten_Lampung_Timur.png"
+		"name": "Kabupaten Merangin",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lambang_Kabupaten_Merangin.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bandar Sribhawono"
+			"name": "Bangko Barat"
 		},
 		{
 			"id": 2,
-			"name": "Batanghari Nuban"
+			"name": "Bangko"
 		},
 		{
 			"id": 3,
-			"name": "Batanghari"
+			"name": "Batang Masumai"
 		},
 		{
 			"id": 4,
-			"name": "Braja Selebah"
+			"name": "Jangkat Timur"
 		},
 		{
 			"id": 5,
-			"name": "Bumi Agung"
+			"name": "Jangkat"
 		},
 		{
 			"id": 6,
-			"name": "Gunung Pelindung"
+			"name": "Lembah Masurai"
 		},
 		{
 			"id": 7,
-			"name": "Jabung"
+			"name": "Margo Tabir"
 		},
 		{
 			"id": 8,
-			"name": "Labuhan Maringgai"
+			"name": "Muara Siau"
 		},
 		{
 			"id": 9,
-			"name": "Labuhan Ratu"
+			"name": "Nalo Tantan"
 		},
 		{
 			"id": 10,
-			"name": "Marga Sekampung"
+			"name": "Pamenang Barat"
 		},
 		{
 			"id": 11,
-			"name": "Marga Tiga"
+			"name": "Pamenang Selatan"
 		},
 		{
 			"id": 12,
-			"name": "Mataram Baru"
+			"name": "Pamenang"
 		},
 		{
 			"id": 13,
-			"name": "Melinting"
+			"name": "Pangkalan Jambu"
 		},
 		{
 			"id": 14,
-			"name": "Metro Kibang"
+			"name": "Renah Pamenang"
 		},
 		{
 			"id": 15,
-			"name": "Pasir Sakti"
+			"name": "Renah Pembarap"
 		},
 		{
 			"id": 16,
-			"name": "Pekalongan"
+			"name": "Sungai Manau"
 		},
 		{
 			"id": 17,
-			"name": "Purbolinggo"
+			"name": "Tabir Barat"
 		},
 		{
 			"id": 18,
-			"name": "Raman Utara"
+			"name": "Tabir Ilir"
 		},
 		{
 			"id": 19,
-			"name": "Sekampung Udik"
+			"name": "Tabir Lintas"
 		},
 		{
 			"id": 20,
-			"name": "Sekampung"
+			"name": "Tabir Selatan"
 		},
 		{
 			"id": 21,
-			"name": "Sukadana"
+			"name": "Tabir Timur"
 		},
 		{
 			"id": 22,
-			"name": "Waway Karya"
+			"name": "Tabir Ulu"
 		},
 		{
 			"id": 23,
-			"name": "Way Bungur"
+			"name": "Tabir"
 		},
 		{
 			"id": 24,
-			"name": "Way Jepara"
+			"name": "Tiang Pumpung"
 		}
 	]
 }

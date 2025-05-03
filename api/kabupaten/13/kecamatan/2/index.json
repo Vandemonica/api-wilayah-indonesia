@@ -1,115 +1,91 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Banyumas",
-	"scraped_at": "2023-01-26T08:25:41.369Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Banjar",
+	"scraped_at": "2025-05-03T17:30:05.827Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Banyumas",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Emblem_of_Banyumas_Regency.svg"
+		"name": "Kabupaten Banjar",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Coats_of_arms_of_Banjar_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Ajibarang"
+			"name": "Aluh Aluh"
 		},
 		{
 			"id": 2,
-			"name": "Banyumas"
+			"name": "Aranio"
 		},
 		{
 			"id": 3,
-			"name": "Baturraden"
+			"name": "Astambul"
 		},
 		{
 			"id": 4,
-			"name": "Cilongok"
+			"name": "Beruntung Baru"
 		},
 		{
 			"id": 5,
-			"name": "Gumelar"
+			"name": "Cintapuri Darussalam"
 		},
 		{
 			"id": 6,
-			"name": "Jatilawang"
+			"name": "Gambut"
 		},
 		{
 			"id": 7,
-			"name": "Kalibagor"
+			"name": "Karang Intan"
 		},
 		{
 			"id": 8,
-			"name": "Karanglewas"
+			"name": "Kertak Hanyar"
 		},
 		{
 			"id": 9,
-			"name": "Kebasen"
+			"name": "Martapura Barat"
 		},
 		{
 			"id": 10,
-			"name": "Kedungbanteng"
+			"name": "Martapura Timur"
 		},
 		{
 			"id": 11,
-			"name": "Kembaran"
+			"name": "Martapura"
 		},
 		{
 			"id": 12,
-			"name": "Kemranjen"
+			"name": "Mataraman"
 		},
 		{
 			"id": 13,
-			"name": "Lumbir"
+			"name": "Paramasan"
 		},
 		{
 			"id": 14,
-			"name": "Patikraja"
+			"name": "Pengaron"
 		},
 		{
 			"id": 15,
-			"name": "Pekuncen"
+			"name": "Sambung Makmur"
 		},
 		{
 			"id": 16,
-			"name": "Purwojati"
+			"name": "Simpang Empat"
 		},
 		{
 			"id": 17,
-			"name": "Purwokerto Barat"
+			"name": "Sungai Pinang"
 		},
 		{
 			"id": 18,
-			"name": "Purwokerto Selatan"
+			"name": "Sungai Tabuk"
 		},
 		{
 			"id": 19,
-			"name": "Purwokerto Timur"
+			"name": "Tatah Makmur"
 		},
 		{
 			"id": 20,
-			"name": "Purwokerto Utara"
-		},
-		{
-			"id": 21,
-			"name": "Rawalo"
-		},
-		{
-			"id": 22,
-			"name": "Sokaraja"
-		},
-		{
-			"id": 23,
-			"name": "Somagede"
-		},
-		{
-			"id": 24,
-			"name": "Sumpiuh"
-		},
-		{
-			"id": 25,
-			"name": "Tambak"
-		},
-		{
-			"id": 26,
-			"name": "Wangon"
+			"name": "Telaga Bauntung"
 		}
 	]
 }

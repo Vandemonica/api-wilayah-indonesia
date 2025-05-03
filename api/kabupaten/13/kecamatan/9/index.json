@@ -1,87 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Grobogan",
-	"scraped_at": "2023-01-26T08:25:46.569Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tanah Bumbu",
+	"scraped_at": "2025-05-03T17:30:25.895Z",
 	"kabupaten": {
 		"id": 9,
-		"name": "Kabupaten Grobogan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Coat_of_arms_of_Grobogan_Regency.svg"
+		"name": "Kabupaten Tanah Bumbu",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Coats_of_arms_of_Tanah_Bumbu.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Brati"
+			"name": "Angsana"
 		},
 		{
 			"id": 2,
-			"name": "Gabus"
+			"name": "Batulicin"
 		},
 		{
 			"id": 3,
-			"name": "Geyer"
+			"name": "Karang Bintang"
 		},
 		{
 			"id": 4,
-			"name": "Godong"
+			"name": "Kuranji"
 		},
 		{
 			"id": 5,
-			"name": "Grobogan"
+			"name": "Kusan Hilir"
 		},
 		{
 			"id": 6,
-			"name": "Gubug"
+			"name": "Kusan Hulu"
 		},
 		{
 			"id": 7,
-			"name": "Karangrayung"
+			"name": "Mantewe"
 		},
 		{
 			"id": 8,
-			"name": "Kedungjati"
+			"name": "Satui"
 		},
 		{
 			"id": 9,
-			"name": "Klambu"
+			"name": "Simpang Empat"
 		},
 		{
 			"id": 10,
-			"name": "Kradenan"
-		},
-		{
-			"id": 11,
-			"name": "Ngaringan"
-		},
-		{
-			"id": 12,
-			"name": "Penawangan"
-		},
-		{
-			"id": 13,
-			"name": "Pulokulon"
-		},
-		{
-			"id": 14,
-			"name": "Purwodadi"
-		},
-		{
-			"id": 15,
-			"name": "Tanggungharjo"
-		},
-		{
-			"id": 16,
-			"name": "Tawangharjo"
-		},
-		{
-			"id": 17,
-			"name": "Tegowanu"
-		},
-		{
-			"id": 18,
-			"name": "Toroh"
-		},
-		{
-			"id": 19,
-			"name": "Wirosari"
+			"name": "Sungai Loban"
 		}
 	]
 }

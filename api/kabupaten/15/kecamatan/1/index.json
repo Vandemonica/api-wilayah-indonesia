@@ -1,83 +1,63 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bangkalan",
-	"scraped_at": "2023-01-26T08:26:16.839Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Berau",
+	"scraped_at": "2025-05-03T17:30:51.036Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Bangkalan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Seal_of_Bangkalan_Regency.svg"
+		"name": "Kabupaten Berau",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Coat_of_arms_of_Berau_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Arosbaya"
+			"name": "Batu Putih"
 		},
 		{
 			"id": 2,
-			"name": "Bangkalan"
+			"name": "Biatan"
 		},
 		{
 			"id": 3,
-			"name": "Blega"
+			"name": "Biduk-Biduk"
 		},
 		{
 			"id": 4,
-			"name": "Burneh"
+			"name": "Gunung Tabur"
 		},
 		{
 			"id": 5,
-			"name": "Galis"
+			"name": "Kelay"
 		},
 		{
 			"id": 6,
-			"name": "Geger"
+			"name": "Maratua"
 		},
 		{
 			"id": 7,
-			"name": "Kamal"
+			"name": "Pulau Derawan"
 		},
 		{
 			"id": 8,
-			"name": "Klampis"
+			"name": "Sambaliung"
 		},
 		{
 			"id": 9,
-			"name": "Kokop"
+			"name": "Segah"
 		},
 		{
 			"id": 10,
-			"name": "Konang"
+			"name": "Tabalar"
 		},
 		{
 			"id": 11,
-			"name": "Kwanyar"
+			"name": "Talisayan"
 		},
 		{
 			"id": 12,
-			"name": "Labang"
+			"name": "Tanjung Redeb"
 		},
 		{
 			"id": 13,
-			"name": "Modung"
-		},
-		{
-			"id": 14,
-			"name": "Sepulu"
-		},
-		{
-			"id": 15,
-			"name": "Socah"
-		},
-		{
-			"id": 16,
-			"name": "Tanah Merah"
-		},
-		{
-			"id": 17,
-			"name": "Tanjung Bumi"
-		},
-		{
-			"id": 18,
-			"name": "Tragah"
+			"name": "Teluk Bayur"
 		}
 	]
 }

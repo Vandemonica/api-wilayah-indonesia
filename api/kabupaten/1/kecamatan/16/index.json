@@ -1,6 +1,6 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pidie",
-	"scraped_at": "2023-01-26T08:22:42.503Z",
+	"scraped_at": "2025-05-03T17:26:49.253Z",
 	"kabupaten": {
 		"id": 16,
 		"name": "Kabupaten Pidie",
@@ -17,15 +17,15 @@
 		},
 		{
 			"id": 3,
-			"name": "Geulumpang Tiga"
-		},
-		{
-			"id": 4,
 			"name": "Geumpang"
 		},
 		{
-			"id": 5,
+			"id": 4,
 			"name": "Glumpang Baro"
+		},
+		{
+			"id": 5,
+			"name": "Glumpang Tiga"
 		},
 		{
 			"id": 6,

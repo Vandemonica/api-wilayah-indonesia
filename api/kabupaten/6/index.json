@@ -1,114 +1,48 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sumatra_Selatan",
-	"scraped_at": "2023-01-26T08:24:08.618Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Daerah_Khusus Ibukota Jakarta",
+	"scraped_at": "2025-05-03T17:27:51.173Z",
 	"provinsi": {
 		"id": 6,
-		"code": "16",
-		"name": "Sumatra Selatan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Coat_of_arms_of_South_Sumatra.svg"
+		"code": "31",
+		"name": "Daerah Khusus Ibukota Jakarta",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Coat_of_arms_of_Jakarta.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kabupaten Banyuasin",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Lambang_Kabupaten_Banyuasin.gif",
-			"capital": "Pangkalan Balai"
+			"name": "Kabupaten Administrasi Kepulauan Seribu",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Lambang_Kabupaten_Administrasi_Kepulauan_Seribu.png",
+			"capital": "Pulau Pramuka"
 		},
 		{
 			"id": 2,
-			"name": "Kabupaten Empat Lawang",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lambang_Empat_Lawang.png",
-			"capital": "Tebing Tinggi"
+			"name": "Kota Administrasi Jakarta Barat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Seal_of_West_Jakarta.jpg",
+			"capital": "Kembangan"
 		},
 		{
 			"id": 3,
-			"name": "Kabupaten Lahat",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Lambang_Kabupaten_Lahat.jpg",
-			"capital": "Lahat"
+			"name": "Kota Administrasi Jakarta Pusat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lambang_Daerah_Jakarta_Pusat.png",
+			"capital": "Menteng"
 		},
 		{
 			"id": 4,
-			"name": "Kabupaten Muara Enim",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lambang_Kabupaten_Muara_Enim.gif",
-			"capital": "Muara Enim"
+			"name": "Kota Administrasi Jakarta Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Seal_of_South_Jakarta.png",
+			"capital": "Kebayoran Baru"
 		},
 		{
 			"id": 5,
-			"name": "Kabupaten Musi Banyuasin",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lambang_Kabupaten_Musi_Banyuasin.png",
-			"capital": "Sekayu"
+			"name": "Kota Administrasi Jakarta Timur",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lambang_Kota_Jakarta_Timur.png",
+			"capital": "Cakung"
 		},
 		{
 			"id": 6,
-			"name": "Kabupaten Musi Rawas",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_Kabupaten_Musi_Rawas.png",
-			"capital": "Muara Beliti"
-		},
-		{
-			"id": 7,
-			"name": "Kabupaten Musi Rawas Utara",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Musi_Rawas_Utara.png",
-			"capital": "Rupit"
-		},
-		{
-			"id": 8,
-			"name": "Kabupaten Ogan Ilir",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Lambang_Kabupaten_Ogan_Ilir.gif",
-			"capital": "Indralaya"
-		},
-		{
-			"id": 9,
-			"name": "Kabupaten Ogan Komering Ilir",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lambang_Kabupaten_Ogan_Komering_Ilir.jpg",
-			"capital": "Kayu Agung"
-		},
-		{
-			"id": 10,
-			"name": "Kabupaten Ogan Komering Ulu",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Lambang_Kabupaten_Ogan_Komering_Ulu.png",
-			"capital": "Baturaja"
-		},
-		{
-			"id": 11,
-			"name": "Kabupaten Ogan Komering Ulu Selatan",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Lambang_Kabupaten_OKU_Selatan.JPG",
-			"capital": "Muaradua"
-		},
-		{
-			"id": 12,
-			"name": "Kabupaten Ogan Komering Ulu Timur",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lambang_Kabupaten_OKU_Timur.png",
-			"capital": "Martapura"
-		},
-		{
-			"id": 13,
-			"name": "Kabupaten Penukal Abab Lematang Ilir",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_PALI.jpg",
-			"capital": "Talang Ubi"
-		},
-		{
-			"id": 14,
-			"name": "Kota Lubuklinggau",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lambang_Kota_Lubuklinggau.jpeg",
-			"capital": "-"
-		},
-		{
-			"id": 15,
-			"name": "Kota Pagar Alam",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lambang_Kota_Pagar_Alam.gif",
-			"capital": "-"
-		},
-		{
-			"id": 16,
-			"name": "Kota Palembang",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Palembang_CoA.svg",
-			"capital": "-"
-		},
-		{
-			"id": 17,
-			"name": "Kota Prabumulih",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lambang_kota_prabumulih.gif",
-			"capital": "-"
+			"name": "Kota Administrasi Jakarta Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lambang_Kota_Administrasi_Jakarta_Utara.png",
+			"capital": "Koja"
 		}
 	]
 }

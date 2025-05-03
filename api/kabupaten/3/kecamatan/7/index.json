@@ -1,55 +1,63 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pasaman Barat",
-	"scraped_at": "2023-01-26T08:23:28.435Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tangerang",
+	"scraped_at": "2025-05-03T17:27:15.740Z",
 	"kabupaten": {
 		"id": 7,
-		"name": "Kabupaten Pasaman Barat",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Pasaman_Barat.png"
+		"name": "Kota Tangerang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Seal_of_the_City_of_Tangerang.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Gunung Tuleh"
+			"name": "Batuceper"
 		},
 		{
 			"id": 2,
-			"name": "Kinali"
+			"name": "Benda"
 		},
 		{
 			"id": 3,
-			"name": "Koto Balingka"
+			"name": "Cibodas"
 		},
 		{
 			"id": 4,
-			"name": "Lembah Melintang"
+			"name": "Ciledug"
 		},
 		{
 			"id": 5,
-			"name": "Luhak Nan Duo"
+			"name": "Cipondoh"
 		},
 		{
 			"id": 6,
-			"name": "Pasaman"
+			"name": "Jatiuwung"
 		},
 		{
 			"id": 7,
-			"name": "Ranah Batahan"
+			"name": "Karang Tengah"
 		},
 		{
 			"id": 8,
-			"name": "Sasak Ranah Pesisir"
+			"name": "Karawaci"
 		},
 		{
 			"id": 9,
-			"name": "Sungai Aur"
+			"name": "Larangan"
 		},
 		{
 			"id": 10,
-			"name": "Sungai Beremas"
+			"name": "Neglasari"
 		},
 		{
 			"id": 11,
-			"name": "Talamau"
+			"name": "Periuk"
+		},
+		{
+			"id": 12,
+			"name": "Pinang"
+		},
+		{
+			"id": 13,
+			"name": "Tangerang"
 		}
 	]
 }

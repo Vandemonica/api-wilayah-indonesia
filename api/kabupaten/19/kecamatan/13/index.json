@@ -1,55 +1,71 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Rote Ndao",
-	"scraped_at": "2023-01-26T08:27:25.970Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Way Kanan",
+	"scraped_at": "2025-05-03T17:31:28.517Z",
 	"kabupaten": {
 		"id": 13,
-		"name": "Kabupaten Rote Ndao",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lambang_Kabupaten_Rote_Ndao.jpeg"
+		"name": "Kabupaten Way Kanan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Lambang_Kabupaten_Way_Kanan.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Landu Leko"
+			"name": "Bahuga"
 		},
 		{
 			"id": 2,
-			"name": "Loaholu"
+			"name": "Banjit"
 		},
 		{
 			"id": 3,
-			"name": "Lobalain"
+			"name": "Baradatu"
 		},
 		{
 			"id": 4,
-			"name": "Ndao Nuse"
+			"name": "Blambangan Umpu"
 		},
 		{
 			"id": 5,
-			"name": "Pantai Baru"
+			"name": "Buay Bahuga"
 		},
 		{
 			"id": 6,
-			"name": "Rote Barat Daya"
+			"name": "Bumi Agung"
 		},
 		{
 			"id": 7,
-			"name": "Rote Barat Laut"
+			"name": "Gunung Labuhan"
 		},
 		{
 			"id": 8,
-			"name": "Rote Barat"
+			"name": "Kasui"
 		},
 		{
 			"id": 9,
-			"name": "Rote Selatan"
+			"name": "Negara Batin"
 		},
 		{
 			"id": 10,
-			"name": "Rote Tengah"
+			"name": "Negeri Agung"
 		},
 		{
 			"id": 11,
-			"name": "Rote Timur"
+			"name": "Negeri Besar"
+		},
+		{
+			"id": 12,
+			"name": "Pakuan Ratu"
+		},
+		{
+			"id": 13,
+			"name": "Rebang Tangkas"
+		},
+		{
+			"id": 14,
+			"name": "Umpu Semenguk"
+		},
+		{
+			"id": 15,
+			"name": "Way Tuba"
 		}
 	]
 }

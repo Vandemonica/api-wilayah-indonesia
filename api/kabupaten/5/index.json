@@ -1,78 +1,42 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Jambi",
-	"scraped_at": "2023-01-26T08:23:57.192Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Daerah_Istimewa Yogyakarta",
+	"scraped_at": "2025-05-03T17:27:33.698Z",
 	"provinsi": {
 		"id": 5,
-		"code": "15",
-		"name": "Jambi",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Coat_of_arms_of_Jambi.svg"
+		"code": "34",
+		"name": "Daerah Istimewa Yogyakarta",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Coat_of_arms_of_Yogyakarta.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kabupaten Batanghari",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lambang_Kabupaten_Batang_Hari.gif",
-			"capital": "Muara Bulian"
+			"name": "Kabupaten Bantul",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Seal_of_Bantul_Regency.svg",
+			"capital": "ꦏꦧꦸꦥꦠꦺꦤ꧀ꦧꦤ꧀ꦠꦸꦭ꧀||Kabupatèn Bantul||Bantul"
 		},
 		{
 			"id": 2,
-			"name": "Kabupaten Bungo",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lambang_Kabupaten_Bungo.png",
-			"capital": "Muara Bungo"
+			"name": "Kabupaten Gunungkidul",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Seal_of_Gunungkidul_Regency.svg",
+			"capital": "ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀||Kabupatèn Gunungkidul||Wonosari"
 		},
 		{
 			"id": 3,
-			"name": "Kabupaten Kerinci",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kab.Kerinci.svg",
-			"capital": "Siulak"
+			"name": "Kabupaten Kulon Progo",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kulonprogo_Seal.svg",
+			"capital": "ꦏꦧꦸꦥꦠꦺꦤ꧀ꦏꦸꦭꦺꦴꦤ꧀ꦥꦿꦒ||Kabupatèn Kulon Praga||Wates"
 		},
 		{
 			"id": 4,
-			"name": "Kabupaten Merangin",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lambang_Kabupaten_Merangin.png",
-			"capital": "Bangko"
+			"name": "Kabupaten Sleman",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Seal_of_Sleman_Regency.svg",
+			"capital": "ꦏꦧꦸꦥꦠꦺꦤ꧀ꦱ꧀ꦭꦺꦩꦤ꧀||Kabupatèn Sléman||Sleman"
 		},
 		{
 			"id": 5,
-			"name": "Kabupaten Muaro Jambi",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lambang_Kabupaten_Muaro_Jambi.png",
-			"capital": "Sengeti"
-		},
-		{
-			"id": 6,
-			"name": "Kabupaten Sarolangun",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Sarolangun.png",
-			"capital": "Sarolangun"
-		},
-		{
-			"id": 7,
-			"name": "Kabupaten Tanjung Jabung Barat",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Logo_Kabupaten_Tanjung_Jabung_Barat.jpg",
-			"capital": "Kuala Tungkal"
-		},
-		{
-			"id": 8,
-			"name": "Kabupaten Tanjung Jabung Timur",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_Tanjung_Jabung_Timur.jpg",
-			"capital": "Muara Sabak"
-		},
-		{
-			"id": 9,
-			"name": "Kabupaten Tebo",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Tebo.png",
-			"capital": "Muara Tebo"
-		},
-		{
-			"id": 10,
-			"name": "Kota Jambi",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Lambang_Kota_Jambi.png",
-			"capital": "-"
-		},
-		{
-			"id": 11,
-			"name": "Kota Sungai Penuh",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lambang_Kota_Sungai_Penuh.png",
-			"capital": "-"
+			"name": "Kota Yogyakarta",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Seal_of_the_City_of_Yogyakarta.svg",
+			"capital": "ꦏꦸꦛꦔꦪꦺꦴꦒꦾꦏꦂꦠ||Kutha Ngayogyakarta|| -"
 		}
 	]
 }

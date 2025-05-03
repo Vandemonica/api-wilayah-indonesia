@@ -1,51 +1,107 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Siau Tagulandang Biaro",
-	"scraped_at": "2023-01-26T08:28:30.043Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Teluk Bintuni",
+	"scraped_at": "2025-05-03T17:32:45.986Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Kepulauan Siau Tagulandang Biaro",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Kab._Sitaro.jpg"
+		"name": "Kabupaten Teluk Bintuni",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lambang_Kabupaten_Teluk_Bintuni.tif"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Biaro"
+			"name": "Aranday"
 		},
 		{
 			"id": 2,
-			"name": "Siau Barat Selatan"
+			"name": "Aroba"
 		},
 		{
 			"id": 3,
-			"name": "Siau Barat Utara"
+			"name": "Babo"
 		},
 		{
 			"id": 4,
-			"name": "Siau Barat"
+			"name": "Bintuni"
 		},
 		{
 			"id": 5,
-			"name": "Siau Tengah"
+			"name": "Biscoop"
 		},
 		{
 			"id": 6,
-			"name": "Siau Timur Selatan"
+			"name": "Dataran Beimes"
 		},
 		{
 			"id": 7,
-			"name": "Siau Timur"
+			"name": "Fafurwar"
 		},
 		{
 			"id": 8,
-			"name": "Tagulandang Selatan"
+			"name": "Kaitaro"
 		},
 		{
 			"id": 9,
-			"name": "Tagulandang Utara"
+			"name": "Kamundan"
 		},
 		{
 			"id": 10,
-			"name": "Tagulandang"
+			"name": "Kuri"
+		},
+		{
+			"id": 11,
+			"name": "Manimeri"
+		},
+		{
+			"id": 12,
+			"name": "Masyeta"
+		},
+		{
+			"id": 13,
+			"name": "Meyado"
+		},
+		{
+			"id": 14,
+			"name": "Merdey"
+		},
+		{
+			"id": 15,
+			"name": "Moskona Barat"
+		},
+		{
+			"id": 16,
+			"name": "Moskona Selatan"
+		},
+		{
+			"id": 17,
+			"name": "Moskona Timur"
+		},
+		{
+			"id": 18,
+			"name": "Moskona Utara"
+		},
+		{
+			"id": 19,
+			"name": "Sumuri"
+		},
+		{
+			"id": 20,
+			"name": "Tembuni"
+		},
+		{
+			"id": 21,
+			"name": "Tomu"
+		},
+		{
+			"id": 22,
+			"name": "Tuhiba"
+		},
+		{
+			"id": 23,
+			"name": "Wamesa"
+		},
+		{
+			"id": 24,
+			"name": "Weriagar"
 		}
 	]
 }

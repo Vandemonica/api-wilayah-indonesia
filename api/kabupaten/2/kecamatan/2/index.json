@@ -1,59 +1,27 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Batu Bara",
-	"scraped_at": "2023-01-26T08:22:52.179Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bangli",
+	"scraped_at": "2025-05-03T17:26:55.474Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Batu Bara",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lambang_Kabupaten_Batubara.png"
+		"name": "Kabupaten Bangli",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Lambang_Kab_Bangli.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Air Putih"
+			"name": "Bangli"
 		},
 		{
 			"id": 2,
-			"name": "Datuk Lima Puluh"
+			"name": "Kintamani"
 		},
 		{
 			"id": 3,
-			"name": "Datuk Tanah Datar"
+			"name": "Susut"
 		},
 		{
 			"id": 4,
-			"name": "Laut Tador"
-		},
-		{
-			"id": 5,
-			"name": "Lima Puluh Pesisir"
-		},
-		{
-			"id": 6,
-			"name": "Lima Puluh"
-		},
-		{
-			"id": 7,
-			"name": "Medang Deras"
-		},
-		{
-			"id": 8,
-			"name": "Nibung Hangus"
-		},
-		{
-			"id": 9,
-			"name": "Sei Balai"
-		},
-		{
-			"id": 10,
-			"name": "Sei Suka"
-		},
-		{
-			"id": 11,
-			"name": "Talawi"
-		},
-		{
-			"id": 12,
-			"name": "Tanjung Tiram"
+			"name": "Tembuku"
 		}
 	]
 }

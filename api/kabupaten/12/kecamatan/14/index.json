@@ -1,79 +1,31 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Purwakarta",
-	"scraped_at": "2023-01-26T08:25:28.105Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Singkawang",
+	"scraped_at": "2025-05-03T17:30:01.007Z",
 	"kabupaten": {
 		"id": 14,
-		"name": "Kabupaten Purwakarta",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Seal_of_Purwakarta_Regency.svg"
+		"name": "Kota Singkawang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lambang_KotaSingkawang.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Babakancikao"
+			"name": "Singkawang Barat"
 		},
 		{
 			"id": 2,
-			"name": "Bojong"
+			"name": "Singkawang Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Bungursari"
+			"name": "Singkawang Tengah"
 		},
 		{
 			"id": 4,
-			"name": "Campaka"
+			"name": "Singkawang Timur"
 		},
 		{
 			"id": 5,
-			"name": "Cibatu"
-		},
-		{
-			"id": 6,
-			"name": "Darangdan"
-		},
-		{
-			"id": 7,
-			"name": "Jatiluhur"
-		},
-		{
-			"id": 8,
-			"name": "Kiarapedes"
-		},
-		{
-			"id": 9,
-			"name": "Maniis"
-		},
-		{
-			"id": 10,
-			"name": "Pasawahan"
-		},
-		{
-			"id": 11,
-			"name": "Plered"
-		},
-		{
-			"id": 12,
-			"name": "Pondoksalam"
-		},
-		{
-			"id": 13,
-			"name": "Purwakarta"
-		},
-		{
-			"id": 14,
-			"name": "Sukasari"
-		},
-		{
-			"id": 15,
-			"name": "Sukatani"
-		},
-		{
-			"id": 16,
-			"name": "Tegalwaru"
-		},
-		{
-			"id": 17,
-			"name": "Wanayasa"
+			"name": "Singkawang Utara"
 		}
 	]
 }

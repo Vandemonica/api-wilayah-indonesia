@@ -1,55 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bengkalis",
-	"scraped_at": "2023-01-26T08:23:44.597Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bengkulu Selatan",
+	"scraped_at": "2025-05-03T17:27:19.181Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Bengkalis",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lambang_Kabupaten_Bengkalis.png"
+		"name": "Kabupaten Bengkulu Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bengkulu_Selatan.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bandar Laksamana"
+			"name": "Air Nipis"
 		},
 		{
 			"id": 2,
-			"name": "Bantan"
+			"name": "Bunga Mas"
 		},
 		{
 			"id": 3,
-			"name": "Bathin Solapan"
+			"name": "Kedurang Ilir"
 		},
 		{
 			"id": 4,
-			"name": "Bengkalis"
+			"name": "Kedurang"
 		},
 		{
 			"id": 5,
-			"name": "Bukit Batu"
+			"name": "Kota Manna"
 		},
 		{
 			"id": 6,
-			"name": "Mandau"
+			"name": "Manna"
 		},
 		{
 			"id": 7,
-			"name": "Pinggir"
+			"name": "Pasar Manna"
 		},
 		{
 			"id": 8,
-			"name": "Rupat Utara"
+			"name": "Pino"
 		},
 		{
 			"id": 9,
-			"name": "Rupat"
+			"name": "Pino Raya"
 		},
 		{
 			"id": 10,
-			"name": "Siak Kecil"
+			"name": "Seginim"
 		},
 		{
 			"id": 11,
-			"name": "Talang Muandau"
+			"name": "Ulu Manna"
 		}
 	]
 }

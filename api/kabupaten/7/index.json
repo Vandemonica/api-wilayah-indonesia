@@ -1,71 +1,47 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Bengkulu",
-	"scraped_at": "2023-01-26T08:24:27.837Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Gorontalo",
+	"scraped_at": "2025-05-03T17:27:58.384Z",
 	"provinsi": {
 		"id": 7,
-		"code": "17",
-		"name": "Bengkulu",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Coat_of_arms_of_Bengkulu.svg"
+		"code": "75",
+		"name": "Gorontalo",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Coat_of_arms_of_Gorontalo.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kabupaten Bengkulu Selatan",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bengkulu_Selatan.png",
-			"capital": "Kota Manna"
+			"name": "Kabupaten Boalemo",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lambang_Kabupaten_Boalemo.jpg",
+			"capital": "Tilamuta"
 		},
 		{
 			"id": 2,
-			"name": "Kabupaten Bengkulu Tengah",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Lambang_Kabupaten_Bengkulu_Tengah.png",
-			"capital": "Karang Tinggi"
+			"name": "Kabupaten Bone Bolango",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lambang_Kabupaten_Bone_Bolango.gif",
+			"capital": "Suwawa"
 		},
 		{
 			"id": 3,
-			"name": "Kabupaten Bengkulu Utara",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_Bengkulu_Utara.png",
-			"capital": "Kota Arga Makmur"
+			"name": "Kabupaten Gorontalo",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lambang_Kabupaten_Gorontalo.jpg",
+			"capital": "Limboto"
 		},
 		{
 			"id": 4,
-			"name": "Kabupaten Kaur",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kabupaten_Kaur.png",
-			"capital": "Kaur Selatan"
+			"name": "Kabupaten Gorontalo Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kabupaten_Gorontalo_Utara.jpg",
+			"capital": "Kwandang"
 		},
 		{
 			"id": 5,
-			"name": "Kabupaten Kepahiang",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_Kepahiang.jpg",
-			"capital": "Kepahiang"
+			"name": "Kabupaten Pohuwato",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_kabupaten_pohuwato.jpg",
+			"capital": "Marisa"
 		},
 		{
 			"id": 6,
-			"name": "Kabupaten Lebong",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Lebong.png",
-			"capital": "Tubei"
-		},
-		{
-			"id": 7,
-			"name": "Kabupaten Mukomuko",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_Mukomuko.png",
-			"capital": "Kota Mukomuko"
-		},
-		{
-			"id": 8,
-			"name": "Kabupaten Rejang Lebong",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rejang_Lebong.png",
-			"capital": "Curup"
-		},
-		{
-			"id": 9,
-			"name": "Kabupaten Seluma",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Seluma.png",
-			"capital": "Pasar Tais"
-		},
-		{
-			"id": 10,
-			"name": "Kota Bengkulu",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kota_Bengkulu.png",
+			"name": "Kota Gorontalo",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/LOGO_KOTA_GORONTALO.png",
 			"capital": "-"
 		}
 	]

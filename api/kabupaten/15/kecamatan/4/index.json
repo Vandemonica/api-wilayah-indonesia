@@ -1,123 +1,83 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bojonegoro",
-	"scraped_at": "2023-01-26T08:26:19.508Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kutai Timur",
+	"scraped_at": "2025-05-03T17:30:55.471Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Bojonegoro",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Seal_of_Bojonegoro_Regency.svg"
+		"name": "Kabupaten Kutai Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Coat_of_Arms_of_Regency_Kutai_Timur.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Balen"
+			"name": "Batu Ampar"
 		},
 		{
 			"id": 2,
-			"name": "Baureno"
+			"name": "Bengalon"
 		},
 		{
 			"id": 3,
-			"name": "Bojonegoro"
+			"name": "Busang"
 		},
 		{
 			"id": 4,
-			"name": "Bubulan"
+			"name": "Kaliorang"
 		},
 		{
 			"id": 5,
-			"name": "Dander"
+			"name": "Karangan"
 		},
 		{
 			"id": 6,
-			"name": "Gayam"
+			"name": "Kaubun"
 		},
 		{
 			"id": 7,
-			"name": "Gondang"
+			"name": "Kongbeng"
 		},
 		{
 			"id": 8,
-			"name": "Kalitidu"
+			"name": "Long Mesangat"
 		},
 		{
 			"id": 9,
-			"name": "Kanor"
+			"name": "Muara Ancalong"
 		},
 		{
 			"id": 10,
-			"name": "Kapas"
+			"name": "Muara Bengkal"
 		},
 		{
 			"id": 11,
-			"name": "Kasiman"
+			"name": "Muara Wahau"
 		},
 		{
 			"id": 12,
-			"name": "Kedewan"
+			"name": "Rantau Pulung"
 		},
 		{
 			"id": 13,
-			"name": "Kedungadem"
+			"name": "Sandaran"
 		},
 		{
 			"id": 14,
-			"name": "Kepohbaru"
+			"name": "Sangatta Selatan"
 		},
 		{
 			"id": 15,
-			"name": "Malo"
+			"name": "Sangatta Utara"
 		},
 		{
 			"id": 16,
-			"name": "Margomulyo"
+			"name": "Sangkulirang"
 		},
 		{
 			"id": 17,
-			"name": "Ngambon"
+			"name": "Telen"
 		},
 		{
 			"id": 18,
-			"name": "Ngasem"
-		},
-		{
-			"id": 19,
-			"name": "Ngraho"
-		},
-		{
-			"id": 20,
-			"name": "Padangan"
-		},
-		{
-			"id": 21,
-			"name": "Purwosari"
-		},
-		{
-			"id": 22,
-			"name": "Sekar"
-		},
-		{
-			"id": 23,
-			"name": "Sugihwaras"
-		},
-		{
-			"id": 24,
-			"name": "Sukosewu"
-		},
-		{
-			"id": 25,
-			"name": "Sumberejo"
-		},
-		{
-			"id": 26,
-			"name": "Tambakrejo"
-		},
-		{
-			"id": 27,
-			"name": "Temayang"
-		},
-		{
-			"id": 28,
-			"name": "Trucuk"
+			"name": "Teluk Pandan"
 		}
 	]
 }

@@ -1,27 +1,43 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tarakan",
-	"scraped_at": "2023-01-26T08:28:20.462Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Mamberamo Raya",
+	"scraped_at": "2025-05-03T17:32:32.818Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kota Tarakan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lambang_Kota_Tarakan.gif"
+		"name": "Kabupaten Mamberamo Raya",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lambang_Kabupaten_Mamberamo_Raya%2C_Papua.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Tarakan Barat"
+			"name": "Mamberamo Tengah"
 		},
 		{
 			"id": 2,
-			"name": "Tarakan Tengah"
+			"name": "Mamberamo Hulu"
 		},
 		{
 			"id": 3,
-			"name": "Tarakan Timur"
+			"name": "Rufaer"
 		},
 		{
 			"id": 4,
-			"name": "Tarakan Utara"
+			"name": "Mamberamo Tengah Timur"
+		},
+		{
+			"id": 5,
+			"name": "Mamberamo Hilir"
+		},
+		{
+			"id": 6,
+			"name": "Waropen Atas"
+		},
+		{
+			"id": 7,
+			"name": "Benuki"
+		},
+		{
+			"id": 8,
+			"name": "Sawai"
 		}
 	]
 }

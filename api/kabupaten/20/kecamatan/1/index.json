@@ -1,79 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bengkayang",
-	"scraped_at": "2023-01-26T08:27:34.368Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Buru",
+	"scraped_at": "2025-05-03T17:31:31.679Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Bengkayang",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lambang_Kabupaten_Bengkayang.png"
+		"name": "Kabupaten Buru",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lambang_Kabupaten_Buru.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bengkayang"
+			"name": "Air Buaya"
 		},
 		{
 			"id": 2,
-			"name": "Capkala"
+			"name": "Batabual"
 		},
 		{
 			"id": 3,
-			"name": "Jagoi Babang"
+			"name": "Fena Leisela"
 		},
 		{
 			"id": 4,
-			"name": "Ledo"
+			"name": "Lilialy"
 		},
 		{
 			"id": 5,
-			"name": "Lembah Bawang"
+			"name": "Lolong Guba"
 		},
 		{
 			"id": 6,
-			"name": "Lumar"
+			"name": "Namlea"
 		},
 		{
 			"id": 7,
-			"name": "Monterado"
+			"name": "Teluk Kaiely"
 		},
 		{
 			"id": 8,
-			"name": "Samalantan"
+			"name": "Waeapo"
 		},
 		{
 			"id": 9,
-			"name": "Sanggau Ledo"
+			"name": "Waelata"
 		},
 		{
 			"id": 10,
-			"name": "Seluas"
-		},
-		{
-			"id": 11,
-			"name": "Siding"
-		},
-		{
-			"id": 12,
-			"name": "Sungai Betung"
-		},
-		{
-			"id": 13,
-			"name": "Sungai Raya Kepulauan"
-		},
-		{
-			"id": 14,
-			"name": "Sungai Raya"
-		},
-		{
-			"id": 15,
-			"name": "Suti Semarang"
-		},
-		{
-			"id": 16,
-			"name": "Teriak"
-		},
-		{
-			"id": 17,
-			"name": "Tujuh Belas"
+			"name": "Waplau"
 		}
 	]
 }

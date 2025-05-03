@@ -1,39 +1,47 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bolaang Mongondow Timur",
-	"scraped_at": "2023-01-26T08:28:25.702Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Manokwari",
+	"scraped_at": "2025-05-03T17:32:42.521Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Bolaang Mongondow Timur",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_Kab._Boltim.jpg"
+		"name": "Kabupaten Manokwari",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lambang_Kabupaten_Manokwari.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kotabunan"
+			"name": "Manokwari Barat"
 		},
 		{
 			"id": 2,
-			"name": "Modayag"
+			"name": "Manokwari Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Modayag Barat"
+			"name": "Manokwari Timur"
 		},
 		{
 			"id": 4,
-			"name": "Mooat"
+			"name": "Manokwari Utara"
 		},
 		{
 			"id": 5,
-			"name": "Motongkad"
+			"name": "Masni"
 		},
 		{
 			"id": 6,
-			"name": "Nuangan"
+			"name": "Prafi"
 		},
 		{
 			"id": 7,
-			"name": "Tutuyan"
+			"name": "Sidey"
+		},
+		{
+			"id": 8,
+			"name": "Tanah Rubuh"
+		},
+		{
+			"id": 9,
+			"name": "Warmare"
 		}
 	]
 }

@@ -1,67 +1,79 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kapanewon,_kemantren,_kalurahan,_dan_kelurahan_di_Daerah_Istimewa_Yogyakarta",
-	"scraped_at": "2023-01-26T08:26:14.901Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kapuas",
+	"scraped_at": "2025-05-03T17:30:37.997Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kota Yogyakarta",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Seal_of_the_City_of_Yogyakarta.svg"
+		"name": "Kabupaten Kapuas",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lambang_Kabupaten_Kapuas.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Danurejan"
+			"name": "Basarang"
 		},
 		{
 			"id": 2,
-			"name": "Gedongtengen"
+			"name": "Bataguh"
 		},
 		{
 			"id": 3,
-			"name": "Gondokusuman"
+			"name": "Dadahup"
 		},
 		{
 			"id": 4,
-			"name": "Gondomanan"
+			"name": "Kapuas Barat"
 		},
 		{
 			"id": 5,
-			"name": "Jetis"
+			"name": "Kapuas Hilir"
 		},
 		{
 			"id": 6,
-			"name": "Kotagede"
+			"name": "Kapuas Hulu"
 		},
 		{
 			"id": 7,
-			"name": "Kraton"
+			"name": "Kapuas Kuala"
 		},
 		{
 			"id": 8,
-			"name": "Mantrijeron"
+			"name": "Kapuas Murung"
 		},
 		{
 			"id": 9,
-			"name": "Mergangsan"
+			"name": "Kapuas Tengah"
 		},
 		{
 			"id": 10,
-			"name": "Ngampilan"
+			"name": "Kapuas Timur"
 		},
 		{
 			"id": 11,
-			"name": "Pakualaman"
+			"name": "Mandau Talawang"
 		},
 		{
 			"id": 12,
-			"name": "Tegalrejo"
+			"name": "Mantangai"
 		},
 		{
 			"id": 13,
-			"name": "Umbulharjo"
+			"name": "Pasak Talawang"
 		},
 		{
 			"id": 14,
-			"name": "Wirobrajan"
+			"name": "Pulau Petak"
+		},
+		{
+			"id": 15,
+			"name": "Selat"
+		},
+		{
+			"id": 16,
+			"name": "Tamban Catur"
+		},
+		{
+			"id": 17,
+			"name": "Timpah"
 		}
 	]
 }

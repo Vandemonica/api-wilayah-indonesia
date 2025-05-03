@@ -1,55 +1,35 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tanah Laut",
-	"scraped_at": "2023-01-26T08:28:04.259Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Mataram",
+	"scraped_at": "2025-05-03T17:31:56.683Z",
 	"kabupaten": {
 		"id": 10,
-		"name": "Kabupaten Tanah Laut",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lambang_Kabupaten_Tanah_Laut.svg"
+		"name": "Kota Mataram",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Lambang_Kota_Mataram.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bajuin"
+			"name": "Ampenan"
 		},
 		{
 			"id": 2,
-			"name": "Bati-Bati"
+			"name": "Cakranegara"
 		},
 		{
 			"id": 3,
-			"name": "Batu Ampar"
+			"name": "Mataram"
 		},
 		{
 			"id": 4,
-			"name": "Bumi Makmur"
+			"name": "Sandubaya"
 		},
 		{
 			"id": 5,
-			"name": "Jorong"
+			"name": "Sekarbela"
 		},
 		{
 			"id": 6,
-			"name": "Kintap"
-		},
-		{
-			"id": 7,
-			"name": "Kurau"
-		},
-		{
-			"id": 8,
-			"name": "Panyipatan"
-		},
-		{
-			"id": 9,
-			"name": "Pelaihari"
-		},
-		{
-			"id": 10,
-			"name": "Takisung"
-		},
-		{
-			"id": 11,
-			"name": "Tambang Ulang"
+			"name": "Selaparang"
 		}
 	]
 }

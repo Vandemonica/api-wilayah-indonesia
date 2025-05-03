@@ -1,51 +1,43 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Buru",
-	"scraped_at": "2023-01-26T08:29:57.237Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Majene",
+	"scraped_at": "2025-05-03T17:33:46.443Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Buru",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lambang_Kabupaten_Buru.png"
+		"name": "Kabupaten Majene",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Lambang_Kabupaten_Majene.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Air Buaya"
+			"name": "Banggae Timur"
 		},
 		{
 			"id": 2,
-			"name": "Batabual"
+			"name": "Banggae"
 		},
 		{
 			"id": 3,
-			"name": "Fena Leisela"
+			"name": "Malunda"
 		},
 		{
 			"id": 4,
-			"name": "Lilialy"
+			"name": "Pamboang"
 		},
 		{
 			"id": 5,
-			"name": "Lolong Guba"
+			"name": "Sendana"
 		},
 		{
 			"id": 6,
-			"name": "Namlea"
+			"name": "Tammerodo Sendana"
 		},
 		{
 			"id": 7,
-			"name": "Teluk Kaiely"
+			"name": "Tubo Sendana"
 		},
 		{
 			"id": 8,
-			"name": "Waeapo"
-		},
-		{
-			"id": 9,
-			"name": "Waelata"
-		},
-		{
-			"id": 10,
-			"name": "Waplau"
+			"name": "Ulumanda"
 		}
 	]
 }

@@ -1,59 +1,83 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Sula",
-	"scraped_at": "2023-01-26T08:30:11.480Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Gowa",
+	"scraped_at": "2025-05-03T17:34:01.959Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Kepulauan Sula",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lambang_Kabupaten_Kepulauan_Sula.jpg"
+		"name": "Kabupaten Gowa",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/New_Coat_of_Arms_of_Gowa.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Mangoli Barat"
+			"name": "Bajeng Barat"
 		},
 		{
 			"id": 2,
-			"name": "Mangoli Selatan"
+			"name": "Bajeng"
 		},
 		{
 			"id": 3,
-			"name": "Mangoli Tengah"
+			"name": "Barombong"
 		},
 		{
 			"id": 4,
-			"name": "Mangoli Timur"
+			"name": "Biringbulu"
 		},
 		{
 			"id": 5,
-			"name": "Mangoli Utara Timur"
+			"name": "Bontolempangan"
 		},
 		{
 			"id": 6,
-			"name": "Mangoli Utara"
+			"name": "Bontomarannu"
 		},
 		{
 			"id": 7,
-			"name": "Sanana"
+			"name": "Bontonompo Selatan"
 		},
 		{
 			"id": 8,
-			"name": "Sanana Utara"
+			"name": "Bontonompo"
 		},
 		{
 			"id": 9,
-			"name": "Sulabesi Barat"
+			"name": "Bungaya"
 		},
 		{
 			"id": 10,
-			"name": "Sulabesi Selatan"
+			"name": "Manuju"
 		},
 		{
 			"id": 11,
-			"name": "Sulabesi Tengah"
+			"name": "Pallangga"
 		},
 		{
 			"id": 12,
-			"name": "Sulabesi Timur"
+			"name": "Parangloe"
+		},
+		{
+			"id": 13,
+			"name": "Parigi"
+		},
+		{
+			"id": 14,
+			"name": "Pattallassang"
+		},
+		{
+			"id": 15,
+			"name": "Somba Opu"
+		},
+		{
+			"id": 16,
+			"name": "Tinggimoncong"
+		},
+		{
+			"id": 17,
+			"name": "Tombolo Pao"
+		},
+		{
+			"id": 18,
+			"name": "Tompobulu"
 		}
 	]
 }

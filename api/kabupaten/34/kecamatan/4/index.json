@@ -1,35 +1,39 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Manokwari Selatan",
-	"scraped_at": "2023-01-26T08:30:31.990Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Buton Tengah",
+	"scraped_at": "2025-05-03T17:34:39.706Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Manokwari Selatan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Logo_Kabupaten_Manokwari_Selatan.jpg"
+		"name": "Kabupaten Buton Tengah",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Lambang_Kabupaten_Buton_Tengah.tif"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Dataran Isim"
+			"name": "Gu"
 		},
 		{
 			"id": 2,
-			"name": "Momi Waren"
+			"name": "Lakudo"
 		},
 		{
 			"id": 3,
-			"name": "Neney"
+			"name": "Mawasangka"
 		},
 		{
 			"id": 4,
-			"name": "Oransbari"
+			"name": "Mawasangka Tengah"
 		},
 		{
 			"id": 5,
-			"name": "Ransiki"
+			"name": "Mawasangka Timur"
 		},
 		{
 			"id": 6,
-			"name": "Tahota"
+			"name": "Sangia Wambulu"
+		},
+		{
+			"id": 7,
+			"name": "Talaga Raya"
 		}
 	]
 }

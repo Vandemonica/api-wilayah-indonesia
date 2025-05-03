@@ -1,67 +1,87 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Indragiri Hulu",
-	"scraped_at": "2023-01-26T08:23:47.422Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bengkulu Utara",
+	"scraped_at": "2025-05-03T17:27:22.232Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Indragiri Hulu",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lambang_Kab_Indragiri_Hulu.png"
+		"name": "Kabupaten Bengkulu Utara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_Bengkulu_Utara.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Batang Cenaku"
+			"name": "Air Besi"
 		},
 		{
 			"id": 2,
-			"name": "Batang Gangsal"
+			"name": "Air Napal"
 		},
 		{
 			"id": 3,
-			"name": "Batang Peranap"
+			"name": "Air Padang"
 		},
 		{
 			"id": 4,
-			"name": "Kelayang"
+			"name": "Arma Jaya"
 		},
 		{
 			"id": 5,
-			"name": "Kuala Cenaku"
+			"name": "Batik Nau"
 		},
 		{
 			"id": 6,
-			"name": "Lirik"
+			"name": "Enggano"
 		},
 		{
 			"id": 7,
-			"name": "Lubuk Batu Jaya"
+			"name": "Giri Mulya"
 		},
 		{
 			"id": 8,
-			"name": "Pasir Penyu"
+			"name": "Hulu Palik"
 		},
 		{
 			"id": 9,
-			"name": "Peranap"
+			"name": "Kerkap"
 		},
 		{
 			"id": 10,
-			"name": "Rakit Kulim"
+			"name": "Ketahun"
 		},
 		{
 			"id": 11,
-			"name": "Rengat Barat"
+			"name": "Kota Arga Makmur"
 		},
 		{
 			"id": 12,
-			"name": "Rengat"
+			"name": "Lais"
 		},
 		{
 			"id": 13,
-			"name": "Siberida"
+			"name": "Marga Sakti Sebelat"
 		},
 		{
 			"id": 14,
-			"name": "Sungai Lala"
+			"name": "Napal Putih"
+		},
+		{
+			"id": 15,
+			"name": "Padang Jaya"
+		},
+		{
+			"id": 16,
+			"name": "Pinang Raya"
+		},
+		{
+			"id": 17,
+			"name": "Putri Hijau"
+		},
+		{
+			"id": 18,
+			"name": "Tanjung Agung Palik"
+		},
+		{
+			"id": 19,
+			"name": "Ulok Kupai"
 		}
 	]
 }

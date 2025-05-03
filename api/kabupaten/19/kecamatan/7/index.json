@@ -1,59 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Malaka",
-	"scraped_at": "2023-01-26T08:27:21.763Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pesawaran",
+	"scraped_at": "2025-05-03T17:31:23.274Z",
 	"kabupaten": {
 		"id": 7,
-		"name": "Kabupaten Malaka",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Lambang_Kabupaten_Malaka.png"
+		"name": "Kabupaten Pesawaran",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lambang_Kabupaten_Pesawaran.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Botin Leobele"
+			"name": "Gedong Tataan"
 		},
 		{
 			"id": 2,
-			"name": "Io Kufeu"
+			"name": "Kedondong"
 		},
 		{
 			"id": 3,
-			"name": "Kobalima Timur"
+			"name": "Marga Punduh"
 		},
 		{
 			"id": 4,
-			"name": "Kobalima"
+			"name": "Negeri Katon"
 		},
 		{
 			"id": 5,
-			"name": "Laenmanen"
+			"name": "Padang Cermin"
 		},
 		{
 			"id": 6,
-			"name": "Malaka Barat"
+			"name": "Punduh Pidada"
 		},
 		{
 			"id": 7,
-			"name": "Malaka Tengah"
+			"name": "Tegineneng"
 		},
 		{
 			"id": 8,
-			"name": "Malaka Timur"
+			"name": "Teluk Pandan"
 		},
 		{
 			"id": 9,
-			"name": "Rinhat"
+			"name": "Way Khilau"
 		},
 		{
 			"id": 10,
-			"name": "Sasitamean"
+			"name": "Way Lima"
 		},
 		{
 			"id": 11,
-			"name": "Weliman"
-		},
-		{
-			"id": 12,
-			"name": "Wewiku"
+			"name": "Way Ratai"
 		}
 	]
 }

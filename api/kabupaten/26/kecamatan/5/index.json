@@ -1,75 +1,127 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Donggala",
-	"scraped_at": "2023-01-26T08:28:43.250Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Tambrauw",
+	"scraped_at": "2025-05-03T17:32:54.563Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Donggala",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lambang_Kabupaten_Donggala.png"
+		"name": "Kabupaten Tambrauw",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Lambang_Kabupaten_Tambrauw%2C_Papua_Barat.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Balaesang Tanjung"
+			"name": "Abun"
 		},
 		{
 			"id": 2,
-			"name": "Balaesang"
+			"name": "Amberbaken"
 		},
 		{
 			"id": 3,
-			"name": "Banawa Selatan"
+			"name": "Amberbaken Barat"
 		},
 		{
 			"id": 4,
-			"name": "Banawa Tengah"
+			"name": "Ases"
 		},
 		{
 			"id": 5,
-			"name": "Banawa"
+			"name": "Bamusbama"
 		},
 		{
 			"id": 6,
-			"name": "Dampelas"
+			"name": "Bikar"
 		},
 		{
 			"id": 7,
-			"name": "Labuan"
+			"name": "Fef"
 		},
 		{
 			"id": 8,
-			"name": "Pinembani"
+			"name": "Ireres"
 		},
 		{
 			"id": 9,
-			"name": "Rio Pakava"
+			"name": "Kasi"
 		},
 		{
 			"id": 10,
-			"name": "Sindue Tobata"
+			"name": "Kebar"
 		},
 		{
 			"id": 11,
-			"name": "Sindue Tombusabora"
+			"name": "Kebar Selatan"
 		},
 		{
 			"id": 12,
-			"name": "Sindue"
+			"name": "Kebar Timur"
 		},
 		{
 			"id": 13,
-			"name": "Sirenja"
+			"name": "Kwesefo"
 		},
 		{
 			"id": 14,
-			"name": "Sojol Utara"
+			"name": "Kwoor"
 		},
 		{
 			"id": 15,
-			"name": "Sojol"
+			"name": "Manekar"
 		},
 		{
 			"id": 16,
-			"name": "Tanantovea"
+			"name": "Mawabuan"
+		},
+		{
+			"id": 17,
+			"name": "Miyah"
+		},
+		{
+			"id": 18,
+			"name": "Miyah Selatan"
+		},
+		{
+			"id": 19,
+			"name": "Mpur"
+		},
+		{
+			"id": 20,
+			"name": "Moraid"
+		},
+		{
+			"id": 21,
+			"name": "Mubrani"
+		},
+		{
+			"id": 22,
+			"name": "Sausapor"
+		},
+		{
+			"id": 23,
+			"name": "Selemkai"
+		},
+		{
+			"id": 24,
+			"name": "Senopi"
+		},
+		{
+			"id": 25,
+			"name": "Syujak"
+		},
+		{
+			"id": 26,
+			"name": "Tinggouw"
+		},
+		{
+			"id": 27,
+			"name": "Tobouw"
+		},
+		{
+			"id": 28,
+			"name": "Wilhem Roumbouts"
+		},
+		{
+			"id": 29,
+			"name": "Yembun"
 		}
 	]
 }

@@ -1,35 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Barito Selatan",
-	"scraped_at": "2023-01-26T08:27:46.523Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Halmahera Barat",
+	"scraped_at": "2025-05-03T17:31:41.142Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Barito Selatan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Lambang_Kabupaten_Barito_Selatan.webp"
+		"name": "Kabupaten Halmahera Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lambang_Kabupaten_Halmahera_Barat.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Dusun Hilir"
+			"name": "Ibu"
 		},
 		{
 			"id": 2,
-			"name": "Dusun Selatan"
+			"name": "Ibu Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Dusun Utara"
+			"name": "Jailolo"
 		},
 		{
 			"id": 4,
-			"name": "Gunung Bintang Awai"
+			"name": "Jailolo Selatan"
 		},
 		{
 			"id": 5,
-			"name": "Jenamas"
+			"name": "Jailolo Timur"
 		},
 		{
 			"id": 6,
-			"name": "Karau Kuala"
+			"name": "Loloda Tengah"
+		},
+		{
+			"id": 7,
+			"name": "Loloda"
+		},
+		{
+			"id": 8,
+			"name": "Sahu Timur"
+		},
+		{
+			"id": 9,
+			"name": "Sahu"
+		},
+		{
+			"id": 10,
+			"name": "Tabaru"
 		}
 	]
 }

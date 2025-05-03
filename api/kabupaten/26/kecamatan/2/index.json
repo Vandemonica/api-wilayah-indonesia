@@ -1,59 +1,107 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Banggai Kepulauan",
-	"scraped_at": "2023-01-26T08:28:41.031Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Raja Ampat",
+	"scraped_at": "2025-05-03T17:32:50.489Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Banggai Kepulauan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Lambang_Kabupaten_Banggai_Kepulauan.tif"
+		"name": "Kabupaten Raja Ampat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Lambang_Kabupaten_Raja_Ampat%2C_Papua_Barat.gif"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Buko Selatan"
+			"name": "Ayau"
 		},
 		{
 			"id": 2,
-			"name": "Buko"
+			"name": "Batanta Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Bulagi Selatan"
+			"name": "Batanta Utara"
 		},
 		{
 			"id": 4,
-			"name": "Bulagi Utara"
+			"name": "Kepulauan Ayau"
 		},
 		{
 			"id": 5,
-			"name": "Bulagi"
+			"name": "Kepulauan Sembilan"
 		},
 		{
 			"id": 6,
-			"name": "Liang"
+			"name": "Kofiau"
 		},
 		{
 			"id": 7,
-			"name": "Peling Tengah"
+			"name": "Kota Waisai"
 		},
 		{
 			"id": 8,
-			"name": "Tinangkung Selatan"
+			"name": "Meos Mansar"
 		},
 		{
 			"id": 9,
-			"name": "Tinangkung Utara"
+			"name": "Misool"
 		},
 		{
 			"id": 10,
-			"name": "Tinangkung"
+			"name": "Misool Barat"
 		},
 		{
 			"id": 11,
-			"name": "Totikum Selatan"
+			"name": "Misool Selatan"
 		},
 		{
 			"id": 12,
-			"name": "Totikum"
+			"name": "Misool Timur"
+		},
+		{
+			"id": 13,
+			"name": "Salawati Barat"
+		},
+		{
+			"id": 14,
+			"name": "Salawati Tengah"
+		},
+		{
+			"id": 15,
+			"name": "Salawati Utara"
+		},
+		{
+			"id": 16,
+			"name": "Supnin"
+		},
+		{
+			"id": 17,
+			"name": "Teluk Mayalibit"
+		},
+		{
+			"id": 18,
+			"name": "Tiplol Mayalibit"
+		},
+		{
+			"id": 19,
+			"name": "Waigeo Barat"
+		},
+		{
+			"id": 20,
+			"name": "Waigeo Barat Kepulauan"
+		},
+		{
+			"id": 21,
+			"name": "Waigeo Selatan"
+		},
+		{
+			"id": 22,
+			"name": "Waigeo Timur"
+		},
+		{
+			"id": 23,
+			"name": "Waigeo Utara"
+		},
+		{
+			"id": 24,
+			"name": "Warwarbomi"
 		}
 	]
 }

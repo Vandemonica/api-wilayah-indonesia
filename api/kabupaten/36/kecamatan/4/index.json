@@ -1,83 +1,63 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Mimika",
-	"scraped_at": "2023-01-26T08:30:45.680Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lima Puluh Kota",
+	"scraped_at": "2025-05-03T17:35:19.697Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Mimika",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Lambang_Kabupaten_Mimika.jpg"
+		"name": "Kabupaten Lima Puluh Kota",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lambang_Kabupaten_Lima_Puluh_Kota.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Mimika Baru"
+			"name": "Akabiluru"
 		},
 		{
 			"id": 2,
-			"name": "Agimuga"
+			"name": "Bukik Barisan"
 		},
 		{
 			"id": 3,
-			"name": "Mimika Timur"
+			"name": "Guguak"
 		},
 		{
 			"id": 4,
-			"name": "Mimika Barat"
+			"name": "Gunuang Omeh"
 		},
 		{
 			"id": 5,
-			"name": "Jita"
+			"name": "Harau"
 		},
 		{
 			"id": 6,
-			"name": "Jila"
+			"name": "Kapur IX"
 		},
 		{
 			"id": 7,
-			"name": "Mimika Timur Jauh"
+			"name": "Lareh Sago Halaban"
 		},
 		{
 			"id": 8,
-			"name": "Mimika Tengah"
+			"name": "Luak"
 		},
 		{
 			"id": 9,
-			"name": "Kuala Kencana"
+			"name": "Mungka"
 		},
 		{
 			"id": 10,
-			"name": "Tembagapura"
+			"name": "Pangkalan Koto Baru"
 		},
 		{
 			"id": 11,
-			"name": "Mimika Barat Jauh"
+			"name": "Payakumbuh"
 		},
 		{
 			"id": 12,
-			"name": "Mimika Barat Tengah"
+			"name": "Situjuah Limo Nagari"
 		},
 		{
 			"id": 13,
-			"name": "Kwamki Narama"
-		},
-		{
-			"id": 14,
-			"name": "Hoya"
-		},
-		{
-			"id": 15,
-			"name": "Iwaka"
-		},
-		{
-			"id": 16,
-			"name": "Wania"
-		},
-		{
-			"id": 17,
-			"name": "Amar"
-		},
-		{
-			"id": 18,
-			"name": "Alama"
+			"name": "Suliki"
 		}
 	]
 }

@@ -1,35 +1,35 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bolaang Mongondow Utara",
-	"scraped_at": "2023-01-26T08:28:27.002Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Manokwari Selatan",
+	"scraped_at": "2025-05-03T17:32:43.658Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Bolaang Mongondow Utara",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lambang_Kabupaten_Bolaang_Mongondow_Utara.jpg"
+		"name": "Kabupaten Manokwari Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Lambang_Kabupaten_Manokwari_Selatan.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bintauna"
+			"name": "Dataran Isim"
 		},
 		{
 			"id": 2,
-			"name": "Bolangitang Barat"
+			"name": "Momi Waren"
 		},
 		{
 			"id": 3,
-			"name": "Bolangitang Timur"
+			"name": "Neney"
 		},
 		{
 			"id": 4,
-			"name": "Kaidipang"
+			"name": "Oransbari"
 		},
 		{
 			"id": 5,
-			"name": "Pinogaluman"
+			"name": "Ransiki"
 		},
 		{
 			"id": 6,
-			"name": "Sangkub"
+			"name": "Tahota"
 		}
 	]
 }

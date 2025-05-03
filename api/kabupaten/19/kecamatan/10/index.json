@@ -1,47 +1,91 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Manggarai Timur",
-	"scraped_at": "2023-01-26T08:27:24.084Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tanggamus",
+	"scraped_at": "2025-05-03T17:31:25.452Z",
 	"kabupaten": {
 		"id": 10,
-		"name": "Kabupaten Manggarai Timur",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Lambang_Kabupaten_Manggarai_Timur.png"
+		"name": "Kabupaten Tanggamus",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lambang_Kabupaten_Tanggamus.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Borong"
+			"name": "Air Naningan"
 		},
 		{
 			"id": 2,
-			"name": "Elar Selatan"
+			"name": "Bandar Negeri Semuong"
 		},
 		{
 			"id": 3,
-			"name": "Elar"
+			"name": "Bulok"
 		},
 		{
 			"id": 4,
-			"name": "Kota Komba"
+			"name": "Cukuh Balak"
 		},
 		{
 			"id": 5,
-			"name": "Lamba Leda"
+			"name": "Gisting"
 		},
 		{
 			"id": 6,
-			"name": "Poco Ranaka Timur"
+			"name": "Gunung Alip"
 		},
 		{
 			"id": 7,
-			"name": "Poco Ranaka"
+			"name": "Kelumbayan Barat"
 		},
 		{
 			"id": 8,
-			"name": "Rana Mese"
+			"name": "Kelumbayan"
 		},
 		{
 			"id": 9,
-			"name": "Sambi Rampas"
+			"name": "Kota Agung Barat"
+		},
+		{
+			"id": 10,
+			"name": "Kota Agung Timur"
+		},
+		{
+			"id": 11,
+			"name": "Kota Agung"
+		},
+		{
+			"id": 12,
+			"name": "Limau"
+		},
+		{
+			"id": 13,
+			"name": "Pematang Sawa"
+		},
+		{
+			"id": 14,
+			"name": "Pugung"
+		},
+		{
+			"id": 15,
+			"name": "Pulau Panggung"
+		},
+		{
+			"id": 16,
+			"name": "Semaka"
+		},
+		{
+			"id": 17,
+			"name": "Sumberejo"
+		},
+		{
+			"id": 18,
+			"name": "Talang Padang"
+		},
+		{
+			"id": 19,
+			"name": "Ulu Belu"
+		},
+		{
+			"id": 20,
+			"name": "Wonosobo"
 		}
 	]
 }

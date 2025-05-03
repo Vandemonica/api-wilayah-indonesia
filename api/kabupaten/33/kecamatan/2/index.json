@@ -1,87 +1,59 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Jayapura",
-	"scraped_at": "2023-01-26T08:30:19.513Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Banggai Kepulauan",
+	"scraped_at": "2025-05-03T17:34:25.253Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Jayapura",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lambang_Kabupaten_Jayapura.jpeg"
+		"name": "Kabupaten Banggai Kepulauan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Lambang_Kabupaten_Banggai_Kepulauan.tif"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Sentani"
+			"name": "Buko Selatan"
 		},
 		{
 			"id": 2,
-			"name": "Sentani Timur"
+			"name": "Buko"
 		},
 		{
 			"id": 3,
-			"name": "Depapre"
+			"name": "Bulagi Selatan"
 		},
 		{
 			"id": 4,
-			"name": "Sentani Barat"
+			"name": "Bulagi Utara"
 		},
 		{
 			"id": 5,
-			"name": "Kemtuk"
+			"name": "Bulagi"
 		},
 		{
 			"id": 6,
-			"name": "Kemtuk Gresi"
+			"name": "Liang"
 		},
 		{
 			"id": 7,
-			"name": "Nimboran"
+			"name": "Peling Tengah"
 		},
 		{
 			"id": 8,
-			"name": "Nimbokrang"
+			"name": "Tinangkung Selatan"
 		},
 		{
 			"id": 9,
-			"name": "Unurum Guay"
+			"name": "Tinangkung Utara"
 		},
 		{
 			"id": 10,
-			"name": "Demta"
+			"name": "Tinangkung"
 		},
 		{
 			"id": 11,
-			"name": "Kaureh"
+			"name": "Totikum Selatan"
 		},
 		{
 			"id": 12,
-			"name": "Ebungfao"
-		},
-		{
-			"id": 13,
-			"name": "Waibu"
-		},
-		{
-			"id": 14,
-			"name": "Nambluong"
-		},
-		{
-			"id": 15,
-			"name": "Yapsi"
-		},
-		{
-			"id": 16,
-			"name": "Airu"
-		},
-		{
-			"id": 17,
-			"name": "Raveni Rara"
-		},
-		{
-			"id": 18,
-			"name": "Gresi Selatan"
-		},
-		{
-			"id": 19,
-			"name": "Yokari"
+			"name": "Totikum"
 		}
 	]
 }

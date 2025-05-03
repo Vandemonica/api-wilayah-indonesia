@@ -1,55 +1,59 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Hulu Sungai Selatan",
-	"scraped_at": "2023-01-26T08:27:59.935Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lombok Tengah",
+	"scraped_at": "2025-05-03T17:31:52.281Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Hulu Sungai Selatan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lambang_Kabupaten_Hulu_Sungai_Selatan.png"
+		"name": "Kabupaten Lombok Tengah",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lambang_Kabupaten_Lombok_Tengah.gif"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Angkinang"
+			"name": "Batukliang Utara"
 		},
 		{
 			"id": 2,
-			"name": "Daha Barat"
+			"name": "Batukliang"
 		},
 		{
 			"id": 3,
-			"name": "Daha Selatan"
+			"name": "Janapria"
 		},
 		{
 			"id": 4,
-			"name": "Daha Utara"
+			"name": "Jonggat"
 		},
 		{
 			"id": 5,
-			"name": "Kalumpang"
+			"name": "Kopang"
 		},
 		{
 			"id": 6,
-			"name": "Kandangan"
+			"name": "Praya Barat"
 		},
 		{
 			"id": 7,
-			"name": "Loksado"
+			"name": "Praya Barat Daya"
 		},
 		{
 			"id": 8,
-			"name": "Padang Batung"
+			"name": "Praya Tengah"
 		},
 		{
 			"id": 9,
-			"name": "Simpur"
+			"name": "Praya Timur"
 		},
 		{
 			"id": 10,
-			"name": "Sungai Raya"
+			"name": "Praya"
 		},
 		{
 			"id": 11,
-			"name": "Telaga Langsat"
+			"name": "Pringgarata"
+		},
+		{
+			"id": 12,
+			"name": "Pujut"
 		}
 	]
 }

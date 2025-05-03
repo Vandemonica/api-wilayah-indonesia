@@ -1,79 +1,35 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kapanewon,_kemantren,_kalurahan,_dan_kelurahan_di_Daerah_Istimewa_Yogyakarta",
-	"scraped_at": "2023-01-26T08:26:09.511Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Barito Selatan",
+	"scraped_at": "2025-05-03T17:30:31.962Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Bantul",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Seal_of_Bantul_Regency.svg"
+		"name": "Kabupaten Barito Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Lambang_Kabupaten_Barito_Selatan.webp"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bambanglipuro"
+			"name": "Dusun Hilir"
 		},
 		{
 			"id": 2,
-			"name": "Banguntapan"
+			"name": "Dusun Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Bantul"
+			"name": "Dusun Utara"
 		},
 		{
 			"id": 4,
-			"name": "Dlingo"
+			"name": "Gunung Bintang Awai"
 		},
 		{
 			"id": 5,
-			"name": "Imogiri"
+			"name": "Jenamas"
 		},
 		{
 			"id": 6,
-			"name": "Jetis"
-		},
-		{
-			"id": 7,
-			"name": "Kasihan"
-		},
-		{
-			"id": 8,
-			"name": "Kretek"
-		},
-		{
-			"id": 9,
-			"name": "Pajangan"
-		},
-		{
-			"id": 10,
-			"name": "Pandak"
-		},
-		{
-			"id": 11,
-			"name": "Piyungan"
-		},
-		{
-			"id": 12,
-			"name": "Pleret"
-		},
-		{
-			"id": 13,
-			"name": "Pundong"
-		},
-		{
-			"id": 14,
-			"name": "Sanden"
-		},
-		{
-			"id": 15,
-			"name": "Sedayu"
-		},
-		{
-			"id": 16,
-			"name": "Sewon"
-		},
-		{
-			"id": 17,
-			"name": "Srandakan"
+			"name": "Karau Kuala"
 		}
 	]
 }

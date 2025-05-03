@@ -1,79 +1,43 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Karo",
-	"scraped_at": "2023-01-26T08:22:55.502Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Karangasem",
+	"scraped_at": "2025-05-03T17:26:57.938Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Karo",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lambang_Kabupaten_Karo.gif"
+		"name": "Kabupaten Karangasem",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lambang_Kabupaten_Karangasem.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Barusjahe"
+			"name": "Abang"
 		},
 		{
 			"id": 2,
-			"name": "Berastagi"
+			"name": "Bebandem"
 		},
 		{
 			"id": 3,
-			"name": "Dolat Rayat"
+			"name": "Karangasem"
 		},
 		{
 			"id": 4,
-			"name": "Juhar"
+			"name": "Kubu"
 		},
 		{
 			"id": 5,
-			"name": "Kabanjahe"
+			"name": "Manggis"
 		},
 		{
 			"id": 6,
-			"name": "Kutabuluh"
+			"name": "Rendang"
 		},
 		{
 			"id": 7,
-			"name": "Laubaleng"
+			"name": "Selat"
 		},
 		{
 			"id": 8,
-			"name": "Mardingding"
-		},
-		{
-			"id": 9,
-			"name": "Merdeka"
-		},
-		{
-			"id": 10,
-			"name": "Merek"
-		},
-		{
-			"id": 11,
-			"name": "Munte"
-		},
-		{
-			"id": 12,
-			"name": "Naman Teran"
-		},
-		{
-			"id": 13,
-			"name": "Payung"
-		},
-		{
-			"id": 14,
-			"name": "Simpang Empat"
-		},
-		{
-			"id": 15,
-			"name": "Tigabinanga"
-		},
-		{
-			"id": 16,
-			"name": "Tiganderket"
-		},
-		{
-			"id": 17,
-			"name": "Tigapanah"
+			"name": "Sidemen"
 		}
 	]
 }

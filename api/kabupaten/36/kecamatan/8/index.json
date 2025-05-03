@@ -1,115 +1,71 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Puncak Jaya",
-	"scraped_at": "2023-01-26T08:30:49.983Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pesisir Selatan",
+	"scraped_at": "2025-05-03T17:35:22.799Z",
 	"kabupaten": {
 		"id": 8,
-		"name": "Kabupaten Puncak Jaya",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lambang_Kabupaten_Puncak_Jaya.png"
+		"name": "Kabupaten Pesisir Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Coat_of_arms_of_Pesisir_Selatan_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Mulia"
+			"name": "Airpura"
 		},
 		{
 			"id": 2,
-			"name": "Ilu"
+			"name": "Basa Ampek Balai Tapan"
 		},
 		{
 			"id": 3,
-			"name": "Fawi"
+			"name": "Batang Kapas"
 		},
 		{
 			"id": 4,
-			"name": "Mewoluk"
+			"name": "Bayang"
 		},
 		{
 			"id": 5,
-			"name": "Yamo"
+			"name": "IV Jurai"
 		},
 		{
 			"id": 6,
-			"name": "Nume"
+			"name": "IV Nagari Bayang Utara"
 		},
 		{
 			"id": 7,
-			"name": "Torere"
+			"name": "Koto XI Tarusan"
 		},
 		{
 			"id": 8,
-			"name": "Tingginambut"
+			"name": "Lengayang"
 		},
 		{
 			"id": 9,
-			"name": "Pagaleme"
+			"name": "Linggo Sari Baganti"
 		},
 		{
 			"id": 10,
-			"name": "Gurage"
+			"name": "Lunang"
 		},
 		{
 			"id": 11,
-			"name": "Irimuli"
+			"name": "Pancung Soal"
 		},
 		{
 			"id": 12,
-			"name": "Muara"
+			"name": "Ranah Ampek Hulu Tapan"
 		},
 		{
 			"id": 13,
-			"name": "Ilamburawi"
+			"name": "Ranah Pesisir"
 		},
 		{
 			"id": 14,
-			"name": "Yambi"
+			"name": "Silaut"
 		},
 		{
 			"id": 15,
-			"name": "Lumo"
-		},
-		{
-			"id": 16,
-			"name": "Molanikime"
-		},
-		{
-			"id": 17,
-			"name": "Dokome"
-		},
-		{
-			"id": 18,
-			"name": "Kalome"
-		},
-		{
-			"id": 19,
-			"name": "Wanwi"
-		},
-		{
-			"id": 20,
-			"name": "Yamoneri"
-		},
-		{
-			"id": 21,
-			"name": "Waegi"
-		},
-		{
-			"id": 22,
-			"name": "Nioga"
-		},
-		{
-			"id": 23,
-			"name": "Gubume"
-		},
-		{
-			"id": 24,
-			"name": "Taganombak"
-		},
-		{
-			"id": 25,
-			"name": "Dagai"
-		},
-		{
-			"id": 26,
-			"name": "Kiyage"
+			"name": "Sutera"
 		}
 	]
 }

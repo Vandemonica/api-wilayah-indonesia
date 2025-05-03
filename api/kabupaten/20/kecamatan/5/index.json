@@ -1,47 +1,79 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kubu Raya",
-	"scraped_at": "2023-01-26T08:27:37.391Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Maluku Barat Daya",
+	"scraped_at": "2025-05-03T17:31:34.766Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Kubu Raya",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Lambang_kabupaten_Kubu_Raya.jpg"
+		"name": "Kabupaten Maluku Barat Daya",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lambang_Kabupaten_Maluku_Barat_Daya.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Batu Ampar"
+			"name": "Damer"
 		},
 		{
 			"id": 2,
-			"name": "Kuala Mandor B"
+			"name": "Dawelor Dawera"
 		},
 		{
 			"id": 3,
-			"name": "Kubu"
+			"name": "Kepulauan Romang"
 		},
 		{
 			"id": 4,
-			"name": "Rasau Jaya"
+			"name": "Kisar Utara"
 		},
 		{
 			"id": 5,
-			"name": "Sungai Ambawang"
+			"name": "Lakor"
 		},
 		{
 			"id": 6,
-			"name": "Sungai Kakap"
+			"name": "Mndona Hiera"
 		},
 		{
 			"id": 7,
-			"name": "Sungai Raya"
+			"name": "Moa Lakor"
 		},
 		{
 			"id": 8,
-			"name": "Teluk Pakedai"
+			"name": "Pulau Letti"
 		},
 		{
 			"id": 9,
-			"name": "Terentang"
+			"name": "Pulau Masela"
+		},
+		{
+			"id": 10,
+			"name": "Pulau Wetang"
+		},
+		{
+			"id": 11,
+			"name": "Pulau-Pulau Babar Timur"
+		},
+		{
+			"id": 12,
+			"name": "Pulau-Pulau Babar"
+		},
+		{
+			"id": 13,
+			"name": "Pulau-Pulau Terselatan"
+		},
+		{
+			"id": 14,
+			"name": "Wetar Barat"
+		},
+		{
+			"id": 15,
+			"name": "Wetar Timur"
+		},
+		{
+			"id": 16,
+			"name": "Wetar Utara"
+		},
+		{
+			"id": 17,
+			"name": "Wetar"
 		}
 	]
 }

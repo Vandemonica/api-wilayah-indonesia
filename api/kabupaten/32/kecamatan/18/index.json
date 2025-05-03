@@ -1,0 +1,59 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Takalar",
+	"scraped_at": "2025-05-03T17:34:16.483Z",
+	"kabupaten": {
+		"id": 18,
+		"name": "Kabupaten Takalar",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lambang_Kabupaten_Takalar.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Galesong Selatan"
+		},
+		{
+			"id": 2,
+			"name": "Galesong Utara"
+		},
+		{
+			"id": 3,
+			"name": "Galesong"
+		},
+		{
+			"id": 4,
+			"name": "Kepulauan Tanakeke"
+		},
+		{
+			"id": 5,
+			"name": "Laikang"
+		},
+		{
+			"id": 6,
+			"name": "Mangarabombang"
+		},
+		{
+			"id": 7,
+			"name": "Mappakasunggu"
+		},
+		{
+			"id": 8,
+			"name": "Pattallassang"
+		},
+		{
+			"id": 9,
+			"name": "Polongbangkeng Selatan"
+		},
+		{
+			"id": 10,
+			"name": "Polongbangkeng Timur"
+		},
+		{
+			"id": 11,
+			"name": "Polongbangkeng Utara"
+		},
+		{
+			"id": 12,
+			"name": "Sanrobone"
+		}
+	]
+}

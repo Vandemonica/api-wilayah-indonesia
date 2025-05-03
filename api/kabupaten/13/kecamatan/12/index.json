@@ -1,115 +1,31 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kebumen",
-	"scraped_at": "2023-01-26T08:25:48.884Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Banjarbaru",
+	"scraped_at": "2025-05-03T17:30:29.185Z",
 	"kabupaten": {
 		"id": 12,
-		"name": "Kabupaten Kebumen",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Seal_of_Kebumen_Regency.svg"
+		"name": "Kota Banjarbaru",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Lambang_Kota_Banjarbaru.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Adimulyo"
+			"name": "Banjarbaru Selatan"
 		},
 		{
 			"id": 2,
-			"name": "Alian"
+			"name": "Banjarbaru Utara"
 		},
 		{
 			"id": 3,
-			"name": "Ambal"
+			"name": "Cempaka"
 		},
 		{
 			"id": 4,
-			"name": "Ayah"
+			"name": "Landasan Ulin"
 		},
 		{
 			"id": 5,
-			"name": "Bonorowo"
-		},
-		{
-			"id": 6,
-			"name": "Buayan"
-		},
-		{
-			"id": 7,
-			"name": "Buluspesantren"
-		},
-		{
-			"id": 8,
-			"name": "Gombong"
-		},
-		{
-			"id": 9,
-			"name": "Karanganyar"
-		},
-		{
-			"id": 10,
-			"name": "Karanggayam"
-		},
-		{
-			"id": 11,
-			"name": "Karangsambung"
-		},
-		{
-			"id": 12,
-			"name": "Kebumen"
-		},
-		{
-			"id": 13,
-			"name": "Klirong"
-		},
-		{
-			"id": 14,
-			"name": "Kutowinangun"
-		},
-		{
-			"id": 15,
-			"name": "Kuwarasan"
-		},
-		{
-			"id": 16,
-			"name": "Mirit"
-		},
-		{
-			"id": 17,
-			"name": "Padureso"
-		},
-		{
-			"id": 18,
-			"name": "Pejagoan"
-		},
-		{
-			"id": 19,
-			"name": "Petanahan"
-		},
-		{
-			"id": 20,
-			"name": "Poncowarno"
-		},
-		{
-			"id": 21,
-			"name": "Prembun"
-		},
-		{
-			"id": 22,
-			"name": "Puring"
-		},
-		{
-			"id": 23,
-			"name": "Rowokele"
-		},
-		{
-			"id": 24,
-			"name": "Sadang"
-		},
-		{
-			"id": 25,
-			"name": "Sempor"
-		},
-		{
-			"id": 26,
-			"name": "Sruweng"
+			"name": "Liang Anggang"
 		}
 	]
 }

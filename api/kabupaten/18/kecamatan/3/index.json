@@ -1,51 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lombok Barat",
-	"scraped_at": "2023-01-26T08:27:08.298Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Anambas",
+	"scraped_at": "2025-05-03T17:31:14.551Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Lombok Barat",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lambang_Kabupaten_Lombok_Barat.jpeg"
+		"name": "Kabupaten Kepulauan Anambas",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lambang_Kabupaten_Kepulauan_Anambas.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Batu Layar"
+			"name": "Jemaja Barat"
 		},
 		{
 			"id": 2,
-			"name": "Gerung"
+			"name": "Jemaja Timur"
 		},
 		{
 			"id": 3,
-			"name": "Gunungsari"
+			"name": "Jemaja"
 		},
 		{
 			"id": 4,
-			"name": "Kediri"
+			"name": "Kute Siantan"
 		},
 		{
 			"id": 5,
-			"name": "Kuripan"
+			"name": "Palmatak"
 		},
 		{
 			"id": 6,
-			"name": "Labuapi"
+			"name": "Siantan Selatan"
 		},
 		{
 			"id": 7,
-			"name": "Lembar"
+			"name": "Siantan Tengah"
 		},
 		{
 			"id": 8,
-			"name": "Lingsar"
+			"name": "Siantan Timur"
 		},
 		{
 			"id": 9,
-			"name": "Narmada"
+			"name": "Siantan Utara"
 		},
 		{
 			"id": 10,
-			"name": "Sekotong"
+			"name": "Siantan"
 		}
 	]
 }

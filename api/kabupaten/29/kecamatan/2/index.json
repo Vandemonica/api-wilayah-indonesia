@@ -1,83 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bone Bolango",
-	"scraped_at": "2023-01-26T08:29:40.768Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Dogiyai",
+	"scraped_at": "2025-05-03T17:33:25.092Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Bone Bolango",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lambang_Kabupaten_Bone_Bolango.gif"
+		"name": "Kabupaten Dogiyai",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Lambang_Kabupaten_Dogiyai.gif"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bone Raya"
+			"name": "Kamu"
 		},
 		{
 			"id": 2,
-			"name": "Bone"
+			"name": "Mapia"
 		},
 		{
 			"id": 3,
-			"name": "Bonepantai"
+			"name": "Piyaiye"
 		},
 		{
 			"id": 4,
-			"name": "Botupingge"
+			"name": "Kamu Utara"
 		},
 		{
 			"id": 5,
-			"name": "Bulango Selatan"
+			"name": "Sukikai Selatan"
 		},
 		{
 			"id": 6,
-			"name": "Bulango Timur"
+			"name": "Mapia Barat"
 		},
 		{
 			"id": 7,
-			"name": "Bulango Ulu"
+			"name": "Kamu Selatan"
 		},
 		{
 			"id": 8,
-			"name": "Bulango Utara"
+			"name": "Kamu Timur"
 		},
 		{
 			"id": 9,
-			"name": "Bulawa"
+			"name": "Mapia Tengah"
 		},
 		{
 			"id": 10,
-			"name": "Kabila Bone"
-		},
-		{
-			"id": 11,
-			"name": "Kabila"
-		},
-		{
-			"id": 12,
-			"name": "Pinogu"
-		},
-		{
-			"id": 13,
-			"name": "Suwawa Selatan"
-		},
-		{
-			"id": 14,
-			"name": "Suwawa Tengah"
-		},
-		{
-			"id": 15,
-			"name": "Suwawa Timur"
-		},
-		{
-			"id": 16,
-			"name": "Suwawa"
-		},
-		{
-			"id": 17,
-			"name": "Tapa"
-		},
-		{
-			"id": 18,
-			"name": "Tilongkabila"
+			"name": "Dogiyai"
 		}
 	]
 }

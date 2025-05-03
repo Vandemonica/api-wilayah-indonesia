@@ -1,6 +1,6 @@
 {
 	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Aceh Tamiang",
-	"scraped_at": "2023-01-26T08:22:23.205Z",
+	"scraped_at": "2025-05-03T17:26:39.072Z",
 	"kabupaten": {
 		"id": 7,
 		"name": "Kabupaten Aceh Tamiang",
@@ -41,18 +41,22 @@
 		},
 		{
 			"id": 9,
-			"name": "Sekrak"
+			"name": "Sekerak"
 		},
 		{
 			"id": 10,
-			"name": "Seruway"
+			"name": "Sekrak"
 		},
 		{
 			"id": 11,
-			"name": "Tamiang Hulu"
+			"name": "Seruway"
 		},
 		{
 			"id": 12,
+			"name": "Tamiang Hulu"
+		},
+		{
+			"id": 13,
 			"name": "Tenggulun"
 		}
 	]

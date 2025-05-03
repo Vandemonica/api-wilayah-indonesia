@@ -1,63 +1,127 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lima Puluh Kota",
-	"scraped_at": "2023-01-26T08:23:25.417Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tangerang",
+	"scraped_at": "2025-05-03T17:27:13.983Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Lima Puluh Kota",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lambang_Kabupaten_Lima_Puluh_Kota.png"
+		"name": "Kabupaten Tangerang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Seal_of_Tangerang_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Akabiluru"
+			"name": "Balaraja"
 		},
 		{
 			"id": 2,
-			"name": "Bukik Barisan"
+			"name": "Cikupa"
 		},
 		{
 			"id": 3,
-			"name": "Guguak"
+			"name": "Cisauk"
 		},
 		{
 			"id": 4,
-			"name": "Gunuang Omeh"
+			"name": "Cisoka"
 		},
 		{
 			"id": 5,
-			"name": "Harau"
+			"name": "Curug"
 		},
 		{
 			"id": 6,
-			"name": "Kapur IX"
+			"name": "Gunung Kaler"
 		},
 		{
 			"id": 7,
-			"name": "Lareh Sago Halaban"
+			"name": "Jambe"
 		},
 		{
 			"id": 8,
-			"name": "Luak"
+			"name": "Jayanti"
 		},
 		{
 			"id": 9,
-			"name": "Mungka"
+			"name": "Kelapa Dua"
 		},
 		{
 			"id": 10,
-			"name": "Pangkalan Koto Baru"
+			"name": "Kemiri"
 		},
 		{
 			"id": 11,
-			"name": "Payakumbuh"
+			"name": "Kosambi"
 		},
 		{
 			"id": 12,
-			"name": "Situjuah Limo Nagari"
+			"name": "Kresek"
 		},
 		{
 			"id": 13,
-			"name": "Suliki"
+			"name": "Kronjo"
+		},
+		{
+			"id": 14,
+			"name": "Legok"
+		},
+		{
+			"id": 15,
+			"name": "Mauk"
+		},
+		{
+			"id": 16,
+			"name": "Mekar Baru"
+		},
+		{
+			"id": 17,
+			"name": "Pagedangan"
+		},
+		{
+			"id": 18,
+			"name": "Pakuhaji"
+		},
+		{
+			"id": 19,
+			"name": "Panongan"
+		},
+		{
+			"id": 20,
+			"name": "Pasar Kemis"
+		},
+		{
+			"id": 21,
+			"name": "Rajeg"
+		},
+		{
+			"id": 22,
+			"name": "Sepatan Timur"
+		},
+		{
+			"id": 23,
+			"name": "Sepatan"
+		},
+		{
+			"id": 24,
+			"name": "Sindang Jaya"
+		},
+		{
+			"id": 25,
+			"name": "Solear"
+		},
+		{
+			"id": 26,
+			"name": "Sukadiri"
+		},
+		{
+			"id": 27,
+			"name": "Sukamulya"
+		},
+		{
+			"id": 28,
+			"name": "Teluknaga"
+		},
+		{
+			"id": 29,
+			"name": "Tigaraksa"
 		}
 	]
 }

@@ -1,43 +1,79 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Batanghari",
-	"scraped_at": "2023-01-26T08:23:57.897Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kapanewon,_kemantren,_kalurahan,_dan_kelurahan_di_Daerah_Istimewa_Yogyakarta",
+	"scraped_at": "2025-05-03T17:27:39.725Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Batanghari",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lambang_Kabupaten_Batang_Hari.gif"
+		"name": "Kabupaten Bantul",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Seal_of_Bantul_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bajubang"
+			"name": "Bambanglipuro"
 		},
 		{
 			"id": 2,
-			"name": "Batin XXIV"
+			"name": "Banguntapan"
 		},
 		{
 			"id": 3,
-			"name": "Maro Sebo Ilir"
+			"name": "Bantul"
 		},
 		{
 			"id": 4,
-			"name": "Maro Sebo Ulu"
+			"name": "Dlingo"
 		},
 		{
 			"id": 5,
-			"name": "Mersam"
+			"name": "Imogiri"
 		},
 		{
 			"id": 6,
-			"name": "Muara Bulian"
+			"name": "Jetis"
 		},
 		{
 			"id": 7,
-			"name": "Muara Tembesi"
+			"name": "Kasihan"
 		},
 		{
 			"id": 8,
-			"name": "Pemayung"
+			"name": "Kretek"
+		},
+		{
+			"id": 9,
+			"name": "Pajangan"
+		},
+		{
+			"id": 10,
+			"name": "Pandak"
+		},
+		{
+			"id": 11,
+			"name": "Piyungan"
+		},
+		{
+			"id": 12,
+			"name": "Pleret"
+		},
+		{
+			"id": 13,
+			"name": "Pundong"
+		},
+		{
+			"id": 14,
+			"name": "Sanden"
+		},
+		{
+			"id": 15,
+			"name": "Sedayu"
+		},
+		{
+			"id": 16,
+			"name": "Sewon"
+		},
+		{
+			"id": 17,
+			"name": "Srandakan"
 		}
 	]
 }

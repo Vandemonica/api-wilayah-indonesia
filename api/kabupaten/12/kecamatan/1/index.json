@@ -1,135 +1,79 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bandung",
-	"scraped_at": "2023-01-26T08:25:17.383Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bengkayang",
+	"scraped_at": "2025-05-03T17:29:43.409Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Bandung",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Lambang_Kabupaten_Bandung%2C_Jawa_Barat%2C_Indonesia.svg"
+		"name": "Kabupaten Bengkayang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lambang_Kabupaten_Bengkayang.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Arjasari"
+			"name": "Bengkayang"
 		},
 		{
 			"id": 2,
-			"name": "Baleendah"
+			"name": "Capkala"
 		},
 		{
 			"id": 3,
-			"name": "Banjaran"
+			"name": "Jagoi Babang"
 		},
 		{
 			"id": 4,
-			"name": "Bojongsoang"
+			"name": "Ledo"
 		},
 		{
 			"id": 5,
-			"name": "Cangkuang"
+			"name": "Lembah Bawang"
 		},
 		{
 			"id": 6,
-			"name": "Cicalengka"
+			"name": "Lumar"
 		},
 		{
 			"id": 7,
-			"name": "Cikancung"
+			"name": "Monterado"
 		},
 		{
 			"id": 8,
-			"name": "Cilengkrang"
+			"name": "Samalantan"
 		},
 		{
 			"id": 9,
-			"name": "Cileunyi"
+			"name": "Sanggau Ledo"
 		},
 		{
 			"id": 10,
-			"name": "Cimaung"
+			"name": "Seluas"
 		},
 		{
 			"id": 11,
-			"name": "Cimenyan"
+			"name": "Siding"
 		},
 		{
 			"id": 12,
-			"name": "Ciparay"
+			"name": "Sungai Betung"
 		},
 		{
 			"id": 13,
-			"name": "Ciwidey"
+			"name": "Sungai Raya Kepulauan"
 		},
 		{
 			"id": 14,
-			"name": "Dayeuhkolot"
+			"name": "Sungai Raya"
 		},
 		{
 			"id": 15,
-			"name": "Ibun"
+			"name": "Suti Semarang"
 		},
 		{
 			"id": 16,
-			"name": "Katapang"
+			"name": "Teriak"
 		},
 		{
 			"id": 17,
-			"name": "Kertasari"
-		},
-		{
-			"id": 18,
-			"name": "Kutawaringin"
-		},
-		{
-			"id": 19,
-			"name": "Majalaya"
-		},
-		{
-			"id": 20,
-			"name": "Margaasih"
-		},
-		{
-			"id": 21,
-			"name": "Margahayu"
-		},
-		{
-			"id": 22,
-			"name": "Nagreg"
-		},
-		{
-			"id": 23,
-			"name": "Pacet"
-		},
-		{
-			"id": 24,
-			"name": "Pameungpeuk"
-		},
-		{
-			"id": 25,
-			"name": "Pangalengan"
-		},
-		{
-			"id": 26,
-			"name": "Paseh"
-		},
-		{
-			"id": 27,
-			"name": "Pasirjambu"
-		},
-		{
-			"id": 28,
-			"name": "Rancabali"
-		},
-		{
-			"id": 29,
-			"name": "Rancaekek"
-		},
-		{
-			"id": 30,
-			"name": "Solokanjeruk"
-		},
-		{
-			"id": 31,
-			"name": "Soreang"
+			"name": "Tujuh Belas"
 		}
 	]
 }

@@ -1,79 +1,59 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kapanewon,_kemantren,_kalurahan,_dan_kelurahan_di_Daerah_Istimewa_Yogyakarta",
-	"scraped_at": "2023-01-26T08:26:13.514Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Gunung Mas",
+	"scraped_at": "2025-05-03T17:30:36.888Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Sleman",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Seal_of_Sleman_Regency.svg"
+		"name": "Kabupaten Gunung Mas",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lambang_Kabupaten_Gunung_Mas.tif"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Berbah"
+			"name": "Damang Batu"
 		},
 		{
 			"id": 2,
-			"name": "Cangkringan"
+			"name": "Kahayan Hulu Utara"
 		},
 		{
 			"id": 3,
-			"name": "Depok"
+			"name": "Kurun"
 		},
 		{
 			"id": 4,
-			"name": "Gamping"
+			"name": "Manuhing Raya"
 		},
 		{
 			"id": 5,
-			"name": "Godean"
+			"name": "Manuhing"
 		},
 		{
 			"id": 6,
-			"name": "Kalasan"
+			"name": "Mihing Raya"
 		},
 		{
 			"id": 7,
-			"name": "Minggir"
+			"name": "Miri Manasa"
 		},
 		{
 			"id": 8,
-			"name": "Mlati"
+			"name": "Rungan Barat"
 		},
 		{
 			"id": 9,
-			"name": "Moyudan"
+			"name": "Rungan Hulu"
 		},
 		{
 			"id": 10,
-			"name": "Ngaglik"
+			"name": "Rungan"
 		},
 		{
 			"id": 11,
-			"name": "Ngemplak"
+			"name": "Sepang"
 		},
 		{
 			"id": 12,
-			"name": "Pakem"
-		},
-		{
-			"id": 13,
-			"name": "Prambanan"
-		},
-		{
-			"id": 14,
-			"name": "Seyegan"
-		},
-		{
-			"id": 15,
-			"name": "Sleman"
-		},
-		{
-			"id": 16,
-			"name": "Tempel"
-		},
-		{
-			"id": 17,
-			"name": "Turi"
+			"name": "Tewah"
 		}
 	]
 }

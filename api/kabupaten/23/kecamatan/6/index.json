@@ -1,51 +1,47 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Paser",
-	"scraped_at": "2023-01-26T08:28:11.952Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lembata",
+	"scraped_at": "2025-05-03T17:32:06.307Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Paser",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lambang_Kabupaten_Paser.jpeg"
+		"name": "Kabupaten Lembata",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lambang_Kabupaten_Lembata.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Batu Engau"
+			"name": "Atadei"
 		},
 		{
 			"id": 2,
-			"name": "Batu Sopang"
+			"name": "Buyasuri"
 		},
 		{
 			"id": 3,
-			"name": "Kuaro"
+			"name": "Ile Ape Timur"
 		},
 		{
 			"id": 4,
-			"name": "Long Ikis"
+			"name": "Ile Ape"
 		},
 		{
 			"id": 5,
-			"name": "Long Kali"
+			"name": "Lebatukan"
 		},
 		{
 			"id": 6,
-			"name": "Muara Komam"
+			"name": "Nagawutung"
 		},
 		{
 			"id": 7,
-			"name": "Muara Samu"
+			"name": "Nubatukan"
 		},
 		{
 			"id": 8,
-			"name": "Paser Belengkong"
+			"name": "Omesuri"
 		},
 		{
 			"id": 9,
-			"name": "Tanah Grogot"
-		},
-		{
-			"id": 10,
-			"name": "Tanjung Harapan"
+			"name": "Wulandoni"
 		}
 	]
 }

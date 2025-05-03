@@ -1,107 +1,103 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kupang",
-	"scraped_at": "2023-01-26T08:27:20.102Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lampung Utara",
+	"scraped_at": "2025-05-03T17:31:21.960Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Kupang",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lambang_Kabupaten_Kupang.png"
+		"name": "Kabupaten Lampung Utara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lambang_Kabupaten_Lampung_Utara.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Amabi Oefeto Timur"
+			"name": "Abung Barat"
 		},
 		{
 			"id": 2,
-			"name": "Amabi Oefeto"
+			"name": "Abung Kunang"
 		},
 		{
 			"id": 3,
-			"name": "Amarasi Barat"
+			"name": "Abung Pekurun"
 		},
 		{
 			"id": 4,
-			"name": "Amarasi Selatan"
+			"name": "Abung Selatan"
 		},
 		{
 			"id": 5,
-			"name": "Amarasi Timur"
+			"name": "Abung Semuli"
 		},
 		{
 			"id": 6,
-			"name": "Amarasi"
+			"name": "Abung Surakarta"
 		},
 		{
 			"id": 7,
-			"name": "Amfoang Barat Daya"
+			"name": "Abung Tengah"
 		},
 		{
 			"id": 8,
-			"name": "Amfoang Barat Laut"
+			"name": "Abung Timur"
 		},
 		{
 			"id": 9,
-			"name": "Amfoang Selatan"
+			"name": "Abung Tinggi"
 		},
 		{
 			"id": 10,
-			"name": "Amfoang Tengah"
+			"name": "Blambangan Pagar"
 		},
 		{
 			"id": 11,
-			"name": "Amfoang Timur"
+			"name": "Bukit Kemuning"
 		},
 		{
 			"id": 12,
-			"name": "Amfoang Utara"
+			"name": "Bunga Mayang"
 		},
 		{
 			"id": 13,
-			"name": "Fatuleu Barat"
+			"name": "Hulu Sungkai"
 		},
 		{
 			"id": 14,
-			"name": "Fatuleu Tengah"
+			"name": "Kotabumi Selatan"
 		},
 		{
 			"id": 15,
-			"name": "Fatuleu"
+			"name": "Kotabumi Utara"
 		},
 		{
 			"id": 16,
-			"name": "Kupang Barat"
+			"name": "Kotabumi"
 		},
 		{
 			"id": 17,
-			"name": "Kupang Tengah"
+			"name": "Muara Sungkai"
 		},
 		{
 			"id": 18,
-			"name": "Kupang Timur"
+			"name": "Sungkai Barat"
 		},
 		{
 			"id": 19,
-			"name": "Nekamese"
+			"name": "Sungkai Jaya"
 		},
 		{
 			"id": 20,
-			"name": "Semau Selatan"
+			"name": "Sungkai Selatan"
 		},
 		{
 			"id": 21,
-			"name": "Semau"
+			"name": "Sungkai Tengah"
 		},
 		{
 			"id": 22,
-			"name": "Sulamu"
+			"name": "Sungkai Utara"
 		},
 		{
 			"id": 23,
-			"name": "Taebenu"
-		},
-		{
-			"id": 24,
-			"name": "Takari"
+			"name": "Tanjung Raja"
 		}
 	]
 }

@@ -1,55 +1,63 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pesawaran",
-	"scraped_at": "2023-01-26T08:24:43.127Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tanjung Jabung Barat",
+	"scraped_at": "2025-05-03T17:28:11.797Z",
 	"kabupaten": {
 		"id": 7,
-		"name": "Kabupaten Pesawaran",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lambang_Kabupaten_Pesawaran.png"
+		"name": "Kabupaten Tanjung Jabung Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Logo_Kabupaten_Tanjung_Jabung_Barat.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Gedong Tataan"
+			"name": "Batang Asam"
 		},
 		{
 			"id": 2,
-			"name": "Kedondong"
+			"name": "Betara"
 		},
 		{
 			"id": 3,
-			"name": "Marga Punduh"
+			"name": "Bram Itam"
 		},
 		{
 			"id": 4,
-			"name": "Negeri Katon"
+			"name": "Kuala Betara"
 		},
 		{
 			"id": 5,
-			"name": "Padang Cermin"
+			"name": "Merlung"
 		},
 		{
 			"id": 6,
-			"name": "Punduh Pidada"
+			"name": "Muara Papalik"
 		},
 		{
 			"id": 7,
-			"name": "Tegineneng"
+			"name": "Pengabuan"
 		},
 		{
 			"id": 8,
-			"name": "Teluk Pandan"
+			"name": "Renah Mendaluh"
 		},
 		{
 			"id": 9,
-			"name": "Way Khilau"
+			"name": "Seberang Kota"
 		},
 		{
 			"id": 10,
-			"name": "Way Lima"
+			"name": "Senyerang"
 		},
 		{
 			"id": 11,
-			"name": "Way Ratai"
+			"name": "Tebing Tinggi"
+		},
+		{
+			"id": 12,
+			"name": "Tungkal Ilir"
+		},
+		{
+			"id": 13,
+			"name": "Tungkal Ulu"
 		}
 	]
 }

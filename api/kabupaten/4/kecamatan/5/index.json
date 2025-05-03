@@ -1,47 +1,43 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Meranti",
-	"scraped_at": "2023-01-26T08:23:50.175Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepahiang",
+	"scraped_at": "2025-05-03T17:27:23.932Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Kepulauan Meranti",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Lambang_kab_Kepulauan_Meranti.png"
+		"name": "Kabupaten Kepahiang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_Kepahiang.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Merbau"
+			"name": "Bermani Ilir"
 		},
 		{
 			"id": 2,
-			"name": "Pulau Merbau"
+			"name": "Kabawetan"
 		},
 		{
 			"id": 3,
-			"name": "Rangsang Barat"
+			"name": "Kepahiang"
 		},
 		{
 			"id": 4,
-			"name": "Rangsang Pesisir"
+			"name": "Merigi"
 		},
 		{
 			"id": 5,
-			"name": "Rangsang"
+			"name": "Muara Kemumu"
 		},
 		{
 			"id": 6,
-			"name": "Tasik Putri Puyu"
+			"name": "Seberang Musi"
 		},
 		{
 			"id": 7,
-			"name": "Tebing Tinggi Barat"
+			"name": "Tebat Karai"
 		},
 		{
 			"id": 8,
-			"name": "Tebing Tinggi Timur"
-		},
-		{
-			"id": 9,
-			"name": "Tebing Tinggi"
+			"name": "Ujan Mas"
 		}
 	]
 }

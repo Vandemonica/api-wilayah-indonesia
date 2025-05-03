@@ -1,39 +1,71 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Nagekeo",
-	"scraped_at": "2023-01-26T08:27:24.626Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tulang Bawang",
+	"scraped_at": "2025-05-03T17:31:26.822Z",
 	"kabupaten": {
 		"id": 11,
-		"name": "Kabupaten Nagekeo",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Lambang_Kabupaten_Nagekeo.png"
+		"name": "Kabupaten Tulang Bawang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/LOGO_KABUPATEN_TULANG_BAWANG.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Aesesa Selatan"
+			"name": "Banjar Agung"
 		},
 		{
 			"id": 2,
-			"name": "Aesesa"
+			"name": "Banjar Baru"
 		},
 		{
 			"id": 3,
-			"name": "Boawae"
+			"name": "Banjar Margo"
 		},
 		{
 			"id": 4,
-			"name": "Keo Tengah"
+			"name": "Dente Teladas"
 		},
 		{
 			"id": 5,
-			"name": "Mauponggo"
+			"name": "Gedung Aji Baru"
 		},
 		{
 			"id": 6,
-			"name": "Nangaroro"
+			"name": "Gedung Aji"
 		},
 		{
 			"id": 7,
-			"name": "Wolowae"
+			"name": "Gedung Meneng"
+		},
+		{
+			"id": 8,
+			"name": "Menggala Timur"
+		},
+		{
+			"id": 9,
+			"name": "Menggala"
+		},
+		{
+			"id": 10,
+			"name": "Meraksa Aji"
+		},
+		{
+			"id": 11,
+			"name": "Penawar Aji"
+		},
+		{
+			"id": 12,
+			"name": "Penawar Tama"
+		},
+		{
+			"id": 13,
+			"name": "Rawa Pitu"
+		},
+		{
+			"id": 14,
+			"name": "Rawajitu Selatan"
+		},
+		{
+			"id": 15,
+			"name": "Rawajitu Timur"
 		}
 	]
 }

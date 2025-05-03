@@ -1,39 +1,39 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Kaimana",
-	"scraped_at": "2023-01-26T08:30:29.891Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Buton",
+	"scraped_at": "2025-05-03T17:34:37.397Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Kaimana",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Lambang_Kabupaten_Kaimana.jpg"
+		"name": "Kabupaten Buton",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kabupaten_Buton.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Buruway"
+			"name": "Kapontori"
 		},
 		{
 			"id": 2,
-			"name": "Kaimana"
+			"name": "Lasalimu"
 		},
 		{
 			"id": 3,
-			"name": "Kambrauw"
+			"name": "Lasalimu Selatan"
 		},
 		{
 			"id": 4,
-			"name": "Teluk Arguni Atas"
+			"name": "Pasarwajo"
 		},
 		{
 			"id": 5,
-			"name": "Teluk Arguni Bawah"
+			"name": "Siotapina"
 		},
 		{
 			"id": 6,
-			"name": "Teluk Etna"
+			"name": "Wabula"
 		},
 		{
 			"id": 7,
-			"name": "Yamor"
+			"name": "Wolowa"
 		}
 	]
 }

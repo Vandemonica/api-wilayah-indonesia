@@ -1,87 +1,67 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Talaud",
-	"scraped_at": "2023-01-26T08:28:31.330Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Teluk Wondama",
+	"scraped_at": "2025-05-03T17:32:47.122Z",
 	"kabupaten": {
 		"id": 7,
-		"name": "Kabupaten Kepulauan Talaud",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_Kabupaten_Kepulauan_Talaud.jpg"
+		"name": "Kabupaten Teluk Wondama",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lambang_Kabupaten_Teluk_Wondama.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Beo Selatan"
+			"name": "Kuri Wamesa"
 		},
 		{
 			"id": 2,
-			"name": "Beo Utara"
+			"name": "Naikere"
 		},
 		{
 			"id": 3,
-			"name": "Beo"
+			"name": "Nikiwar"
 		},
 		{
 			"id": 4,
-			"name": "Damau"
+			"name": "Rasiei"
 		},
 		{
 			"id": 5,
-			"name": "Essang Selatan"
+			"name": "Roon"
 		},
 		{
 			"id": 6,
-			"name": "Essang"
+			"name": "Roswar"
 		},
 		{
 			"id": 7,
-			"name": "Gemeh"
+			"name": "Rumberpon"
 		},
 		{
 			"id": 8,
-			"name": "Kabaruan"
+			"name": "Soug Jaya"
 		},
 		{
 			"id": 9,
-			"name": "Kalongan"
+			"name": "Teluk Duairi"
 		},
 		{
 			"id": 10,
-			"name": "Lirung"
+			"name": "Wamesa"
 		},
 		{
 			"id": 11,
-			"name": "Melonguane Timur"
+			"name": "Wasior"
 		},
 		{
 			"id": 12,
-			"name": "Melonguane"
+			"name": "Wasior I"
 		},
 		{
 			"id": 13,
-			"name": "Miangas"
+			"name": "Windesi"
 		},
 		{
 			"id": 14,
-			"name": "Moronge"
-		},
-		{
-			"id": 15,
-			"name": "Nanusa"
-		},
-		{
-			"id": 16,
-			"name": "Pulutan"
-		},
-		{
-			"id": 17,
-			"name": "Rainis"
-		},
-		{
-			"id": 18,
-			"name": "Salibabu"
-		},
-		{
-			"id": 19,
-			"name": "Tampan' Amma"
+			"name": "Wondiboy"
 		}
 	]
 }

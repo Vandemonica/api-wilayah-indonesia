@@ -1,31 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Labuhanbatu Selatan",
-	"scraped_at": "2023-01-26T08:22:57.323Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tabanan",
+	"scraped_at": "2025-05-03T17:27:02.955Z",
 	"kabupaten": {
 		"id": 8,
-		"name": "Kabupaten Labuhanbatu Selatan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lambang_Kabupaten_Labuhanbatu_Selatan.jpg"
+		"name": "Kabupaten Tabanan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lambang_Kabupaten_Tabanan.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kampung Rakyat"
+			"name": "Baturiti"
 		},
 		{
 			"id": 2,
-			"name": "Kotapinang"
+			"name": "Kediri"
 		},
 		{
 			"id": 3,
-			"name": "Silangkitang"
+			"name": "Kerambitan"
 		},
 		{
 			"id": 4,
-			"name": "Sungai Kanan"
+			"name": "Marga"
 		},
 		{
 			"id": 5,
-			"name": "Torgamba"
+			"name": "Penebel"
+		},
+		{
+			"id": 6,
+			"name": "Pupuan"
+		},
+		{
+			"id": 7,
+			"name": "Selemadeg Barat"
+		},
+		{
+			"id": 8,
+			"name": "Selemadeg Timur"
+		},
+		{
+			"id": 9,
+			"name": "Selemadeg"
+		},
+		{
+			"id": 10,
+			"name": "Tabanan"
 		}
 	]
 }

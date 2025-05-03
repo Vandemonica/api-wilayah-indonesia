@@ -1,59 +1,47 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pasangkayu",
-	"scraped_at": "2023-01-26T08:29:53.066Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Meranti",
+	"scraped_at": "2025-05-03T17:33:37.059Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Pasangkayu",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kabupaten_Pasangkayu.png"
+		"name": "Kabupaten Kepulauan Meranti",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Lambang_kab_Kepulauan_Meranti.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bambaira"
+			"name": "Merbau"
 		},
 		{
 			"id": 2,
-			"name": "Bambalamotu"
+			"name": "Pulau Merbau"
 		},
 		{
 			"id": 3,
-			"name": "Baras"
+			"name": "Rangsang Barat"
 		},
 		{
 			"id": 4,
-			"name": "Bulu Taba"
+			"name": "Rangsang Pesisir"
 		},
 		{
 			"id": 5,
-			"name": "Dapurang"
+			"name": "Rangsang"
 		},
 		{
 			"id": 6,
-			"name": "Duripoku"
+			"name": "Tasik Putri Puyu"
 		},
 		{
 			"id": 7,
-			"name": "Lariang"
+			"name": "Tebing Tinggi Barat"
 		},
 		{
 			"id": 8,
-			"name": "Pasangkayu"
+			"name": "Tebing Tinggi Timur"
 		},
 		{
 			"id": 9,
-			"name": "Pedongga"
-		},
-		{
-			"id": 10,
-			"name": "Sarjo"
-		},
-		{
-			"id": 11,
-			"name": "Sarudu"
-		},
-		{
-			"id": 12,
-			"name": "Tikke Raya"
+			"name": "Tebing Tinggi"
 		}
 	]
 }

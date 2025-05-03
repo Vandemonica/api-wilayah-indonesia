@@ -1,47 +1,43 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Buleleng",
-	"scraped_at": "2023-01-26T08:27:01.260Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bangka Selatan",
+	"scraped_at": "2025-05-03T17:31:08.528Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Buleleng",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lambang_Kabupaten_Buleleng.png"
+		"name": "Kabupaten Bangka Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lambang_Kabupaten_Bangka_Selatan.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Banjar"
+			"name": "Air Gegas"
 		},
 		{
 			"id": 2,
-			"name": "Buleleng"
+			"name": "Kepulauan Pongok"
 		},
 		{
 			"id": 3,
-			"name": "Busungbiu"
+			"name": "Lepar Pongok"
 		},
 		{
 			"id": 4,
-			"name": "Gerokgak"
+			"name": "Payung"
 		},
 		{
 			"id": 5,
-			"name": "Kubutambahan"
+			"name": "Pulau Besar"
 		},
 		{
 			"id": 6,
-			"name": "Sawan"
+			"name": "Simpang Rimba"
 		},
 		{
 			"id": 7,
-			"name": "Seririt"
+			"name": "Toboali"
 		},
 		{
 			"id": 8,
-			"name": "Sukasada"
-		},
-		{
-			"id": 9,
-			"name": "Tejakula"
+			"name": "Tukak Sadai"
 		}
 	]
 }

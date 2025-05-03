@@ -1,43 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tidore Kepulauan",
-	"scraped_at": "2023-01-26T08:30:14.685Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Luwu Timur",
+	"scraped_at": "2025-05-03T17:34:06.986Z",
 	"kabupaten": {
 		"id": 10,
-		"name": "Kota Tidore Kepulauan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lambang_Kota_Tidore_Kepulauan.png"
+		"name": "Kabupaten Luwu Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Lambang_Kabupaten_Luwu_Timur.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Oba"
+			"name": "Angkona"
 		},
 		{
 			"id": 2,
-			"name": "Oba Selatan"
+			"name": "Burau"
 		},
 		{
 			"id": 3,
-			"name": "Oba Tengah"
+			"name": "Kalaena"
 		},
 		{
 			"id": 4,
-			"name": "Oba Utara"
+			"name": "Malili"
 		},
 		{
 			"id": 5,
-			"name": "Tidore"
+			"name": "Mangkutana"
 		},
 		{
 			"id": 6,
-			"name": "Tidore Selatan"
+			"name": "Nuha"
 		},
 		{
 			"id": 7,
-			"name": "Tidore Timur"
+			"name": "Tomoni Timur"
 		},
 		{
 			"id": 8,
-			"name": "Tidore Utara"
+			"name": "Tomoni"
+		},
+		{
+			"id": 9,
+			"name": "Towuti"
+		},
+		{
+			"id": 10,
+			"name": "Wasuponda"
+		},
+		{
+			"id": 11,
+			"name": "Wotu"
 		}
 	]
 }

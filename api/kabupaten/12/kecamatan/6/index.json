@@ -1,139 +1,63 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Cianjur",
-	"scraped_at": "2023-01-26T08:25:21.962Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Landak",
+	"scraped_at": "2025-05-03T17:29:50.965Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Cianjur",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lambang_Kabupaten_Cianjur.svg"
+		"name": "Kabupaten Landak",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Lambang_Kabupaten_Landak.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Agrabinta"
+			"name": "Air Besar"
 		},
 		{
 			"id": 2,
-			"name": "Bojongpicung"
+			"name": "Banyuke Hulu"
 		},
 		{
 			"id": 3,
-			"name": "Campaka"
+			"name": "Jelimpo"
 		},
 		{
 			"id": 4,
-			"name": "Campakamulya"
+			"name": "Kuala Behe"
 		},
 		{
 			"id": 5,
-			"name": "Cianjur"
+			"name": "Mandor"
 		},
 		{
 			"id": 6,
-			"name": "Cibeber"
+			"name": "Mempawah Hulu"
 		},
 		{
 			"id": 7,
-			"name": "Cibinong"
+			"name": "Menjalin"
 		},
 		{
 			"id": 8,
-			"name": "Cidaun"
+			"name": "Menyuke"
 		},
 		{
 			"id": 9,
-			"name": "Cijati"
+			"name": "Meranti"
 		},
 		{
 			"id": 10,
-			"name": "Cikadu"
+			"name": "Ngabang"
 		},
 		{
 			"id": 11,
-			"name": "Cikalongkulon"
+			"name": "Sebangki"
 		},
 		{
 			"id": 12,
-			"name": "Cilaku"
+			"name": "Sengah Temila"
 		},
 		{
 			"id": 13,
-			"name": "Cipanas"
-		},
-		{
-			"id": 14,
-			"name": "Ciranjang"
-		},
-		{
-			"id": 15,
-			"name": "Cugenang"
-		},
-		{
-			"id": 16,
-			"name": "Gekbrong"
-		},
-		{
-			"id": 17,
-			"name": "Haurwangi"
-		},
-		{
-			"id": 18,
-			"name": "Kadupandak"
-		},
-		{
-			"id": 19,
-			"name": "Karangtengah"
-		},
-		{
-			"id": 20,
-			"name": "Leles"
-		},
-		{
-			"id": 21,
-			"name": "Mande"
-		},
-		{
-			"id": 22,
-			"name": "Naringgul"
-		},
-		{
-			"id": 23,
-			"name": "Pacet"
-		},
-		{
-			"id": 24,
-			"name": "Pagelaran"
-		},
-		{
-			"id": 25,
-			"name": "Pasirkuda"
-		},
-		{
-			"id": 26,
-			"name": "Sindangbarang"
-		},
-		{
-			"id": 27,
-			"name": "Sukaluyu"
-		},
-		{
-			"id": 28,
-			"name": "Sukanagara"
-		},
-		{
-			"id": 29,
-			"name": "Sukaresmi"
-		},
-		{
-			"id": 30,
-			"name": "Takokak"
-		},
-		{
-			"id": 31,
-			"name": "Tanggeung"
-		},
-		{
-			"id": 32,
-			"name": "Warungkondang"
+			"name": "Sompak"
 		}
 	]
 }

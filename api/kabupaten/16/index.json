@@ -1,59 +1,41 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Banten",
-	"scraped_at": "2023-01-26T08:26:49.348Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kalimantan_Utara",
+	"scraped_at": "2025-05-03T17:31:00.655Z",
 	"provinsi": {
 		"id": 16,
-		"code": "36",
-		"name": "Banten",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Coat_of_arms_of_Banten.svg"
+		"code": "65",
+		"name": "Kalimantan Utara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Coat_of_arms_of_North_Kalimantan_%282021_version%29.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kabupaten Lebak",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Coat_of_arms_of_Lebak.svg",
-			"capital": "Rangkasbitung"
+			"name": "Kabupaten Bulungan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lambang_Kabupaten_Bulungan.png",
+			"capital": "Tanjung Selor"
 		},
 		{
 			"id": 2,
-			"name": "Kabupaten Pandeglang",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Coat_of_arms_of_Pandeglang.svg",
-			"capital": "Pandeglang"
+			"name": "Kabupaten Malinau",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lambang_Kabupaten_Malinau.jpeg",
+			"capital": "Malinau"
 		},
 		{
 			"id": 3,
-			"name": "Kabupaten Serang",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Seal_of_Serang_Regency.svg",
-			"capital": "Ciruas"
+			"name": "Kabupaten Nunukan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lambang_Kabupaten_Nunukan.jpg",
+			"capital": "Nunukan"
 		},
 		{
 			"id": 4,
-			"name": "Kabupaten Tangerang",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Seal_of_Tangerang_Regency.svg",
-			"capital": "Tigaraksa"
+			"name": "Kabupaten Tana Tidung",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Lambang_Kabupaten_Tana_Tidung.jpg",
+			"capital": "Tideng Pale"
 		},
 		{
 			"id": 5,
-			"name": "Kota Cilegon",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Seal_of_the_City_of_Cilegon.svg",
-			"capital": "-"
-		},
-		{
-			"id": 6,
-			"name": "Kota Serang",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Seal_of_the_City_of_Serang.svg",
-			"capital": "-"
-		},
-		{
-			"id": 7,
-			"name": "Kota Tangerang",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Seal_of_the_City_of_Tangerang.svg",
-			"capital": "-"
-		},
-		{
-			"id": 8,
-			"name": "Kota Tangerang Selatan",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lambang_Kota_Tangerang_Selatan.svg",
+			"name": "Kota Tarakan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lambang_Kota_Tarakan.gif",
 			"capital": "-"
 		}
 	]

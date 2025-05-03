@@ -1,71 +1,39 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Mappi",
-	"scraped_at": "2023-01-26T08:30:39.714Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bolaang Mongondow Timur",
+	"scraped_at": "2025-05-03T17:34:54.840Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Mappi",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lambang_Kabupaten_Mappi.png"
+		"name": "Kabupaten Bolaang Mongondow Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Lambang_Kabupaten_Bolaang_Mongondow_Timur.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Obaa"
+			"name": "Kotabunan"
 		},
 		{
 			"id": 2,
-			"name": "Mambioman Bapai"
+			"name": "Modayag"
 		},
 		{
 			"id": 3,
-			"name": "Citak Mitak"
+			"name": "Modayag Barat"
 		},
 		{
 			"id": 4,
-			"name": "Edera"
+			"name": "Mooat"
 		},
 		{
 			"id": 5,
-			"name": "Haju"
+			"name": "Motongkad"
 		},
 		{
 			"id": 6,
-			"name": "Assue"
+			"name": "Nuangan"
 		},
 		{
 			"id": 7,
-			"name": "Kaibar"
-		},
-		{
-			"id": 8,
-			"name": "Passue"
-		},
-		{
-			"id": 9,
-			"name": "Minyamur"
-		},
-		{
-			"id": 10,
-			"name": "Venaha"
-		},
-		{
-			"id": 11,
-			"name": "Syahcame"
-		},
-		{
-			"id": 12,
-			"name": "Yakomi"
-		},
-		{
-			"id": 13,
-			"name": "Bamgi"
-		},
-		{
-			"id": 14,
-			"name": "Passue Bawah"
-		},
-		{
-			"id": 15,
-			"name": "Ti Zain"
+			"name": "Tutuyan"
 		}
 	]
 }

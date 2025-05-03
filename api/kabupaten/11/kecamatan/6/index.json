@@ -1,35 +1,83 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Administrasi Jakarta Utara",
-	"scraped_at": "2023-01-26T08:25:13.649Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Gresik",
+	"scraped_at": "2025-05-03T17:29:18.928Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kota Administrasi Jakarta Utara",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lambang_Kota_Administrasi_Jakarta_Utara.png"
+		"name": "Kabupaten Gresik",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Seal_of_Gresik_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Cilincing"
+			"name": "Balongpanggang"
 		},
 		{
 			"id": 2,
-			"name": "Kelapa Gading"
+			"name": "Benjeng"
 		},
 		{
 			"id": 3,
-			"name": "Koja"
+			"name": "Bungah"
 		},
 		{
 			"id": 4,
-			"name": "Pademangan"
+			"name": "Cerme"
 		},
 		{
 			"id": 5,
-			"name": "Penjaringan"
+			"name": "Driyorejo"
 		},
 		{
 			"id": 6,
-			"name": "Tanjung Priok"
+			"name": "Duduksampeyan"
+		},
+		{
+			"id": 7,
+			"name": "Dukun"
+		},
+		{
+			"id": 8,
+			"name": "Gresik"
+		},
+		{
+			"id": 9,
+			"name": "Kebomas"
+		},
+		{
+			"id": 10,
+			"name": "Kedamean"
+		},
+		{
+			"id": 11,
+			"name": "Manyar"
+		},
+		{
+			"id": 12,
+			"name": "Menganti"
+		},
+		{
+			"id": 13,
+			"name": "Panceng"
+		},
+		{
+			"id": 14,
+			"name": "Sangkapura"
+		},
+		{
+			"id": 15,
+			"name": "Sidayu"
+		},
+		{
+			"id": 16,
+			"name": "Tambak"
+		},
+		{
+			"id": 17,
+			"name": "Ujungpangkah"
+		},
+		{
+			"id": 18,
+			"name": "Wringinanom"
 		}
 	]
 }

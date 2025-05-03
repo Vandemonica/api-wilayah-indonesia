@@ -1,83 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bima",
-	"scraped_at": "2023-01-26T08:27:06.782Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bintan",
+	"scraped_at": "2025-05-03T17:31:13.012Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Bima",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Lambang_Kabupaten_Bima.png"
+		"name": "Kabupaten Bintan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Lambang_Kabupaten_Bintan.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Ambalawi"
+			"name": "Bintan Pesisir"
 		},
 		{
 			"id": 2,
-			"name": "Belo"
+			"name": "Bintan Timur"
 		},
 		{
 			"id": 3,
-			"name": "Bolo"
+			"name": "Bintan Utara"
 		},
 		{
 			"id": 4,
-			"name": "Donggo"
+			"name": "Gunung Kijang"
 		},
 		{
 			"id": 5,
-			"name": "Lambitu"
+			"name": "Mantang"
 		},
 		{
 			"id": 6,
-			"name": "Lambu"
+			"name": "Seri Kuala Lobam"
 		},
 		{
 			"id": 7,
-			"name": "Langgudu"
+			"name": "Tambelan"
 		},
 		{
 			"id": 8,
-			"name": "Madapangga"
+			"name": "Teluk Bintan"
 		},
 		{
 			"id": 9,
-			"name": "Monta"
+			"name": "Teluk Sebong"
 		},
 		{
 			"id": 10,
-			"name": "Palibelo"
-		},
-		{
-			"id": 11,
-			"name": "Parado"
-		},
-		{
-			"id": 12,
-			"name": "Sanggar"
-		},
-		{
-			"id": 13,
-			"name": "Sape"
-		},
-		{
-			"id": 14,
-			"name": "Soromandi"
-		},
-		{
-			"id": 15,
-			"name": "Tambora"
-		},
-		{
-			"id": 16,
-			"name": "Wawo"
-		},
-		{
-			"id": 17,
-			"name": "Wera"
-		},
-		{
-			"id": 18,
-			"name": "Woha"
+			"name": "Toapaya"
 		}
 	]
 }

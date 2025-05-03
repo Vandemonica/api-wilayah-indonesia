@@ -1,147 +1,71 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Pegunungan Bintang",
-	"scraped_at": "2023-01-26T08:30:57.547Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Musi Banyuasin",
+	"scraped_at": "2025-05-03T17:35:36.495Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Pegunungan Bintang",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Lambang_Kabupaten_Pegunungan_Bintang.webp"
+		"name": "Kabupaten Musi Banyuasin",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lambang_Kabupaten_Musi_Banyuasin.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Oksibil"
+			"name": "Babat Supat"
 		},
 		{
 			"id": 2,
-			"name": "Kiwirok"
+			"name": "Babat Toman"
 		},
 		{
 			"id": 3,
-			"name": "Okbibab"
+			"name": "Batanghari Leko"
 		},
 		{
 			"id": 4,
-			"name": "Iwur"
+			"name": "Bayung Lencir"
 		},
 		{
 			"id": 5,
-			"name": "Batom"
+			"name": "Jirak Jaya"
 		},
 		{
 			"id": 6,
-			"name": "Borme"
+			"name": "Keluang"
 		},
 		{
 			"id": 7,
-			"name": "Kiwirok Timur"
+			"name": "Lais"
 		},
 		{
 			"id": 8,
-			"name": "Aboy"
+			"name": "Lalan"
 		},
 		{
 			"id": 9,
-			"name": "Pepera"
+			"name": "Lawang Wetan"
 		},
 		{
 			"id": 10,
-			"name": "Bime"
+			"name": "Plakat Tinggi"
 		},
 		{
 			"id": 11,
-			"name": "Alemsom"
+			"name": "Sanga Desa"
 		},
 		{
 			"id": 12,
-			"name": "Okbape"
+			"name": "Sekayu"
 		},
 		{
 			"id": 13,
-			"name": "Kalomdol"
+			"name": "Sungai Keruh"
 		},
 		{
 			"id": 14,
-			"name": "Oksop"
+			"name": "Sungai Lilin"
 		},
 		{
 			"id": 15,
-			"name": "Serambakon"
-		},
-		{
-			"id": 16,
-			"name": "Ok Aom"
-		},
-		{
-			"id": 17,
-			"name": "Kawor"
-		},
-		{
-			"id": 18,
-			"name": "Awinbon"
-		},
-		{
-			"id": 19,
-			"name": "Tarup"
-		},
-		{
-			"id": 20,
-			"name": "Okhika"
-		},
-		{
-			"id": 21,
-			"name": "Oksamol"
-		},
-		{
-			"id": 22,
-			"name": "Oklip"
-		},
-		{
-			"id": 23,
-			"name": "Okbemtau"
-		},
-		{
-			"id": 24,
-			"name": "Oksebang"
-		},
-		{
-			"id": 25,
-			"name": "Okbab"
-		},
-		{
-			"id": 26,
-			"name": "Batani"
-		},
-		{
-			"id": 27,
-			"name": "Weime"
-		},
-		{
-			"id": 28,
-			"name": "Murkim"
-		},
-		{
-			"id": 29,
-			"name": "Mofinop"
-		},
-		{
-			"id": 30,
-			"name": "Jetfa"
-		},
-		{
-			"id": 31,
-			"name": "Teiraplu"
-		},
-		{
-			"id": 32,
-			"name": "Eipumek"
-		},
-		{
-			"id": 33,
-			"name": "Pamek"
-		},
-		{
-			"id": 34,
-			"name": "Nongme"
+			"name": "Tungkal Jaya"
 		}
 	]
 }

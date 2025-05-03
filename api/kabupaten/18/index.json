@@ -1,71 +1,53 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Nusa_Tenggara Barat",
-	"scraped_at": "2023-01-26T08:27:06.311Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kepulauan_Riau",
+	"scraped_at": "2025-05-03T17:31:12.266Z",
 	"provinsi": {
 		"id": 18,
-		"code": "52",
-		"name": "Nusa Tenggara Barat",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Coat_of_arms_of_West_Nusa_Tenggara.svg"
+		"code": "21",
+		"name": "Kepulauan Riau",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Coat_of_arms_of_Riau_Islands.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kabupaten Bima",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Lambang_Kabupaten_Bima.png",
-			"capital": "Woha"
+			"name": "Kabupaten Bintan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Lambang_Kabupaten_Bintan.png",
+			"capital": "Bandar Seri Bentan"
 		},
 		{
 			"id": 2,
-			"name": "Kabupaten Dompu",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Lambang_Kabupaten_Dompu.gif",
-			"capital": "Dompu"
+			"name": "Kabupaten Karimun",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lambang_Kabupaten_Karimun.gif",
+			"capital": "Tanjung Balai Karimun"
 		},
 		{
 			"id": 3,
-			"name": "Kabupaten Lombok Barat",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lambang_Kabupaten_Lombok_Barat.jpeg",
-			"capital": "Gerung"
+			"name": "Kabupaten Kepulauan Anambas",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lambang_Kabupaten_Kepulauan_Anambas.jpg",
+			"capital": "Tarempa"
 		},
 		{
 			"id": 4,
-			"name": "Kabupaten Lombok Tengah",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lambang_Kabupaten_Lombok_Tengah.gif",
-			"capital": "Praya"
+			"name": "Kabupaten Lingga",
+			"emblem": "https://upload.wikimedia.org/wikipedia/id/d/d9/Logo-lingga-new.png",
+			"capital": "Daik"
 		},
 		{
 			"id": 5,
-			"name": "Kabupaten Lombok Timur",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lambang_Kabupaten_Lombok_Timur.jpg",
-			"capital": "Selong"
+			"name": "Kabupaten Natuna",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lambang_Kabupaten_Natuna.png",
+			"capital": "Ranai"
 		},
 		{
 			"id": 6,
-			"name": "Kabupaten Lombok Utara",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Seal_of_Lombok_Utara_Regency.svg",
-			"capital": "Tanjung"
-		},
-		{
-			"id": 7,
-			"name": "Kabupaten Sumbawa",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lambang_Kabupaten_Sumbawa.png",
-			"capital": "Sumbawa"
-		},
-		{
-			"id": 8,
-			"name": "Kabupaten Sumbawa Barat",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lambang_Kabupaten_Sumbawa_Barat.png",
-			"capital": "Taliwang"
-		},
-		{
-			"id": 9,
-			"name": "Kota Bima",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/COA_Bima.jpg",
+			"name": "Kota Batam",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lambang_Kota_Batam.png",
 			"capital": "-"
 		},
 		{
-			"id": 10,
-			"name": "Kota Mataram",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Lambang_Kota_Mataram.png",
+			"id": 7,
+			"name": "Kota Tanjungpinang",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Lambang_Kota_Tanjungpinang.png",
 			"capital": "-"
 		}
 	]

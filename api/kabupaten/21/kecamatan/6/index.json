@@ -1,63 +1,59 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Katingan",
-	"scraped_at": "2023-01-26T08:27:50.306Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Sula",
+	"scraped_at": "2025-05-03T17:31:45.334Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Katingan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lambang_Kabupaten_Katingan.png"
+		"name": "Kabupaten Kepulauan Sula",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lambang_Kabupaten_Kepulauan_Sula.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bukit Raya"
+			"name": "Mangoli Barat"
 		},
 		{
 			"id": 2,
-			"name": "Kamipang"
+			"name": "Mangoli Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Katingan Hilir"
+			"name": "Mangoli Tengah"
 		},
 		{
 			"id": 4,
-			"name": "Katingan Hulu"
+			"name": "Mangoli Timur"
 		},
 		{
 			"id": 5,
-			"name": "Katingan Kuala"
+			"name": "Mangoli Utara Timur"
 		},
 		{
 			"id": 6,
-			"name": "Katingan Tengah"
+			"name": "Mangoli Utara"
 		},
 		{
 			"id": 7,
-			"name": "Marikit"
+			"name": "Sanana"
 		},
 		{
 			"id": 8,
-			"name": "Mendawai"
+			"name": "Sanana Utara"
 		},
 		{
 			"id": 9,
-			"name": "Petak Malai"
+			"name": "Sulabesi Barat"
 		},
 		{
 			"id": 10,
-			"name": "Pulau Malan"
+			"name": "Sulabesi Selatan"
 		},
 		{
 			"id": 11,
-			"name": "Sanaman Mantikei"
+			"name": "Sulabesi Tengah"
 		},
 		{
 			"id": 12,
-			"name": "Tasik Payawan"
-		},
-		{
-			"id": 13,
-			"name": "Tewang Sangalang Garing"
+			"name": "Sulabesi Timur"
 		}
 	]
 }

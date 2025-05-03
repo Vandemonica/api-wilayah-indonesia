@@ -1,78 +1,48 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Maluku",
-	"scraped_at": "2023-01-26T08:29:56.480Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sulawesi_Barat",
+	"scraped_at": "2025-05-03T17:33:45.643Z",
 	"provinsi": {
 		"id": 31,
-		"code": "81",
-		"name": "Maluku",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Coat_of_arms_of_Maluku.svg"
+		"code": "76",
+		"name": "Sulawesi Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Coat_of_arms_of_West_Sulawesi.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kabupaten Buru",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lambang_Kabupaten_Buru.png",
-			"capital": "Namlea"
+			"name": "Kabupaten Majene",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Lambang_Kabupaten_Majene.png",
+			"capital": "Banggae"
 		},
 		{
 			"id": 2,
-			"name": "Kabupaten Buru Selatan",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lambang_Kabupaten_Buru_Selatan.jpeg",
-			"capital": "Namrole"
+			"name": "Kabupaten Mamasa",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Lambang_Kabupaten_Mamasa.jpg",
+			"capital": "Mamasa"
 		},
 		{
 			"id": 3,
-			"name": "Kabupaten Kepulauan Aru",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lambang_Kabupaten_Kepulauan_Aru.jpg",
-			"capital": "Dobo"
+			"name": "Kabupaten Mamuju",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Coat_of_Arms_of_Mamuju_Regency.png",
+			"capital": "Mamuju"
 		},
 		{
 			"id": 4,
-			"name": "Kabupaten Kepulauan Tanimbar",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lambang_Kabupaten_Maluku_Tenggara_Barat.jpg",
-			"capital": "Saumlaki"
+			"name": "Kabupaten Mamuju Tengah",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lambang_Kabupaten_Mamuju_Tengah.jpg",
+			"capital": "Tobadak"
 		},
 		{
 			"id": 5,
-			"name": "Kabupaten Maluku Barat Daya",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lambang_Kabupaten_Maluku_Barat_Daya.png",
-			"capital": "Tiakur"
+			"name": "Kabupaten Pasangkayu",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kabupaten_Pasangkayu.png",
+			"capital": "Pasangkayu"
 		},
 		{
 			"id": 6,
-			"name": "Kabupaten Maluku Tengah",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lambang_Kabupaten_Maluku_Tengah.png",
-			"capital": "Masohi"
-		},
-		{
-			"id": 7,
-			"name": "Kabupaten Maluku Tenggara",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lambang_Kabupaten_Maluku_Tenggara.gif",
-			"capital": "Langgur"
-		},
-		{
-			"id": 8,
-			"name": "Kabupaten Seram Bagian Barat",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lambang_Kabupaten_Seram_Bagian_Barat.gif",
-			"capital": "Piru"
-		},
-		{
-			"id": 9,
-			"name": "Kabupaten Seram Bagian Timur",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Lambang_Kabupaten_Seram_Bagian_Timur.png",
-			"capital": "Bula"
-		},
-		{
-			"id": 10,
-			"name": "Kota Ambon",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lambang_Ambon.png",
-			"capital": "-"
-		},
-		{
-			"id": 11,
-			"name": "Kota Tual",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_kota_tual.jpg",
-			"capital": "-"
+			"name": "Kabupaten Polewali Mandar",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lambang_Kabupaten_Polewali_Mandar.png",
+			"capital": "Polewali"
 		}
 	]
 }

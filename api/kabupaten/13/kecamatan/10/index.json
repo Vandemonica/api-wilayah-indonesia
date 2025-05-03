@@ -1,75 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Jepara",
-	"scraped_at": "2023-01-26T08:25:47.376Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tanah Laut",
+	"scraped_at": "2025-05-03T17:30:27.308Z",
 	"kabupaten": {
 		"id": 10,
-		"name": "Kabupaten Jepara",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Seal_of_Jepara_Regency.svg"
+		"name": "Kabupaten Tanah Laut",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lambang_Kabupaten_Tanah_Laut.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bangsri"
+			"name": "Bajuin"
 		},
 		{
 			"id": 2,
-			"name": "Batealit"
+			"name": "Bati-Bati"
 		},
 		{
 			"id": 3,
-			"name": "Donorojo"
+			"name": "Batu Ampar"
 		},
 		{
 			"id": 4,
-			"name": "Jepara"
+			"name": "Bumi Makmur"
 		},
 		{
 			"id": 5,
-			"name": "Kalinyamatan"
+			"name": "Jorong"
 		},
 		{
 			"id": 6,
-			"name": "Karimunjawa"
+			"name": "Kintap"
 		},
 		{
 			"id": 7,
-			"name": "Kedung"
+			"name": "Kurau"
 		},
 		{
 			"id": 8,
-			"name": "Keling"
+			"name": "Panyipatan"
 		},
 		{
 			"id": 9,
-			"name": "Kembang"
+			"name": "Pelaihari"
 		},
 		{
 			"id": 10,
-			"name": "Mayong"
+			"name": "Takisung"
 		},
 		{
 			"id": 11,
-			"name": "Mlonggo"
-		},
-		{
-			"id": 12,
-			"name": "Nalumsari"
-		},
-		{
-			"id": 13,
-			"name": "Pakis Aji"
-		},
-		{
-			"id": 14,
-			"name": "Pecangaan"
-		},
-		{
-			"id": 15,
-			"name": "Tahunan"
-		},
-		{
-			"id": 16,
-			"name": "Welahan"
+			"name": "Tambang Ulang"
 		}
 	]
 }

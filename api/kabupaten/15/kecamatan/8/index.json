@@ -1,95 +1,35 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Jombang",
-	"scraped_at": "2023-01-26T08:26:22.875Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Balikpapan",
+	"scraped_at": "2025-05-03T17:30:58.800Z",
 	"kabupaten": {
 		"id": 8,
-		"name": "Kabupaten Jombang",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Seal_of_Jombang_Regency.svg"
+		"name": "Kota Balikpapan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_arms_of_Balikpapan.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bandarkedungmulyo"
+			"name": "Balikpapan Barat"
 		},
 		{
 			"id": 2,
-			"name": "Bareng"
+			"name": "Balikpapan Kota"
 		},
 		{
 			"id": 3,
-			"name": "Diwek"
+			"name": "Balikpapan Selatan"
 		},
 		{
 			"id": 4,
-			"name": "Gudo"
+			"name": "Balikpapan Tengah"
 		},
 		{
 			"id": 5,
-			"name": "Jogoroto"
+			"name": "Balikpapan Timur"
 		},
 		{
 			"id": 6,
-			"name": "Jombang"
-		},
-		{
-			"id": 7,
-			"name": "Kabuh"
-		},
-		{
-			"id": 8,
-			"name": "Kesamben"
-		},
-		{
-			"id": 9,
-			"name": "Kudu"
-		},
-		{
-			"id": 10,
-			"name": "Megaluh"
-		},
-		{
-			"id": 11,
-			"name": "Mojoagung"
-		},
-		{
-			"id": 12,
-			"name": "Mojowarno"
-		},
-		{
-			"id": 13,
-			"name": "Ngoro"
-		},
-		{
-			"id": 14,
-			"name": "Ngusikan"
-		},
-		{
-			"id": 15,
-			"name": "Perak"
-		},
-		{
-			"id": 16,
-			"name": "Peterongan"
-		},
-		{
-			"id": 17,
-			"name": "Plandaan"
-		},
-		{
-			"id": 18,
-			"name": "Ploso"
-		},
-		{
-			"id": 19,
-			"name": "Sumobito"
-		},
-		{
-			"id": 20,
-			"name": "Tembelang"
-		},
-		{
-			"id": 21,
-			"name": "Wonosalam"
+			"name": "Balikpapan Utara"
 		}
 	]
 }

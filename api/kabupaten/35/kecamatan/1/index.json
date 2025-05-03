@@ -1,87 +1,71 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Asmat",
-	"scraped_at": "2023-01-26T08:30:37.917Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bolaang Mongondow",
+	"scraped_at": "2025-05-03T17:34:53.029Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Asmat",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Lambang_Kabupaten_Asmat.jpeg"
+		"name": "Kabupaten Bolaang Mongondow",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lambang_Kabupaten_Bolaang_Mongondow.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Agats"
+			"name": "Bilalang"
 		},
 		{
 			"id": 2,
-			"name": "Atsj"
+			"name": "Bolaang Timur"
 		},
 		{
 			"id": 3,
-			"name": "Sawa Erma"
+			"name": "Bolaang"
 		},
 		{
 			"id": 4,
-			"name": "Akat"
+			"name": "Dumoga Barat"
 		},
 		{
 			"id": 5,
-			"name": "Fayit"
+			"name": "Dumoga Tengah"
 		},
 		{
 			"id": 6,
-			"name": "Pantai Kasuari"
+			"name": "Dumoga Tenggara"
 		},
 		{
 			"id": 7,
-			"name": "Suator"
+			"name": "Dumoga Timur"
 		},
 		{
 			"id": 8,
-			"name": "Suru-suru"
+			"name": "Dumoga Utara"
 		},
 		{
 			"id": 9,
-			"name": "Kolf Braza"
+			"name": "Dumoga"
 		},
 		{
 			"id": 10,
-			"name": "Unir Sirau"
+			"name": "Lolak"
 		},
 		{
 			"id": 11,
-			"name": "Joerat"
+			"name": "Lolayan"
 		},
 		{
 			"id": 12,
-			"name": "Pulau Tiga"
+			"name": "Passi Barat"
 		},
 		{
 			"id": 13,
-			"name": "Jetsy"
+			"name": "Passi Timur"
 		},
 		{
 			"id": 14,
-			"name": "Der Koumur"
+			"name": "Poigar"
 		},
 		{
 			"id": 15,
-			"name": "Kopay"
-		},
-		{
-			"id": 16,
-			"name": "Safan"
-		},
-		{
-			"id": 17,
-			"name": "Sirets"
-		},
-		{
-			"id": 18,
-			"name": "Ayip"
-		},
-		{
-			"id": 19,
-			"name": "Betcbamu"
+			"name": "Sangtombolang"
 		}
 	]
 }

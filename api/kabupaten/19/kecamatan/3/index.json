@@ -1,95 +1,123 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Ende",
-	"scraped_at": "2023-01-26T08:27:18.693Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lampung Tengah",
+	"scraped_at": "2025-05-03T17:31:20.271Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Ende",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Lambang_Kabupaten_Ende.png"
+		"name": "Kabupaten Lampung Tengah",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lambang_Kabupaten_Lampung_Tengah.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Detukeli"
+			"name": "Anak Ratu Aji"
 		},
 		{
 			"id": 2,
-			"name": "Detusoko"
+			"name": "Anak Tuha"
 		},
 		{
 			"id": 3,
-			"name": "Ende Selatan"
+			"name": "Bandar Mataram"
 		},
 		{
 			"id": 4,
-			"name": "Ende Tengah"
+			"name": "Bandar Surabaya"
 		},
 		{
 			"id": 5,
-			"name": "Ende Timur"
+			"name": "Bangun Rejo"
 		},
 		{
 			"id": 6,
-			"name": "Ende Utara"
+			"name": "Bekri"
 		},
 		{
 			"id": 7,
-			"name": "Ende"
+			"name": "Bumi Nabung"
 		},
 		{
 			"id": 8,
-			"name": "Kelimutu"
+			"name": "Bumi Ratu Nuban"
 		},
 		{
 			"id": 9,
-			"name": "Kota Baru"
+			"name": "Gunung Sugih"
 		},
 		{
 			"id": 10,
-			"name": "Lepembusu Kelisoke"
+			"name": "Kalirejo"
 		},
 		{
 			"id": 11,
-			"name": "Lio Timur"
+			"name": "Kota Gajah"
 		},
 		{
 			"id": 12,
-			"name": "Maukaro"
+			"name": "Padang Ratu"
 		},
 		{
 			"id": 13,
-			"name": "Maurole"
+			"name": "Pubian"
 		},
 		{
 			"id": 14,
-			"name": "Nangapanda"
+			"name": "Punggur"
 		},
 		{
 			"id": 15,
-			"name": "Ndona Timur"
+			"name": "Putra Rumbia"
 		},
 		{
 			"id": 16,
-			"name": "Ndona"
+			"name": "Rumbia"
 		},
 		{
 			"id": 17,
-			"name": "Ndori"
+			"name": "Selagai Lingga"
 		},
 		{
 			"id": 18,
-			"name": "Pulau Ende"
+			"name": "Sendang Agung"
 		},
 		{
 			"id": 19,
-			"name": "Wewaria"
+			"name": "Seputih Agung"
 		},
 		{
 			"id": 20,
-			"name": "Wolojita"
+			"name": "Seputih Banyak"
 		},
 		{
 			"id": 21,
-			"name": "Wolowaru"
+			"name": "Seputih Mataram"
+		},
+		{
+			"id": 22,
+			"name": "Seputih Raman"
+		},
+		{
+			"id": 23,
+			"name": "Seputih Surabaya"
+		},
+		{
+			"id": 24,
+			"name": "Terbanggi Besar"
+		},
+		{
+			"id": 25,
+			"name": "Terusan Nunyai"
+		},
+		{
+			"id": 26,
+			"name": "Trimurjo"
+		},
+		{
+			"id": 27,
+			"name": "Way Pengubuan"
+		},
+		{
+			"id": 28,
+			"name": "Way Seputih"
 		}
 	]
 }

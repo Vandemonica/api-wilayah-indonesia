@@ -1,79 +1,59 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Karanganyar",
-	"scraped_at": "2023-01-26T08:25:48.158Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tapin",
+	"scraped_at": "2025-05-03T17:30:28.561Z",
 	"kabupaten": {
 		"id": 11,
-		"name": "Kabupaten Karanganyar",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Seal_of_Karanganyar_Regency.svg"
+		"name": "Kabupaten Tapin",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Coats_of_arms_of_Tapin_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Colomadu"
+			"name": "Bakarangan"
 		},
 		{
 			"id": 2,
-			"name": "Gondangrejo"
+			"name": "Binuang"
 		},
 		{
 			"id": 3,
-			"name": "Jaten"
+			"name": "Bungur"
 		},
 		{
 			"id": 4,
-			"name": "Jatipuro"
+			"name": "Candi Laras Selatan"
 		},
 		{
 			"id": 5,
-			"name": "Jatiyoso"
+			"name": "Candi Laras Utara"
 		},
 		{
 			"id": 6,
-			"name": "Jenawi"
+			"name": "Hatungun"
 		},
 		{
 			"id": 7,
-			"name": "Jumantono"
+			"name": "Salam Babaris"
 		},
 		{
 			"id": 8,
-			"name": "Jumapolo"
+			"name": "Lokpaikat"
 		},
 		{
 			"id": 9,
-			"name": "Karanganyar"
+			"name": "Piani"
 		},
 		{
 			"id": 10,
-			"name": "Karangpandan"
+			"name": "Tapin Selatan"
 		},
 		{
 			"id": 11,
-			"name": "Kebakkramat"
+			"name": "Tapin Tengah"
 		},
 		{
 			"id": 12,
-			"name": "Kerjo"
-		},
-		{
-			"id": 13,
-			"name": "Matesih"
-		},
-		{
-			"id": 14,
-			"name": "Mojogedang"
-		},
-		{
-			"id": 15,
-			"name": "Ngargoyoso"
-		},
-		{
-			"id": 16,
-			"name": "Tasikmadu"
-		},
-		{
-			"id": 17,
-			"name": "Tawangmangu"
+			"name": "Tapin Utara"
 		}
 	]
 }

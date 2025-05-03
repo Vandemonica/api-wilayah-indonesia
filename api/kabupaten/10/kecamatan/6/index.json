@@ -1,59 +1,79 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Batam",
-	"scraped_at": "2023-01-26T08:25:05.603Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Brebes",
+	"scraped_at": "2025-05-03T17:28:52.036Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kota Batam",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lambang_Kota_Batam.png"
+		"name": "Kabupaten Brebes",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Seal_of_Brebes_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Batam Kota"
+			"name": "Banjarharjo"
 		},
 		{
 			"id": 2,
-			"name": "Batu Aji"
+			"name": "Bantarkawung"
 		},
 		{
 			"id": 3,
-			"name": "Batu Ampar"
+			"name": "Brebes"
 		},
 		{
 			"id": 4,
-			"name": "Belakang Padang"
+			"name": "Bulakamba"
 		},
 		{
 			"id": 5,
-			"name": "Bengkong"
+			"name": "Bumiayu"
 		},
 		{
 			"id": 6,
-			"name": "Bulang"
+			"name": "Jatibarang"
 		},
 		{
 			"id": 7,
-			"name": "Galang"
+			"name": "Kersana"
 		},
 		{
 			"id": 8,
-			"name": "Lubuk Baja"
+			"name": "Ketanggungan"
 		},
 		{
 			"id": 9,
-			"name": "Nongsa"
+			"name": "Larangan"
 		},
 		{
 			"id": 10,
-			"name": "Sagulung"
+			"name": "Losari"
 		},
 		{
 			"id": 11,
-			"name": "Sei Beduk"
+			"name": "Paguyangan"
 		},
 		{
 			"id": 12,
-			"name": "Sekupang"
+			"name": "Salem"
+		},
+		{
+			"id": 13,
+			"name": "Sirampog"
+		},
+		{
+			"id": 14,
+			"name": "Songgom"
+		},
+		{
+			"id": 15,
+			"name": "Tanjung"
+		},
+		{
+			"id": 16,
+			"name": "Tonjong"
+		},
+		{
+			"id": 17,
+			"name": "Wanasari"
 		}
 	]
 }

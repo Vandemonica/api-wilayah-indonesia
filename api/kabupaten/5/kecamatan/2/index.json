@@ -1,79 +1,83 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bungo",
-	"scraped_at": "2023-01-26T08:23:58.873Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kapanewon,_kemantren,_kalurahan,_dan_kelurahan_di_Daerah_Istimewa_Yogyakarta",
+	"scraped_at": "2025-05-03T17:27:44.558Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Bungo",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lambang_Kabupaten_Bungo.png"
+		"name": "Kabupaten Gunungkidul",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Seal_of_Gunungkidul_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bathin II Babeko"
+			"name": "Gedangsari"
 		},
 		{
 			"id": 2,
-			"name": "Bathin II Pelayang"
+			"name": "Girisubo"
 		},
 		{
 			"id": 3,
-			"name": "Bathin III Ulu"
+			"name": "Karangmojo"
 		},
 		{
 			"id": 4,
-			"name": "Bathin III"
+			"name": "Ngawen"
 		},
 		{
 			"id": 5,
-			"name": "Bungo Dani"
+			"name": "Nglipar"
 		},
 		{
 			"id": 6,
-			"name": "Jujuhan Ilir"
+			"name": "Paliyan"
 		},
 		{
 			"id": 7,
-			"name": "Jujuhan"
+			"name": "Panggang"
 		},
 		{
 			"id": 8,
-			"name": "Limbur Lubuk Mengkuang"
+			"name": "Patuk"
 		},
 		{
 			"id": 9,
-			"name": "Muko-Muko Bathin VII"
+			"name": "Playen"
 		},
 		{
 			"id": 10,
-			"name": "Pasar Muara Bungo"
+			"name": "Ponjong"
 		},
 		{
 			"id": 11,
-			"name": "Pelepat Ilir"
+			"name": "Purwosari"
 		},
 		{
 			"id": 12,
-			"name": "Pelepat"
+			"name": "Rongkop"
 		},
 		{
 			"id": 13,
-			"name": "Rantau Pandan"
+			"name": "Saptosari"
 		},
 		{
 			"id": 14,
-			"name": "Rimbo Tengah"
+			"name": "Semanu"
 		},
 		{
 			"id": 15,
-			"name": "Tanah Sepenggal Lintas"
+			"name": "Semin"
 		},
 		{
 			"id": 16,
-			"name": "Tanah Sepenggal"
+			"name": "Tanjungsari"
 		},
 		{
 			"id": 17,
-			"name": "Tanah Tumbuh"
+			"name": "Tepus"
+		},
+		{
+			"id": 18,
+			"name": "Wonosari"
 		}
 	]
 }

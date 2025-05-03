@@ -1,107 +1,87 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Merangin",
-	"scraped_at": "2023-01-26T08:24:00.731Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kapanewon,_kemantren,_kalurahan,_dan_kelurahan_di_Daerah_Istimewa_Yogyakarta",
+	"scraped_at": "2025-05-03T17:27:46.623Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Merangin",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lambang_Kabupaten_Merangin.png"
+		"name": "Kabupaten Sleman",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Seal_of_Sleman_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bangko Barat"
+			"name": ""
 		},
 		{
 			"id": 2,
-			"name": "Bangko"
+			"name": "Berbah"
 		},
 		{
 			"id": 3,
-			"name": "Batang Masumai"
+			"name": "Cangkringan"
 		},
 		{
 			"id": 4,
-			"name": "Jangkat Timur"
+			"name": "Depok"
 		},
 		{
 			"id": 5,
-			"name": "Jangkat"
+			"name": "Gamping"
 		},
 		{
 			"id": 6,
-			"name": "Lembah Masurai"
+			"name": "Godean"
 		},
 		{
 			"id": 7,
-			"name": "Margo Tabir"
+			"name": "Kalasan"
 		},
 		{
 			"id": 8,
-			"name": "Muara Siau"
+			"name": "Minggir"
 		},
 		{
 			"id": 9,
-			"name": "Nalo Tantan"
+			"name": "Mlati"
 		},
 		{
 			"id": 10,
-			"name": "Pamenang Barat"
+			"name": "Moyudan"
 		},
 		{
 			"id": 11,
-			"name": "Pamenang Selatan"
+			"name": "Ngaglik"
 		},
 		{
 			"id": 12,
-			"name": "Pamenang"
+			"name": "Ngemplak"
 		},
 		{
 			"id": 13,
-			"name": "Pangkalan Jambu"
+			"name": "Pakem"
 		},
 		{
 			"id": 14,
-			"name": "Renah Pamenang"
+			"name": "Prambanan"
 		},
 		{
 			"id": 15,
-			"name": "Renah Pembarap"
+			"name": "Seyegan"
 		},
 		{
 			"id": 16,
-			"name": "Sungai Manau"
+			"name": "Sleman"
 		},
 		{
 			"id": 17,
-			"name": "Tabir Barat"
+			"name": "Tempel"
 		},
 		{
 			"id": 18,
-			"name": "Tabir Ilir"
+			"name": "Turi"
 		},
 		{
 			"id": 19,
-			"name": "Tabir Lintas"
-		},
-		{
-			"id": 20,
-			"name": "Tabir Selatan"
-		},
-		{
-			"id": 21,
-			"name": "Tabir Timur"
-		},
-		{
-			"id": 22,
-			"name": "Tabir Ulu"
-		},
-		{
-			"id": 23,
-			"name": "Tabir"
-		},
-		{
-			"id": 24,
-			"name": "Tiang Pumpung"
+			"name": ""
 		}
 	]
 }

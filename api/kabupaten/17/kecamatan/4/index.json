@@ -1,39 +1,35 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Gianyar",
-	"scraped_at": "2023-01-26T08:27:02.062Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bangka Tengah",
+	"scraped_at": "2025-05-03T17:31:09.478Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Gianyar",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lambang_Kab_Gianyar.png"
+		"name": "Kabupaten Bangka Tengah",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Lambang_Kabupaten_Bangka_Tengah.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Blahbatuh"
+			"name": "Koba"
 		},
 		{
 			"id": 2,
-			"name": "Gianyar"
+			"name": "Lubuk Besar"
 		},
 		{
 			"id": 3,
-			"name": "Payangan"
+			"name": "Namang"
 		},
 		{
 			"id": 4,
-			"name": "Sukawati"
+			"name": "Pangkalan Baru"
 		},
 		{
 			"id": 5,
-			"name": "Tampaksiring"
+			"name": "Simpang Katis"
 		},
 		{
 			"id": 6,
-			"name": "Tegallalang"
-		},
-		{
-			"id": 7,
-			"name": "Ubud"
+			"name": "Sungai Selan"
 		}
 	]
 }

@@ -1,55 +1,95 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Hulu Sungai Tengah",
-	"scraped_at": "2023-01-26T08:28:00.839Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lombok Timur",
+	"scraped_at": "2025-05-03T17:31:53.212Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Hulu Sungai Tengah",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lambang_Kabupaten_Hulu_Sungai_Tengah.png"
+		"name": "Kabupaten Lombok Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Lambang_Kabupaten_Lombok_Timur.jpeg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Barabai"
+			"name": "Aikmel"
 		},
 		{
 			"id": 2,
-			"name": "Batang Alai Selatan"
+			"name": "Jerowaru"
 		},
 		{
 			"id": 3,
-			"name": "Batang Alai Timur"
+			"name": "Keruak"
 		},
 		{
 			"id": 4,
-			"name": "Batang Alai Utara"
+			"name": "Labuhan Haji"
 		},
 		{
 			"id": 5,
-			"name": "Batu Benawa"
+			"name": "Lenek"
 		},
 		{
 			"id": 6,
-			"name": "Hantakan"
+			"name": "Masbagik"
 		},
 		{
 			"id": 7,
-			"name": "Haruyan"
+			"name": "Montong Gading"
 		},
 		{
 			"id": 8,
-			"name": "Labuan Amas Selatan"
+			"name": "Pringgabaya"
 		},
 		{
 			"id": 9,
-			"name": "Labuan Amas Utara"
+			"name": "Pringgasela"
 		},
 		{
 			"id": 10,
-			"name": "Limpasu"
+			"name": "Sakra Barat"
 		},
 		{
 			"id": 11,
-			"name": "Pandawan"
+			"name": "Sakra Timur"
+		},
+		{
+			"id": 12,
+			"name": "Sakra"
+		},
+		{
+			"id": 13,
+			"name": "Sambelia"
+		},
+		{
+			"id": 14,
+			"name": "Selong"
+		},
+		{
+			"id": 15,
+			"name": "Sembalun"
+		},
+		{
+			"id": 16,
+			"name": "Sikur"
+		},
+		{
+			"id": 17,
+			"name": "Sukamulia"
+		},
+		{
+			"id": 18,
+			"name": "Suralaga"
+		},
+		{
+			"id": 19,
+			"name": "Suwela"
+		},
+		{
+			"id": 20,
+			"name": "Terara"
+		},
+		{
+			"id": 21,
+			"name": "Wanasaba"
 		}
 	]
 }

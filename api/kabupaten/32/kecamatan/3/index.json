@@ -1,51 +1,119 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Halmahera Timur",
-	"scraped_at": "2023-01-26T08:30:09.399Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bone",
+	"scraped_at": "2025-05-03T17:33:59.468Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Halmahera Timur",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Lambang_Kabupaten_Halmahera_Timur.png"
+		"name": "Kabupaten Bone",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bone_Regency_Logo.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kota Maba"
+			"name": "Ajangale"
 		},
 		{
 			"id": 2,
-			"name": "Maba Selatan"
+			"name": "Amali"
 		},
 		{
 			"id": 3,
-			"name": "Maba Tengah"
+			"name": "Awangpone"
 		},
 		{
 			"id": 4,
-			"name": "Maba Utara"
+			"name": "Barebbo"
 		},
 		{
 			"id": 5,
-			"name": "Maba"
+			"name": "Bengo"
 		},
 		{
 			"id": 6,
-			"name": "Wasile Selatan"
+			"name": "Bontocani"
 		},
 		{
 			"id": 7,
-			"name": "Wasile Tengah"
+			"name": "Cenrana"
 		},
 		{
 			"id": 8,
-			"name": "Wasile Timur"
+			"name": "Cina"
 		},
 		{
 			"id": 9,
-			"name": "Wasile Utara"
+			"name": "Dua Boccoe"
 		},
 		{
 			"id": 10,
-			"name": "Wasile"
+			"name": "Kahu"
+		},
+		{
+			"id": 11,
+			"name": "Kajuara"
+		},
+		{
+			"id": 12,
+			"name": "Lamuru"
+		},
+		{
+			"id": 13,
+			"name": "Lappariaja"
+		},
+		{
+			"id": 14,
+			"name": "Libureng"
+		},
+		{
+			"id": 15,
+			"name": "Mare"
+		},
+		{
+			"id": 16,
+			"name": "Palakka"
+		},
+		{
+			"id": 17,
+			"name": "Patimpeng"
+		},
+		{
+			"id": 18,
+			"name": "Ponre"
+		},
+		{
+			"id": 19,
+			"name": "Salomekko"
+		},
+		{
+			"id": 20,
+			"name": "Sibulue"
+		},
+		{
+			"id": 21,
+			"name": "Tanete Riattang Barat"
+		},
+		{
+			"id": 22,
+			"name": "Tanete Riattang Timur"
+		},
+		{
+			"id": 23,
+			"name": "Tanete Riattang"
+		},
+		{
+			"id": 24,
+			"name": "Tellu Limpoe"
+		},
+		{
+			"id": 25,
+			"name": "Tellu Siattinge"
+		},
+		{
+			"id": 26,
+			"name": "Tonra"
+		},
+		{
+			"id": 27,
+			"name": "Ulaweng"
 		}
 	]
 }

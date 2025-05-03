@@ -1,79 +1,71 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Alor",
-	"scraped_at": "2023-01-26T08:27:17.049Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lampung Barat",
+	"scraped_at": "2025-05-03T17:31:18.678Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Alor",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Lambang_Kabupaten_Alor.jpg"
+		"name": "Kabupaten Lampung Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lambang_Kabupaten_Lampung_Barat.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Alor Barat Daya"
+			"name": "Air Hitam"
 		},
 		{
 			"id": 2,
-			"name": "Alor Barat Laut"
+			"name": "Balik Bukit"
 		},
 		{
 			"id": 3,
-			"name": "Alor Selatan"
+			"name": "Bandar Negeri Suoh"
 		},
 		{
 			"id": 4,
-			"name": "Alor Tengah Utara"
+			"name": "Batu Brak"
 		},
 		{
 			"id": 5,
-			"name": "Alor Timur Laut"
+			"name": "Batu Ketulis"
 		},
 		{
 			"id": 6,
-			"name": "Alor Timur"
+			"name": "Belalau"
 		},
 		{
 			"id": 7,
-			"name": "Kabola"
+			"name": "Gedung Surian"
 		},
 		{
 			"id": 8,
-			"name": "Lembur"
+			"name": "Kebun Tebu"
 		},
 		{
 			"id": 9,
-			"name": "Mataru"
+			"name": "Lumbok Seminung"
 		},
 		{
 			"id": 10,
-			"name": "Pantar Barat Laut"
+			"name": "Pagar Dewa"
 		},
 		{
 			"id": 11,
-			"name": "Pantar Barat"
+			"name": "Sekincau"
 		},
 		{
 			"id": 12,
-			"name": "Pantar Tengah"
+			"name": "Sukau"
 		},
 		{
 			"id": 13,
-			"name": "Pantar Timur"
+			"name": "Sumber Jaya"
 		},
 		{
 			"id": 14,
-			"name": "Pantar"
+			"name": "Suoh"
 		},
 		{
 			"id": 15,
-			"name": "Pulau Pura"
-		},
-		{
-			"id": 16,
-			"name": "Pureman"
-		},
-		{
-			"id": 17,
-			"name": "Teluk Mutiara"
+			"name": "Way Tenong"
 		}
 	]
 }

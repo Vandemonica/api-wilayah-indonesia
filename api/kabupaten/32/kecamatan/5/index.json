@@ -1,79 +1,59 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Halmahera Utara",
-	"scraped_at": "2023-01-26T08:30:10.755Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Enrekang",
+	"scraped_at": "2025-05-03T17:34:01.476Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Halmahera Utara",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lambang_Kabupaten_Halmahera_Utara.png"
+		"name": "Kabupaten Enrekang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lambang_Kabupaten_Enrekang.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Galela Barat"
+			"name": "Alla"
 		},
 		{
 			"id": 2,
-			"name": "Galela Selatan"
+			"name": "Anggeraja"
 		},
 		{
 			"id": 3,
-			"name": "Galela Utara"
+			"name": "Baraka"
 		},
 		{
 			"id": 4,
-			"name": "Galela"
+			"name": "Baroko"
 		},
 		{
 			"id": 5,
-			"name": "Tobelo Utara"
+			"name": "Bungin"
 		},
 		{
 			"id": 6,
-			"name": "Kao Barat"
+			"name": "Buntu Batu"
 		},
 		{
 			"id": 7,
-			"name": "Kao Teluk"
+			"name": "Cendana"
 		},
 		{
 			"id": 8,
-			"name": "Kao Utara"
+			"name": "Curio"
 		},
 		{
 			"id": 9,
-			"name": "Kao"
+			"name": "Enrekang"
 		},
 		{
 			"id": 10,
-			"name": "Loloda Kepulauan"
+			"name": "Maiwa"
 		},
 		{
 			"id": 11,
-			"name": "Loloda Utara"
+			"name": "Malua"
 		},
 		{
 			"id": 12,
-			"name": "Malifut"
-		},
-		{
-			"id": 13,
-			"name": "Tobelo Barat"
-		},
-		{
-			"id": 14,
-			"name": "Tobelo Selatan"
-		},
-		{
-			"id": 15,
-			"name": "Tobelo Tengah"
-		},
-		{
-			"id": 16,
-			"name": "Tobelo Timur"
-		},
-		{
-			"id": 17,
-			"name": "Tobelo"
+			"name": "Masalle"
 		}
 	]
 }

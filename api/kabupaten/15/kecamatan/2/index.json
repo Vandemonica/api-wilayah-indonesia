@@ -1,111 +1,75 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Banyuwangi",
-	"scraped_at": "2023-01-26T08:26:17.637Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kutai Barat",
+	"scraped_at": "2025-05-03T17:30:53.453Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Banyuwangi",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Banyuwangi_Regency_coat_of_arms.svg"
+		"name": "Kabupaten Kutai Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lambang_Kab_Kutai_Barat.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bangorejo"
+			"name": "Barong Tongkok"
 		},
 		{
 			"id": 2,
-			"name": "Banyuwangi"
+			"name": "Bentian Besar"
 		},
 		{
 			"id": 3,
-			"name": "Blimbingsari"
+			"name": "Bongan"
 		},
 		{
 			"id": 4,
-			"name": "Cluring"
+			"name": "Damai"
 		},
 		{
 			"id": 5,
-			"name": "Gambiran"
+			"name": "Jempang"
 		},
 		{
 			"id": 6,
-			"name": "Genteng"
+			"name": "Linggang Bigung"
 		},
 		{
 			"id": 7,
-			"name": "Giri"
+			"name": "Long Iram"
 		},
 		{
 			"id": 8,
-			"name": "Glagah"
+			"name": "Melak"
 		},
 		{
 			"id": 9,
-			"name": "Glenmore"
+			"name": "Mook Manaar Bulatn"
 		},
 		{
 			"id": 10,
-			"name": "Kabat"
+			"name": "Muara Lawa"
 		},
 		{
 			"id": 11,
-			"name": "Kalibaru"
+			"name": "Muara Pahu"
 		},
 		{
 			"id": 12,
-			"name": "Kalipuro"
+			"name": "Nyuatan"
 		},
 		{
 			"id": 13,
-			"name": "Licin"
+			"name": "Penyinggahan"
 		},
 		{
 			"id": 14,
-			"name": "Muncar"
+			"name": "Sekolaq Darat"
 		},
 		{
 			"id": 15,
-			"name": "Pesanggaran"
+			"name": "Siluq Ngurai"
 		},
 		{
 			"id": 16,
-			"name": "Purwoharjo"
-		},
-		{
-			"id": 17,
-			"name": "Rogojampi"
-		},
-		{
-			"id": 18,
-			"name": "Sempu"
-		},
-		{
-			"id": 19,
-			"name": "Siliragung"
-		},
-		{
-			"id": 20,
-			"name": "Singojuruh"
-		},
-		{
-			"id": 21,
-			"name": "Songgon"
-		},
-		{
-			"id": 22,
-			"name": "Srono"
-		},
-		{
-			"id": 23,
-			"name": "Tegaldlimo"
-		},
-		{
-			"id": 24,
-			"name": "Tegalsari"
-		},
-		{
-			"id": 25,
-			"name": "Wongsorejo"
+			"name": "Tering"
 		}
 	]
 }

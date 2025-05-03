@@ -1,89 +1,71 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kalimantan_Selatan",
-	"scraped_at": "2023-01-26T08:27:56.901Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Nusa_Tenggara Barat",
+	"scraped_at": "2025-05-03T17:31:49.370Z",
 	"provinsi": {
 		"id": 22,
-		"code": "63",
-		"name": "Kalimantan Selatan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Coat_of_arms_of_South_Kalimantan.svg"
+		"code": "52",
+		"name": "Nusa Tenggara Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Coat_of_arms_of_West_Nusa_Tenggara.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kabupaten Balangan",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lambang_Kabupaten_Balangan.png",
-			"capital": "Paringin"
+			"name": "Kabupaten Bima",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Lambang_Kabupaten_Bima.png",
+			"capital": "Woha"
 		},
 		{
 			"id": 2,
-			"name": "Kabupaten Banjar",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lambangkabbanjar.jpg",
-			"capital": "Martapura"
+			"name": "Kabupaten Dompu",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Lambang_Kabupaten_Dompu.gif",
+			"capital": "Dompu"
 		},
 		{
 			"id": 3,
-			"name": "Kabupaten Barito Kuala",
-			"emblem": "https://upload.wikimedia.org/wikipedia/id/b/bc/Lambang_Kabupaten_Barito_Kuala.png",
-			"capital": "Marabahan"
+			"name": "Kabupaten Lombok Barat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lambang_Kabupaten_Lombok_Barat.jpeg",
+			"capital": "Gerung"
 		},
 		{
 			"id": 4,
-			"name": "Kabupaten Hulu Sungai Selatan",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lambang_Kabupaten_Hulu_Sungai_Selatan.png",
-			"capital": "Kandangan"
+			"name": "Kabupaten Lombok Tengah",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lambang_Kabupaten_Lombok_Tengah.gif",
+			"capital": "Praya"
 		},
 		{
 			"id": 5,
-			"name": "Kabupaten Hulu Sungai Tengah",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lambang_Kabupaten_Hulu_Sungai_Tengah.png",
-			"capital": "Barabai"
+			"name": "Kabupaten Lombok Timur",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Lambang_Kabupaten_Lombok_Timur.jpeg",
+			"capital": "Selong"
 		},
 		{
 			"id": 6,
-			"name": "Kabupaten Hulu Sungai Utara",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lambang_Kabupaten_Hulu_Sungai_Utara.png",
-			"capital": "Amuntai"
-		},
-		{
-			"id": 7,
-			"name": "Kabupaten Kotabaru",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lambang_Kabupaten_Kotabaru.png",
-			"capital": "Kotabaru"
-		},
-		{
-			"id": 8,
-			"name": "Kabupaten Tabalong",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Lambang_Kabupaten_Tabalong.jpeg",
+			"name": "Kabupaten Lombok Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Seal_of_Lombok_Utara_Regency.svg",
 			"capital": "Tanjung"
 		},
 		{
+			"id": 7,
+			"name": "Kabupaten Sumbawa",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lambang_Kabupaten_Sumbawa.png",
+			"capital": "Sumbawa"
+		},
+		{
+			"id": 8,
+			"name": "Kabupaten Sumbawa Barat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lambang_Kabupaten_Sumbawa_Barat.png",
+			"capital": "Taliwang"
+		},
+		{
 			"id": 9,
-			"name": "Kabupaten Tanah Bumbu",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lambang_Kabupaten_Tanah_Bumbu2.gif",
-			"capital": "Batulicin"
-		},
-		{
-			"id": 10,
-			"name": "Kabupaten Tanah Laut",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lambang_Kabupaten_Tanah_Laut.svg",
-			"capital": "Pelaihari"
-		},
-		{
-			"id": 11,
-			"name": "Kabupaten Tapin",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Lambang_Kabupaten_Tapin.png",
-			"capital": "Rantau"
-		},
-		{
-			"id": 12,
-			"name": "Kota Banjarbaru",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png",
+			"name": "Kota Bima",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/COA_Bima.jpg",
 			"capital": "-"
 		},
 		{
-			"id": 13,
-			"name": "Kota Banjarmasin",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Lambang_Kota_Banjarmasin.gif",
+			"id": 10,
+			"name": "Kota Mataram",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Lambang_Kota_Mataram.png",
 			"capital": "-"
 		}
 	]

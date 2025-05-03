@@ -1,35 +1,79 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Buru Selatan",
-	"scraped_at": "2023-01-26T08:29:58.511Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Mamasa",
+	"scraped_at": "2025-05-03T17:33:48.339Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Buru Selatan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lambang_Kabupaten_Buru_Selatan.jpeg"
+		"name": "Kabupaten Mamasa",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Lambang_Kabupaten_Mamasa.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Ambalau"
+			"name": "Aralle"
 		},
 		{
 			"id": 2,
-			"name": "Fena Fafan"
+			"name": "Balla"
 		},
 		{
 			"id": 3,
-			"name": "Kepala Madan"
+			"name": "Bambang"
 		},
 		{
 			"id": 4,
-			"name": "Leksula"
+			"name": "Buntu Malangka"
 		},
 		{
 			"id": 5,
-			"name": "Namrole"
+			"name": "Mamasa"
 		},
 		{
 			"id": 6,
-			"name": "Waesama"
+			"name": "Mambi"
+		},
+		{
+			"id": 7,
+			"name": "Mehalaan"
+		},
+		{
+			"id": 8,
+			"name": "Messawa"
+		},
+		{
+			"id": 9,
+			"name": "Nosu"
+		},
+		{
+			"id": 10,
+			"name": "Pana"
+		},
+		{
+			"id": 11,
+			"name": "Rantebulahan Timur"
+		},
+		{
+			"id": 12,
+			"name": "Sesenapadang"
+		},
+		{
+			"id": 13,
+			"name": "Sumarorong"
+		},
+		{
+			"id": 14,
+			"name": "Tabang"
+		},
+		{
+			"id": 15,
+			"name": "Tabulahan"
+		},
+		{
+			"id": 16,
+			"name": "Tanduk Kalua"
+		},
+		{
+			"id": 17,
+			"name": "Tawalian"
 		}
 	]
 }

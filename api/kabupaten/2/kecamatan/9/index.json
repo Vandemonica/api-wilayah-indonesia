@@ -1,43 +1,27 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Labuhanbatu Utara",
-	"scraped_at": "2023-01-26T08:22:58.421Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Denpasar",
+	"scraped_at": "2025-05-03T17:27:05.314Z",
 	"kabupaten": {
 		"id": 9,
-		"name": "Kabupaten Labuhanbatu Utara",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Lambang_Labuhanbatu_Utara.jpg"
+		"name": "Kota Denpasar",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lambang_Kota_Denpasar_%281%29.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Aek Kuo"
+			"name": "Denpasar Barat"
 		},
 		{
 			"id": 2,
-			"name": "Aek Natas"
+			"name": "Denpasar Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Kualuh Hilir"
+			"name": "Denpasar Timur"
 		},
 		{
 			"id": 4,
-			"name": "Kualuh Hulu"
-		},
-		{
-			"id": 5,
-			"name": "Kualuh Leidong"
-		},
-		{
-			"id": 6,
-			"name": "Kualuh Selatan"
-		},
-		{
-			"id": 7,
-			"name": "Marbau"
-		},
-		{
-			"id": 8,
-			"name": "Na IX-X"
+			"name": "Denpasar Utara"
 		}
 	]
 }

@@ -1,75 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Kepulauan Yapen",
-	"scraped_at": "2023-01-26T08:30:21.631Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Buol",
+	"scraped_at": "2025-05-03T17:34:27.146Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Kepulauan Yapen",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Lambang_Kabupaten_Kepulauan_Yapen%2C_Papua.jpg"
+		"name": "Kabupaten Buol",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Coat_of_arms_of_Buol_Regency.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Yapen Selatan"
+			"name": "Biau"
 		},
 		{
 			"id": 2,
-			"name": "Yapen Barat"
+			"name": "Bokat"
 		},
 		{
 			"id": 3,
-			"name": "Yapen Timur"
+			"name": "Bukal"
 		},
 		{
 			"id": 4,
-			"name": "Angkaisera"
+			"name": "Bunobogu"
 		},
 		{
 			"id": 5,
-			"name": "Poom"
+			"name": "Gadung"
 		},
 		{
 			"id": 6,
-			"name": "Kosiwo"
+			"name": "Karamat"
 		},
 		{
 			"id": 7,
-			"name": "Yapen Utara"
+			"name": "Lakea"
 		},
 		{
 			"id": 8,
-			"name": "Raimbawi"
+			"name": "Momunu"
 		},
 		{
 			"id": 9,
-			"name": "Teluk Ampimoi"
+			"name": "Paleleh Barat"
 		},
 		{
 			"id": 10,
-			"name": "Kepulauan Ambai"
+			"name": "Paleleh"
 		},
 		{
 			"id": 11,
-			"name": "Wonawa"
-		},
-		{
-			"id": 12,
-			"name": "Windesi"
-		},
-		{
-			"id": 13,
-			"name": "Pulau Kurudu"
-		},
-		{
-			"id": 14,
-			"name": "Pulau Yerui"
-		},
-		{
-			"id": 15,
-			"name": "Anotaurei"
-		},
-		{
-			"id": 16,
-			"name": "Yawakukat"
+			"name": "Tiloan"
 		}
 	]
 }

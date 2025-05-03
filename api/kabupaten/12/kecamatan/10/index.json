@@ -1,131 +1,71 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Karawang",
-	"scraped_at": "2023-01-26T08:25:25.001Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sanggau",
+	"scraped_at": "2025-05-03T17:29:55.844Z",
 	"kabupaten": {
 		"id": 10,
-		"name": "Kabupaten Karawang",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/LAMBANG_KABUPATEN_KARAWANG.svg"
+		"name": "Kabupaten Sanggau",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Lambang_Kabupaten_Sanggau.tif"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Banyusari"
+			"name": "Balai"
 		},
 		{
 			"id": 2,
-			"name": "Batujaya"
+			"name": "Beduai"
 		},
 		{
 			"id": 3,
-			"name": "Ciampel"
+			"name": "Bonti"
 		},
 		{
 			"id": 4,
-			"name": "Cibuaya"
+			"name": "Entikong"
 		},
 		{
 			"id": 5,
-			"name": "Cikampek"
+			"name": "Jangkang"
 		},
 		{
 			"id": 6,
-			"name": "Cilamaya Kulon"
+			"name": "Kapuas"
 		},
 		{
 			"id": 7,
-			"name": "Cilamaya Wetan"
+			"name": "Kembayan"
 		},
 		{
 			"id": 8,
-			"name": "Cilebar"
+			"name": "Meliau"
 		},
 		{
 			"id": 9,
-			"name": "Jatisari"
+			"name": "Mukok"
 		},
 		{
 			"id": 10,
-			"name": "Jayakerta"
+			"name": "Noyan"
 		},
 		{
 			"id": 11,
-			"name": "Karawang Barat"
+			"name": "Parindu"
 		},
 		{
 			"id": 12,
-			"name": "Karawang Timur"
+			"name": "Sekayam"
 		},
 		{
 			"id": 13,
-			"name": "Klari"
+			"name": "Tayan Hilir"
 		},
 		{
 			"id": 14,
-			"name": "Kotabaru"
+			"name": "Tayan Hulu"
 		},
 		{
 			"id": 15,
-			"name": "Kutawaluya"
-		},
-		{
-			"id": 16,
-			"name": "Lemahabang"
-		},
-		{
-			"id": 17,
-			"name": "Majalaya"
-		},
-		{
-			"id": 18,
-			"name": "Pakisjaya"
-		},
-		{
-			"id": 19,
-			"name": "Pangkalan"
-		},
-		{
-			"id": 20,
-			"name": "Pedes"
-		},
-		{
-			"id": 21,
-			"name": "Purwasari"
-		},
-		{
-			"id": 22,
-			"name": "Rawamerta"
-		},
-		{
-			"id": 23,
-			"name": "Rengasdengklok"
-		},
-		{
-			"id": 24,
-			"name": "Tegalwaru"
-		},
-		{
-			"id": 25,
-			"name": "Telagasari"
-		},
-		{
-			"id": 26,
-			"name": "Telukjambe Barat"
-		},
-		{
-			"id": 27,
-			"name": "Telukjambe Timur"
-		},
-		{
-			"id": 28,
-			"name": "Tempuran"
-		},
-		{
-			"id": 29,
-			"name": "Tirtajaya"
-		},
-		{
-			"id": 30,
-			"name": "Tirtamulya"
+			"name": "Toba"
 		}
 	]
 }

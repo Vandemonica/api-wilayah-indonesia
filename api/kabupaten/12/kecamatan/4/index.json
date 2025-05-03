@@ -1,171 +1,91 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bogor",
-	"scraped_at": "2023-01-26T08:25:20.399Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Ketapang",
+	"scraped_at": "2025-05-03T17:29:48.318Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Bogor",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Lambang_Kabupaten_Bogor.svg"
+		"name": "Kabupaten Ketapang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lambang_Kabupaten_Ketapang.jpeg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Babakan Madang"
+			"name": "Air Upas"
 		},
 		{
 			"id": 2,
-			"name": "Bojonggede"
+			"name": "Benua Kayong"
 		},
 		{
 			"id": 3,
-			"name": "Caringin"
+			"name": "Delta Pawan"
 		},
 		{
 			"id": 4,
-			"name": "Cariu"
+			"name": "Hulu Sungai"
 		},
 		{
 			"id": 5,
-			"name": "Ciampea"
+			"name": "Jelai Hulu"
 		},
 		{
 			"id": 6,
-			"name": "Ciawi"
+			"name": "Kendawangan"
 		},
 		{
 			"id": 7,
-			"name": "Cibinong"
+			"name": "Manis Mata"
 		},
 		{
 			"id": 8,
-			"name": "Cibungbulang"
+			"name": "Marau"
 		},
 		{
 			"id": 9,
-			"name": "Cigombong"
+			"name": "Matan Hilir Selatan"
 		},
 		{
 			"id": 10,
-			"name": "Cigudeg"
+			"name": "Matan Hilir Utara"
 		},
 		{
 			"id": 11,
-			"name": "Cijeruk"
+			"name": "Muara Pawan"
 		},
 		{
 			"id": 12,
-			"name": "Cileungsi"
+			"name": "Nanga Tayap"
 		},
 		{
 			"id": 13,
-			"name": "Ciomas"
+			"name": "Pemahan"
 		},
 		{
 			"id": 14,
-			"name": "Cisarua"
+			"name": "Sandai"
 		},
 		{
 			"id": 15,
-			"name": "Ciseeng"
+			"name": "Simpang Dua"
 		},
 		{
 			"id": 16,
-			"name": "Citeureup"
+			"name": "Simpang Hulu"
 		},
 		{
 			"id": 17,
-			"name": "Dramaga"
+			"name": "Singkup"
 		},
 		{
 			"id": 18,
-			"name": "Gunung Putri"
+			"name": "Sungai Laur"
 		},
 		{
 			"id": 19,
-			"name": "Gunungsindur"
+			"name": "Sungai Melayu Rayak"
 		},
 		{
 			"id": 20,
-			"name": "Jasinga"
-		},
-		{
-			"id": 21,
-			"name": "Jonggol"
-		},
-		{
-			"id": 22,
-			"name": "Kemang"
-		},
-		{
-			"id": 23,
-			"name": "Klapanunggal"
-		},
-		{
-			"id": 24,
-			"name": "Leuwiliang"
-		},
-		{
-			"id": 25,
-			"name": "Leuwisadeng"
-		},
-		{
-			"id": 26,
-			"name": "Megamendung"
-		},
-		{
-			"id": 27,
-			"name": "Nanggung"
-		},
-		{
-			"id": 28,
-			"name": "Pamijahan"
-		},
-		{
-			"id": 29,
-			"name": "Parung Panjang"
-		},
-		{
-			"id": 30,
-			"name": "Parung"
-		},
-		{
-			"id": 31,
-			"name": "Ranca Bungur"
-		},
-		{
-			"id": 32,
-			"name": "Rumpin"
-		},
-		{
-			"id": 33,
-			"name": "Sukajaya"
-		},
-		{
-			"id": 34,
-			"name": "Sukamakmur"
-		},
-		{
-			"id": 35,
-			"name": "Sukaraja"
-		},
-		{
-			"id": 36,
-			"name": "Tajurhalang"
-		},
-		{
-			"id": 37,
-			"name": "Tamansari"
-		},
-		{
-			"id": 38,
-			"name": "Tanjungsari"
-		},
-		{
-			"id": 39,
-			"name": "Tenjo"
-		},
-		{
-			"id": 40,
-			"name": "Tenjolaya"
+			"name": "Tumbang Titi"
 		}
 	]
 }

@@ -1,63 +1,75 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lingga",
-	"scraped_at": "2023-01-26T08:25:03.810Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Blora",
+	"scraped_at": "2025-05-03T17:28:50.035Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Lingga",
-		"emblem": "https://upload.wikimedia.org/wikipedia/id/d/d9/Logo-lingga-new.png"
+		"name": "Kabupaten Blora",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Seal_of_Blora_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bakung Serumpun"
+			"name": "Banjarejo"
 		},
 		{
 			"id": 2,
-			"name": "Katang Bidare"
+			"name": "Blora"
 		},
 		{
 			"id": 3,
-			"name": "Kepulauan Posek"
+			"name": "Bogorejo"
 		},
 		{
 			"id": 4,
-			"name": "Lingga Timur"
+			"name": "Cepu"
 		},
 		{
 			"id": 5,
-			"name": "Lingga Utara"
+			"name": "Japah"
 		},
 		{
 			"id": 6,
-			"name": "Lingga"
+			"name": "Jati"
 		},
 		{
 			"id": 7,
-			"name": "Selayar"
+			"name": "Jepon"
 		},
 		{
 			"id": 8,
-			"name": "Senayang"
+			"name": "Jiken"
 		},
 		{
 			"id": 9,
-			"name": "Singkep Barat"
+			"name": "Kedungtuban"
 		},
 		{
 			"id": 10,
-			"name": "Singkep Pesisir"
+			"name": "Kradenan"
 		},
 		{
 			"id": 11,
-			"name": "Singkep Selatan"
+			"name": "Kunduran"
 		},
 		{
 			"id": 12,
-			"name": "Singkep"
+			"name": "Ngawen"
 		},
 		{
 			"id": 13,
-			"name": "Temiang Pesisir"
+			"name": "Randublatung"
+		},
+		{
+			"id": 14,
+			"name": "Sambong"
+		},
+		{
+			"id": 15,
+			"name": "Todanan"
+		},
+		{
+			"id": 16,
+			"name": "Tunjungan"
 		}
 	]
 }

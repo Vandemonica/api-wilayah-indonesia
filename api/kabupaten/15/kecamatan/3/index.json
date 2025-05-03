@@ -1,99 +1,91 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Blitar",
-	"scraped_at": "2023-01-26T08:26:18.714Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kutai Kartanegara",
+	"scraped_at": "2025-05-03T17:30:54.497Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Blitar",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Seal_of_Blitar_Regency.svg"
+		"name": "Kabupaten Kutai Kartanegara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lambang_Kab._Kutai_Kertanegara.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bakung"
+			"name": "Anggana"
 		},
 		{
 			"id": 2,
-			"name": "Binangun"
+			"name": "Kembang Janggut"
 		},
 		{
 			"id": 3,
-			"name": "Doko"
+			"name": "Kenohan"
 		},
 		{
 			"id": 4,
-			"name": "Gandusari"
+			"name": "Kota Bangun Darat"
 		},
 		{
 			"id": 5,
-			"name": "Garum"
+			"name": "Kota Bangun"
 		},
 		{
 			"id": 6,
-			"name": "Kademangan"
+			"name": "Loa Janan"
 		},
 		{
 			"id": 7,
-			"name": "Kanigoro"
+			"name": "Loa Kulu"
 		},
 		{
 			"id": 8,
-			"name": "Kesamben"
+			"name": "Marang Kayu"
 		},
 		{
 			"id": 9,
-			"name": "Nglegok"
+			"name": "Muara Badak"
 		},
 		{
 			"id": 10,
-			"name": "Panggungrejo"
+			"name": "Muara Jawa"
 		},
 		{
 			"id": 11,
-			"name": "Ponggok"
+			"name": "Muara Kaman"
 		},
 		{
 			"id": 12,
-			"name": "Sanankulon"
+			"name": "Muara Muntai"
 		},
 		{
 			"id": 13,
-			"name": "Selopuro"
+			"name": "Muara Wis"
 		},
 		{
 			"id": 14,
-			"name": "Selorejo"
+			"name": "Samboja Barat"
 		},
 		{
 			"id": 15,
-			"name": "Srengat"
+			"name": "Samboja"
 		},
 		{
 			"id": 16,
-			"name": "Sutojayan"
+			"name": "Sangasanga"
 		},
 		{
 			"id": 17,
-			"name": "Talun"
+			"name": "Sebulu"
 		},
 		{
 			"id": 18,
-			"name": "Udanawu"
+			"name": "Tabang"
 		},
 		{
 			"id": 19,
-			"name": "Wates"
+			"name": "Tenggarong Seberang"
 		},
 		{
 			"id": 20,
-			"name": "Wlingi"
-		},
-		{
-			"id": 21,
-			"name": "Wonodadi"
-		},
-		{
-			"id": 22,
-			"name": "Wonotirto"
+			"name": "Tenggarong"
 		}
 	]
 }

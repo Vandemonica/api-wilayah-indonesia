@@ -1,71 +1,59 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kuantan Singingi",
-	"scraped_at": "2023-01-26T08:23:51.019Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lebong",
+	"scraped_at": "2025-05-03T17:27:24.773Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Kuantan Singingi",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Lambang_Kabupaten_Kuantan_Singingi.PNG"
+		"name": "Kabupaten Lebong",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Lebong.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Benai"
+			"name": "Amen"
 		},
 		{
 			"id": 2,
-			"name": "Cerenti"
+			"name": "Bingin Kuning"
 		},
 		{
 			"id": 3,
-			"name": "Gunung Toar"
+			"name": "Lebong Atas"
 		},
 		{
 			"id": 4,
-			"name": "Hulu Kuantan"
+			"name": "Lebong Sakti"
 		},
 		{
 			"id": 5,
-			"name": "Inuman"
+			"name": "Lebong Selatan"
 		},
 		{
 			"id": 6,
-			"name": "Kuantan Hilir Seberang"
+			"name": "Lebong Tengah"
 		},
 		{
 			"id": 7,
-			"name": "Kuantan Hilir"
+			"name": "Lebong Utara"
 		},
 		{
 			"id": 8,
-			"name": "Kuantan Mudik"
+			"name": "Pinang Belapis"
 		},
 		{
 			"id": 9,
-			"name": "Kuantan Tengah"
+			"name": "Rimbo Pengadang"
 		},
 		{
 			"id": 10,
-			"name": "Logas Tanah Darat"
+			"name": "Topos"
 		},
 		{
 			"id": 11,
-			"name": "Pangean"
+			"name": "Tubei"
 		},
 		{
 			"id": 12,
-			"name": "Pucuk Rantau"
-		},
-		{
-			"id": 13,
-			"name": "Sentajo Raya"
-		},
-		{
-			"id": 14,
-			"name": "Singingi Hilir"
-		},
-		{
-			"id": 15,
-			"name": "Singingi"
+			"name": "Uram Jaya"
 		}
 	]
 }

@@ -1,43 +1,75 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Mamberamo Raya",
-	"scraped_at": "2023-01-26T08:30:22.643Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Donggala",
+	"scraped_at": "2025-05-03T17:34:28.875Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Mamberamo Raya",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lambang_Kabupaten_Mamberamo_Raya%2C_Papua.jpg"
+		"name": "Kabupaten Donggala",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lambang_Kabupaten_Donggala_%282015-sekarang%29.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Mamberamo Tengah"
+			"name": "Balaesang Tanjung"
 		},
 		{
 			"id": 2,
-			"name": "Mamberamo Hulu"
+			"name": "Balaesang"
 		},
 		{
 			"id": 3,
-			"name": "Rufaer"
+			"name": "Banawa Selatan"
 		},
 		{
 			"id": 4,
-			"name": "Mamberamo Tengah Timur"
+			"name": "Banawa Tengah"
 		},
 		{
 			"id": 5,
-			"name": "Mamberamo Hilir"
+			"name": "Banawa"
 		},
 		{
 			"id": 6,
-			"name": "Waropen Atas"
+			"name": "Dampelas"
 		},
 		{
 			"id": 7,
-			"name": "Benuki"
+			"name": "Labuan"
 		},
 		{
 			"id": 8,
-			"name": "Sawai"
+			"name": "Pinembani"
+		},
+		{
+			"id": 9,
+			"name": "Rio Pakava"
+		},
+		{
+			"id": 10,
+			"name": "Sindue Tobata"
+		},
+		{
+			"id": 11,
+			"name": "Sindue Tombusabora"
+		},
+		{
+			"id": 12,
+			"name": "Sindue"
+		},
+		{
+			"id": 13,
+			"name": "Sirenja"
+		},
+		{
+			"id": 14,
+			"name": "Sojol Utara"
+		},
+		{
+			"id": 15,
+			"name": "Sojol"
+		},
+		{
+			"id": 16,
+			"name": "Tanantovea"
 		}
 	]
 }

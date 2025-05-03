@@ -1,59 +1,47 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lebong",
-	"scraped_at": "2023-01-26T08:24:33.124Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Gorontalo",
+	"scraped_at": "2025-05-03T17:28:03.155Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Lebong",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Lebong.png"
+		"name": "Kota Gorontalo",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/LOGO_KOTA_GORONTALO.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Amen"
+			"name": "Dumbo Raya"
 		},
 		{
 			"id": 2,
-			"name": "Bingin Kuning"
+			"name": "Dungingi"
 		},
 		{
 			"id": 3,
-			"name": "Lebong Atas"
+			"name": "Hulonthalangi"
 		},
 		{
 			"id": 4,
-			"name": "Lebong Sakti"
+			"name": "Kota Barat"
 		},
 		{
 			"id": 5,
-			"name": "Lebong Selatan"
+			"name": "Kota Selatan"
 		},
 		{
 			"id": 6,
-			"name": "Lebong Tengah"
+			"name": "Kota Tengah"
 		},
 		{
 			"id": 7,
-			"name": "Lebong Utara"
+			"name": "Kota Timur"
 		},
 		{
 			"id": 8,
-			"name": "Pinang Belapis"
+			"name": "Kota Utara"
 		},
 		{
 			"id": 9,
-			"name": "Rimbo Pengadang"
-		},
-		{
-			"id": 10,
-			"name": "Topos"
-		},
-		{
-			"id": 11,
-			"name": "Tubei"
-		},
-		{
-			"id": 12,
-			"name": "Uram Jaya"
+			"name": "Sipatana"
 		}
 	]
 }

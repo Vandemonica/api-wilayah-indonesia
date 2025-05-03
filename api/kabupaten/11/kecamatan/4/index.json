@@ -1,51 +1,123 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Administrasi Jakarta Selatan",
-	"scraped_at": "2023-01-26T08:25:11.470Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bojonegoro",
+	"scraped_at": "2025-05-03T17:29:17.396Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kota Administrasi Jakarta Selatan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Seal_of_South_Jakarta.png"
+		"name": "Kabupaten Bojonegoro",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Seal_of_Bojonegoro_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Cilandak"
+			"name": "Balen"
 		},
 		{
 			"id": 2,
-			"name": "Jagakarsa"
+			"name": "Baureno"
 		},
 		{
 			"id": 3,
-			"name": "Kebayoran Baru"
+			"name": "Bojonegoro"
 		},
 		{
 			"id": 4,
-			"name": "Kebayoran Lama"
+			"name": "Bubulan"
 		},
 		{
 			"id": 5,
-			"name": "Mampang Prapatan"
+			"name": "Dander"
 		},
 		{
 			"id": 6,
-			"name": "Pancoran"
+			"name": "Gayam"
 		},
 		{
 			"id": 7,
-			"name": "Pasar Minggu"
+			"name": "Gondang"
 		},
 		{
 			"id": 8,
-			"name": "Pesanggrahan"
+			"name": "Kalitidu"
 		},
 		{
 			"id": 9,
-			"name": "Setiabudi"
+			"name": "Kanor"
 		},
 		{
 			"id": 10,
-			"name": "Tebet"
+			"name": "Kapas"
+		},
+		{
+			"id": 11,
+			"name": "Kasiman"
+		},
+		{
+			"id": 12,
+			"name": "Kedewan"
+		},
+		{
+			"id": 13,
+			"name": "Kedungadem"
+		},
+		{
+			"id": 14,
+			"name": "Kepohbaru"
+		},
+		{
+			"id": 15,
+			"name": "Malo"
+		},
+		{
+			"id": 16,
+			"name": "Margomulyo"
+		},
+		{
+			"id": 17,
+			"name": "Ngambon"
+		},
+		{
+			"id": 18,
+			"name": "Ngasem"
+		},
+		{
+			"id": 19,
+			"name": "Ngraho"
+		},
+		{
+			"id": 20,
+			"name": "Padangan"
+		},
+		{
+			"id": 21,
+			"name": "Purwosari"
+		},
+		{
+			"id": 22,
+			"name": "Sekar"
+		},
+		{
+			"id": 23,
+			"name": "Sugihwaras"
+		},
+		{
+			"id": 24,
+			"name": "Sukosewu"
+		},
+		{
+			"id": 25,
+			"name": "Sumberejo"
+		},
+		{
+			"id": 26,
+			"name": "Tambakrejo"
+		},
+		{
+			"id": 27,
+			"name": "Temayang"
+		},
+		{
+			"id": 28,
+			"name": "Trucuk"
 		}
 	]
 }

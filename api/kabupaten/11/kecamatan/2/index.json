@@ -1,43 +1,111 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Administrasi Jakarta Barat",
-	"scraped_at": "2023-01-26T08:25:09.641Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Banyuwangi",
+	"scraped_at": "2025-05-03T17:29:16.052Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kota Administrasi Jakarta Barat",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Seal_of_West_Jakarta.jpg"
+		"name": "Kabupaten Banyuwangi",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Banyuwangi_Regency_coat_of_arms.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Cengkareng"
+			"name": "Bangorejo"
 		},
 		{
 			"id": 2,
-			"name": "Grogol Petamburan"
+			"name": "Banyuwangi"
 		},
 		{
 			"id": 3,
-			"name": "Kalideres"
+			"name": "Blimbingsari"
 		},
 		{
 			"id": 4,
-			"name": "Kebon Jeruk"
+			"name": "Cluring"
 		},
 		{
 			"id": 5,
-			"name": "Kembangan"
+			"name": "Gambiran"
 		},
 		{
 			"id": 6,
-			"name": "Palmerah"
+			"name": "Genteng"
 		},
 		{
 			"id": 7,
-			"name": "Taman Sari"
+			"name": "Giri"
 		},
 		{
 			"id": 8,
-			"name": "Tambora"
+			"name": "Glagah"
+		},
+		{
+			"id": 9,
+			"name": "Glenmore"
+		},
+		{
+			"id": 10,
+			"name": "Kabat"
+		},
+		{
+			"id": 11,
+			"name": "Kalibaru"
+		},
+		{
+			"id": 12,
+			"name": "Kalipuro"
+		},
+		{
+			"id": 13,
+			"name": "Licin"
+		},
+		{
+			"id": 14,
+			"name": "Muncar"
+		},
+		{
+			"id": 15,
+			"name": "Pesanggaran"
+		},
+		{
+			"id": 16,
+			"name": "Purwoharjo"
+		},
+		{
+			"id": 17,
+			"name": "Rogojampi"
+		},
+		{
+			"id": 18,
+			"name": "Sempu"
+		},
+		{
+			"id": 19,
+			"name": "Siliragung"
+		},
+		{
+			"id": 20,
+			"name": "Singojuruh"
+		},
+		{
+			"id": 21,
+			"name": "Songgon"
+		},
+		{
+			"id": 22,
+			"name": "Srono"
+		},
+		{
+			"id": 23,
+			"name": "Tegaldlimo"
+		},
+		{
+			"id": 24,
+			"name": "Tegalsari"
+		},
+		{
+			"id": 25,
+			"name": "Wongsorejo"
 		}
 	]
 }

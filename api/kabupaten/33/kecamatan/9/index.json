@@ -1,51 +1,87 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kota_Jayapura",
-	"scraped_at": "2023-01-26T08:30:26.790Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Poso",
+	"scraped_at": "2025-05-03T17:34:32.468Z",
 	"kabupaten": {
 		"id": 9,
-		"name": "Kota Jayapura",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lambang_Kota_Jayapura.jpeg"
+		"name": "Kabupaten Poso",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lambang_Kabupaten_Poso.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Jayapura Utara"
+			"name": "Lage"
 		},
 		{
 			"id": 2,
-			"name": "Angkasapura\nBayangkara\nGurabesi\nImbi\nMandala\nTanjung Ria\nTrikora"
+			"name": "Lore Barat"
 		},
 		{
 			"id": 3,
-			"name": "Jayapura Selatan"
+			"name": "Lore Peore"
 		},
 		{
 			"id": 4,
-			"name": "Numbay\nHamadi\nEntrop\nArgapura\nArdipura"
+			"name": "Lore Selatan"
 		},
 		{
 			"id": 5,
-			"name": "Abepura"
+			"name": "Lore Tengah"
 		},
 		{
 			"id": 6,
-			"name": "Abepantai\nAsano\nAwiyo\nKota Baru\nVim\nWahno\nWay Mhorock\nYobe"
+			"name": "Lore Timur"
 		},
 		{
 			"id": 7,
-			"name": "Muara Tami"
+			"name": "Lore Utara"
 		},
 		{
 			"id": 8,
-			"name": "Koya Barat\nKoya Timur"
+			"name": "Pamona Barat"
 		},
 		{
 			"id": 9,
-			"name": "Heram"
+			"name": "Pamona Puselemba"
 		},
 		{
 			"id": 10,
-			"name": "Hedam\nWena\nYabansai"
+			"name": "Pamona Selatan"
+		},
+		{
+			"id": 11,
+			"name": "Pamona Tenggara"
+		},
+		{
+			"id": 12,
+			"name": "Pamona Timur"
+		},
+		{
+			"id": 13,
+			"name": "Pamona Utara"
+		},
+		{
+			"id": 14,
+			"name": "Poso Kota Selatan"
+		},
+		{
+			"id": 15,
+			"name": "Poso Kota Utara"
+		},
+		{
+			"id": 16,
+			"name": "Poso Kota"
+		},
+		{
+			"id": 17,
+			"name": "Poso Pesisir Selatan"
+		},
+		{
+			"id": 18,
+			"name": "Poso Pesisir Utara"
+		},
+		{
+			"id": 19,
+			"name": "Poso Pesisir"
 		}
 	]
 }

@@ -1,51 +1,31 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tanah Bumbu",
-	"scraped_at": "2023-01-26T08:28:03.877Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Bima",
+	"scraped_at": "2025-05-03T17:31:56.337Z",
 	"kabupaten": {
 		"id": 9,
-		"name": "Kabupaten Tanah Bumbu",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lambang_Kabupaten_Tanah_Bumbu2.gif"
+		"name": "Kota Bima",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/COA_Bima.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Angsana"
+			"name": "Asakota"
 		},
 		{
 			"id": 2,
-			"name": "Batulicin"
+			"name": "Mpunda"
 		},
 		{
 			"id": 3,
-			"name": "Karang Bintang"
+			"name": "Raba"
 		},
 		{
 			"id": 4,
-			"name": "Kuranji"
+			"name": "Rasanae Barat"
 		},
 		{
 			"id": 5,
-			"name": "Kusan Hilir"
-		},
-		{
-			"id": 6,
-			"name": "Kusan Hulu"
-		},
-		{
-			"id": 7,
-			"name": "Mantewe"
-		},
-		{
-			"id": 8,
-			"name": "Satui"
-		},
-		{
-			"id": 9,
-			"name": "Simpang Empat"
-		},
-		{
-			"id": 10,
-			"name": "Sungai Loban"
+			"name": "Rasanae Timur"
 		}
 	]
 }

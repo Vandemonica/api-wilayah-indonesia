@@ -1,51 +1,47 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Sarmi",
-	"scraped_at": "2023-01-26T08:30:23.196Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Morowali",
+	"scraped_at": "2025-05-03T17:34:29.310Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Sarmi",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Lambang_Kabupaten_Sarmi.png"
+		"name": "Kabupaten Morowali",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lambang_Kabupaten_Morowali_%282015-sekarang%29.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Sarmi"
+			"name": "Bahodopi"
 		},
 		{
 			"id": 2,
-			"name": "Tor Atas"
+			"name": "Bumi Raya"
 		},
 		{
 			"id": 3,
-			"name": "Pantai Barat"
+			"name": "Bungku Barat"
 		},
 		{
 			"id": 4,
-			"name": "Pantai Timur"
+			"name": "Bungku Pesisir"
 		},
 		{
 			"id": 5,
-			"name": "Bonggo"
+			"name": "Bungku Selatan"
 		},
 		{
 			"id": 6,
-			"name": "Apawer Hulu"
+			"name": "Bungku Tengah"
 		},
 		{
 			"id": 7,
-			"name": "Sarmi Selatan"
+			"name": "Bungku Timur"
 		},
 		{
 			"id": 8,
-			"name": "Sarmi Timur"
+			"name": "Menui Kepulauan"
 		},
 		{
 			"id": 9,
-			"name": "Pantai Timur Bagian Barat"
-		},
-		{
-			"id": 10,
-			"name": "Bonggo Timur"
+			"name": "Wita Ponda"
 		}
 	]
 }

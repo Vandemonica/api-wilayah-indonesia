@@ -1,71 +1,43 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tulang Bawang",
-	"scraped_at": "2023-01-26T08:24:46.234Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Sungai Penuh",
+	"scraped_at": "2025-05-03T17:28:14.887Z",
 	"kabupaten": {
 		"id": 11,
-		"name": "Kabupaten Tulang Bawang",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/LOGO_KABUPATEN_TULANG_BAWANG.png"
+		"name": "Kota Sungai Penuh",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lambang_Kota_Sungai_Penuh.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Banjar Agung"
+			"name": "Hamparan Rawang"
 		},
 		{
 			"id": 2,
-			"name": "Banjar Baru"
+			"name": "Koto Baru"
 		},
 		{
 			"id": 3,
-			"name": "Banjar Margo"
+			"name": "Kumun Debai"
 		},
 		{
 			"id": 4,
-			"name": "Dente Teladas"
+			"name": "Pesisir Bukit"
 		},
 		{
 			"id": 5,
-			"name": "Gedung Aji Baru"
+			"name": "Pondok Tinggi"
 		},
 		{
 			"id": 6,
-			"name": "Gedung Aji"
+			"name": "Sungai Bungkal"
 		},
 		{
 			"id": 7,
-			"name": "Gedung Meneng"
+			"name": "Sungai Penuh"
 		},
 		{
 			"id": 8,
-			"name": "Menggala Timur"
-		},
-		{
-			"id": 9,
-			"name": "Menggala"
-		},
-		{
-			"id": 10,
-			"name": "Meraksa Aji"
-		},
-		{
-			"id": 11,
-			"name": "Penawar Aji"
-		},
-		{
-			"id": 12,
-			"name": "Penawar Tama"
-		},
-		{
-			"id": 13,
-			"name": "Rawa Pitu"
-		},
-		{
-			"id": 14,
-			"name": "Rawajitu Selatan"
-		},
-		{
-			"id": 15,
-			"name": "Rawajitu Timur"
+			"name": "Tanah Kampung"
 		}
 	]
 }

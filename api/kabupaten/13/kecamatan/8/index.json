@@ -1,67 +1,59 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Demak",
-	"scraped_at": "2023-01-26T08:25:45.744Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tabalong",
+	"scraped_at": "2025-05-03T17:30:21.831Z",
 	"kabupaten": {
 		"id": 8,
-		"name": "Kabupaten Demak",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Seal_of_Demak_Regency.svg"
+		"name": "Kabupaten Tabalong",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Lambang_Kabupaten_Tabalong.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bonang"
+			"name": "Banua Lawas"
 		},
 		{
 			"id": 2,
-			"name": "Demak"
+			"name": "Bintang Ara"
 		},
 		{
 			"id": 3,
-			"name": "Dempet"
+			"name": "Haruai"
 		},
 		{
 			"id": 4,
-			"name": "Gajah"
+			"name": "Jaro"
 		},
 		{
 			"id": 5,
-			"name": "Guntur"
+			"name": "Kelua"
 		},
 		{
 			"id": 6,
-			"name": "Karanganyar"
+			"name": "Muara Harus"
 		},
 		{
 			"id": 7,
-			"name": "Karangawen"
+			"name": "Muara Uya"
 		},
 		{
 			"id": 8,
-			"name": "Karangtengah"
+			"name": "Murung Pudak"
 		},
 		{
 			"id": 9,
-			"name": "Kebonagung"
+			"name": "Pugaan"
 		},
 		{
 			"id": 10,
-			"name": "Mijen"
+			"name": "Tanjung"
 		},
 		{
 			"id": 11,
-			"name": "Mranggen"
+			"name": "Tanta"
 		},
 		{
 			"id": 12,
-			"name": "Sayung"
-		},
-		{
-			"id": 13,
-			"name": "Wedung"
-		},
-		{
-			"id": 14,
-			"name": "Wonosalam"
+			"name": "Upau"
 		}
 	]
 }

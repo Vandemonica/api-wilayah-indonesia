@@ -1,127 +1,95 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Serang",
-	"scraped_at": "2023-01-26T08:26:52.765Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Nunukan",
+	"scraped_at": "2025-05-03T17:31:03.614Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Serang",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Seal_of_Serang_Regency.svg"
+		"name": "Kabupaten Nunukan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lambang_Kabupaten_Nunukan.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Anyar"
+			"name": "Krayan Barat"
 		},
 		{
 			"id": 2,
-			"name": "Bandung"
+			"name": "Krayan Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Baros"
+			"name": "Krayan Tengah"
 		},
 		{
 			"id": 4,
-			"name": "Binuang"
+			"name": "Krayan Timur"
 		},
 		{
 			"id": 5,
-			"name": "Bojonegara"
+			"name": "Krayan"
 		},
 		{
 			"id": 6,
-			"name": "Carenang"
+			"name": "Lumbis Hulu"
 		},
 		{
 			"id": 7,
-			"name": "Cikande"
+			"name": "Lumbis Ogong"
 		},
 		{
 			"id": 8,
-			"name": "Cikeusal"
+			"name": "Lumbis Pansiangan"
 		},
 		{
 			"id": 9,
-			"name": "Cinangka"
+			"name": "Lumbis"
 		},
 		{
 			"id": 10,
-			"name": "Ciomas"
+			"name": "Nunukan Selatan"
 		},
 		{
 			"id": 11,
-			"name": "Ciruas"
+			"name": "Nunukan"
 		},
 		{
 			"id": 12,
-			"name": "Gunungsari"
+			"name": "Sebatik Barat"
 		},
 		{
 			"id": 13,
-			"name": "Jawilan"
+			"name": "Sebatik Tengah"
 		},
 		{
 			"id": 14,
-			"name": "Kibin"
+			"name": "Sebatik Timur"
 		},
 		{
 			"id": 15,
-			"name": "Kopo"
+			"name": "Sebatik Utara"
 		},
 		{
 			"id": 16,
-			"name": "Kragilan"
+			"name": "Sebatik"
 		},
 		{
 			"id": 17,
-			"name": "Kramatwatu"
+			"name": "Sebuku"
 		},
 		{
 			"id": 18,
-			"name": "Lebak Wangi"
+			"name": "Sei Menggaris"
 		},
 		{
 			"id": 19,
-			"name": "Mancak"
+			"name": "Sembakung Atulai"
 		},
 		{
 			"id": 20,
-			"name": "Pabuaran"
+			"name": "Sembakung"
 		},
 		{
 			"id": 21,
-			"name": "Padarincang"
-		},
-		{
-			"id": 22,
-			"name": "Pamarayan"
-		},
-		{
-			"id": 23,
-			"name": "Petir"
-		},
-		{
-			"id": 24,
-			"name": "Pontang"
-		},
-		{
-			"id": 25,
-			"name": "Pulo Ampel"
-		},
-		{
-			"id": 26,
-			"name": "Tanara"
-		},
-		{
-			"id": 27,
-			"name": "Tirtayasa"
-		},
-		{
-			"id": 28,
-			"name": "Tunjung Teja"
-		},
-		{
-			"id": 29,
-			"name": "Waringinkurung"
+			"name": "Tulin Onsoi"
 		}
 	]
 }

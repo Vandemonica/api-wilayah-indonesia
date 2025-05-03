@@ -1,83 +1,71 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Riau",
-	"scraped_at": "2023-01-26T08:23:42.903Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Bengkulu",
+	"scraped_at": "2025-05-03T17:27:17.707Z",
 	"provinsi": {
 		"id": 4,
-		"code": "14",
-		"name": "Riau",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Coat_of_arms_of_Riau.svg"
+		"code": "17",
+		"name": "Bengkulu",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Coat_of_arms_of_Bengkulu.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kabupaten Bengkalis",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lambang_Kabupaten_Bengkalis.png",
-			"capital": "Bengkalis"
+			"name": "Kabupaten Bengkulu Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bengkulu_Selatan.png",
+			"capital": "Kota Manna"
 		},
 		{
 			"id": 2,
-			"name": "Kabupaten Indragiri Hilir",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_kabupaten_indragiri_hilir.jpg",
-			"capital": "Tembilahan"
+			"name": "Kabupaten Bengkulu Tengah",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Lambang_Kabupaten_Bengkulu_Tengah.png",
+			"capital": "Karang Tinggi"
 		},
 		{
 			"id": 3,
-			"name": "Kabupaten Indragiri Hulu",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lambang_Kab_Indragiri_Hulu.png",
-			"capital": "Rengat"
+			"name": "Kabupaten Bengkulu Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_Bengkulu_Utara.png",
+			"capital": "Kota Arga Makmur"
 		},
 		{
 			"id": 4,
-			"name": "Kabupaten Kampar",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Lambang_Kabupaten_Kampar.png",
-			"capital": "Bangkinang"
+			"name": "Kabupaten Kaur",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kabupaten_Kaur.png",
+			"capital": "Kaur Selatan"
 		},
 		{
 			"id": 5,
-			"name": "Kabupaten Kepulauan Meranti",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Lambang_kab_Kepulauan_Meranti.png",
-			"capital": "Selatpanjang"
+			"name": "Kabupaten Kepahiang",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_Kepahiang.jpg",
+			"capital": "Kepahiang"
 		},
 		{
 			"id": 6,
-			"name": "Kabupaten Kuantan Singingi",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Lambang_Kabupaten_Kuantan_Singingi.PNG",
-			"capital": "Koto Taluk"
+			"name": "Kabupaten Lebong",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Lebong.png",
+			"capital": "Tubei"
 		},
 		{
 			"id": 7,
-			"name": "Kabupaten Pelalawan",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Pelalawan_logo.png",
-			"capital": "Pangkalan Kerinci"
+			"name": "Kabupaten Mukomuko",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_Mukomuko.png",
+			"capital": "Kota Mukomuko"
 		},
 		{
 			"id": 8,
-			"name": "Kabupaten Rokan Hilir",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lambang_Kabupaten_Rokan_Hilir.png",
-			"capital": "Bagansiapiapi"
+			"name": "Kabupaten Rejang Lebong",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rejang_Lebong.png",
+			"capital": "Curup"
 		},
 		{
 			"id": 9,
-			"name": "Kabupaten Rokan Hulu",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Lambang_Kabupaten_Rokan_Hulu.jpg",
-			"capital": "Pasir Pengaraian"
+			"name": "Kabupaten Seluma",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Seluma.png",
+			"capital": "Pasar Tais"
 		},
 		{
 			"id": 10,
-			"name": "Kabupaten Siak",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Lambang_Kabupaten_Siak.png",
-			"capital": "Siak"
-		},
-		{
-			"id": 11,
-			"name": "Kota Dumai",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Lambang_Kota_Dumai.png",
-			"capital": "-"
-		},
-		{
-			"id": 12,
-			"name": "Kota Pekanbaru",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Pekanbaru_coa.GIF",
+			"name": "Kota Bengkulu",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kota_Bengkulu.png",
 			"capital": "-"
 		}
 	]

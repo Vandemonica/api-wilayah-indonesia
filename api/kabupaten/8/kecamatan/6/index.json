@@ -1,39 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Mesuji",
-	"scraped_at": "2023-01-26T08:24:42.724Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sarolangun",
+	"scraped_at": "2025-05-03T17:28:10.485Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Mesuji",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/LOGO_KABUPATEN_MESUJI.png"
+		"name": "Kabupaten Sarolangun",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Sarolangun.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Mesuji Timur"
+			"name": "Air Hitam"
 		},
 		{
 			"id": 2,
-			"name": "Mesuji"
+			"name": "Batang Asai"
 		},
 		{
 			"id": 3,
-			"name": "Panca Jaya"
+			"name": "Bathin VIII"
 		},
 		{
 			"id": 4,
-			"name": "Rawa Jitu Utara"
+			"name": "Cermin Nan Gedang"
 		},
 		{
 			"id": 5,
-			"name": "Simpang Pematang"
+			"name": "Limun"
 		},
 		{
 			"id": 6,
-			"name": "Tanjung Raya"
+			"name": "Mandiangin Timur"
 		},
 		{
 			"id": 7,
-			"name": "Way Serdang"
+			"name": "Mandiangin"
+		},
+		{
+			"id": 8,
+			"name": "Pauh"
+		},
+		{
+			"id": 9,
+			"name": "Pelawan"
+		},
+		{
+			"id": 10,
+			"name": "Sarolangun"
+		},
+		{
+			"id": 11,
+			"name": "Singkut"
 		}
 	]
 }

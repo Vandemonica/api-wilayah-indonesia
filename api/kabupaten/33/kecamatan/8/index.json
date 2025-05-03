@@ -1,55 +1,103 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Waropen",
-	"scraped_at": "2023-01-26T08:30:25.416Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Parigi Moutong",
+	"scraped_at": "2025-05-03T17:34:31.646Z",
 	"kabupaten": {
 		"id": 8,
-		"name": "Kabupaten Waropen",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Lambang_Kabupaten_Waropen%2C_Papua.jpg"
+		"name": "Kabupaten Parigi Moutong",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lambang_Kabupaten_Parigi_Moutong.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Waropen Bawah"
+			"name": "Ampibabo"
 		},
 		{
 			"id": 2,
-			"name": "Masirei"
+			"name": "Balinggi"
 		},
 		{
 			"id": 3,
-			"name": "Risei Sayati"
+			"name": "Bolano"
 		},
 		{
 			"id": 4,
-			"name": "Urei Faisei"
+			"name": "Bolano Lambunu"
 		},
 		{
 			"id": 5,
-			"name": "Inggerus"
+			"name": "Kasimbar"
 		},
 		{
 			"id": 6,
-			"name": "Kirihi"
+			"name": "Mepanga"
 		},
 		{
 			"id": 7,
-			"name": "Oudate"
+			"name": "Moutong"
 		},
 		{
 			"id": 8,
-			"name": "Wapoga"
+			"name": "Ongka Malino"
 		},
 		{
 			"id": 9,
-			"name": "Demba"
+			"name": "Palasa"
 		},
 		{
 			"id": 10,
-			"name": "Wonti"
+			"name": "Parigi Barat"
 		},
 		{
 			"id": 11,
-			"name": "Soyoi Mambai"
+			"name": "Parigi Selatan"
+		},
+		{
+			"id": 12,
+			"name": "Parigi Tengah"
+		},
+		{
+			"id": 13,
+			"name": "Parigi Utara"
+		},
+		{
+			"id": 14,
+			"name": "Parigi"
+		},
+		{
+			"id": 15,
+			"name": "Sausu"
+		},
+		{
+			"id": 16,
+			"name": "Sidoan"
+		},
+		{
+			"id": 17,
+			"name": "Siniu"
+		},
+		{
+			"id": 18,
+			"name": "Taopa"
+		},
+		{
+			"id": 19,
+			"name": "Tinombo Selatan"
+		},
+		{
+			"id": 20,
+			"name": "Tinombo"
+		},
+		{
+			"id": 21,
+			"name": "Tomini"
+		},
+		{
+			"id": 22,
+			"name": "Toribulu"
+		},
+		{
+			"id": 23,
+			"name": "Torue"
 		}
 	]
 }

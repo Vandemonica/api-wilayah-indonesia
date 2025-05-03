@@ -1,75 +1,59 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kutai Barat",
-	"scraped_at": "2023-01-26T08:28:08.755Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Belu",
+	"scraped_at": "2025-05-03T17:32:02.257Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Kutai Barat",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lambang_Kab_Kutai_Barat.png"
+		"name": "Kabupaten Belu",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Lambang_Kabupaten_Belu.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Barong Tongkok"
+			"name": "Atambua Barat"
 		},
 		{
 			"id": 2,
-			"name": "Bentian Besar"
+			"name": "Atambua Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Bongan"
+			"name": "Kakuluk Mesak"
 		},
 		{
 			"id": 4,
-			"name": "Damai"
+			"name": "Kota Atambua"
 		},
 		{
 			"id": 5,
-			"name": "Jempang"
+			"name": "Lamaknen Selatan"
 		},
 		{
 			"id": 6,
-			"name": "Linggang Bigung"
+			"name": "Lamaknen"
 		},
 		{
 			"id": 7,
-			"name": "Long Iram"
+			"name": "Lasiolat"
 		},
 		{
 			"id": 8,
-			"name": "Melak"
+			"name": "Nanaet Duabesi"
 		},
 		{
 			"id": 9,
-			"name": "Mook Manaar Bulatn"
+			"name": "Raihat"
 		},
 		{
 			"id": 10,
-			"name": "Muara Lawa"
+			"name": "Raimanuk"
 		},
 		{
 			"id": 11,
-			"name": "Muara Pahu"
+			"name": "Tasifeto Barat"
 		},
 		{
 			"id": 12,
-			"name": "Nyuatan"
-		},
-		{
-			"id": 13,
-			"name": "Penyinggahan"
-		},
-		{
-			"id": 14,
-			"name": "Sekolaq Darat"
-		},
-		{
-			"id": 15,
-			"name": "Siluq Ngurai"
-		},
-		{
-			"id": 16,
-			"name": "Tering"
+			"name": "Tasifeto Timur"
 		}
 	]
 }

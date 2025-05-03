@@ -1,63 +1,71 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pohuwato",
-	"scraped_at": "2023-01-26T08:29:46.176Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Nabire",
+	"scraped_at": "2025-05-03T17:33:27.898Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Pohuwato",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Pohuwato.gif"
+		"name": "Kabupaten Nabire",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lambang_kabupaten_nabire.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Buntulia"
+			"name": "Nabire"
 		},
 		{
 			"id": 2,
-			"name": "Dengilo"
+			"name": "Napan"
 		},
 		{
 			"id": 3,
-			"name": "Duhiadaa"
+			"name": "Yaur"
 		},
 		{
 			"id": 4,
-			"name": "Lemito"
+			"name": "Uwapa"
 		},
 		{
 			"id": 5,
-			"name": "Marisa"
+			"name": "Wanggar"
 		},
 		{
 			"id": 6,
-			"name": "Paguat"
+			"name": "Siriwo"
 		},
 		{
 			"id": 7,
-			"name": "Patilanggio"
+			"name": "Makimi"
 		},
 		{
 			"id": 8,
-			"name": "Popayato Barat"
+			"name": "Teluk Umar"
 		},
 		{
 			"id": 9,
-			"name": "Popayato Timur"
+			"name": "Teluk Kimi"
 		},
 		{
 			"id": 10,
-			"name": "Popayato"
+			"name": "Yaro"
 		},
 		{
 			"id": 11,
-			"name": "Randangan"
+			"name": "Wapoga"
 		},
 		{
 			"id": 12,
-			"name": "Taluditi"
+			"name": "Nabire Barat"
 		},
 		{
 			"id": 13,
-			"name": "Wanggarasi"
+			"name": "Kepulauan Moora"
+		},
+		{
+			"id": 14,
+			"name": "Dipa"
+		},
+		{
+			"id": 15,
+			"name": "Menou"
 		}
 	]
 }

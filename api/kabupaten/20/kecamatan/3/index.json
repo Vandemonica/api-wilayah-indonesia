@@ -1,35 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kayong Utara",
-	"scraped_at": "2023-01-26T08:27:35.695Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Aru",
+	"scraped_at": "2025-05-03T17:31:33.212Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Kayong Utara",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lambang_Kabupaten_Kayong_Utara.jpg"
+		"name": "Kabupaten Kepulauan Aru",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lambang_Kabupaten_Kepulauan_Aru.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kepulauan Karimata"
+			"name": "Aru Selatan Timur"
 		},
 		{
 			"id": 2,
-			"name": "Pulau Maya"
+			"name": "Aru Selatan Utara"
 		},
 		{
 			"id": 3,
-			"name": "Seponti"
+			"name": "Aru Selatan"
 		},
 		{
 			"id": 4,
-			"name": "Simpang Hilir"
+			"name": "Aru Tengah Selatan"
 		},
 		{
 			"id": 5,
-			"name": "Sukadana"
+			"name": "Aru Tengah Timur"
 		},
 		{
 			"id": 6,
-			"name": "Teluk Batang"
+			"name": "Aru Tengah"
+		},
+		{
+			"id": 7,
+			"name": "Aru Utara Timur Batuley"
+		},
+		{
+			"id": 8,
+			"name": "Aru Utara"
+		},
+		{
+			"id": 9,
+			"name": "Pulau-Pulau Aru"
+		},
+		{
+			"id": 10,
+			"name": "Sir-Sir"
 		}
 	]
 }

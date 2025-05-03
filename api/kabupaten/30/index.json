@@ -1,48 +1,84 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sulawesi_Barat",
-	"scraped_at": "2023-01-26T08:29:48.072Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Riau",
+	"scraped_at": "2025-05-03T17:33:31.835Z",
 	"provinsi": {
 		"id": 30,
-		"code": "76",
-		"name": "Sulawesi Barat",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Coat_of_arms_of_West_Sulawesi.svg"
+		"code": "14",
+		"name": "Riau",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Coat_of_arms_of_Riau.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kabupaten Majene",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Lambang_Kabupaten_Majene.png",
-			"capital": "Banggae"
+			"name": "Kabupaten Bengkalis",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lambang_Kabupaten_Bengkalis.png",
+			"capital": "Bengkalis"
 		},
 		{
 			"id": 2,
-			"name": "Kabupaten Mamasa",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Lambang_Kabupaten_Mamasa.jpg",
-			"capital": "Mamasa"
+			"name": "Kabupaten Indragiri Hilir",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_kabupaten_indragiri_hilir.jpg",
+			"capital": "Tembilahan"
 		},
 		{
 			"id": 3,
-			"name": "Kabupaten Mamuju",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Coat_of_Arms_of_Mamuju_Regency.png",
-			"capital": "Mamuju"
+			"name": "Kabupaten Indragiri Hulu",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lambang_Kab_Indragiri_Hulu.png",
+			"capital": "Rengat"
 		},
 		{
 			"id": 4,
-			"name": "Kabupaten Mamuju Tengah",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lambang_Kabupaten_Mamuju_Tengah.jpg",
-			"capital": "Tobadak"
+			"name": "Kabupaten Kampar",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Lambang_Kabupaten_Kampar.png",
+			"capital": "Bangkinang"
 		},
 		{
 			"id": 5,
-			"name": "Kabupaten Pasangkayu",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kabupaten_Pasangkayu.png",
-			"capital": "Pasangkayu"
+			"name": "Kabupaten Kepulauan Meranti",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Lambang_kab_Kepulauan_Meranti.png",
+			"capital": "Selatpanjang"
 		},
 		{
 			"id": 6,
-			"name": "Kabupaten Polewali Mandar",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lambang_Kabupaten_Polewali_Mandar.png",
-			"capital": "Polewali"
+			"name": "Kabupaten Kuantan Singingi",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Lambang_Kabupaten_Kuantan_Singingi.PNG",
+			"capital": "Koto Taluk"
+		},
+		{
+			"id": 7,
+			"name": "Kabupaten Pelalawan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Pelalawan_logo.png",
+			"capital": "Pangkalan Kerinci"
+		},
+		{
+			"id": 8,
+			"name": "Kabupaten Rokan Hilir",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lambang_Kabupaten_Rokan_Hilir.png",
+			"capital": "Bagansiapiapi"
+		},
+		{
+			"id": 9,
+			"name": "Kabupaten Rokan Hulu",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Rohul.png",
+			"capital": "Pasir Pengaraian"
+		},
+		{
+			"id": 10,
+			"name": "Kabupaten Siak",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Lambang_Kabupaten_Siak.png",
+			"capital": "Siak"
+		},
+		{
+			"id": 11,
+			"name": "Kota Dumai",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Lambang_Kota_Dumai.png",
+			"capital": "-"
+		},
+		{
+			"id": 12,
+			"name": "Kota Pekanbaru",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_Kota_Pekanbaru_Free_Download_Logo_Format_PNG.png",
+			"capital": "-"
 		}
 	]
 }

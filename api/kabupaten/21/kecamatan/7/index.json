@@ -1,35 +1,35 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kotawaringin Barat",
-	"scraped_at": "2023-01-26T08:27:51.028Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pulau Morotai",
+	"scraped_at": "2025-05-03T17:31:46.249Z",
 	"kabupaten": {
 		"id": 7,
-		"name": "Kabupaten Kotawaringin Barat",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Lambang_Kabupaten_Kotawaringin_Barat.png"
+		"name": "Kabupaten Pulau Morotai",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lambang_Kabupaten_Pulau_Morotai.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Arut Selatan"
+			"name": "Morotai Jaya"
 		},
 		{
 			"id": 2,
-			"name": "Arut Utara"
+			"name": "Morotai Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Kotawaringin Lama"
+			"name": "Morotai Selatan Barat"
 		},
 		{
 			"id": 4,
-			"name": "Kumai"
+			"name": "Morotai Timur"
 		},
 		{
 			"id": 5,
-			"name": "Pangkalan Banteng"
+			"name": "Morotai Utara"
 		},
 		{
 			"id": 6,
-			"name": "Pangkalan Lada"
+			"name": "Pulau Rao"
 		}
 	]
 }

@@ -1,43 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pulau Taliabu",
-	"scraped_at": "2023-01-26T08:30:13.266Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Selayar",
+	"scraped_at": "2025-05-03T17:34:04.096Z",
 	"kabupaten": {
 		"id": 8,
-		"name": "Kabupaten Pulau Taliabu",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/69/LOGO_KABUPATEN_PULAU_TALIABU.png"
+		"name": "Kabupaten Kepulauan Selayar",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_Kabupaten_Kepulauan_Selayar.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Lede"
+			"name": "Benteng"
 		},
 		{
 			"id": 2,
-			"name": "Tabona"
+			"name": "Bontoharu"
 		},
 		{
 			"id": 3,
-			"name": "Taliabu Barat Laut"
+			"name": "Bontomanai"
 		},
 		{
 			"id": 4,
-			"name": "Taliabu Barat"
+			"name": "Bontomatene"
 		},
 		{
 			"id": 5,
-			"name": "Taliabu Selatan"
+			"name": "Bontosikuyu"
 		},
 		{
 			"id": 6,
-			"name": "Taliabu Timur Selatan"
+			"name": "Buki"
 		},
 		{
 			"id": 7,
-			"name": "Taliabu Timur"
+			"name": "Pasilambena"
 		},
 		{
 			"id": 8,
-			"name": "Taliabu Utara"
+			"name": "Pasimarannu"
+		},
+		{
+			"id": 9,
+			"name": "Pasimasunggu Timur"
+		},
+		{
+			"id": 10,
+			"name": "Pasimasunggu"
+		},
+		{
+			"id": 11,
+			"name": "Takabonerate"
 		}
 	]
 }

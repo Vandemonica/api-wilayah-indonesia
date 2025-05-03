@@ -1,41 +1,95 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Daerah_Istimewa Yogyakarta",
-	"scraped_at": "2023-01-26T08:26:07.521Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kalimantan_Tengah",
+	"scraped_at": "2025-05-03T17:30:30.647Z",
 	"provinsi": {
 		"id": 14,
-		"code": "34",
-		"name": "Daerah Istimewa Yogyakarta",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Coat_of_arms_of_Yogyakarta.svg"
+		"code": "62",
+		"name": "Kalimantan Tengah",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_arms_of_Central_Kalimantan.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kabupaten Bantul",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Seal_of_Bantul_Regency.svg",
-			"capital": "Bantul"
+			"name": "Kabupaten Barito Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Lambang_Kabupaten_Barito_Selatan.webp",
+			"capital": "Buntok"
 		},
 		{
 			"id": 2,
-			"name": "Kabupaten Gunungkidul",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Seal_of_Gunungkidul_Regency.svg",
-			"capital": "Wonosari"
+			"name": "Kabupaten Barito Timur",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lambang_Kabupaten_Barito_Timur.tif",
+			"capital": "Tamiang Layang"
 		},
 		{
 			"id": 3,
-			"name": "Kabupaten Kulon Progo",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kulonprogo_Seal.svg",
-			"capital": "Wates"
+			"name": "Kabupaten Barito Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Lambang_Kabupaten_Barito_Utara.png",
+			"capital": "Muara Teweh"
 		},
 		{
 			"id": 4,
-			"name": "Kabupaten Sleman",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Seal_of_Sleman_Regency.svg",
-			"capital": "Sleman"
+			"name": "Kabupaten Gunung Mas",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lambang_Kabupaten_Gunung_Mas.tif",
+			"capital": "Kuala Kurun"
 		},
 		{
 			"id": 5,
-			"name": "Kota Yogyakarta",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Seal_of_the_City_of_Yogyakarta.svg",
+			"name": "Kabupaten Kapuas",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lambang_Kabupaten_Kapuas.png",
+			"capital": "Kuala Kapuas"
+		},
+		{
+			"id": 6,
+			"name": "Kabupaten Katingan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lambang_Kabupaten_Katingan.png",
+			"capital": "Kasongan"
+		},
+		{
+			"id": 7,
+			"name": "Kabupaten Kotawaringin Barat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Lambang_Kabupaten_Kotawaringin_Barat.png",
+			"capital": "Pangkalan Bun"
+		},
+		{
+			"id": 8,
+			"name": "Kabupaten Kotawaringin Timur",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lambang_Kabupaten_Kotawaringin_Timur.tif",
+			"capital": "Sampit"
+		},
+		{
+			"id": 9,
+			"name": "Kabupaten Lamandau",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Lambang_Kabupaten_Lamandau.jpeg",
+			"capital": "Nanga Bulik"
+		},
+		{
+			"id": 10,
+			"name": "Kabupaten Murung Raya",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lambang_Kabupaten_Murung_Raya.jpg",
+			"capital": "Puruk Cahu"
+		},
+		{
+			"id": 11,
+			"name": "Kabupaten Pulang Pisau",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Lambang_Kabupaten_Pulang_Pisau.webp",
+			"capital": "Pulang Pisau"
+		},
+		{
+			"id": 12,
+			"name": "Kabupaten Seruyan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lambang_Kabupaten_Seruyan.png",
+			"capital": "Kuala Pembuang"
+		},
+		{
+			"id": 13,
+			"name": "Kabupaten Sukamara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Lambang_Kabupaten_Sukamara.png",
+			"capital": "Sukamara"
+		},
+		{
+			"id": 14,
+			"name": "Kota Palangka Raya",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lambang_Kota_Palangka_Raya.gif",
 			"capital": "-"
 		}
 	]

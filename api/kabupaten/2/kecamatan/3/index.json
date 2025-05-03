@@ -1,71 +1,47 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Dairi",
-	"scraped_at": "2023-01-26T08:22:53.139Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Buleleng",
+	"scraped_at": "2025-05-03T17:26:56.122Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Dairi",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Dairi_Regency_Emblem.png"
+		"name": "Kabupaten Buleleng",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lambang_Resmi_Kabupaten_Buleleng.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Berampu"
+			"name": "Banjar"
 		},
 		{
 			"id": 2,
-			"name": "Gunung Sitember"
+			"name": "Buleleng"
 		},
 		{
 			"id": 3,
-			"name": "Lae Parira"
+			"name": "Busungbiu"
 		},
 		{
 			"id": 4,
-			"name": "Parbuluan"
+			"name": "Gerokgak"
 		},
 		{
 			"id": 5,
-			"name": "Pegagan Hilir"
+			"name": "Kubutambahan"
 		},
 		{
 			"id": 6,
-			"name": "Sidikalang"
+			"name": "Sawan"
 		},
 		{
 			"id": 7,
-			"name": "Siempat Nempu Hilir"
+			"name": "Seririt"
 		},
 		{
 			"id": 8,
-			"name": "Siempat Nempu Hulu"
+			"name": "Sukasada"
 		},
 		{
 			"id": 9,
-			"name": "Siempat Nempu"
-		},
-		{
-			"id": 10,
-			"name": "Silahisabungan"
-		},
-		{
-			"id": 11,
-			"name": "Silima Pungga Pungga"
-		},
-		{
-			"id": 12,
-			"name": "Sitinjo"
-		},
-		{
-			"id": 13,
-			"name": "Sumbul"
-		},
-		{
-			"id": 14,
-			"name": "Tanah Pinem"
-		},
-		{
-			"id": 15,
-			"name": "Tigalingga"
+			"name": "Tejakula"
 		}
 	]
 }

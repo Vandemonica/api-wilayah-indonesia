@@ -1,75 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Blora",
-	"scraped_at": "2023-01-26T08:25:43.138Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Hulu Sungai Selatan",
+	"scraped_at": "2025-05-03T17:30:09.114Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Blora",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Seal_of_Blora_Regency.svg"
+		"name": "Kabupaten Hulu Sungai Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Coats_of_arms_of_Hulu_Sungai_Selatan_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Banjarejo"
+			"name": "Angkinang"
 		},
 		{
 			"id": 2,
-			"name": "Blora"
+			"name": "Daha Barat"
 		},
 		{
 			"id": 3,
-			"name": "Bogorejo"
+			"name": "Daha Selatan"
 		},
 		{
 			"id": 4,
-			"name": "Cepu"
+			"name": "Daha Utara"
 		},
 		{
 			"id": 5,
-			"name": "Japah"
+			"name": "Kalumpang"
 		},
 		{
 			"id": 6,
-			"name": "Jati"
+			"name": "Kandangan"
 		},
 		{
 			"id": 7,
-			"name": "Jepon"
+			"name": "Loksado"
 		},
 		{
 			"id": 8,
-			"name": "Jiken"
+			"name": "Padang Batung"
 		},
 		{
 			"id": 9,
-			"name": "Kedungtuban"
+			"name": "Simpur"
 		},
 		{
 			"id": 10,
-			"name": "Kradenan"
+			"name": "Sungai Raya"
 		},
 		{
 			"id": 11,
-			"name": "Kunduran"
-		},
-		{
-			"id": 12,
-			"name": "Ngawen"
-		},
-		{
-			"id": 13,
-			"name": "Randublatung"
-		},
-		{
-			"id": 14,
-			"name": "Sambong"
-		},
-		{
-			"id": 15,
-			"name": "Todanan"
-		},
-		{
-			"id": 16,
-			"name": "Tunjungan"
+			"name": "Telaga Langsat"
 		}
 	]
 }

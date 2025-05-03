@@ -1,83 +1,75 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Maluku Tengah",
-	"scraped_at": "2023-01-26T08:30:01.977Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Polewali Mandar",
+	"scraped_at": "2025-05-03T17:33:53.373Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Maluku Tengah",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lambang_Kabupaten_Maluku_Tengah.png"
+		"name": "Kabupaten Polewali Mandar",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lambang_Kabupaten_Polewali_Mandar.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Amahai"
+			"name": "Allu"
 		},
 		{
 			"id": 2,
-			"name": "Banda"
+			"name": "Anreapi"
 		},
 		{
 			"id": 3,
-			"name": "Kota Masohi"
+			"name": "Balanipa"
 		},
 		{
 			"id": 4,
-			"name": "Leihitu Barat"
+			"name": "Binuang"
 		},
 		{
 			"id": 5,
-			"name": "Leihitu"
+			"name": "Bulo"
 		},
 		{
 			"id": 6,
-			"name": "Nusalaut"
+			"name": "Campalagian"
 		},
 		{
 			"id": 7,
-			"name": "Pulau Haruku"
+			"name": "Limboro"
 		},
 		{
 			"id": 8,
-			"name": "Salahutu"
+			"name": "Luyo"
 		},
 		{
 			"id": 9,
-			"name": "Saparua Timur"
+			"name": "Mapilli"
 		},
 		{
 			"id": 10,
-			"name": "Saparua"
+			"name": "Matakali"
 		},
 		{
 			"id": 11,
-			"name": "Seram Utara Barat"
+			"name": "Matangnga"
 		},
 		{
 			"id": 12,
-			"name": "Seram Utara Timur Kobi"
+			"name": "Polewali"
 		},
 		{
 			"id": 13,
-			"name": "Seram Utara Timur Seti"
+			"name": "Tapango"
 		},
 		{
 			"id": 14,
-			"name": "Seram Utara"
+			"name": "Tinambung"
 		},
 		{
 			"id": 15,
-			"name": "Tehoru"
+			"name": "Tutar"
 		},
 		{
 			"id": 16,
-			"name": "Teluk Elpaputih"
-		},
-		{
-			"id": 17,
-			"name": "Telutih"
-		},
-		{
-			"id": 18,
-			"name": "Teon Nila Serua"
+			"name": "Wonomulyo"
 		}
 	]
 }

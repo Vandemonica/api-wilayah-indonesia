@@ -1,79 +1,43 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kotawaringin Timur",
-	"scraped_at": "2023-01-26T08:27:51.900Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pulau Taliabu",
+	"scraped_at": "2025-05-03T17:31:47.232Z",
 	"kabupaten": {
 		"id": 8,
-		"name": "Kabupaten Kotawaringin Timur",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lambang_Kabupaten_Kotawaringin_Timur.tif"
+		"name": "Kabupaten Pulau Taliabu",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Lambang_Kabupaten_Pulau_Taliabu.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Antang Kalang"
+			"name": "Lede"
 		},
 		{
 			"id": 2,
-			"name": "Baamang"
+			"name": "Tabona"
 		},
 		{
 			"id": 3,
-			"name": "Bukit Santuai"
+			"name": "Taliabu Barat Laut"
 		},
 		{
 			"id": 4,
-			"name": "Cempaga Hulu"
+			"name": "Taliabu Barat"
 		},
 		{
 			"id": 5,
-			"name": "Cempaga"
+			"name": "Taliabu Selatan"
 		},
 		{
 			"id": 6,
-			"name": "Kota Besi"
+			"name": "Taliabu Timur Selatan"
 		},
 		{
 			"id": 7,
-			"name": "Mentawa Baru Ketapang"
+			"name": "Taliabu Timur"
 		},
 		{
 			"id": 8,
-			"name": "Mentaya Hilir Selatan"
-		},
-		{
-			"id": 9,
-			"name": "Mentaya Hilir Utara"
-		},
-		{
-			"id": 10,
-			"name": "Mentaya Hulu"
-		},
-		{
-			"id": 11,
-			"name": "Parenggean"
-		},
-		{
-			"id": 12,
-			"name": "Pulau Hanaut"
-		},
-		{
-			"id": 13,
-			"name": "Seranau"
-		},
-		{
-			"id": 14,
-			"name": "Telaga Antang"
-		},
-		{
-			"id": 15,
-			"name": "Telawang"
-		},
-		{
-			"id": 16,
-			"name": "Teluk Sampit"
-		},
-		{
-			"id": 17,
-			"name": "Tualan Hulu"
+			"name": "Taliabu Utara"
 		}
 	]
 }

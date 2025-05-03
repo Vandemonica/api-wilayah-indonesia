@@ -1,75 +1,123 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Agam",
-	"scraped_at": "2023-01-26T08:23:22.389Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lebak",
+	"scraped_at": "2025-05-03T17:27:11.383Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Agam",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Agam_Regency.PNG"
+		"name": "Kabupaten Lebak",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Coat_of_arms_of_Lebak.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Ampek Angkek"
+			"name": "Banjarsari"
 		},
 		{
 			"id": 2,
-			"name": "Ampek Nagari"
+			"name": "Bayah"
 		},
 		{
 			"id": 3,
-			"name": "Banuhampu"
+			"name": "Bojongmanik"
 		},
 		{
 			"id": 4,
-			"name": "Baso"
+			"name": "Cibadak"
 		},
 		{
 			"id": 5,
-			"name": "Candung"
+			"name": "Cibeber"
 		},
 		{
 			"id": 6,
-			"name": "IV Koto"
+			"name": "Cigemblong"
 		},
 		{
 			"id": 7,
-			"name": "Kamang Magek"
+			"name": "Cihara"
 		},
 		{
 			"id": 8,
-			"name": "Lubuk Basung"
+			"name": "Cijaku"
 		},
 		{
 			"id": 9,
-			"name": "Malalak"
+			"name": "Cikulur"
 		},
 		{
 			"id": 10,
-			"name": "Matur"
+			"name": "Cileles"
 		},
 		{
 			"id": 11,
-			"name": "Palembayan"
+			"name": "Cilograng"
 		},
 		{
 			"id": 12,
-			"name": "Palupuh"
+			"name": "Cimarga"
 		},
 		{
 			"id": 13,
-			"name": "Sungai Pua"
+			"name": "Cipanas"
 		},
 		{
 			"id": 14,
-			"name": "Tanjung Mutiara"
+			"name": "Cirinten"
 		},
 		{
 			"id": 15,
-			"name": "Tanjung Raya"
+			"name": "Curugbitung"
 		},
 		{
 			"id": 16,
-			"name": "Tilatang Kamang"
+			"name": "Gunungkencana"
+		},
+		{
+			"id": 17,
+			"name": "Kalanganyar"
+		},
+		{
+			"id": 18,
+			"name": "Lebak Gedong"
+		},
+		{
+			"id": 19,
+			"name": "Leuwidamar"
+		},
+		{
+			"id": 20,
+			"name": "Maja"
+		},
+		{
+			"id": 21,
+			"name": "Malingping"
+		},
+		{
+			"id": 22,
+			"name": "Muncang"
+		},
+		{
+			"id": 23,
+			"name": "Panggarangan"
+		},
+		{
+			"id": 24,
+			"name": "Rangkasbitung"
+		},
+		{
+			"id": 25,
+			"name": "Sajira"
+		},
+		{
+			"id": 26,
+			"name": "Sobang"
+		},
+		{
+			"id": 27,
+			"name": "Wanasalam"
+		},
+		{
+			"id": 28,
+			"name": "Warunggunung"
 		}
 	]
 }

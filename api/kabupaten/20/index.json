@@ -1,95 +1,77 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kalimantan_Barat",
-	"scraped_at": "2023-01-26T08:27:33.773Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Maluku",
+	"scraped_at": "2025-05-03T17:31:31.002Z",
 	"provinsi": {
 		"id": 20,
-		"code": "61",
-		"name": "Kalimantan Barat",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_arms_of_West_Kalimantan.svg"
+		"code": "81",
+		"name": "Maluku",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Coat_of_arms_of_Maluku.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kabupaten Bengkayang",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lambang_Kabupaten_Bengkayang.png",
-			"capital": "Bengkayang"
+			"name": "Kabupaten Buru",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lambang_Kabupaten_Buru.png",
+			"capital": "Namlea"
 		},
 		{
 			"id": 2,
-			"name": "Kabupaten Kapuas Hulu",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lambang_Kapuas_Hulu.png",
-			"capital": "Putussibau"
+			"name": "Kabupaten Buru Selatan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lambang_Kabupaten_Buru_Selatan.png",
+			"capital": "Namrole"
 		},
 		{
 			"id": 3,
-			"name": "Kabupaten Kayong Utara",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lambang_Kabupaten_Kayong_Utara.jpg",
-			"capital": "Sukadana"
+			"name": "Kabupaten Kepulauan Aru",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lambang_Kabupaten_Kepulauan_Aru.jpg",
+			"capital": "Dobo"
 		},
 		{
 			"id": 4,
-			"name": "Kabupaten Ketapang",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lambang_Kabupaten_Ketapang.jpeg",
-			"capital": "Ketapang"
+			"name": "Kabupaten Kepulauan Tanimbar",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lambang_Kabupaten_Maluku_Tenggara_Barat.jpg",
+			"capital": "Saumlaki"
 		},
 		{
 			"id": 5,
-			"name": "Kabupaten Kubu Raya",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Lambang_kabupaten_Kubu_Raya.jpg",
-			"capital": "Sungai Raya"
+			"name": "Kabupaten Maluku Barat Daya",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lambang_Kabupaten_Maluku_Barat_Daya.png",
+			"capital": "Tiakur"
 		},
 		{
 			"id": 6,
-			"name": "Kabupaten Landak",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Lambang_Kabupaten_Landak.png",
-			"capital": "Ngabang"
+			"name": "Kabupaten Maluku Tengah",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lambang_Kabupaten_Maluku_Tengah.png",
+			"capital": "Masohi"
 		},
 		{
 			"id": 7,
-			"name": "Kabupaten Melawi",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Kabupaten_Melawi.png",
-			"capital": "Nanga Pinoh"
+			"name": "Kabupaten Maluku Tenggara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lambang_Kabupaten_Maluku_Tenggara.gif",
+			"capital": "Langgur"
 		},
 		{
 			"id": 8,
-			"name": "Kabupaten Mempawah",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kabupaten_mempawah.png",
-			"capital": "Mempawah"
+			"name": "Kabupaten Seram Bagian Barat",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lambang_Kabupaten_Seram_Bagian_Barat.gif",
+			"capital": "Piru"
 		},
 		{
 			"id": 9,
-			"name": "Kabupaten Sambas",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lambang_Kabupaten_Sambas.jpg",
-			"capital": "Sambas"
+			"name": "Kabupaten Seram Bagian Timur",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Lambang_Kabupaten_Seram_Bagian_Timur.png",
+			"capital": "Bula"
 		},
 		{
 			"id": 10,
-			"name": "Kabupaten Sanggau",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Lambang_Kabupaten_Sanggau.tif",
-			"capital": "Kapuas"
-		},
-		{
-			"id": 11,
-			"name": "Kabupaten Sekadau",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lambang_Kabupaten_Sekadau.jpg",
-			"capital": "Sekadau Hilir"
-		},
-		{
-			"id": 12,
-			"name": "Kabupaten Sintang",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lambang_Kabupaten_Sintang.png",
-			"capital": "Sintang"
-		},
-		{
-			"id": 13,
-			"name": "Kota Pontianak",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Seal_of_Pontianak.svg",
+			"name": "Kota Ambon",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lambang_Ambon.png",
 			"capital": "-"
 		},
 		{
-			"id": 14,
-			"name": "Kota Singkawang",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lambang_KotaSingkawang.png",
+			"id": 11,
+			"name": "Kota Tual",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_kota_tual.jpg",
 			"capital": "-"
 		}
 	]

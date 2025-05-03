@@ -1,43 +1,99 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Ternate",
-	"scraped_at": "2023-01-26T08:30:14.085Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Luwu",
+	"scraped_at": "2025-05-03T17:34:05.719Z",
 	"kabupaten": {
 		"id": 9,
-		"name": "Kota Ternate",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lambang_Kota_Ternate.png"
+		"name": "Kabupaten Luwu",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Luwu_Regency_Logo.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Moti"
+			"name": "Bajo Barat"
 		},
 		{
 			"id": 2,
-			"name": "Pulau Batang Dua"
+			"name": "Bajo"
 		},
 		{
 			"id": 3,
-			"name": "Pulau Hiri"
+			"name": "Bassesangtempe Utara"
 		},
 		{
 			"id": 4,
-			"name": "Pulau Ternate"
+			"name": "Bassesangtempe"
 		},
 		{
 			"id": 5,
-			"name": "Ternate Barat"
+			"name": "Belopa Utara"
 		},
 		{
 			"id": 6,
-			"name": "Ternate Selatan"
+			"name": "Belopa"
 		},
 		{
 			"id": 7,
-			"name": "Ternate Tengah"
+			"name": "Bua Ponrang"
 		},
 		{
 			"id": 8,
-			"name": "Ternate Utara"
+			"name": "Bua"
+		},
+		{
+			"id": 9,
+			"name": "Kamanre"
+		},
+		{
+			"id": 10,
+			"name": "Lamasi Timur"
+		},
+		{
+			"id": 11,
+			"name": "Lamasi"
+		},
+		{
+			"id": 12,
+			"name": "Larompong Selatan"
+		},
+		{
+			"id": 13,
+			"name": "Larompong"
+		},
+		{
+			"id": 14,
+			"name": "Latimojong"
+		},
+		{
+			"id": 15,
+			"name": "Ponrang Selatan"
+		},
+		{
+			"id": 16,
+			"name": "Ponrang"
+		},
+		{
+			"id": 17,
+			"name": "Suli Barat"
+		},
+		{
+			"id": 18,
+			"name": "Suli"
+		},
+		{
+			"id": 19,
+			"name": "Walenrang Barat"
+		},
+		{
+			"id": 20,
+			"name": "Walenrang Timur"
+		},
+		{
+			"id": 21,
+			"name": "Walenrang Utara"
+		},
+		{
+			"id": 22,
+			"name": "Walenrang"
 		}
 	]
 }

@@ -1,35 +1,91 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sabu Raijua",
-	"scraped_at": "2023-01-26T08:27:26.700Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Bandar Lampung",
+	"scraped_at": "2025-05-03T17:31:29.246Z",
 	"kabupaten": {
 		"id": 14,
-		"name": "Kabupaten Sabu Raijua",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lambang_Kabupaten_Sabu_Raijua.png"
+		"name": "Kota Bandar Lampung",
+		"emblem": "https://upload.wikimedia.org/wikipedia/id/6/6a/LOGO_KOTA_BANDAR_LAMPUNG_BARU.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Hawu Mehara"
+			"name": "Bumi Waras"
 		},
 		{
 			"id": 2,
-			"name": "Raijua"
+			"name": "Enggal"
 		},
 		{
 			"id": 3,
-			"name": "Sabu Barat"
+			"name": "Kedamaian"
 		},
 		{
 			"id": 4,
-			"name": "Sabu Liae"
+			"name": "Kedaton"
 		},
 		{
 			"id": 5,
-			"name": "Sabu Tengah"
+			"name": "Kemiling"
 		},
 		{
 			"id": 6,
-			"name": "Sabu Timur"
+			"name": "Labuhan Ratu"
+		},
+		{
+			"id": 7,
+			"name": "Langkapura"
+		},
+		{
+			"id": 8,
+			"name": "Panjang"
+		},
+		{
+			"id": 9,
+			"name": "Rajabasa"
+		},
+		{
+			"id": 10,
+			"name": "Sukabumi"
+		},
+		{
+			"id": 11,
+			"name": "Sukarame"
+		},
+		{
+			"id": 12,
+			"name": "Tanjung Karang Barat"
+		},
+		{
+			"id": 13,
+			"name": "Tanjung Karang Pusat"
+		},
+		{
+			"id": 14,
+			"name": "Tanjung Karang Timur"
+		},
+		{
+			"id": 15,
+			"name": "Tanjung Senang"
+		},
+		{
+			"id": 16,
+			"name": "Teluk Betung Barat"
+		},
+		{
+			"id": 17,
+			"name": "Teluk Betung Selatan"
+		},
+		{
+			"id": 18,
+			"name": "Teluk Betung Timur"
+		},
+		{
+			"id": 19,
+			"name": "Teluk Betung Utara"
+		},
+		{
+			"id": 20,
+			"name": "Way Halim"
 		}
 	]
 }

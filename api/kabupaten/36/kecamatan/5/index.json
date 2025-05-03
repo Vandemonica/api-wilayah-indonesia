@@ -1,71 +1,79 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Nabire",
-	"scraped_at": "2023-01-26T08:30:46.299Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Padang Pariaman",
+	"scraped_at": "2025-05-03T17:35:20.613Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Nabire",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lambang_kabupaten_nabire.jpg"
+		"name": "Kabupaten Padang Pariaman",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lambang_Kabupaten_Padang_Pariaman_2.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Nabire"
+			"name": "2x11 Enam Lingkung"
 		},
 		{
 			"id": 2,
-			"name": "Napan"
+			"name": "2x11 Kayu Tanam"
 		},
 		{
 			"id": 3,
-			"name": "Yaur"
+			"name": "Batang Anai"
 		},
 		{
 			"id": 4,
-			"name": "Uwapa"
+			"name": "Batang Gasan"
 		},
 		{
 			"id": 5,
-			"name": "Wanggar"
+			"name": "Enam Lingkung"
 		},
 		{
 			"id": 6,
-			"name": "Siriwo"
+			"name": "IV Koto Aur Malintang"
 		},
 		{
 			"id": 7,
-			"name": "Makimi"
+			"name": "Lubuk Alung"
 		},
 		{
 			"id": 8,
-			"name": "Teluk Umar"
+			"name": "Nan Sabaris"
 		},
 		{
 			"id": 9,
-			"name": "Teluk Kimi"
+			"name": "Padang Sago"
 		},
 		{
 			"id": 10,
-			"name": "Yaro"
+			"name": "Patamuan"
 		},
 		{
 			"id": 11,
-			"name": "Wapoga"
+			"name": "Sintuk Toboh Gadang"
 		},
 		{
 			"id": 12,
-			"name": "Nabire Barat"
+			"name": "Sungai Geringging"
 		},
 		{
 			"id": 13,
-			"name": "Kepulauan Moora"
+			"name": "Sungai Limau"
 		},
 		{
 			"id": 14,
-			"name": "Dipa"
+			"name": "Ulakan Tapakis"
 		},
 		{
 			"id": 15,
-			"name": "Menou"
+			"name": "V Koto Kampung Dalam"
+		},
+		{
+			"id": 16,
+			"name": "V Koto Timur"
+		},
+		{
+			"id": 17,
+			"name": "VII Koto Sungai Sarik"
 		}
 	]
 }

@@ -1,79 +1,91 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Mamasa",
-	"scraped_at": "2023-01-26T08:29:49.625Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Indragiri Hilir",
+	"scraped_at": "2025-05-03T17:33:34.776Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Mamasa",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Lambang_Kabupaten_Mamasa.jpg"
+		"name": "Kabupaten Indragiri Hilir",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_kabupaten_indragiri_hilir.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Aralle"
+			"name": "Batang Tuaka"
 		},
 		{
 			"id": 2,
-			"name": "Balla"
+			"name": "Concong"
 		},
 		{
 			"id": 3,
-			"name": "Bambang"
+			"name": "Enok"
 		},
 		{
 			"id": 4,
-			"name": "Buntu Malangka"
+			"name": "Gaung Anak Serka"
 		},
 		{
 			"id": 5,
-			"name": "Mamasa"
+			"name": "Gaung"
 		},
 		{
 			"id": 6,
-			"name": "Mambi"
+			"name": "Kateman"
 		},
 		{
 			"id": 7,
-			"name": "Mehalaan"
+			"name": "Kempas"
 		},
 		{
 			"id": 8,
-			"name": "Messawa"
+			"name": "Kemuning"
 		},
 		{
 			"id": 9,
-			"name": "Nosu"
+			"name": "Keritang"
 		},
 		{
 			"id": 10,
-			"name": "Pana"
+			"name": "Kuala Indragiri"
 		},
 		{
 			"id": 11,
-			"name": "Rantebulahan Timur"
+			"name": "Mandah"
 		},
 		{
 			"id": 12,
-			"name": "Sesenapadang"
+			"name": "Pelangiran"
 		},
 		{
 			"id": 13,
-			"name": "Sumarorong"
+			"name": "Pulau Burung"
 		},
 		{
 			"id": 14,
-			"name": "Tabang"
+			"name": "Reteh"
 		},
 		{
 			"id": 15,
-			"name": "Tabulahan"
+			"name": "Sungai Batang"
 		},
 		{
 			"id": 16,
-			"name": "Tanduk Kalua"
+			"name": "Tanah Merah"
 		},
 		{
 			"id": 17,
-			"name": "Tawalian"
+			"name": "Teluk Belengkong"
+		},
+		{
+			"id": 18,
+			"name": "Tembilahan Hulu"
+		},
+		{
+			"id": 19,
+			"name": "Tembilahan"
+		},
+		{
+			"id": 20,
+			"name": "Tempuling"
 		}
 	]
 }

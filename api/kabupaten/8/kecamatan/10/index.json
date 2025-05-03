@@ -1,91 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tanggamus",
-	"scraped_at": "2023-01-26T08:24:45.345Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Jambi",
+	"scraped_at": "2025-05-03T17:28:14.122Z",
 	"kabupaten": {
 		"id": 10,
-		"name": "Kabupaten Tanggamus",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lambang_Kabupaten_Tanggamus.png"
+		"name": "Kota Jambi",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Lambang_Kota_Jambi.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Air Naningan"
+			"name": "Alam Barajo"
 		},
 		{
 			"id": 2,
-			"name": "Bandar Negeri Semuong"
+			"name": "Danau Sipin"
 		},
 		{
 			"id": 3,
-			"name": "Bulok"
+			"name": "Danau Teluk"
 		},
 		{
 			"id": 4,
-			"name": "Cukuh Balak"
+			"name": "Jambi Selatan"
 		},
 		{
 			"id": 5,
-			"name": "Gisting"
+			"name": "Jambi Timur"
 		},
 		{
 			"id": 6,
-			"name": "Gunung Alip"
+			"name": "Jelutung"
 		},
 		{
 			"id": 7,
-			"name": "Kelumbayan Barat"
+			"name": "Kota Baru"
 		},
 		{
 			"id": 8,
-			"name": "Kelumbayan"
+			"name": "Paal Merah"
 		},
 		{
 			"id": 9,
-			"name": "Kota Agung Barat"
+			"name": "Pasar Jambi"
 		},
 		{
 			"id": 10,
-			"name": "Kota Agung Timur"
+			"name": "Pelayangan"
 		},
 		{
 			"id": 11,
-			"name": "Kota Agung"
-		},
-		{
-			"id": 12,
-			"name": "Limau"
-		},
-		{
-			"id": 13,
-			"name": "Pematang Sawa"
-		},
-		{
-			"id": 14,
-			"name": "Pugung"
-		},
-		{
-			"id": 15,
-			"name": "Pulau Panggung"
-		},
-		{
-			"id": 16,
-			"name": "Semaka"
-		},
-		{
-			"id": 17,
-			"name": "Sumberejo"
-		},
-		{
-			"id": 18,
-			"name": "Talang Padang"
-		},
-		{
-			"id": 19,
-			"name": "Ulu Belu"
-		},
-		{
-			"id": 20,
-			"name": "Wonosobo"
+			"name": "Telanaipura"
 		}
 	]
 }

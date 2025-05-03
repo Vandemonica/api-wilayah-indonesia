@@ -1,107 +1,59 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Teluk Bintuni",
-	"scraped_at": "2023-01-26T08:30:34.717Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kolaka",
+	"scraped_at": "2025-05-03T17:34:41.301Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Teluk Bintuni",
-		"emblem": "https://upload.wikimedia.org/wikipedia/id/0/08/Teluk_Bintuni.jpg"
+		"name": "Kabupaten Kolaka",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Lambang_Kab_Kolaka.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Aranday"
+			"name": "Baula"
 		},
 		{
 			"id": 2,
-			"name": "Aroba"
+			"name": "Iwoimendaa"
 		},
 		{
 			"id": 3,
-			"name": "Babo"
+			"name": "Kolaka"
 		},
 		{
 			"id": 4,
-			"name": "Bintuni"
+			"name": "Latambaga"
 		},
 		{
 			"id": 5,
-			"name": "Biscoop"
+			"name": "Polinggona"
 		},
 		{
 			"id": 6,
-			"name": "Dataran Beimes"
+			"name": "Pomalaa"
 		},
 		{
 			"id": 7,
-			"name": "Fafurwar"
+			"name": "Samaturu"
 		},
 		{
 			"id": 8,
-			"name": "Kaitaro"
+			"name": "Tanggetada"
 		},
 		{
 			"id": 9,
-			"name": "Kamundan"
+			"name": "Toari"
 		},
 		{
 			"id": 10,
-			"name": "Kuri"
+			"name": "Watubangga"
 		},
 		{
 			"id": 11,
-			"name": "Manimeri"
+			"name": "Wolo"
 		},
 		{
 			"id": 12,
-			"name": "Masyeta"
-		},
-		{
-			"id": 13,
-			"name": "Meyado"
-		},
-		{
-			"id": 14,
-			"name": "Merdey"
-		},
-		{
-			"id": 15,
-			"name": "Moskona Barat"
-		},
-		{
-			"id": 16,
-			"name": "Moskona Selatan"
-		},
-		{
-			"id": 17,
-			"name": "Moskona Timur"
-		},
-		{
-			"id": 18,
-			"name": "Moskona Utara"
-		},
-		{
-			"id": 19,
-			"name": "Sumuri"
-		},
-		{
-			"id": 20,
-			"name": "Tembuni"
-		},
-		{
-			"id": 21,
-			"name": "Tomu"
-		},
-		{
-			"id": 22,
-			"name": "Tuhiba"
-		},
-		{
-			"id": 23,
-			"name": "Wamesa"
-		},
-		{
-			"id": 24,
-			"name": "Weriagar"
+			"name": "Wundulako"
 		}
 	]
 }

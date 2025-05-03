@@ -1,55 +1,67 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Mamuju",
-	"scraped_at": "2023-01-26T08:29:50.919Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Indragiri Hulu",
+	"scraped_at": "2025-05-03T17:33:35.671Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Mamuju",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Coat_of_Arms_of_Mamuju_Regency.png"
+		"name": "Kabupaten Indragiri Hulu",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lambang_Kab_Indragiri_Hulu.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bonehau"
+			"name": "Batang Cenaku"
 		},
 		{
 			"id": 2,
-			"name": "Kalukku"
+			"name": "Batang Gangsal"
 		},
 		{
 			"id": 3,
-			"name": "Kalumpang"
+			"name": "Batang Peranap"
 		},
 		{
 			"id": 4,
-			"name": "Kepulauan Bala Balakang"
+			"name": "Kelayang"
 		},
 		{
 			"id": 5,
-			"name": "Mamuju"
+			"name": "Kuala Cenaku"
 		},
 		{
 			"id": 6,
-			"name": "Papalang"
+			"name": "Lirik"
 		},
 		{
 			"id": 7,
-			"name": "Sampaga"
+			"name": "Lubuk Batu Jaya"
 		},
 		{
 			"id": 8,
-			"name": "Simboro dan Kepulauan"
+			"name": "Pasir Penyu"
 		},
 		{
 			"id": 9,
-			"name": "Tapalang Barat"
+			"name": "Peranap"
 		},
 		{
 			"id": 10,
-			"name": "Tapalang"
+			"name": "Rakit Kulim"
 		},
 		{
 			"id": 11,
-			"name": "Tommo"
+			"name": "Rengat Barat"
+		},
+		{
+			"id": 12,
+			"name": "Rengat"
+		},
+		{
+			"id": 13,
+			"name": "Siberida"
+		},
+		{
+			"id": 14,
+			"name": "Sungai Lala"
 		}
 	]
 }

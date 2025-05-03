@@ -1,0 +1,35 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tanjungbalai",
+	"scraped_at": "2025-05-03T17:36:11.156Z",
+	"kabupaten": {
+		"id": 32,
+		"name": "Kota Tanjungbalai",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_KOTA_TANJUNG_BALAI.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Datuk Bandar Timur"
+		},
+		{
+			"id": 2,
+			"name": "Datuk Bandar"
+		},
+		{
+			"id": 3,
+			"name": "Sei Tualang Raso"
+		},
+		{
+			"id": 4,
+			"name": "Tanjungbalai Selatan"
+		},
+		{
+			"id": 5,
+			"name": "Tanjungbalai Utara"
+		},
+		{
+			"id": 6,
+			"name": "Teluk Nibung"
+		}
+	]
+}

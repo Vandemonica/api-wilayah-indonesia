@@ -1,99 +1,111 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bombana",
-	"scraped_at": "2023-01-26T08:29:19.939Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Asmat",
+	"scraped_at": "2025-05-03T17:33:14.727Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Bombana",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lambang_Kabupaten_Bombana.png"
+		"name": "Kabupaten Asmat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Lambang_Kabupaten_Asmat.jpeg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kabaena"
+			"name": "Agats"
 		},
 		{
 			"id": 2,
-			"name": "Kabaena Barat"
+			"name": "Atsj"
 		},
 		{
 			"id": 3,
-			"name": "Kabaena Selatan"
+			"name": "Sawa Erma"
 		},
 		{
 			"id": 4,
-			"name": "Kabaena Tengah"
+			"name": "Akat"
 		},
 		{
 			"id": 5,
-			"name": "Kabaena Timur"
+			"name": "Fayit"
 		},
 		{
 			"id": 6,
-			"name": "Kabaena Utara"
+			"name": "Pantai Kasuari"
 		},
 		{
 			"id": 7,
-			"name": "Kepulauan Masaloka Raya"
+			"name": "Suator"
 		},
 		{
 			"id": 8,
-			"name": "Lantari Jaya"
+			"name": "Suru-suru"
 		},
 		{
 			"id": 9,
-			"name": "Mata Oleo"
+			"name": "Kolf Braza"
 		},
 		{
 			"id": 10,
-			"name": "Mata Usu"
+			"name": "Unir Sirau"
 		},
 		{
 			"id": 11,
-			"name": "Poleang Barat"
+			"name": "Joerat"
 		},
 		{
 			"id": 12,
-			"name": "Poleang Selatan"
+			"name": "Pulau Tiga"
 		},
 		{
 			"id": 13,
-			"name": "Poleang Tengah"
+			"name": "Jetsy"
 		},
 		{
 			"id": 14,
-			"name": "Poleang Tenggara"
+			"name": "Der Koumur"
 		},
 		{
 			"id": 15,
-			"name": "Poleang Timur"
+			"name": "Kopay"
 		},
 		{
 			"id": 16,
-			"name": "Poleang Utara"
+			"name": "Safan"
 		},
 		{
 			"id": 17,
-			"name": "Poleang"
+			"name": "Sirets"
 		},
 		{
 			"id": 18,
-			"name": "Rarowatu Utara"
+			"name": "Ayip"
 		},
 		{
 			"id": 19,
-			"name": "Rarowatu"
+			"name": "Betcbamu"
 		},
 		{
 			"id": 20,
-			"name": "Rumbia Tengah"
+			"name": "Joutu"
 		},
 		{
 			"id": 21,
-			"name": "Rumbia"
+			"name": "Aswi"
 		},
 		{
 			"id": 22,
-			"name": "Tontonunu"
+			"name": "Awyu"
+		},
+		{
+			"id": 23,
+			"name": "Koroway Buluanop"
+		},
+		{
+			"id": 24,
+			"name": "Tomor Birip"
+		},
+		{
+			"id": 25,
+			"name": "Sor Ep"
 		}
 	]
 }

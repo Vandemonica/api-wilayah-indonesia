@@ -1,79 +1,79 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lampung Selatan",
-	"scraped_at": "2023-01-26T08:24:39.773Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bungo",
+	"scraped_at": "2025-05-03T17:28:06.945Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Lampung Selatan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_Lampung_Selatan_Baru.jpg"
+		"name": "Kabupaten Bungo",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lambang_Kabupaten_Bungo.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bakauheni"
+			"name": "Bathin II Babeko"
 		},
 		{
 			"id": 2,
-			"name": "Candipuro"
+			"name": "Bathin II Pelayang"
 		},
 		{
 			"id": 3,
-			"name": "Jati Agung"
+			"name": "Bathin III Ulu"
 		},
 		{
 			"id": 4,
-			"name": "Kalianda"
+			"name": "Bathin III"
 		},
 		{
 			"id": 5,
-			"name": "Katibung"
+			"name": "Bungo Dani"
 		},
 		{
 			"id": 6,
-			"name": "Ketapang"
+			"name": "Jujuhan Ilir"
 		},
 		{
 			"id": 7,
-			"name": "Merbau Mataram"
+			"name": "Jujuhan"
 		},
 		{
 			"id": 8,
-			"name": "Natar"
+			"name": "Limbur Lubuk Mengkuang"
 		},
 		{
 			"id": 9,
-			"name": "Palas"
+			"name": "Muko-Muko Bathin VII"
 		},
 		{
 			"id": 10,
-			"name": "Penengahan"
+			"name": "Pasar Muara Bungo"
 		},
 		{
 			"id": 11,
-			"name": "Rajabasa"
+			"name": "Pelepat Ilir"
 		},
 		{
 			"id": 12,
-			"name": "Sidomulyo"
+			"name": "Pelepat"
 		},
 		{
 			"id": 13,
-			"name": "Sragi"
+			"name": "Rantau Pandan"
 		},
 		{
 			"id": 14,
-			"name": "Tanjung Bintang"
+			"name": "Rimbo Tengah"
 		},
 		{
 			"id": 15,
-			"name": "Tanjung Sari"
+			"name": "Tanah Sepenggal Lintas"
 		},
 		{
 			"id": 16,
-			"name": "Way Panji"
+			"name": "Tanah Sepenggal"
 		},
 		{
 			"id": 17,
-			"name": "Way Sulan"
+			"name": "Tanah Tumbuh"
 		}
 	]
 }

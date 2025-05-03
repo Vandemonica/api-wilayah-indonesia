@@ -1,59 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Gunung Mas",
-	"scraped_at": "2023-01-26T08:27:48.628Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Halmahera Timur",
+	"scraped_at": "2025-05-03T17:31:43.438Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Gunung Mas",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lambang_Kabupaten_Gunung_Mas.tif"
+		"name": "Kabupaten Halmahera Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Lambang_Kabupaten_Halmahera_Timur.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Damang Batu"
+			"name": "Kota Maba"
 		},
 		{
 			"id": 2,
-			"name": "Kahayan Hulu Utara"
+			"name": "Maba Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Kurun"
+			"name": "Maba Tengah"
 		},
 		{
 			"id": 4,
-			"name": "Manuhing Raya"
+			"name": "Maba Utara"
 		},
 		{
 			"id": 5,
-			"name": "Manuhing"
+			"name": "Maba"
 		},
 		{
 			"id": 6,
-			"name": "Mihing Raya"
+			"name": "Wasile Selatan"
 		},
 		{
 			"id": 7,
-			"name": "Miri Manasa"
+			"name": "Wasile Tengah"
 		},
 		{
 			"id": 8,
-			"name": "Rungan Barat"
+			"name": "Wasile Timur"
 		},
 		{
 			"id": 9,
-			"name": "Rungan Hulu"
+			"name": "Wasile Utara"
 		},
 		{
 			"id": 10,
-			"name": "Rungan"
-		},
-		{
-			"id": 11,
-			"name": "Sepang"
-		},
-		{
-			"id": 12,
-			"name": "Tewah"
+			"name": "Wasile"
 		}
 	]
 }

@@ -1,43 +1,171 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bantaeng",
-	"scraped_at": "2023-01-26T08:28:52.596Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Jayawijaya",
+	"scraped_at": "2025-05-03T17:33:03.170Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Bantaeng",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bantaeng_Regency_Logo.png"
+		"name": "Kabupaten Jayawijaya",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lambang_Jayawijaya.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bantaeng"
+			"name": "Wamena"
 		},
 		{
 			"id": 2,
-			"name": "Bissappu"
+			"name": "Kurulu"
 		},
 		{
 			"id": 3,
-			"name": "Eremerasa"
+			"name": "Asologaima"
 		},
 		{
 			"id": 4,
-			"name": "Gantarangkeke"
+			"name": "Hubikosi"
 		},
 		{
 			"id": 5,
-			"name": "Pa'jukukang"
+			"name": "Bolakme"
 		},
 		{
 			"id": 6,
-			"name": "Sinoa"
+			"name": "Walelagama"
 		},
 		{
 			"id": 7,
-			"name": "Tompobulu"
+			"name": "Musatfak"
 		},
 		{
 			"id": 8,
-			"name": "Uluere"
+			"name": "Wolo"
+		},
+		{
+			"id": 9,
+			"name": "Asolokobal"
+		},
+		{
+			"id": 10,
+			"name": "Pelebaga"
+		},
+		{
+			"id": 11,
+			"name": "Yalengga"
+		},
+		{
+			"id": 12,
+			"name": "Trikora"
+		},
+		{
+			"id": 13,
+			"name": "Napua"
+		},
+		{
+			"id": 14,
+			"name": "Walaik"
+		},
+		{
+			"id": 15,
+			"name": "Wouma"
+		},
+		{
+			"id": 16,
+			"name": "Hubukiak"
+		},
+		{
+			"id": 17,
+			"name": "Ibele"
+		},
+		{
+			"id": 18,
+			"name": "Taelarek"
+		},
+		{
+			"id": 19,
+			"name": "Itlay Hisage"
+		},
+		{
+			"id": 20,
+			"name": "Siepkosi"
+		},
+		{
+			"id": 21,
+			"name": "Usilimo"
+		},
+		{
+			"id": 22,
+			"name": "Wita Waya"
+		},
+		{
+			"id": 23,
+			"name": "Libarek"
+		},
+		{
+			"id": 24,
+			"name": "Wadangku"
+		},
+		{
+			"id": 25,
+			"name": "Pisugi"
+		},
+		{
+			"id": 26,
+			"name": "Koragi"
+		},
+		{
+			"id": 27,
+			"name": "Tagime"
+		},
+		{
+			"id": 28,
+			"name": "Molagalome"
+		},
+		{
+			"id": 29,
+			"name": "Tagineri"
+		},
+		{
+			"id": 30,
+			"name": "Silo Karno Doga"
+		},
+		{
+			"id": 31,
+			"name": "Piramid"
+		},
+		{
+			"id": 32,
+			"name": "Muliama"
+		},
+		{
+			"id": 33,
+			"name": "Bugi"
+		},
+		{
+			"id": 34,
+			"name": "Bpiri"
+		},
+		{
+			"id": 35,
+			"name": "Welesi"
+		},
+		{
+			"id": 36,
+			"name": "Asotipo"
+		},
+		{
+			"id": 37,
+			"name": "Maima"
+		},
+		{
+			"id": 38,
+			"name": "Popugoba"
+		},
+		{
+			"id": 39,
+			"name": "Wame"
+		},
+		{
+			"id": 40,
+			"name": "Wesaput"
 		}
 	]
 }

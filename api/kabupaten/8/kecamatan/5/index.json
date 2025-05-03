@@ -1,103 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lampung Utara",
-	"scraped_at": "2023-01-26T08:24:41.996Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Muaro Jambi",
+	"scraped_at": "2025-05-03T17:28:09.388Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Lampung Utara",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lambang_Kabupaten_Lampung_Utara.png"
+		"name": "Kabupaten Muaro Jambi",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lambang_Kabupaten_Muaro_Jambi.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Abung Barat"
+			"name": "Bahar Selatan"
 		},
 		{
 			"id": 2,
-			"name": "Abung Kunang"
+			"name": "Bahar Utara"
 		},
 		{
 			"id": 3,
-			"name": "Abung Pekurun"
+			"name": "Jambi Luar Kota"
 		},
 		{
 			"id": 4,
-			"name": "Abung Selatan"
+			"name": "Kumpeh Ulu"
 		},
 		{
 			"id": 5,
-			"name": "Abung Semuli"
+			"name": "Kumpeh"
 		},
 		{
 			"id": 6,
-			"name": "Abung Surakarta"
+			"name": "Maro Sebo"
 		},
 		{
 			"id": 7,
-			"name": "Abung Tengah"
+			"name": "Mestong"
 		},
 		{
 			"id": 8,
-			"name": "Abung Timur"
+			"name": "Sekernan"
 		},
 		{
 			"id": 9,
-			"name": "Abung Tinggi"
+			"name": "Sungai Bahar"
 		},
 		{
 			"id": 10,
-			"name": "Blambangan Pagar"
+			"name": "Sungai Gelam"
 		},
 		{
 			"id": 11,
-			"name": "Bukit Kemuning"
-		},
-		{
-			"id": 12,
-			"name": "Bunga Mayang"
-		},
-		{
-			"id": 13,
-			"name": "Hulu Sungkai"
-		},
-		{
-			"id": 14,
-			"name": "Kotabumi Selatan"
-		},
-		{
-			"id": 15,
-			"name": "Kotabumi Utara"
-		},
-		{
-			"id": 16,
-			"name": "Kotabumi"
-		},
-		{
-			"id": 17,
-			"name": "Muara Sungkai"
-		},
-		{
-			"id": 18,
-			"name": "Sungkai Barat"
-		},
-		{
-			"id": 19,
-			"name": "Sungkai Jaya"
-		},
-		{
-			"id": 20,
-			"name": "Sungkai Selatan"
-		},
-		{
-			"id": 21,
-			"name": "Sungkai Tengah"
-		},
-		{
-			"id": 22,
-			"name": "Sungkai Utara"
-		},
-		{
-			"id": 23,
-			"name": "Tanjung Raja"
+			"name": "Taman Rajo"
 		}
 	]
 }

@@ -1,51 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Dogiyai",
-	"scraped_at": "2023-01-26T08:30:43.868Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Dharmasraya",
+	"scraped_at": "2025-05-03T17:35:17.863Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Dogiyai",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Lambang_Kabupaten_Dogiyai.gif"
+		"name": "Kabupaten Dharmasraya",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lambang_Kabupaten_Dharmasraya.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kamu"
+			"name": "Asam Jujuhan"
 		},
 		{
 			"id": 2,
-			"name": "Mapia"
+			"name": "Koto Baru"
 		},
 		{
 			"id": 3,
-			"name": "Piyaiye"
+			"name": "Koto Besar"
 		},
 		{
 			"id": 4,
-			"name": "Kamu Utara"
+			"name": "Koto Salak"
 		},
 		{
 			"id": 5,
-			"name": "Sukikai Selatan"
+			"name": "Padang Laweh"
 		},
 		{
 			"id": 6,
-			"name": "Mapia Barat"
+			"name": "Pulau Punjung"
 		},
 		{
 			"id": 7,
-			"name": "Kamu Selatan"
+			"name": "Sembilan Koto"
 		},
 		{
 			"id": 8,
-			"name": "Kamu Timur"
+			"name": "Sitiung"
 		},
 		{
 			"id": 9,
-			"name": "Mapia Tengah"
+			"name": "Sungai Rumbai"
 		},
 		{
 			"id": 10,
-			"name": "Dogiyai"
+			"name": "Timpeh"
+		},
+		{
+			"id": 11,
+			"name": "Tiumang"
 		}
 	]
 }

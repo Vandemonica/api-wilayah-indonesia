@@ -1,95 +1,71 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lombok Timur",
-	"scraped_at": "2023-01-26T08:27:10.141Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Natuna",
+	"scraped_at": "2025-05-03T17:31:15.484Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Lombok Timur",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lambang_Kabupaten_Lombok_Timur.jpg"
+		"name": "Kabupaten Natuna",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lambang_Kabupaten_Natuna.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Aikmel"
+			"name": "Bunguran Barat"
 		},
 		{
 			"id": 2,
-			"name": "Jerowaru"
+			"name": "Bunguran Batubi"
 		},
 		{
 			"id": 3,
-			"name": "Keruak"
+			"name": "Bunguran Selatan"
 		},
 		{
 			"id": 4,
-			"name": "Labuhan Haji"
+			"name": "Bunguran Tengah"
 		},
 		{
 			"id": 5,
-			"name": "Lenek"
+			"name": "Bunguran Timur Laut"
 		},
 		{
 			"id": 6,
-			"name": "Masbagik"
+			"name": "Bunguran Timur"
 		},
 		{
 			"id": 7,
-			"name": "Montong Gading"
+			"name": "Bunguran Utara"
 		},
 		{
 			"id": 8,
-			"name": "Pringgabaya"
+			"name": "Midai"
 		},
 		{
 			"id": 9,
-			"name": "Pringgasela"
+			"name": "Pulau Laut"
 		},
 		{
 			"id": 10,
-			"name": "Sakra Barat"
+			"name": "Pulau Tiga Barat"
 		},
 		{
 			"id": 11,
-			"name": "Sakra Timur"
+			"name": "Pulau Tiga"
 		},
 		{
 			"id": 12,
-			"name": "Sakra"
+			"name": "Serasan Timur"
 		},
 		{
 			"id": 13,
-			"name": "Sambelia"
+			"name": "Serasan"
 		},
 		{
 			"id": 14,
-			"name": "Selong"
+			"name": "Suak Midai"
 		},
 		{
 			"id": 15,
-			"name": "Sembalun"
-		},
-		{
-			"id": 16,
-			"name": "Sikur"
-		},
-		{
-			"id": 17,
-			"name": "Sukamulia"
-		},
-		{
-			"id": 18,
-			"name": "Suralaga"
-		},
-		{
-			"id": 19,
-			"name": "Suwela"
-		},
-		{
-			"id": 20,
-			"name": "Terara"
-		},
-		{
-			"id": 21,
-			"name": "Wanasaba"
+			"name": "Subi"
 		}
 	]
 }

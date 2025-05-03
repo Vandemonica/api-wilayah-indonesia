@@ -1,79 +1,79 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kapuas",
-	"scraped_at": "2023-01-26T08:27:49.549Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Halmahera Utara",
+	"scraped_at": "2025-05-03T17:31:44.318Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Kapuas",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lambang_Kabupaten_Kapuas.png"
+		"name": "Kabupaten Halmahera Utara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lambang_Kabupaten_Halmahera_Utara.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Basarang"
+			"name": "Galela Barat"
 		},
 		{
 			"id": 2,
-			"name": "Bataguh"
+			"name": "Galela Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Dadahup"
+			"name": "Galela Utara"
 		},
 		{
 			"id": 4,
-			"name": "Kapuas Barat"
+			"name": "Galela"
 		},
 		{
 			"id": 5,
-			"name": "Kapuas Hilir"
+			"name": "Tobelo Utara"
 		},
 		{
 			"id": 6,
-			"name": "Kapuas Hulu"
+			"name": "Kao Barat"
 		},
 		{
 			"id": 7,
-			"name": "Kapuas Kuala"
+			"name": "Kao Teluk"
 		},
 		{
 			"id": 8,
-			"name": "Kapuas Murung"
+			"name": "Kao Utara"
 		},
 		{
 			"id": 9,
-			"name": "Kapuas Tengah"
+			"name": "Kao"
 		},
 		{
 			"id": 10,
-			"name": "Kapuas Timur"
+			"name": "Loloda Kepulauan"
 		},
 		{
 			"id": 11,
-			"name": "Mandau Talawang"
+			"name": "Loloda Utara"
 		},
 		{
 			"id": 12,
-			"name": "Mantangai"
+			"name": "Malifut"
 		},
 		{
 			"id": 13,
-			"name": "Pasak Talawang"
+			"name": "Tobelo Barat"
 		},
 		{
 			"id": 14,
-			"name": "Pulau Petak"
+			"name": "Tobelo Selatan"
 		},
 		{
 			"id": 15,
-			"name": "Selat"
+			"name": "Tobelo Tengah"
 		},
 		{
 			"id": 16,
-			"name": "Tamban Catur"
+			"name": "Tobelo Timur"
 		},
 		{
 			"id": 17,
-			"name": "Timpah"
+			"name": "Tobelo"
 		}
 	]
 }

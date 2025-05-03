@@ -1,87 +1,71 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sambas",
-	"scraped_at": "2023-01-26T08:27:40.485Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Seram Bagian Timur",
+	"scraped_at": "2025-05-03T17:31:38.470Z",
 	"kabupaten": {
 		"id": 9,
-		"name": "Kabupaten Sambas",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lambang_Kabupaten_Sambas.jpg"
+		"name": "Kabupaten Seram Bagian Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Lambang_Kabupaten_Seram_Bagian_Timur.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Galing"
+			"name": "Bula Barat"
 		},
 		{
 			"id": 2,
-			"name": "Jawai Selatan"
+			"name": "Bula"
 		},
 		{
 			"id": 3,
-			"name": "Jawai"
+			"name": "Gorom Timur"
 		},
 		{
 			"id": 4,
-			"name": "Paloh"
+			"name": "Kian Darat"
 		},
 		{
 			"id": 5,
-			"name": "Pemangkat"
+			"name": "Kilmury"
 		},
 		{
 			"id": 6,
-			"name": "Sajad"
+			"name": "Pulau Gorom"
 		},
 		{
 			"id": 7,
-			"name": "Sajingan Besar"
+			"name": "Pulau Panjang"
 		},
 		{
 			"id": 8,
-			"name": "Salatiga"
+			"name": "Seram Timur"
 		},
 		{
 			"id": 9,
-			"name": "Sambas"
+			"name": "Siritaun Wida Timur"
 		},
 		{
 			"id": 10,
-			"name": "Sebawi"
+			"name": "Siwalalat"
 		},
 		{
 			"id": 11,
-			"name": "Sejangkung"
+			"name": "Teluk Waru"
 		},
 		{
 			"id": 12,
-			"name": "Selakau Timur"
+			"name": "Teor"
 		},
 		{
 			"id": 13,
-			"name": "Selakau"
+			"name": "Tutuk Tolu"
 		},
 		{
 			"id": 14,
-			"name": "Semparuk"
+			"name": "Wakate"
 		},
 		{
 			"id": 15,
-			"name": "Subah"
-		},
-		{
-			"id": 16,
-			"name": "Tangaran"
-		},
-		{
-			"id": 17,
-			"name": "Tebas"
-		},
-		{
-			"id": 18,
-			"name": "Tekarang"
-		},
-		{
-			"id": 19,
-			"name": "Teluk Keramat"
+			"name": "Werinama"
 		}
 	]
 }

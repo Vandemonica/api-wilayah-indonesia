@@ -1,79 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Barito Kuala",
-	"scraped_at": "2023-01-26T08:27:59.225Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lombok Barat",
+	"scraped_at": "2025-05-03T17:31:51.633Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Barito Kuala",
-		"emblem": "https://upload.wikimedia.org/wikipedia/id/b/bc/Lambang_Kabupaten_Barito_Kuala.png"
+		"name": "Kabupaten Lombok Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lambang_Kabupaten_Lombok_Barat.jpeg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Alalak"
+			"name": "Batu Layar"
 		},
 		{
 			"id": 2,
-			"name": "Anjir Muara"
+			"name": "Gerung"
 		},
 		{
 			"id": 3,
-			"name": "Anjir Pasar"
+			"name": "Gunungsari"
 		},
 		{
 			"id": 4,
-			"name": "Bakumpai"
+			"name": "Kediri"
 		},
 		{
 			"id": 5,
-			"name": "Barambai"
-		},
-		{
-			"id": 6,
-			"name": "Belawang"
-		},
-		{
-			"id": 7,
-			"name": "Cerbon"
-		},
-		{
-			"id": 8,
-			"name": "Jejangkit"
-		},
-		{
-			"id": 9,
 			"name": "Kuripan"
 		},
 		{
+			"id": 6,
+			"name": "Labuapi"
+		},
+		{
+			"id": 7,
+			"name": "Lembar"
+		},
+		{
+			"id": 8,
+			"name": "Lingsar"
+		},
+		{
+			"id": 9,
+			"name": "Narmada"
+		},
+		{
 			"id": 10,
-			"name": "Mandastana"
-		},
-		{
-			"id": 11,
-			"name": "Marabahan"
-		},
-		{
-			"id": 12,
-			"name": "Mekarsari"
-		},
-		{
-			"id": 13,
-			"name": "Rantau Badauh"
-		},
-		{
-			"id": 14,
-			"name": "Tabukan"
-		},
-		{
-			"id": 15,
-			"name": "Tabunganen"
-		},
-		{
-			"id": 16,
-			"name": "Tamban"
-		},
-		{
-			"id": 17,
-			"name": "Wanaraya"
+			"name": "Sekotong"
 		}
 	]
 }

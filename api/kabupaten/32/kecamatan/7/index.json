@@ -1,35 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pulau Morotai",
-	"scraped_at": "2023-01-26T08:30:12.328Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Jeneponto",
+	"scraped_at": "2025-05-03T17:34:02.994Z",
 	"kabupaten": {
 		"id": 7,
-		"name": "Kabupaten Pulau Morotai",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lambang_Kabupaten_Pulau_Morotai.png"
+		"name": "Kabupaten Jeneponto",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Logo_Jeneponto.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Morotai Jaya"
+			"name": "Arungkeke"
 		},
 		{
 			"id": 2,
-			"name": "Morotai Selatan"
+			"name": "Bangkala Barat"
 		},
 		{
 			"id": 3,
-			"name": "Morotai Selatan Barat"
+			"name": "Bangkala"
 		},
 		{
 			"id": 4,
-			"name": "Morotai Timur"
+			"name": "Batang"
 		},
 		{
 			"id": 5,
-			"name": "Morotai Utara"
+			"name": "Binamu"
 		},
 		{
 			"id": 6,
-			"name": "Pulau Rao"
+			"name": "Bontoramba"
+		},
+		{
+			"id": 7,
+			"name": "Kelara"
+		},
+		{
+			"id": 8,
+			"name": "Rumbia"
+		},
+		{
+			"id": 9,
+			"name": "Tamalatea"
+		},
+		{
+			"id": 10,
+			"name": "Tarowang"
+		},
+		{
+			"id": 11,
+			"name": "Turatea"
 		}
 	]
 }

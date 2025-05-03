@@ -1,91 +1,31 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kendal",
-	"scraped_at": "2023-01-26T08:25:49.790Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Banjarmasin",
+	"scraped_at": "2025-05-03T17:30:29.611Z",
 	"kabupaten": {
 		"id": 13,
-		"name": "Kabupaten Kendal",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Emblem_of_Kendal_Regency_%282011%29.svg"
+		"name": "Kota Banjarmasin",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Banjarmasin_Logo.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Boja"
+			"name": "Banjarmasin Barat"
 		},
 		{
 			"id": 2,
-			"name": "Brangsong"
+			"name": "Banjarmasin Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Cepiring"
+			"name": "Banjarmasin Tengah"
 		},
 		{
 			"id": 4,
-			"name": "Gemuh"
+			"name": "Banjarmasin Timur"
 		},
 		{
 			"id": 5,
-			"name": "Kaliwungu Selatan"
-		},
-		{
-			"id": 6,
-			"name": "Kaliwungu"
-		},
-		{
-			"id": 7,
-			"name": "Kangkung"
-		},
-		{
-			"id": 8,
-			"name": "Kendal"
-		},
-		{
-			"id": 9,
-			"name": "Limbangan"
-		},
-		{
-			"id": 10,
-			"name": "Ngampel"
-		},
-		{
-			"id": 11,
-			"name": "Pageruyung"
-		},
-		{
-			"id": 12,
-			"name": "Patean"
-		},
-		{
-			"id": 13,
-			"name": "Patebon"
-		},
-		{
-			"id": 14,
-			"name": "Pegandon"
-		},
-		{
-			"id": 15,
-			"name": "Plantungan"
-		},
-		{
-			"id": 16,
-			"name": "Ringinarum"
-		},
-		{
-			"id": 17,
-			"name": "Rowosari"
-		},
-		{
-			"id": 18,
-			"name": "Singorojo"
-		},
-		{
-			"id": 19,
-			"name": "Sukorejo"
-		},
-		{
-			"id": 20,
-			"name": "Weleri"
+			"name": "Banjarmasin Utara"
 		}
 	]
 }

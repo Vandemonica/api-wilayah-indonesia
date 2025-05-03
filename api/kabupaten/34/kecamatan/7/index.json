@@ -1,67 +1,59 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Teluk Wondama",
-	"scraped_at": "2023-01-26T08:30:35.771Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kolaka Timur",
+	"scraped_at": "2025-05-03T17:34:42.316Z",
 	"kabupaten": {
 		"id": 7,
-		"name": "Kabupaten Teluk Wondama",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lambang_Kabupaten_Teluk_Wondama.png"
+		"name": "Kabupaten Kolaka Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lambang_Kabupaten_Kolaka_Timur.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kuri Wamesa"
+			"name": "Aere"
 		},
 		{
 			"id": 2,
-			"name": "Naikere"
+			"name": "Dangia"
 		},
 		{
 			"id": 3,
-			"name": "Nikiwar"
+			"name": "Ladongi"
 		},
 		{
 			"id": 4,
-			"name": "Rasiey"
+			"name": "Lalolae"
 		},
 		{
 			"id": 5,
-			"name": "Roon"
+			"name": "Lambandia"
 		},
 		{
 			"id": 6,
-			"name": "Roswar"
+			"name": "Loea"
 		},
 		{
 			"id": 7,
-			"name": "Rumberpon"
+			"name": "Mowewe"
 		},
 		{
 			"id": 8,
-			"name": "Soug Jaya"
+			"name": "Poli Polia"
 		},
 		{
 			"id": 9,
-			"name": "Teluk Duairi"
+			"name": "Tinondo"
 		},
 		{
 			"id": 10,
-			"name": "Wamesa"
+			"name": "Tirawuta"
 		},
 		{
 			"id": 11,
-			"name": "Wasior"
+			"name": "Ueesi"
 		},
 		{
 			"id": 12,
-			"name": "Wasior I"
-		},
-		{
-			"id": 13,
-			"name": "Windesi"
-		},
-		{
-			"id": 14,
-			"name": "Wondiboy"
+			"name": "Uluiwoi"
 		}
 	]
 }

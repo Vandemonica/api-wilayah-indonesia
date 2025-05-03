@@ -1,83 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Gresik",
-	"scraped_at": "2023-01-26T08:26:21.220Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Paser",
+	"scraped_at": "2025-05-03T17:30:56.891Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Gresik",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Seal_of_Gresik_Regency.svg"
+		"name": "Kabupaten Paser",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Lambang_Kabupaten_Paser.tif"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Balongpanggang"
+			"name": "Batu Engau"
 		},
 		{
 			"id": 2,
-			"name": "Benjeng"
+			"name": "Batu Sopang"
 		},
 		{
 			"id": 3,
-			"name": "Bungah"
+			"name": "Kuaro"
 		},
 		{
 			"id": 4,
-			"name": "Cerme"
+			"name": "Long Ikis"
 		},
 		{
 			"id": 5,
-			"name": "Driyorejo"
+			"name": "Long Kali"
 		},
 		{
 			"id": 6,
-			"name": "Duduksampeyan"
+			"name": "Muara Komam"
 		},
 		{
 			"id": 7,
-			"name": "Dukun"
+			"name": "Muara Samu"
 		},
 		{
 			"id": 8,
-			"name": "Gresik"
+			"name": "Paser Belengkong"
 		},
 		{
 			"id": 9,
-			"name": "Kebomas"
+			"name": "Tanah Grogot"
 		},
 		{
 			"id": 10,
-			"name": "Kedamean"
-		},
-		{
-			"id": 11,
-			"name": "Manyar"
-		},
-		{
-			"id": 12,
-			"name": "Menganti"
-		},
-		{
-			"id": 13,
-			"name": "Panceng"
-		},
-		{
-			"id": 14,
-			"name": "Sangkapura"
-		},
-		{
-			"id": 15,
-			"name": "Sidayu"
-		},
-		{
-			"id": 16,
-			"name": "Tambak"
-		},
-		{
-			"id": 17,
-			"name": "Ujungpangkah"
-		},
-		{
-			"id": 18,
-			"name": "Wringinanom"
+			"name": "Tanjung Harapan"
 		}
 	]
 }

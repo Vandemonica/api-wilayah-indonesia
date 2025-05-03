@@ -1,107 +1,59 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Raja Ampat",
-	"scraped_at": "2023-01-26T08:31:07.943Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Batu Bara",
+	"scraped_at": "2025-05-03T17:35:48.812Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Raja Ampat",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Lambang_Kabupaten_Raja_Ampat%2C_Papua_Barat.gif"
+		"name": "Kabupaten Batu Bara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lambang_Kabupaten_Batubara.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Ayau"
+			"name": "Air Putih"
 		},
 		{
 			"id": 2,
-			"name": "Batanta Selatan"
+			"name": "Datuk Lima Puluh"
 		},
 		{
 			"id": 3,
-			"name": "Batanta Utara"
+			"name": "Datuk Tanah Datar"
 		},
 		{
 			"id": 4,
-			"name": "Kepulauan Ayau"
+			"name": "Laut Tador"
 		},
 		{
 			"id": 5,
-			"name": "Kepulauan Sembilan"
+			"name": "Lima Puluh Pesisir"
 		},
 		{
 			"id": 6,
-			"name": "Kofiau"
+			"name": "Lima Puluh"
 		},
 		{
 			"id": 7,
-			"name": "Kota Waisai"
+			"name": "Medang Deras"
 		},
 		{
 			"id": 8,
-			"name": "Meos Mansar"
+			"name": "Nibung Hangus"
 		},
 		{
 			"id": 9,
-			"name": "Misool"
+			"name": "Sei Balai"
 		},
 		{
 			"id": 10,
-			"name": "Misool Barat"
+			"name": "Sei Suka"
 		},
 		{
 			"id": 11,
-			"name": "Misool Selatan"
+			"name": "Talawi"
 		},
 		{
 			"id": 12,
-			"name": "Misool Timur"
-		},
-		{
-			"id": 13,
-			"name": "Salawati Barat"
-		},
-		{
-			"id": 14,
-			"name": "Salawati Tengah"
-		},
-		{
-			"id": 15,
-			"name": "Salawati Utara"
-		},
-		{
-			"id": 16,
-			"name": "Supnin"
-		},
-		{
-			"id": 17,
-			"name": "Teluk Mayalibit"
-		},
-		{
-			"id": 18,
-			"name": "Tiplol Mayalibit"
-		},
-		{
-			"id": 19,
-			"name": "Waigeo Barat"
-		},
-		{
-			"id": 20,
-			"name": "Waigeo Barat Kepulauan"
-		},
-		{
-			"id": 21,
-			"name": "Waigeo Selatan"
-		},
-		{
-			"id": 22,
-			"name": "Waigeo Timur"
-		},
-		{
-			"id": 23,
-			"name": "Waigeo Utara"
-		},
-		{
-			"id": 24,
-			"name": "Warwarbomi"
+			"name": "Tanjung Tiram"
 		}
 	]
 }

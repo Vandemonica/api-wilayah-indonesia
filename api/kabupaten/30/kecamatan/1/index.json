@@ -1,43 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Majene",
-	"scraped_at": "2023-01-26T08:29:48.770Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bengkalis",
+	"scraped_at": "2025-05-03T17:33:32.842Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Majene",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Lambang_Kabupaten_Majene.png"
+		"name": "Kabupaten Bengkalis",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lambang_Kabupaten_Bengkalis.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Banggae Timur"
+			"name": "Bandar Laksamana"
 		},
 		{
 			"id": 2,
-			"name": "Banggae"
+			"name": "Bantan"
 		},
 		{
 			"id": 3,
-			"name": "Malunda"
+			"name": "Bathin Solapan"
 		},
 		{
 			"id": 4,
-			"name": "Pamboang"
+			"name": "Bengkalis"
 		},
 		{
 			"id": 5,
-			"name": "Sendana"
+			"name": "Bukit Batu"
 		},
 		{
 			"id": 6,
-			"name": "Tammerodo Sendana"
+			"name": "Mandau"
 		},
 		{
 			"id": 7,
-			"name": "Tubo Sendana"
+			"name": "Pinggir"
 		},
 		{
 			"id": 8,
-			"name": "Ulumanda"
+			"name": "Rupat Utara"
+		},
+		{
+			"id": 9,
+			"name": "Rupat"
+		},
+		{
+			"id": 10,
+			"name": "Siak Kecil"
+		},
+		{
+			"id": 11,
+			"name": "Talang Muandau"
 		}
 	]
 }

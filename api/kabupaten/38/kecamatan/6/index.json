@@ -1,51 +1,79 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kota_Sorong",
-	"scraped_at": "2023-01-26T08:31:23.484Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Karo",
+	"scraped_at": "2025-05-03T17:35:51.708Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kota Sorong",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Lambang_Kota_Sorong.jpg"
+		"name": "Kabupaten Karo",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lambang_Kabupaten_Karo.gif"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Klaurung"
+			"name": "Barusjahe"
 		},
 		{
 			"id": 2,
-			"name": "Maladum Mes"
+			"name": "Berastagi"
 		},
 		{
 			"id": 3,
-			"name": "Malaimsimsa"
+			"name": "Dolat Rayat"
 		},
 		{
 			"id": 4,
-			"name": "Sorong"
+			"name": "Juhar"
 		},
 		{
 			"id": 5,
-			"name": "Sorong Barat"
+			"name": "Kabanjahe"
 		},
 		{
 			"id": 6,
-			"name": "Sorong Kepulauan"
+			"name": "Kutabuluh"
 		},
 		{
 			"id": 7,
-			"name": "Sorong Kota"
+			"name": "Laubaleng"
 		},
 		{
 			"id": 8,
-			"name": "Sorong Manoi"
+			"name": "Mardingding"
 		},
 		{
 			"id": 9,
-			"name": "Sorong Timur"
+			"name": "Merdeka"
 		},
 		{
 			"id": 10,
-			"name": "Sorong Utara"
+			"name": "Merek"
+		},
+		{
+			"id": 11,
+			"name": "Munte"
+		},
+		{
+			"id": 12,
+			"name": "Naman Teran"
+		},
+		{
+			"id": 13,
+			"name": "Payung"
+		},
+		{
+			"id": 14,
+			"name": "Simpang Empat"
+		},
+		{
+			"id": 15,
+			"name": "Tigabinanga"
+		},
+		{
+			"id": 16,
+			"name": "Tiganderket"
+		},
+		{
+			"id": 17,
+			"name": "Tigapanah"
 		}
 	]
 }

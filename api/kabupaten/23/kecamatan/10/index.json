@@ -1,51 +1,47 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Samarinda",
-	"scraped_at": "2023-01-26T08:28:14.933Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Manggarai Timur",
+	"scraped_at": "2025-05-03T17:32:10.057Z",
 	"kabupaten": {
 		"id": 10,
-		"name": "Kota Samarinda",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Coats_of_arms_of_Samarinda_City.svg"
+		"name": "Kabupaten Manggarai Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Lambang_Kabupaten_Manggarai_Timur.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Loa Janan Ilir"
+			"name": "Borong"
 		},
 		{
 			"id": 2,
-			"name": "Palaran"
+			"name": "Elar Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Samarinda Ilir"
+			"name": "Elar"
 		},
 		{
 			"id": 4,
-			"name": "Samarinda Kota"
+			"name": "Kota Komba"
 		},
 		{
 			"id": 5,
-			"name": "Samarinda Seberang"
+			"name": "Lamba Leda"
 		},
 		{
 			"id": 6,
-			"name": "Samarinda Ulu"
+			"name": "Poco Ranaka Timur"
 		},
 		{
 			"id": 7,
-			"name": "Samarinda Utara"
+			"name": "Poco Ranaka"
 		},
 		{
 			"id": 8,
-			"name": "Sambutan"
+			"name": "Rana Mese"
 		},
 		{
 			"id": 9,
-			"name": "Sungai Kunjang"
-		},
-		{
-			"id": 10,
-			"name": "Sungai Pinang"
+			"name": "Sambi Rampas"
 		}
 	]
 }

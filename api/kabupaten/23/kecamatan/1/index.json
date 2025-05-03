@@ -1,63 +1,83 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Berau",
-	"scraped_at": "2023-01-26T08:28:08.081Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Alor",
+	"scraped_at": "2025-05-03T17:32:01.406Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Berau",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Coat_of_arms_of_Berau_Regency.svg"
+		"name": "Kabupaten Alor",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Lambang_Kabupaten_Alor.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Batu Putih"
+			"name": "Abad Selatan"
 		},
 		{
 			"id": 2,
-			"name": "Biatan"
+			"name": "Alor Barat Daya"
 		},
 		{
 			"id": 3,
-			"name": "Biduk-Biduk"
+			"name": "Alor Barat Laut"
 		},
 		{
 			"id": 4,
-			"name": "Gunung Tabur"
+			"name": "Alor Selatan"
 		},
 		{
 			"id": 5,
-			"name": "Kelay"
+			"name": "Alor Tengah Utara"
 		},
 		{
 			"id": 6,
-			"name": "Maratua"
+			"name": "Alor Timur Laut"
 		},
 		{
 			"id": 7,
-			"name": "Pulau Derawan"
+			"name": "Alor Timur"
 		},
 		{
 			"id": 8,
-			"name": "Sambaliung"
+			"name": "Kabola"
 		},
 		{
 			"id": 9,
-			"name": "Segah"
+			"name": "Lembur"
 		},
 		{
 			"id": 10,
-			"name": "Tabalar"
+			"name": "Mataru"
 		},
 		{
 			"id": 11,
-			"name": "Talisayan"
+			"name": "Pantar Barat Laut"
 		},
 		{
 			"id": 12,
-			"name": "Tanjung Redeb"
+			"name": "Pantar Barat"
 		},
 		{
 			"id": 13,
-			"name": "Teluk Bayur"
+			"name": "Pantar Tengah"
+		},
+		{
+			"id": 14,
+			"name": "Pantar Timur"
+		},
+		{
+			"id": 15,
+			"name": "Pantar"
+		},
+		{
+			"id": 16,
+			"name": "Pulau Pura"
+		},
+		{
+			"id": 17,
+			"name": "Pureman"
+		},
+		{
+			"id": 18,
+			"name": "Teluk Mutiara"
 		}
 	]
 }

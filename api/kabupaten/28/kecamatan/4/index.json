@@ -1,39 +1,103 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Buton Tengah",
-	"scraped_at": "2023-01-26T08:29:23.594Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Merauke",
+	"scraped_at": "2025-05-03T17:33:22.183Z",
 	"kabupaten": {
 		"id": 4,
-		"name": "Kabupaten Buton Tengah",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Lambang_Kabupaten_Buton_Tengah.tif"
+		"name": "Kabupaten Merauke",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lambang_Kabupaten_Merauke.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Gu"
+			"name": "Merauke"
 		},
 		{
 			"id": 2,
-			"name": "Lakudo"
+			"name": "Bambu PemaliKamahedogaKamunduKarang IndahKelapa LimaMandalaMaroMuliRimba JayaSamkaiSeringgu Jaya"
 		},
 		{
 			"id": 3,
-			"name": "Mawasangka"
+			"name": "Muting"
 		},
 		{
 			"id": 4,
-			"name": "Mawasangka Tengah"
+			"name": "Okaba"
 		},
 		{
 			"id": 5,
-			"name": "Mawasangka Timur"
+			"name": "Kimaam"
 		},
 		{
 			"id": 6,
-			"name": "Sangia Wambulu"
+			"name": "Semangga"
 		},
 		{
 			"id": 7,
-			"name": "Talaga Raya"
+			"name": "Tanah Miring"
+		},
+		{
+			"id": 8,
+			"name": "Jagebob"
+		},
+		{
+			"id": 9,
+			"name": "Sota"
+		},
+		{
+			"id": 10,
+			"name": "Ulilin"
+		},
+		{
+			"id": 11,
+			"name": "Elikobal"
+		},
+		{
+			"id": 12,
+			"name": "Kurik"
+		},
+		{
+			"id": 13,
+			"name": "Naukenjerai"
+		},
+		{
+			"id": 14,
+			"name": "Animha"
+		},
+		{
+			"id": 15,
+			"name": "Malind"
+		},
+		{
+			"id": 16,
+			"name": "Tubang"
+		},
+		{
+			"id": 17,
+			"name": "Ngguti"
+		},
+		{
+			"id": 18,
+			"name": "Kaptel"
+		},
+		{
+			"id": 19,
+			"name": "Tabonji"
+		},
+		{
+			"id": 20,
+			"name": "Waan"
+		},
+		{
+			"id": 21,
+			"name": "Ilwayab"
+		},
+		{
+			"id": 22,
+			"name": "Padua"
+		},
+		{
+			"id": 23,
+			"name": "Kontuar"
 		}
 	]
 }

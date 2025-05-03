@@ -1,71 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Musi Banyuasin",
-	"scraped_at": "2023-01-26T08:24:13.148Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Administrasi Jakarta Timur",
+	"scraped_at": "2025-05-03T17:27:57.151Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Musi Banyuasin",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lambang_Kabupaten_Musi_Banyuasin.png"
+		"name": "Kota Administrasi Jakarta Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lambang_Kota_Jakarta_Timur.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Babat Supat"
+			"name": "Cakung"
 		},
 		{
 			"id": 2,
-			"name": "Babat Toman"
+			"name": "Cipayung"
 		},
 		{
 			"id": 3,
-			"name": "Batanghari Leko"
+			"name": "Ciracas"
 		},
 		{
 			"id": 4,
-			"name": "Bayung Lencir"
+			"name": "Duren Sawit"
 		},
 		{
 			"id": 5,
-			"name": "Jirak Jaya"
+			"name": "Jatinegara"
 		},
 		{
 			"id": 6,
-			"name": "Keluang"
+			"name": "Kramat Jati"
 		},
 		{
 			"id": 7,
-			"name": "Lais"
+			"name": "Makasar"
 		},
 		{
 			"id": 8,
-			"name": "Lalan"
+			"name": "Matraman"
 		},
 		{
 			"id": 9,
-			"name": "Lawang Wetan"
+			"name": "Pasar Rebo"
 		},
 		{
 			"id": 10,
-			"name": "Plakat Tinggi"
-		},
-		{
-			"id": 11,
-			"name": "Sanga Desa"
-		},
-		{
-			"id": 12,
-			"name": "Sekayu"
-		},
-		{
-			"id": 13,
-			"name": "Sungai Keruh"
-		},
-		{
-			"id": 14,
-			"name": "Sungai Lilin"
-		},
-		{
-			"id": 15,
-			"name": "Tungkal Jaya"
+			"name": "Pulo Gadung"
 		}
 	]
 }

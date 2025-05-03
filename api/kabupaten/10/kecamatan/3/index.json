@@ -1,51 +1,71 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Anambas",
-	"scraped_at": "2023-01-26T08:25:03.009Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Batang",
+	"scraped_at": "2025-05-03T17:28:48.717Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Kepulauan Anambas",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lambang_Kabupaten_Kepulauan_Anambas.jpg"
+		"name": "Kabupaten Batang",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Seal_of_Batang_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Jemaja Barat"
+			"name": "Bandar"
 		},
 		{
 			"id": 2,
-			"name": "Jemaja Timur"
+			"name": "Banyuputih"
 		},
 		{
 			"id": 3,
-			"name": "Jemaja"
+			"name": "Batang"
 		},
 		{
 			"id": 4,
-			"name": "Kute Siantan"
+			"name": "Bawang"
 		},
 		{
 			"id": 5,
-			"name": "Palmatak"
+			"name": "Blado"
 		},
 		{
 			"id": 6,
-			"name": "Siantan Selatan"
+			"name": "Gringsing"
 		},
 		{
 			"id": 7,
-			"name": "Siantan Tengah"
+			"name": "Kandeman"
 		},
 		{
 			"id": 8,
-			"name": "Siantan Timur"
+			"name": "Limpung"
 		},
 		{
 			"id": 9,
-			"name": "Siantan Utara"
+			"name": "Pecalungan"
 		},
 		{
 			"id": 10,
-			"name": "Siantan"
+			"name": "Reban"
+		},
+		{
+			"id": 11,
+			"name": "Subah"
+		},
+		{
+			"id": 12,
+			"name": "Tersono"
+		},
+		{
+			"id": 13,
+			"name": "Tulis"
+		},
+		{
+			"id": 14,
+			"name": "Warungasem"
+		},
+		{
+			"id": 15,
+			"name": "Wonotunggal"
 		}
 	]
 }

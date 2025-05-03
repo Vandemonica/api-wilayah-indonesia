@@ -1,79 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Brebes",
-	"scraped_at": "2023-01-26T08:25:44.616Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Hulu Sungai Utara",
+	"scraped_at": "2025-05-03T17:30:15.847Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Brebes",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Seal_of_Brebes_Regency.svg"
+		"name": "Kabupaten Hulu Sungai Utara",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lambang_Kabupaten_Hulu_Sungai_Utara.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Banjarharjo"
+			"name": "Amuntai Selatan"
 		},
 		{
 			"id": 2,
-			"name": "Bantarkawung"
+			"name": "Amuntai Tengah"
 		},
 		{
 			"id": 3,
-			"name": "Brebes"
+			"name": "Amuntai Utara"
 		},
 		{
 			"id": 4,
-			"name": "Bulakamba"
+			"name": "Babirik"
 		},
 		{
 			"id": 5,
-			"name": "Bumiayu"
+			"name": "Banjang"
 		},
 		{
 			"id": 6,
-			"name": "Jatibarang"
+			"name": "Danau Panggang"
 		},
 		{
 			"id": 7,
-			"name": "Kersana"
+			"name": "Haur Gading"
 		},
 		{
 			"id": 8,
-			"name": "Ketanggungan"
+			"name": "Paminggir"
 		},
 		{
 			"id": 9,
-			"name": "Larangan"
+			"name": "Sungai Pandan"
 		},
 		{
 			"id": 10,
-			"name": "Losari"
-		},
-		{
-			"id": 11,
-			"name": "Paguyangan"
-		},
-		{
-			"id": 12,
-			"name": "Salem"
-		},
-		{
-			"id": 13,
-			"name": "Sirampog"
-		},
-		{
-			"id": 14,
-			"name": "Songgom"
-		},
-		{
-			"id": 15,
-			"name": "Tanjung"
-		},
-		{
-			"id": 16,
-			"name": "Tonjong"
-		},
-		{
-			"id": 17,
-			"name": "Wanasari"
+			"name": "Sungai Tabukan"
 		}
 	]
 }

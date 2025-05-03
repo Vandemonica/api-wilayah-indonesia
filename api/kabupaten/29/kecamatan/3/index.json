@@ -1,87 +1,43 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Gorontalo",
-	"scraped_at": "2023-01-26T08:29:43.156Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Intan Jaya",
+	"scraped_at": "2025-05-03T17:33:26.045Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Gorontalo",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/88/LogoKabupatenGorontalo.jpg"
+		"name": "Kabupaten Intan Jaya",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Lambang_Kabupaten_Intan_Jaya.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Asparaga"
+			"name": "Sugapa"
 		},
 		{
 			"id": 2,
-			"name": "Batudaa Pantai"
+			"name": "Homeyo"
 		},
 		{
 			"id": 3,
-			"name": "Batudaa"
+			"name": "Wandai"
 		},
 		{
 			"id": 4,
-			"name": "Bilato"
+			"name": "Biandoga"
 		},
 		{
 			"id": 5,
-			"name": "Biluhu"
+			"name": "Agisiga"
 		},
 		{
 			"id": 6,
-			"name": "Boliyohuto"
+			"name": "Hitadipa"
 		},
 		{
 			"id": 7,
-			"name": "Bongomeme"
+			"name": "Ugimba"
 		},
 		{
 			"id": 8,
-			"name": "Dungaliyo"
-		},
-		{
-			"id": 9,
-			"name": "Limboto Barat"
-		},
-		{
-			"id": 10,
-			"name": "Limboto"
-		},
-		{
-			"id": 11,
-			"name": "Mootilango"
-		},
-		{
-			"id": 12,
-			"name": "Pulubala"
-		},
-		{
-			"id": 13,
-			"name": "Tabongo"
-		},
-		{
-			"id": 14,
-			"name": "Talaga Jaya"
-		},
-		{
-			"id": 15,
-			"name": "Telaga Biru"
-		},
-		{
-			"id": 16,
-			"name": "Telaga"
-		},
-		{
-			"id": 17,
-			"name": "Tibawa"
-		},
-		{
-			"id": 18,
-			"name": "Tilango"
-		},
-		{
-			"id": 19,
-			"name": "Tolangohula"
+			"name": "Tomosiga"
 		}
 	]
 }

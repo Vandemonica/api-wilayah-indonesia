@@ -1,71 +1,79 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bolaang Mongondow",
-	"scraped_at": "2023-01-26T08:28:22.780Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Fakfak",
+	"scraped_at": "2025-05-03T17:32:40.919Z",
 	"kabupaten": {
 		"id": 1,
-		"name": "Kabupaten Bolaang Mongondow",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lambang_Kabupaten_Bolaang_Mongondow.png"
+		"name": "Kabupaten Fakfak",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lambang_Kabupaten_Fak-fak.gif"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bilalang"
+			"name": "Arguni"
 		},
 		{
 			"id": 2,
-			"name": "Bolaang Timur"
+			"name": "Bomberay"
 		},
 		{
 			"id": 3,
-			"name": "Bolaang"
+			"name": "Fakfak"
 		},
 		{
 			"id": 4,
-			"name": "Dumoga Barat"
+			"name": "Fakfak Barat"
 		},
 		{
 			"id": 5,
-			"name": "Dumoga Tengah"
+			"name": "Fakfak Tengah"
 		},
 		{
 			"id": 6,
-			"name": "Dumoga Tenggara"
+			"name": "Fakfak Timur"
 		},
 		{
 			"id": 7,
-			"name": "Dumoga Timur"
+			"name": "Fakfak Timur Tengah"
 		},
 		{
 			"id": 8,
-			"name": "Dumoga Utara"
+			"name": "Furwagi"
 		},
 		{
 			"id": 9,
-			"name": "Dumoga"
+			"name": "Karas"
 		},
 		{
 			"id": 10,
-			"name": "Lolak"
+			"name": "Kayauni"
 		},
 		{
 			"id": 11,
-			"name": "Lolayan"
+			"name": "Kokas"
 		},
 		{
 			"id": 12,
-			"name": "Passi Barat"
+			"name": "Kramongmongga"
 		},
 		{
 			"id": 13,
-			"name": "Passi Timur"
+			"name": "Mbahamdandara"
 		},
 		{
 			"id": 14,
-			"name": "Poigar"
+			"name": "Pariwari"
 		},
 		{
 			"id": 15,
-			"name": "Sangtombolang"
+			"name": "Teluk Patipi"
+		},
+		{
+			"id": 16,
+			"name": "Tomage"
+		},
+		{
+			"id": 17,
+			"name": "Wartutin"
 		}
 	]
 }

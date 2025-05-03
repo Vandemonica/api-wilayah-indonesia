@@ -1,71 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Sangihe",
-	"scraped_at": "2023-01-26T08:28:28.906Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Pegunungan Arfak",
+	"scraped_at": "2025-05-03T17:32:44.796Z",
 	"kabupaten": {
 		"id": 5,
-		"name": "Kabupaten Kepulauan Sangihe",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lambang_Kabupaten_Kepulauan_Sangihe.jpeg"
+		"name": "Kabupaten Pegunungan Arfak",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Lambang_Kabupaten_Pegunungan_Arfak.webp"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kendahe"
+			"name": "Anggi"
 		},
 		{
 			"id": 2,
-			"name": "Kepulauan Marore"
+			"name": "Anggi Gida"
 		},
 		{
 			"id": 3,
-			"name": "Manganitu Selatan"
+			"name": "Catubouw"
 		},
 		{
 			"id": 4,
-			"name": "Manganitu"
+			"name": "Didohu"
 		},
 		{
 			"id": 5,
-			"name": "Nusa Tabukan"
+			"name": "Hingk"
 		},
 		{
 			"id": 6,
-			"name": "Tabukan Selatan Tengah"
+			"name": "Membey"
 		},
 		{
 			"id": 7,
-			"name": "Tabukan Selatan Tenggara"
+			"name": "Minyambouw"
 		},
 		{
 			"id": 8,
-			"name": "Tabukan Selatan"
+			"name": "Sururey"
 		},
 		{
 			"id": 9,
-			"name": "Tabukan Tengah"
+			"name": "Taige"
 		},
 		{
 			"id": 10,
-			"name": "Tabukan Utara"
-		},
-		{
-			"id": 11,
-			"name": "Tahuna Barat"
-		},
-		{
-			"id": 12,
-			"name": "Tahuna Timur"
-		},
-		{
-			"id": 13,
-			"name": "Tahuna"
-		},
-		{
-			"id": 14,
-			"name": "Tamako"
-		},
-		{
-			"id": 15,
-			"name": "Tatoareng"
+			"name": "Testega"
 		}
 	]
 }

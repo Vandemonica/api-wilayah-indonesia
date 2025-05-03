@@ -1,47 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Barito Utara",
-	"scraped_at": "2023-01-26T08:27:48.040Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Halmahera Tengah",
+	"scraped_at": "2025-05-03T17:31:42.757Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Barito Utara",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Lambang_Kabupaten_Barito_Utara.png"
+		"name": "Kabupaten Halmahera Tengah",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lambang_Kabupaten_Halmahera_Tengah.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Gunung Purei"
+			"name": "Patani Barat"
 		},
 		{
 			"id": 2,
-			"name": "Gunung Timang"
+			"name": "Patani Timur"
 		},
 		{
 			"id": 3,
-			"name": "Lahei Barat"
+			"name": "Patani Utara"
 		},
 		{
 			"id": 4,
-			"name": "Lahei"
+			"name": "Patani"
 		},
 		{
 			"id": 5,
-			"name": "Montallat"
+			"name": "Pulau Gebe"
 		},
 		{
 			"id": 6,
-			"name": "Teweh Baru"
+			"name": "Weda Selatan"
 		},
 		{
 			"id": 7,
-			"name": "Teweh Selatan"
+			"name": "Weda Tengah"
 		},
 		{
 			"id": 8,
-			"name": "Teweh Tengah"
+			"name": "Weda Timur"
 		},
 		{
 			"id": 9,
-			"name": "Teweh Timur"
+			"name": "Weda Utara"
+		},
+		{
+			"id": 10,
+			"name": "Weda"
 		}
 	]
 }

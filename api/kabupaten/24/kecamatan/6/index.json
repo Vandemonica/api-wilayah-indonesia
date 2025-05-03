@@ -1,0 +1,55 @@
+{
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Sarmi",
+	"scraped_at": "2025-05-03T17:32:34.153Z",
+	"kabupaten": {
+		"id": 6,
+		"name": "Kabupaten Sarmi",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Lambang_Kabupaten_Sarmi.png"
+	},
+	"data": [
+		{
+			"id": 1,
+			"name": "Sarmi"
+		},
+		{
+			"id": 2,
+			"name": "MararenaSarmi Kota"
+		},
+		{
+			"id": 3,
+			"name": "Tor Atas"
+		},
+		{
+			"id": 4,
+			"name": "Pantai Barat"
+		},
+		{
+			"id": 5,
+			"name": "Pantai Timur"
+		},
+		{
+			"id": 6,
+			"name": "Bonggo"
+		},
+		{
+			"id": 7,
+			"name": "Apawer Hulu"
+		},
+		{
+			"id": 8,
+			"name": "Sarmi Selatan"
+		},
+		{
+			"id": 9,
+			"name": "Sarmi Timur"
+		},
+		{
+			"id": 10,
+			"name": "Pantai Timur Bagian Barat"
+		},
+		{
+			"id": 11,
+			"name": "Bonggo Timur"
+		}
+	]
+}

@@ -1,39 +1,31 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sekadau",
-	"scraped_at": "2023-01-26T08:27:41.995Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tual",
+	"scraped_at": "2025-05-03T17:31:39.544Z",
 	"kabupaten": {
 		"id": 11,
-		"name": "Kabupaten Sekadau",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lambang_Kabupaten_Sekadau.jpg"
+		"name": "Kota Tual",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_kota_tual.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Belitang Hilir"
+			"name": "Kur Selatan"
 		},
 		{
 			"id": 2,
-			"name": "Belitang Hulu"
+			"name": "Pulau Dullah Selatan"
 		},
 		{
 			"id": 3,
-			"name": "Belitang"
+			"name": "Pulau Dullah Utara"
 		},
 		{
 			"id": 4,
-			"name": "Nanga Mahap"
+			"name": "Pulau-Pulau Kur"
 		},
 		{
 			"id": 5,
-			"name": "Nanga Taman"
-		},
-		{
-			"id": 6,
-			"name": "Sekadau Hilir"
-		},
-		{
-			"id": 7,
-			"name": "Sekadau Hulu"
+			"name": "Tayando Tam"
 		}
 	]
 }

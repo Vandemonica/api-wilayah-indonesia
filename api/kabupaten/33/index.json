@@ -1,65 +1,89 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Papua",
-	"scraped_at": "2023-01-26T08:30:15.389Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sulawesi_Tengah",
+	"scraped_at": "2025-05-03T17:34:22.839Z",
 	"provinsi": {
 		"id": 33,
-		"code": "91",
-		"name": "Papua",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Coat_of_arms_of_Papua_2.svg"
+		"code": "72",
+		"name": "Sulawesi Tengah",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/46/Coat_of_arms_of_Central_Sulawesi.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Kabupaten Biak Numfor",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Lambang_Kabupaten_Biak_Numfor.png",
-			"capital": "Biak"
+			"name": "Kabupaten Banggai",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lambang_Kabupaten_Banggai.tif",
+			"capital": "Luwuk"
 		},
 		{
 			"id": 2,
-			"name": "Kabupaten Jayapura",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lambang_Kabupaten_Jayapura.jpeg",
-			"capital": "Sentani"
+			"name": "Kabupaten Banggai Kepulauan",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Lambang_Kabupaten_Banggai_Kepulauan.tif",
+			"capital": "Salakan"
 		},
 		{
 			"id": 3,
-			"name": "Kabupaten Keerom",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lambang_Kabupaten_Keerom.jpeg",
-			"capital": "Arso (de facto)\nWaris (de jure)"
+			"name": "Kabupaten Banggai Laut",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lambang_Kabupaten_Banggai_Laut.tif",
+			"capital": "Banggai"
 		},
 		{
 			"id": 4,
-			"name": "Kabupaten Kepulauan Yapen",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Lambang_Kabupaten_Kepulauan_Yapen%2C_Papua.jpg",
-			"capital": "Serui Kota"
+			"name": "Kabupaten Buol",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Coat_of_arms_of_Buol_Regency.png",
+			"capital": "Buol"
 		},
 		{
 			"id": 5,
-			"name": "Kabupaten Mamberamo Raya",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lambang_Kabupaten_Mamberamo_Raya%2C_Papua.jpg",
-			"capital": "Burmeso"
+			"name": "Kabupaten Donggala",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lambang_Kabupaten_Donggala_%282015-sekarang%29.png",
+			"capital": "Banawa"
 		},
 		{
 			"id": 6,
-			"name": "Kabupaten Sarmi",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Lambang_Kabupaten_Sarmi.png",
-			"capital": "Sarmi"
+			"name": "Kabupaten Morowali",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lambang_Kabupaten_Morowali_%282015-sekarang%29.png",
+			"capital": "Bungku Tengah"
 		},
 		{
 			"id": 7,
-			"name": "Kabupaten Supiori",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Lambang_Kabupaten_Supiori.png",
-			"capital": "Sorendiweri"
+			"name": "Kabupaten Morowali Utara",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Lambang_Kabupaten_Morowali_Utara.png",
+			"capital": "Kolonodale"
 		},
 		{
 			"id": 8,
-			"name": "Kabupaten Waropen",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Lambang_Kabupaten_Waropen%2C_Papua.jpg",
-			"capital": "Botawa"
+			"name": "Kabupaten Parigi Moutong",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lambang_Kabupaten_Parigi_Moutong.png",
+			"capital": "Parigi"
 		},
 		{
 			"id": 9,
-			"name": "Kota Jayapura",
-			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lambang_Kota_Jayapura.jpeg",
+			"name": "Kabupaten Poso",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lambang_Kabupaten_Poso.png",
+			"capital": "Poso"
+		},
+		{
+			"id": 10,
+			"name": "Kabupaten Sigi",
+			"emblem": "https://upload.wikimedia.org/wikipedia/id/5/58/Lambang_Kabupaten_Sigi.png",
+			"capital": "Sigi Biromaru"
+		},
+		{
+			"id": 11,
+			"name": "Kabupaten Tojo Una-Una",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lambang_Kabupaten_Tojo_Una-Una.png",
+			"capital": "Ampana Kota"
+		},
+		{
+			"id": 12,
+			"name": "Kabupaten Tolitoli",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lambang_Kabupaten_Tolitoli.png",
+			"capital": "Baolan"
+		},
+		{
+			"id": 13,
+			"name": "Kota Palu",
+			"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lambang_Kota_Palu.png",
 			"capital": "-"
 		}
 	]

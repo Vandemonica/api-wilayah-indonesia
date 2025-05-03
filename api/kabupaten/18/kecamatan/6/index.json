@@ -1,31 +1,59 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Lombok Utara",
-	"scraped_at": "2023-01-26T08:27:11.074Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Batam",
+	"scraped_at": "2025-05-03T17:31:15.930Z",
 	"kabupaten": {
 		"id": 6,
-		"name": "Kabupaten Lombok Utara",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Seal_of_Lombok_Utara_Regency.svg"
+		"name": "Kota Batam",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lambang_Kota_Batam.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bayan"
+			"name": "Batam Kota"
 		},
 		{
 			"id": 2,
-			"name": "Gangga"
+			"name": "Batu Aji"
 		},
 		{
 			"id": 3,
-			"name": "Kayangan"
+			"name": "Batu Ampar"
 		},
 		{
 			"id": 4,
-			"name": "Pemenang"
+			"name": "Belakang Padang"
 		},
 		{
 			"id": 5,
-			"name": "Tanjung"
+			"name": "Bengkong"
+		},
+		{
+			"id": 6,
+			"name": "Bulang"
+		},
+		{
+			"id": 7,
+			"name": "Galang"
+		},
+		{
+			"id": 8,
+			"name": "Lubuk Baja"
+		},
+		{
+			"id": 9,
+			"name": "Nongsa"
+		},
+		{
+			"id": 10,
+			"name": "Sagulung"
+		},
+		{
+			"id": 11,
+			"name": "Sei Beduk"
+		},
+		{
+			"id": 12,
+			"name": "Sekupang"
 		}
 	]
 }

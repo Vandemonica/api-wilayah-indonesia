@@ -1,43 +1,51 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Intan Jaya",
-	"scraped_at": "2023-01-26T08:30:44.509Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kepulauan Mentawai",
+	"scraped_at": "2025-05-03T17:35:18.837Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Intan Jaya",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Lambang_Kabupaten_Intan_Jaya.png"
+		"name": "Kabupaten Kepulauan Mentawai",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_Mentawai.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Sugapa"
+			"name": "Pagai Selatan"
 		},
 		{
 			"id": 2,
-			"name": "Homeyo"
+			"name": "Pagai Utara"
 		},
 		{
 			"id": 3,
-			"name": "Wandai"
+			"name": "Siberut Barat Daya"
 		},
 		{
 			"id": 4,
-			"name": "Biandoga"
+			"name": "Siberut Barat"
 		},
 		{
 			"id": 5,
-			"name": "Agisiga"
+			"name": "Siberut Selatan"
 		},
 		{
 			"id": 6,
-			"name": "Hitadipa"
+			"name": "Siberut Tengah"
 		},
 		{
 			"id": 7,
-			"name": "Ugimba"
+			"name": "Siberut Utara"
 		},
 		{
 			"id": 8,
-			"name": "Tomosiga"
+			"name": "Sikakap"
+		},
+		{
+			"id": 9,
+			"name": "Sipora Selatan"
+		},
+		{
+			"id": 10,
+			"name": "Sipora Utara"
 		}
 	]
 }

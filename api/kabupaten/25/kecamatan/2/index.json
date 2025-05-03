@@ -1,47 +1,39 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Bolaang Mongondow Selatan",
-	"scraped_at": "2023-01-26T08:28:24.078Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Kaimana",
+	"scraped_at": "2025-05-03T17:32:41.634Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Bolaang Mongondow Selatan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo_Kab._Bolsel.jpg"
+		"name": "Kabupaten Kaimana",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Lambang_Kabupaten_Kaimana.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bolaang Uki"
+			"name": "Buruway"
 		},
 		{
 			"id": 2,
-			"name": "Helumo"
+			"name": "Kaimana"
 		},
 		{
 			"id": 3,
-			"name": "Modisi"
+			"name": "Kambrauw"
 		},
 		{
 			"id": 4,
-			"name": "Modisi"
+			"name": "Teluk Arguni Atas"
 		},
 		{
 			"id": 5,
-			"name": "Pinolosian Tengah"
+			"name": "Teluk Arguni Bawah"
 		},
 		{
 			"id": 6,
-			"name": "Pinolosian Timur"
+			"name": "Teluk Etna"
 		},
 		{
 			"id": 7,
-			"name": "Pinolosian"
-		},
-		{
-			"id": 8,
-			"name": "Posigadan"
-		},
-		{
-			"id": 9,
-			"name": "Tomini"
+			"name": "Yamor"
 		}
 	]
 }

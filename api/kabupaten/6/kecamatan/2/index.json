@@ -1,51 +1,43 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Empat Lawang",
-	"scraped_at": "2023-01-26T08:24:10.493Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Administrasi Jakarta Barat",
+	"scraped_at": "2025-05-03T17:27:54.799Z",
 	"kabupaten": {
 		"id": 2,
-		"name": "Kabupaten Empat Lawang",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lambang_Empat_Lawang.png"
+		"name": "Kota Administrasi Jakarta Barat",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Seal_of_West_Jakarta.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Lintang Kanan"
+			"name": "Cengkareng"
 		},
 		{
 			"id": 2,
-			"name": "Muara Pinang"
+			"name": "Grogol Petamburan"
 		},
 		{
 			"id": 3,
-			"name": "Pasemah Air Keruh"
+			"name": "Kalideres"
 		},
 		{
 			"id": 4,
-			"name": "Pendopo Barat"
+			"name": "Kebon Jeruk"
 		},
 		{
 			"id": 5,
-			"name": "Pendopo"
+			"name": "Kembangan"
 		},
 		{
 			"id": 6,
-			"name": "Saling"
+			"name": "Palmerah"
 		},
 		{
 			"id": 7,
-			"name": "Sikap Dalam"
+			"name": "Taman Sari"
 		},
 		{
 			"id": 8,
-			"name": "Talang Padang"
-		},
-		{
-			"id": 9,
-			"name": "Tebing Tinggi"
-		},
-		{
-			"id": 10,
-			"name": "Ulu Musi"
+			"name": "Tambora"
 		}
 	]
 }

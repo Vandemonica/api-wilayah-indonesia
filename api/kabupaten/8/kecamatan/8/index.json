@@ -1,55 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pesisir Barat",
-	"scraped_at": "2023-01-26T08:24:43.816Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Tanjung Jabung Timur",
+	"scraped_at": "2025-05-03T17:28:12.629Z",
 	"kabupaten": {
 		"id": 8,
-		"name": "Kabupaten Pesisir Barat",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Lambang_Kabupaten_Pesisir_Barat.png"
+		"name": "Kabupaten Tanjung Jabung Timur",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_Tanjung_Jabung_Timur.jpg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bangkunat"
+			"name": "Berbak"
 		},
 		{
 			"id": 2,
-			"name": "Karya Penggawa"
+			"name": "Dendang"
 		},
 		{
 			"id": 3,
-			"name": "Krui Selatan"
+			"name": "Geragai"
 		},
 		{
 			"id": 4,
-			"name": "Lemong"
+			"name": "Kuala Jambi"
 		},
 		{
 			"id": 5,
-			"name": "Ngambur"
+			"name": "Mendahara Ulu"
 		},
 		{
 			"id": 6,
-			"name": "Ngaras"
+			"name": "Mendahara"
 		},
 		{
 			"id": 7,
-			"name": "Pesisir Selatan"
+			"name": "Muara Sabak Barat"
 		},
 		{
 			"id": 8,
-			"name": "Pesisir Tengah"
+			"name": "Muara Sabak Timur"
 		},
 		{
 			"id": 9,
-			"name": "Pesisir Utara"
+			"name": "Nipah Panjang"
 		},
 		{
 			"id": 10,
-			"name": "Pulau Pisang"
+			"name": "Rantau Rasau"
 		},
 		{
 			"id": 11,
-			"name": "Way Krui"
+			"name": "Sadu"
 		}
 	]
 }

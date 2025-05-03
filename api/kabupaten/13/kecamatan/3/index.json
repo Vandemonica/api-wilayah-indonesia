@@ -1,71 +1,79 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Batang",
-	"scraped_at": "2023-01-26T08:25:42.095Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Barito Kuala",
+	"scraped_at": "2025-05-03T17:30:07.659Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Batang",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Seal_of_Batang_Regency.svg"
+		"name": "Kabupaten Barito Kuala",
+		"emblem": "https://upload.wikimedia.org/wikipedia/id/b/bc/Lambang_Kabupaten_Barito_Kuala.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Bandar"
+			"name": "Alalak"
 		},
 		{
 			"id": 2,
-			"name": "Banyuputih"
+			"name": "Anjir Muara"
 		},
 		{
 			"id": 3,
-			"name": "Batang"
+			"name": "Anjir Pasar"
 		},
 		{
 			"id": 4,
-			"name": "Bawang"
+			"name": "Bakumpai"
 		},
 		{
 			"id": 5,
-			"name": "Blado"
+			"name": "Barambai"
 		},
 		{
 			"id": 6,
-			"name": "Gringsing"
+			"name": "Belawang"
 		},
 		{
 			"id": 7,
-			"name": "Kandeman"
+			"name": "Cerbon"
 		},
 		{
 			"id": 8,
-			"name": "Limpung"
+			"name": "Jejangkit"
 		},
 		{
 			"id": 9,
-			"name": "Pecalungan"
+			"name": "Kuripan"
 		},
 		{
 			"id": 10,
-			"name": "Reban"
+			"name": "Mandastana"
 		},
 		{
 			"id": 11,
-			"name": "Subah"
+			"name": "Marabahan"
 		},
 		{
 			"id": 12,
-			"name": "Tersono"
+			"name": "Mekarsari"
 		},
 		{
 			"id": 13,
-			"name": "Tulis"
+			"name": "Rantau Badauh"
 		},
 		{
 			"id": 14,
-			"name": "Warungasem"
+			"name": "Tabukan"
 		},
 		{
 			"id": 15,
-			"name": "Wonotunggal"
+			"name": "Tabunganen"
+		},
+		{
+			"id": 16,
+			"name": "Tamban"
+		},
+		{
+			"id": 17,
+			"name": "Wanaraya"
 		}
 	]
 }

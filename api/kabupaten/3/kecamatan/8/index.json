@@ -1,71 +1,39 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Pesisir Selatan",
-	"scraped_at": "2023-01-26T08:23:30.584Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kota_Tangerang Selatan",
+	"scraped_at": "2025-05-03T17:27:17.012Z",
 	"kabupaten": {
 		"id": 8,
-		"name": "Kabupaten Pesisir Selatan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Coat_of_arms_of_Pesisir_Selatan_Regency.svg"
+		"name": "Kota Tangerang Selatan",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lambang_Kota_Tangerang_Selatan.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Airpura"
+			"name": "Ciputat Timur"
 		},
 		{
 			"id": 2,
-			"name": "Basa Ampek Balai Tapan"
+			"name": "Ciputat"
 		},
 		{
 			"id": 3,
-			"name": "Batang Kapas"
+			"name": "Pamulang"
 		},
 		{
 			"id": 4,
-			"name": "Bayang"
+			"name": "Pondok Aren"
 		},
 		{
 			"id": 5,
-			"name": "IV Jurai"
+			"name": "Serpong Utara"
 		},
 		{
 			"id": 6,
-			"name": "IV Nagari Bayang Utara"
+			"name": "Serpong"
 		},
 		{
 			"id": 7,
-			"name": "Koto XI Tarusan"
-		},
-		{
-			"id": 8,
-			"name": "Lengayang"
-		},
-		{
-			"id": 9,
-			"name": "Linggo Sari Baganti"
-		},
-		{
-			"id": 10,
-			"name": "Lunang"
-		},
-		{
-			"id": 11,
-			"name": "Pancung Soal"
-		},
-		{
-			"id": 12,
-			"name": "Ranah Ampek Hulu Tapan"
-		},
-		{
-			"id": 13,
-			"name": "Ranah Pesisir"
-		},
-		{
-			"id": 14,
-			"name": "Silaut"
-		},
-		{
-			"id": 15,
-			"name": "Sutera"
+			"name": "Setu"
 		}
 	]
 }

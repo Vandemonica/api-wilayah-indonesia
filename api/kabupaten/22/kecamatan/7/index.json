@@ -1,99 +1,107 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kotabaru",
-	"scraped_at": "2023-01-26T08:28:02.181Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Sumbawa",
+	"scraped_at": "2025-05-03T17:31:54.864Z",
 	"kabupaten": {
 		"id": 7,
-		"name": "Kabupaten Kotabaru",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lambang_Kabupaten_Kotabaru.png"
+		"name": "Kabupaten Sumbawa",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lambang_Kabupaten_Sumbawa.png"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Hampang"
+			"name": "Alas Barat"
 		},
 		{
 			"id": 2,
-			"name": "Kelumpang Barat"
+			"name": "Alas"
 		},
 		{
 			"id": 3,
-			"name": "Kelumpang Hilir"
+			"name": "Batu Lanteh"
 		},
 		{
 			"id": 4,
-			"name": "Kelumpang Hulu"
+			"name": "Buer"
 		},
 		{
 			"id": 5,
-			"name": "Kelumpang Selatan"
+			"name": "Empang"
 		},
 		{
 			"id": 6,
-			"name": "Kelumpang Tengah"
+			"name": "Labangka"
 		},
 		{
 			"id": 7,
-			"name": "Kelumpang Utara"
+			"name": "Labuhan Badas"
 		},
 		{
 			"id": 8,
-			"name": "Pamukan Barat"
+			"name": "Lantung"
 		},
 		{
 			"id": 9,
-			"name": "Pamukan Selatan"
+			"name": "Lape"
 		},
 		{
 			"id": 10,
-			"name": "Pamukan Utara"
+			"name": "Lenangguar"
 		},
 		{
 			"id": 11,
-			"name": "Pulau Laut Barat"
+			"name": "Lopok"
 		},
 		{
 			"id": 12,
-			"name": "Pulau Laut Kepulauan"
+			"name": "Lunyuk"
 		},
 		{
 			"id": 13,
-			"name": "Pulau Laut Selatan"
+			"name": "Maronge"
 		},
 		{
 			"id": 14,
-			"name": "Pulau Laut Sigam"
+			"name": "Moyo Hilir"
 		},
 		{
 			"id": 15,
-			"name": "Pulau Laut Tanjung Selayar"
+			"name": "Moyo Hulu"
 		},
 		{
 			"id": 16,
-			"name": "Pulau Laut Tengah"
+			"name": "Moyo Utara"
 		},
 		{
 			"id": 17,
-			"name": "Pulau Laut Timur"
+			"name": "Orong Telu"
 		},
 		{
 			"id": 18,
-			"name": "Pulau Laut Utara"
+			"name": "Plampang"
 		},
 		{
 			"id": 19,
-			"name": "Pulau Sebuku"
+			"name": "Rhee"
 		},
 		{
 			"id": 20,
-			"name": "Pulau Sembilan"
+			"name": "Ropang"
 		},
 		{
 			"id": 21,
-			"name": "Sampanahan"
+			"name": "Sumbawa"
 		},
 		{
 			"id": 22,
-			"name": "Sungai Durian"
+			"name": "Tarano"
+		},
+		{
+			"id": 23,
+			"name": "Unter Iwes"
+		},
+		{
+			"id": 24,
+			"name": "Utan"
 		}
 	]
 }

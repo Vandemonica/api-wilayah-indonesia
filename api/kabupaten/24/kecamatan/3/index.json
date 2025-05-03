@@ -1,95 +1,55 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Nunukan",
-	"scraped_at": "2023-01-26T08:28:18.642Z",
+	"source": "https://id.wikipedia.org/wiki/Daftar_distrik_dan_kampung_di_Kabupaten_Keerom",
+	"scraped_at": "2025-05-03T17:32:30.656Z",
 	"kabupaten": {
 		"id": 3,
-		"name": "Kabupaten Nunukan",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lambang_Kabupaten_Nunukan.jpg"
+		"name": "Kabupaten Keerom",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lambang_Kabupaten_Keerom.jpeg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Krayan Barat"
+			"name": "Waris"
 		},
 		{
 			"id": 2,
-			"name": "Krayan Selatan"
+			"name": "Arso"
 		},
 		{
 			"id": 3,
-			"name": "Krayan Tengah"
+			"name": "Senggi"
 		},
 		{
 			"id": 4,
-			"name": "Krayan Timur"
+			"name": "Web"
 		},
 		{
 			"id": 5,
-			"name": "Krayan"
+			"name": "Skanto"
 		},
 		{
 			"id": 6,
-			"name": "Lumbis Hulu"
+			"name": "Arso Timur"
 		},
 		{
 			"id": 7,
-			"name": "Lumbis Ogong"
+			"name": "Towe"
 		},
 		{
 			"id": 8,
-			"name": "Lumbis Pansiangan"
+			"name": "Arso Barat"
 		},
 		{
 			"id": 9,
-			"name": "Lumbis"
+			"name": "Mannem"
 		},
 		{
 			"id": 10,
-			"name": "Nunukan Selatan"
+			"name": "Yaffi"
 		},
 		{
 			"id": 11,
-			"name": "Nunukan"
-		},
-		{
-			"id": 12,
-			"name": "Sebatik Barat"
-		},
-		{
-			"id": 13,
-			"name": "Sebatik Tengah"
-		},
-		{
-			"id": 14,
-			"name": "Sebatik Timur"
-		},
-		{
-			"id": 15,
-			"name": "Sebatik Utara"
-		},
-		{
-			"id": 16,
-			"name": "Sebatik"
-		},
-		{
-			"id": 17,
-			"name": "Sebuku"
-		},
-		{
-			"id": 18,
-			"name": "Sei Menggaris"
-		},
-		{
-			"id": 19,
-			"name": "Sembakung Atulai"
-		},
-		{
-			"id": 20,
-			"name": "Sembakung"
-		},
-		{
-			"id": 21,
-			"name": "Tulin Onsoi"
+			"name": "Kaisenar"
 		}
 	]
 }

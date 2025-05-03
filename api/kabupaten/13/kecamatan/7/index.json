@@ -1,107 +1,99 @@
 {
-	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Cilacap",
-	"scraped_at": "2023-01-26T08:25:45.032Z",
+	"source": "https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_Kabupaten_Kotabaru",
+	"scraped_at": "2025-05-03T17:30:20.092Z",
 	"kabupaten": {
 		"id": 7,
-		"name": "Kabupaten Cilacap",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Seal_of_Cilacap_Regency.svg"
+		"name": "Kabupaten Kotabaru",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Coats_of_arms_of_Kotabaru_Regency.svg"
 	},
 	"data": [
 		{
 			"id": 1,
-			"name": "Adipala"
+			"name": "Hampang"
 		},
 		{
 			"id": 2,
-			"name": "Bantarsari"
+			"name": "Kelumpang Barat"
 		},
 		{
 			"id": 3,
-			"name": "Binangun"
+			"name": "Kelumpang Hilir"
 		},
 		{
 			"id": 4,
-			"name": "Cilacap Selatan"
+			"name": "Kelumpang Hulu"
 		},
 		{
 			"id": 5,
-			"name": "Cilacap Tengah"
+			"name": "Kelumpang Selatan"
 		},
 		{
 			"id": 6,
-			"name": "Cilacap Utara"
+			"name": "Kelumpang Tengah"
 		},
 		{
 			"id": 7,
-			"name": "Cimanggu"
+			"name": "Kelumpang Utara"
 		},
 		{
 			"id": 8,
-			"name": "Cipari"
+			"name": "Pamukan Barat"
 		},
 		{
 			"id": 9,
-			"name": "Dayeuhluhur"
+			"name": "Pamukan Selatan"
 		},
 		{
 			"id": 10,
-			"name": "Gandrungmangu"
+			"name": "Pamukan Utara"
 		},
 		{
 			"id": 11,
-			"name": "Jeruklegi"
+			"name": "Pulau Laut Barat"
 		},
 		{
 			"id": 12,
-			"name": "Kampung Laut"
+			"name": "Pulau Laut Kepulauan"
 		},
 		{
 			"id": 13,
-			"name": "Karangpucung"
+			"name": "Pulau Laut Selatan"
 		},
 		{
 			"id": 14,
-			"name": "Kawunganten"
+			"name": "Pulau Laut Sigam"
 		},
 		{
 			"id": 15,
-			"name": "Kedungreja"
+			"name": "Pulau Laut Tanjung Selayar"
 		},
 		{
 			"id": 16,
-			"name": "Kesugihan"
+			"name": "Pulau Laut Tengah"
 		},
 		{
 			"id": 17,
-			"name": "Kroya"
+			"name": "Pulau Laut Timur"
 		},
 		{
 			"id": 18,
-			"name": "Majenang"
+			"name": "Pulau Laut Utara"
 		},
 		{
 			"id": 19,
-			"name": "Maos"
+			"name": "Pulau Sebuku"
 		},
 		{
 			"id": 20,
-			"name": "Nusawungu"
+			"name": "Pulau Sembilan"
 		},
 		{
 			"id": 21,
-			"name": "Patimuan"
+			"name": "Sampanahan"
 		},
 		{
 			"id": 22,
-			"name": "Sampang"
-		},
-		{
-			"id": 23,
-			"name": "Sidareja"
-		},
-		{
-			"id": 24,
-			"name": "Wanareja"
+			"name": "Sungai Durian"
 		}
 	]
 }

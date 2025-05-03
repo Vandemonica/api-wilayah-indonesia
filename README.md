@@ -4,24 +4,24 @@
 
 
 ## **About**
-Web scrape daftar nama wilayah administratif 38 provinsi beserta kabupaten dan kecamatan yang ada di Indonesia. Data bersumber dari halaman wikipedia
+Web scraper daftar nama wilayah administratif 38 provinsi beserta kabupaten dan kecamatan yang ada di Indonesia. Data bersumber dari halaman wikipedia
 
 Bebas untuk fork dan hosting sebagai github pages pribadi.
 
 * * *
 
 ## **Installation**
-`
+```bash
 git clone https://github.com/Vandemonica/api-wilayah-indonesia.git
-`
+```
 
-`
+```bash
 npm install
-`
+```
 
-`
+```bash
 npm run start
-`
+```
 
 
 
@@ -45,7 +45,7 @@ https://vandemonica.github.io/api-wilayah-indonesia/api
 
 **Example:**
 
-https://vandemonica.github.io/api-wilayah-indonesia/api/kabupaten/15
+https://vandemonica.github.io/api-wilayah-indonesia/api/kabupaten/11
 
 
 
@@ -57,7 +57,7 @@ https://vandemonica.github.io/api-wilayah-indonesia/api/kabupaten/15
 
 **Example:**
 
-https://vandemonica.github.io/api-wilayah-indonesia/api/kabupaten/15/kecamatan/38/
+https://vandemonica.github.io/api-wilayah-indonesia/api/kabupaten/11/kecamatan/38/
 
 
 

@@ -6,9 +6,16 @@
 
 const fs = require('fs');
 
+const corrections = {
+  'Kota Tanjungpinang': 'Kota Tanjung Pinang',
+  'Kota Lubuk Linggau': 'Kota Lubuklinggau',
+  'Kota Pagaralam': 'Kota Pagar Alam'
+};
 
 async function fetchKecamatan(page, region, provinceId, index) {
-  const url = 'https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_' + region.name.replace(' ', '_');
+  const regionName = corrections[region.name] ? corrections[region.name] : region.name;
+
+  const url = 'https://id.wikipedia.org/wiki/Kategori:Kecamatan_di_' + regionName.replace(' ', '_');
   const selector = '.CategoryTreeItem';
 
   const dir = `./api/kabupaten/${provinceId}/kecamatan/${index}`;
@@ -33,7 +40,7 @@ async function fetchKecamatan(page, region, provinceId, index) {
     scraped_at: new Date(),
     kabupaten: {
       id: region.id,
-      name: region.name,
+      name: regionName,
       emblem: region.emblem
     },
     data: district
@@ -44,7 +51,7 @@ async function fetchKecamatan(page, region, provinceId, index) {
   }
 
   fs.writeFile(filename, JSON.stringify(result, null, "\t"), function() {
-    console.log(`Saved ${region.name}!`);
+    console.log(`Saved ${regionName}!`);
   });
 
   return result;
